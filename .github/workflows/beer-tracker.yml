@@ -1,0 +1,62 @@
+name: Daily Beer List Tracker
+
+on:
+  schedule:
+    # Run daily at noon EST (17:00 UTC)
+    - cron: '0 17 * * *'
+  workflow_dispatch:  # Allow manual triggering
+
+env:
+  GOOGLE_SHEET_URL: https://docs.google.com/spreadsheets/d/1ARnESQvHEPP5ltYGtlQmrZsn-MLLxPgh-KS_IhqfvTM/edit?gid=0#gid=0
+
+jobs:
+  track-beers:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+
+    - name: Cache Python dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run beer tracking
+      run: python run_tracker.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+
+        # Add any changes to the database
+        git add beer_tracking.duckdb
+
+        # Check if there are changes to commit
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "🍺 Daily beer list update - $(date +'%Y-%m-%d %H:%M')"
+          git push
+        fi
+
+    - name: Upload tracking data as artifact (backup)
+      uses: actions/upload-artifact@v3
+      with:
+        name: beer-tracking-data
+        path: beer_tracking.duckdb
+        retention-days: 30

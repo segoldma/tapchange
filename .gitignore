@@ -1,0 +1,17 @@
+# Python virtual environment
+env/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+
+# Dagster storage
+dagster_home/
+.tmp_dagster_home_*/
+
+# Claude Code
+CLAUDE.md
+
+# Note: beer_tracking.duckdb is intentionally tracked for GitHub Actions automation
