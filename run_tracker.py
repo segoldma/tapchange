@@ -7,6 +7,7 @@ Runs the Dagster assets using proper materialization.
 import os
 from dagster import materialize
 from tapchange.assets import current_beer_list, beer_list_snapshot, beer_list_changes
+from markdown_output import generate_markdown_output
 
 def run_beer_tracking():
     """Run all beer tracking assets in sequence using Dagster materialization."""
@@ -42,6 +43,13 @@ def run_beer_tracking():
             changes_result = result.asset_materializations_for_node("beer_list_changes")
             if changes_result:
                 print("🔍 Changes detected and logged to database")
+
+            # Generate markdown report
+            print("📄 Generating markdown report...")
+            if generate_markdown_output("latest_output.md"):
+                print("✅ Markdown report generated successfully!")
+            else:
+                print("⚠️  Warning: Failed to generate markdown report")
 
             return True
         else:

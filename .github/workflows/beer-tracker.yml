@@ -45,8 +45,8 @@ jobs:
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
 
-        # Add any changes to the database
-        git add beer_tracking.duckdb
+        # Add any changes to the database and markdown report
+        git add beer_tracking.duckdb latest_output.md
 
         # Check if there are changes to commit
         if git diff --staged --quiet; then
