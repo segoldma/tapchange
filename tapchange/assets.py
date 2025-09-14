@@ -149,18 +149,25 @@ def beer_list_changes(context: AssetExecutionContext, beer_list_snapshot: Dict[s
             import json
             previous_data = json.loads(previous_data)
 
-        current_beers = set(str(beer) for beer in beer_list_snapshot["beers"])
-        previous_beers = set(str(beer) for beer in previous_data["beers"])
+        import json
 
-        # Find additions and removals
-        added = current_beers - previous_beers
-        removed = previous_beers - current_beers
+        # Create comparable representations using JSON strings for set operations
+        current_beer_strs = set(json.dumps(beer, sort_keys=True) for beer in beer_list_snapshot["beers"])
+        previous_beer_strs = set(json.dumps(beer, sort_keys=True) for beer in previous_data["beers"])
 
-        changes["added_beers"] = list(added)
-        changes["removed_beers"] = list(removed)
-        changes["total_changes"] = len(added) + len(removed)
+        # Find additions and removals using JSON string comparison
+        added_strs = current_beer_strs - previous_beer_strs
+        removed_strs = previous_beer_strs - current_beer_strs
 
-        context.log.info(f"Found {len(added)} new beers, {len(removed)} removed beers")
+        # Convert back to actual beer dictionaries
+        current_beers_lookup = {json.dumps(beer, sort_keys=True): beer for beer in beer_list_snapshot["beers"]}
+        previous_beers_lookup = {json.dumps(beer, sort_keys=True): beer for beer in previous_data["beers"]}
+
+        changes["added_beers"] = [current_beers_lookup[beer_str] for beer_str in added_strs]
+        changes["removed_beers"] = [previous_beers_lookup[beer_str] for beer_str in removed_strs]
+        changes["total_changes"] = len(changes["added_beers"]) + len(changes["removed_beers"])
+
+        context.log.info(f"Found {len(changes['added_beers'])} new beers, {len(changes['removed_beers'])} removed beers")
     else:
         context.log.info("No previous snapshot found - this is the initial run")
         changes["total_changes"] = len(beer_list_snapshot["beers"])

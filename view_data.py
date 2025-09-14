@@ -4,10 +4,11 @@
 import duckdb
 import json
 from datetime import datetime
+from markdown_output import generate_markdown_output
 
 def view_data():
     """View all data stored in the beer tracking database."""
-    conn = duckdb.connect("beer_tracking.duckdb")W
+    conn = duckdb.connect("beer_tracking.duckdb")
 
     print("🍺 BEER TRACKING DATA 🍺")
     print("=" * 50)
@@ -107,6 +108,13 @@ def view_data():
                         print(f"    - {beer}")
 
     conn.close()
+
+    # Generate markdown report after viewing data
+    print("\n📄 Generating markdown report...")
+    if generate_markdown_output("latest_output.md"):
+        print("✅ Markdown report saved to latest_output.md")
+    else:
+        print("❌ Failed to generate markdown report")
 
 if __name__ == "__main__":
     view_data()
