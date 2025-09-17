@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-09-16 17:01:59*
+*Generated on 2025-09-17 17:01:55*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-09-17 17:01:55.502832 | 65 |
 | 2025-09-16 17:01:59.707907 | 67 |
 | 2025-09-15 17:02:05.551898 | 68 |
 | 2025-09-14 17:01:49.915436 | 68 |
@@ -16,7 +17,7 @@
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (18)
+#### 🍺 Draft Beers (16)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -28,12 +29,10 @@
 | Nepenthe Plutonian Shore | Oatmeal Stout | 6.80% | Baltimore, MD |
 | Ellicottville Mow Master | IPA | 5.00% | Ellicottville, NY |
 | Ellicottville Weed Wacker | IPA | 5.90% | Ellicottville, NY |
-| Ellicottville Blueberry Wheat | Fruited Wheat Ale | 4.80% | Ellicottville, NY |
 | 3 Floyds Jinxproof | Lager | 5.70% | Munster, IN |
 | Nepenthe Mallet | Lager | 4.30% | Baltimore, MD |
 | 3 Floyds Trolls Trolls Trolls | BA Imperial Stout | 13.00% | Munster, IN |
 | Ballast Point Grapefruit Sculpin | IPA | 7.00% | San Diego, CA |
-| Silver Branch Amber Castle | Czech Lager | 5.00% | Silver Spring, MD |
 | Checkerspot Wrong Side Of The Tracks | Kettle Sour | 7.50% | Baltimore, MD |
 | Checkerspot Daydream | Lager | 5.10% | Baltimore, MD |
 | Checkerspot Right Side Of The Tracks | Hazy IPA | 7.50% | Baltimore, MD |
@@ -70,6 +69,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-09-17 17:01:55.502832 | 0 | 2 | 2 |
 | 2025-09-16 17:01:59.707907 | 7 | 8 | 15 |
 | 2025-09-15 17:02:05.551898 | 0 | 0 | 0 |
 | 2025-09-14 17:01:49.915436 | 2 | 1 | 3 |
@@ -80,35 +80,17 @@
 
 ### 🆕 Latest Changes Details
 
-#### ➕ Added Beers
-
-| Name | Style | ABV | Vessel | Location |
-|------|-------|-----|--------|----------|
-| Checkerspot Daydream | Lager | 5.10% | Draft | Baltimore, MD |
-| Jack's Abby Modern Hefe | Hefeweizen | 5.00% | Bottle/Can | Framingham, MA |
-| Checkerspot Zicke Zacke | Märzen | 7.50% | Draft | Baltimore, MD |
-| Silver Branch Amber Castle | Czech Lager | 5.00% | Draft | Silver Spring, MD |
-| Checkerspot Right Side Of The Tracks | Hazy IPA | 7.50% | Draft | Baltimore, MD |
-| Ballast Point Grapefruit Sculpin | IPA | 7.00% | Draft | San Diego, CA |
-| Checkerspot Wrong Side Of The Tracks | Kettle Sour | 7.50% | Draft | Baltimore, MD |
-
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Manor Hill No Sleeves | Session Hazy IPA | 5.50% | Draft | Ellicott City, MD |
-| South County Astral Drift (16oz) | Pale Ale | 5.00% | Bottle/Can | York, PA |
-| Blue Moon Mango - 1 Left! | Wheat Ale | 5.40% | Bottle/Can | Golden, CO |
-| New Belgium Voodoo Ranger Juicy Hazy | IPA | 7.50% | Draft | Fort Collins, CO |
-| Mobtown Captain of Port | NE Hazy IPA | 7.30% | Draft | Baltimore, MD |
-| Big Oyster Bite Me (16oz) | Sour Ale | 4.50% | Bottle/Can | Lewes, DE |
-| Checkerspot Wrong Side of the Tracks | Kettle Sour | 7.50% | Draft | Baltimore, MD |
-| Jack's Abby Hoponius Union | Hoppy Lager | 6.50% | Bottle/Can | Farmington, MA |
+| Ellicottville Blueberry Wheat | Fruited Wheat Ale | 4.80% | Draft | Ellicottville, NY |
+| Silver Branch Amber Castle | Czech Lager | 5.00% | Draft | Silver Spring, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 8
-- **Current Beer Count**: 67
-- **Total Change Records**: 7
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-09-16 17:01:59.707907
+- **Total Snapshots**: 9
+- **Current Beer Count**: 65
+- **Total Change Records**: 8
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-09-17 17:01:55.502832
