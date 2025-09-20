@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-09-19 17:01:54*
+*Generated on 2025-09-20 17:01:50*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-09-20 17:01:50.132899 | 63 |
 | 2025-09-19 17:01:54.805779 | 63 |
 | 2025-09-18 17:01:56.055765 | 65 |
 | 2025-09-17 17:01:55.502832 | 65 |
@@ -14,7 +15,6 @@
 | 2025-09-13 23:31:52.773999 | 67 |
 | 2025-09-13 19:27:23.234977 | 67 |
 | 2025-09-13 18:52:24.925607 | 67 |
-| 2025-09-13 18:50:18.530838 | 67 |
 
 ### 🍺 Current Beer List
 
@@ -70,6 +70,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-09-20 17:01:50.132899 | 3 | 3 | 6 |
 | 2025-09-19 17:01:54.805779 | 6 | 8 | 14 |
 | 2025-09-18 17:01:56.055765 | 0 | 0 | 0 |
 | 2025-09-17 17:01:55.502832 | 0 | 2 | 2 |
@@ -79,7 +80,6 @@
 | 2025-09-13 23:31:52.773999 | 0 | 0 | 0 |
 | 2025-09-13 19:27:23.234977 | 0 | 0 | 0 |
 | 2025-09-13 18:52:24.925607 | 0 | 0 | 0 |
-| 2025-09-13 18:31:38.120770 | 0 | 0 | 68 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,30 +87,22 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Peabody Heights Zap Time | Pale Ale | 5.50% | Bottle/Can | Baltimore, MD |
-| Brooklyn Special Effects IPA | N/A IPA | 0.50% | Bottle/Can | Brooklyn, NY |
-| Kentucky Pumpkin Barrel Age | Pumpkin Ale | 10.00% | Draft | Lexington, KY |
-| MY5 The Original or Tangerine ($1 Off) | Not Beer | 4.50% | Bottle/Can | Landsdale, PA |
-| Warsteiner Oktoberfest | Marzen | 5.90% | Draft | Germany |
-| Dad Water ($1 Off) | Tequila Cocktail | 5.25% | Bottle/Can | Indianapolis, IN |
+| RAR Jackson | Pumpkin Ale | 7.80% | Bottle/Can | Cambridge, MD |
+| Ministry Bake Sale | Sour Ale | 5.80% | Bottle/Can | Baltimore, MD |
+| Brooklyn Oktoberfest | Marzen | 5.50% | Bottle/Can | Brooklyn, NY |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Dad Water  | Tequila Cocktail | 5.25% | Bottle/Can | Indianapolis, IN |
-| Boulevard Tropical Tank 7 | Saison | 8.50% | Bottle/Can | Kansas City, MO |
-| Victory Vienna Vacay Key Lime (16oz) - 1 Left! | Vienna Lager | 5.50% | Bottle/Can | Downingtown, PA |
-| Jack's Abby Modern Hefe | Hefeweizen | 5.00% | Bottle/Can | Framingham, MA |
-| Brooklyn Special Effects Classic Golden | Golden NA | 0.50% | Bottle/Can | Brooklyn, NY |
-| Nepenthe Mallet | Lager | 4.30% | Draft | Baltimore, MD |
-| 3 Floyds Jinxproof | Lager | 5.70% | Draft | Munster, IN |
-| MY5 The Original or Tangerine  | Not Beer | 4.50% | Bottle/Can | Landsdale, PA |
+| South County Festifall | Marzen | 5.10% | Bottle/Can | York, PA |
+| Cushwa Happening Again (16oz) | IPA | 7.00% | Bottle/Can | Williamsport, MD |
+| Peabody Heights Russell Street | IPA | 7.30% | Bottle/Can | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 11
+- **Total Snapshots**: 12
 - **Current Beer Count**: 63
-- **Total Change Records**: 10
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-09-19 17:01:54.805779
+- **Total Change Records**: 11
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-09-20 17:01:50.132899
