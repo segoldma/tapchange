@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-09-20 17:01:50*
+*Generated on 2025-09-21 17:01:58*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-09-21 17:01:58.548548 | 65 |
 | 2025-09-20 17:01:50.132899 | 63 |
 | 2025-09-19 17:01:54.805779 | 63 |
 | 2025-09-18 17:01:56.055765 | 65 |
@@ -14,7 +15,6 @@
 | 2025-09-14 17:01:49.915436 | 68 |
 | 2025-09-13 23:31:52.773999 | 67 |
 | 2025-09-13 19:27:23.234977 | 67 |
-| 2025-09-13 18:52:24.925607 | 67 |
 
 ### 🍺 Current Beer List
 
@@ -39,7 +39,7 @@
 | Kentucky Pumpkin Barrel Age | Pumpkin Ale | 10.00% | Lexington, KY |
 | Warsteiner Oktoberfest | Marzen | 5.90% | Germany |
 
-#### 🥫 Bottles & Cans (47)
+#### 🥫 Bottles & Cans (49)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +63,14 @@
 | Dogfish Head Festina Pêche | Berliner Weisse | 4.50% | Milton, DE |
 | Firestone Walker Mind Haze Grapefruit | Imperial Radler | 8.00% | Paso Robles, CA |
 | Firestone Walker Mind Haze Watermelon Rage | Imperial Radler | 8.00% | Paso Robles, CA |
-| *... and 27 more* | | | |
+| *... and 29 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-09-21 17:01:58.548548 | 2 | 0 | 2 |
 | 2025-09-20 17:01:50.132899 | 3 | 3 | 6 |
 | 2025-09-19 17:01:54.805779 | 6 | 8 | 14 |
 | 2025-09-18 17:01:56.055765 | 0 | 0 | 0 |
@@ -79,7 +80,6 @@
 | 2025-09-14 17:01:49.915436 | 2 | 1 | 3 |
 | 2025-09-13 23:31:52.773999 | 0 | 0 | 0 |
 | 2025-09-13 19:27:23.234977 | 0 | 0 | 0 |
-| 2025-09-13 18:52:24.925607 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,22 +87,13 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| RAR Jackson | Pumpkin Ale | 7.80% | Bottle/Can | Cambridge, MD |
-| Ministry Bake Sale | Sour Ale | 5.80% | Bottle/Can | Baltimore, MD |
-| Brooklyn Oktoberfest | Marzen | 5.50% | Bottle/Can | Brooklyn, NY |
-
-#### ➖ Removed Beers
-
-| Name | Style | ABV | Vessel | Location |
-|------|-------|-----|--------|----------|
-| South County Festifall | Marzen | 5.10% | Bottle/Can | York, PA |
-| Cushwa Happening Again (16oz) | IPA | 7.00% | Bottle/Can | Williamsport, MD |
-| Peabody Heights Russell Street | IPA | 7.30% | Bottle/Can | Baltimore, MD |
+| Evil Genius Stacy Mom | IPA | 7.50% | Bottle/Can | Philadelphia, PA |
+| Jack's Abby Post Shift | Pilsner | 4.70% | Bottle/Can | Framingham, MA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 12
-- **Current Beer Count**: 63
-- **Total Change Records**: 11
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-09-20 17:01:50.132899
+- **Total Snapshots**: 13
+- **Current Beer Count**: 65
+- **Total Change Records**: 12
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-09-21 17:01:58.548548
