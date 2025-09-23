@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-09-22 17:02:01*
+*Generated on 2025-09-23 17:01:58*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-09-23 17:01:58.733379 | 68 |
 | 2025-09-22 17:02:01.535579 | 65 |
 | 2025-09-21 17:01:58.548548 | 65 |
 | 2025-09-20 17:01:50.132899 | 63 |
@@ -14,21 +15,18 @@
 | 2025-09-16 17:01:59.707907 | 67 |
 | 2025-09-15 17:02:05.551898 | 68 |
 | 2025-09-14 17:01:49.915436 | 68 |
-| 2025-09-13 23:31:52.773999 | 67 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (16)
+#### 🍺 Draft Beers (18)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
 | Lakefront Nitro Creamsicle | Cream Ale | 5.60% | Milwaukee, WI |
 | Peabody Heights True Chesapeake | Oyster Stout | 6.00% | Baltimore, MD |
 | Monocacy Farrah Fig | Fruited Wheat | 5.20% | Frederick, MD |
-| Manor Hill Manorita | Mexican Lager | 5.50% | Ellicott City, MD |
 | Nepenthe Solar Crown | Witbier | 5.20% | Baltimore, MD |
 | Nepenthe Plutonian Shore | Oatmeal Stout | 6.80% | Baltimore, MD |
-| Ellicottville Mow Master | IPA | 5.00% | Ellicottville, NY |
 | Ellicottville Weed Wacker | IPA | 5.90% | Ellicottville, NY |
 | 3 Floyds Trolls Trolls Trolls | BA Imperial Stout | 13.00% | Munster, IN |
 | Ballast Point Grapefruit Sculpin | IPA | 7.00% | San Diego, CA |
@@ -38,8 +36,12 @@
 | Checkerspot Zicke Zacke | Märzen | 7.50% | Baltimore, MD |
 | Kentucky Pumpkin Barrel Age | Pumpkin Ale | 10.00% | Lexington, KY |
 | Warsteiner Oktoberfest | Marzen | 5.90% | Germany |
+| Väsen Light | American Lager | 4.70% | Richmond, VA |
+| Väsen West Coast IPA | WC IPA | 6.70% | Richmond, VA |
+| Väsen Bivvy | Hazy IPA | 5.60% | Richmond, VA |
+| Väsen Festbier | Festbier | 5.30% | Richmond, VA |
 
-#### 🥫 Bottles & Cans (49)
+#### 🥫 Bottles & Cans (50)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -59,17 +61,18 @@
 | Cushwa Old Wye Wit (16oz) | Wheat Ale | 5.30% | Williamsport, MD |
 | Leinenkugel Berry Weiss | Wheat Ale | 4.70% | Chippewa Falls, WI |
 | Schlafly Black IPA | Black IPA | 6.00% | St. Louis, MO |
-| Rupee India Pale Ale (16oz) | IPA | 5.40% | Potosi, WI |
 | Dogfish Head Festina Pêche | Berliner Weisse | 4.50% | Milton, DE |
 | Firestone Walker Mind Haze Grapefruit | Imperial Radler | 8.00% | Paso Robles, CA |
 | Firestone Walker Mind Haze Watermelon Rage | Imperial Radler | 8.00% | Paso Robles, CA |
-| *... and 29 more* | | | |
+| Firestone Walker Mind Haze Lemonade | Imperial Radler | 8.00% | Paso Robles, CA |
+| *... and 30 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-09-23 17:01:58.733379 | 7 | 4 | 11 |
 | 2025-09-22 17:02:01.535579 | 0 | 0 | 0 |
 | 2025-09-21 17:01:58.548548 | 2 | 0 | 2 |
 | 2025-09-20 17:01:50.132899 | 3 | 3 | 6 |
@@ -79,16 +82,34 @@
 | 2025-09-16 17:01:59.707907 | 7 | 8 | 15 |
 | 2025-09-15 17:02:05.551898 | 0 | 0 | 0 |
 | 2025-09-14 17:01:49.915436 | 2 | 1 | 3 |
-| 2025-09-13 23:31:52.773999 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Väsen Festbier | Festbier | 5.30% | Draft | Richmond, VA |
+| Cushwa Jello (16oz) | NEIPA | 6.60% | Bottle/Can | Williamsport, MD |
+| Schlafly Doppelbock | Doppelbock | 6.00% | Bottle/Can | St. Louis, MO |
+| Väsen Light | American Lager | 4.70% | Draft | Richmond, VA |
+| Väsen Bivvy | Hazy IPA | 5.60% | Draft | Richmond, VA |
+| Väsen West Coast IPA | WC IPA | 6.70% | Draft | Richmond, VA |
+| Monocacy Farrah Fig | Fruited Wheat | 5.20% | Draft | Frederick, MD |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Monocacy Farrah Fig | Fruited Wheat | 5.20% | Draft | Frederick, MD |
+| Rupee India Pale Ale (16oz) | IPA | 5.40% | Bottle/Can | Potosi, WI |
+| Ellicottville Mow Master | IPA | 5.00% | Draft | Ellicottville, NY |
+| Manor Hill Manorita | Mexican Lager | 5.50% | Draft | Ellicott City, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 14
-- **Current Beer Count**: 65
-- **Total Change Records**: 13
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-09-22 17:02:01.535579
+- **Total Snapshots**: 15
+- **Current Beer Count**: 68
+- **Total Change Records**: 14
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-09-23 17:01:58.733379
