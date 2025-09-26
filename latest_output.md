@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-09-25 17:02:01*
+*Generated on 2025-09-26 17:02:06*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-09-26 17:02:06.064629 | 66 |
 | 2025-09-25 17:02:01.614974 | 66 |
 | 2025-09-24 17:02:05.308493 | 66 |
 | 2025-09-23 17:01:58.733379 | 68 |
@@ -14,7 +15,6 @@
 | 2025-09-19 17:01:54.805779 | 63 |
 | 2025-09-18 17:01:56.055765 | 65 |
 | 2025-09-17 17:01:55.502832 | 65 |
-| 2025-09-16 17:01:59.707907 | 67 |
 
 ### 🍺 Current Beer List
 
@@ -22,12 +22,10 @@
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
-| Lakefront Nitro Creamsicle | Cream Ale | 5.60% | Milwaukee, WI |
 | Peabody Heights True Chesapeake | Oyster Stout | 6.00% | Baltimore, MD |
 | Monocacy Farrah Fig | Fruited Wheat | 5.20% | Frederick, MD |
 | Nepenthe Solar Crown | Witbier | 5.20% | Baltimore, MD |
 | Nepenthe Plutonian Shore | Oatmeal Stout | 6.80% | Baltimore, MD |
-| Ellicottville Weed Wacker | IPA | 5.90% | Ellicottville, NY |
 | 3 Floyds Trolls Trolls Trolls | BA Imperial Stout | 13.00% | Munster, IN |
 | Checkerspot Wrong Side Of The Tracks | Kettle Sour | 7.50% | Baltimore, MD |
 | Checkerspot Daydream | Lager | 5.10% | Baltimore, MD |
@@ -38,6 +36,8 @@
 | Väsen West Coast IPA | WC IPA | 6.70% | Richmond, VA |
 | Väsen Bivvy | Hazy IPA | 5.60% | Richmond, VA |
 | Väsen Festbier | Festbier | 5.30% | Richmond, VA |
+| Kentucky Pumpkin Barrel Age | Pumpkin Ale | 10.00% | Lexington, KY |
+| Appalachian Campfire Decadence Smores | Nitro Cream Ale | 4.90% | Harrisburg, PA |
 
 #### 🥫 Bottles & Cans (50)
 
@@ -51,6 +51,7 @@
 | Monster The Beast: Peach Perfect | Not Beer | 6.00% | Cold Spring, MN |
 | MY5 The Original or Tangerine  | Not Beer | 4.50% | Landsdale, PA |
 | Brooklyn Special Effects IPA | N/A IPA | 0.50% | Brooklyn, NY |
+| Go Disarm Hazy IPA | N/A IPA | 0.50% | Naperville, Il |
 | Peabody Heights The Last Of Oyst (16oz) | Stout | 6.00% | Baltimore, MD |
 | Liefmans Goudenband ($13) | Oud Bruin | 8.00% | Belgium |
 | M8 Southern Cross ESB | ESB | 5.30% | Baltimore, MD |
@@ -62,7 +63,6 @@
 | Dogfish Head Festina Pêche | Berliner Weisse | 4.50% | Milton, DE |
 | Firestone Walker Mind Haze Grapefruit | Imperial Radler | 8.00% | Paso Robles, CA |
 | Firestone Walker Mind Haze Watermelon Rage | Imperial Radler | 8.00% | Paso Robles, CA |
-| Firestone Walker Mind Haze Lemonade | Imperial Radler | 8.00% | Paso Robles, CA |
 | *... and 30 more* | | | |
 
 
@@ -70,6 +70,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-09-26 17:02:06.064629 | 3 | 3 | 6 |
 | 2025-09-25 17:02:01.614974 | 3 | 3 | 6 |
 | 2025-09-24 17:02:05.308493 | 0 | 2 | 2 |
 | 2025-09-23 17:01:58.733379 | 7 | 4 | 11 |
@@ -79,7 +80,6 @@
 | 2025-09-19 17:01:54.805779 | 6 | 8 | 14 |
 | 2025-09-18 17:01:56.055765 | 0 | 0 | 0 |
 | 2025-09-17 17:01:55.502832 | 0 | 2 | 2 |
-| 2025-09-16 17:01:59.707907 | 7 | 8 | 15 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,22 +87,22 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| MY5 The Original or Tangerine  | Not Beer | 4.50% | Bottle/Can | Landsdale, PA |
-| Peabody Heights The Catch | IPA | 6.20% | Bottle/Can | Baltimore, MD |
-| Dad Water  | Tequila Cocktail | 5.25% | Bottle/Can | Indianapolis, IN |
+| Appalachian Campfire Decadence Smores | Nitro Cream Ale | 4.90% | Draft | Harrisburg, PA |
+| Go Disarm Hazy IPA | N/A IPA | 0.50% | Bottle/Can | Naperville, Il |
+| Kentucky Pumpkin Barrel Age | Pumpkin Ale | 10.00% | Draft | Lexington, KY |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Dad Water ($1 Off) | Tequila Cocktail | 5.25% | Bottle/Can | Indianapolis, IN |
-| MY5 The Original or Tangerine ($1 Off) | Not Beer | 4.50% | Bottle/Can | Landsdale, PA |
-| Ten Eyck Tacocat | Mexican Lager | 4.50% | Bottle/Can | Queenstown, MD |
+| Ellicottville Weed Wacker | IPA | 5.90% | Draft | Ellicottville, NY |
+| Falling Branch Falling Pumpkin | Pumpkin Ale | 6.00% | Bottle/Can | Street, MD |
+| Lakefront Nitro Creamsicle | Cream Ale | 5.60% | Draft | Milwaukee, WI |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 17
+- **Total Snapshots**: 18
 - **Current Beer Count**: 66
-- **Total Change Records**: 16
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-09-25 17:02:01.614974
+- **Total Change Records**: 17
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-09-26 17:02:06.064629
