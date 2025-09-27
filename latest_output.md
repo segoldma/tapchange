@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-09-26 17:02:06*
+*Generated on 2025-09-27 17:01:41*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-09-27 17:01:41.753414 | 66 |
 | 2025-09-26 17:02:06.064629 | 66 |
 | 2025-09-25 17:02:01.614974 | 66 |
 | 2025-09-24 17:02:05.308493 | 66 |
@@ -14,7 +15,6 @@
 | 2025-09-20 17:01:50.132899 | 63 |
 | 2025-09-19 17:01:54.805779 | 63 |
 | 2025-09-18 17:01:56.055765 | 65 |
-| 2025-09-17 17:01:55.502832 | 65 |
 
 ### 🍺 Current Beer List
 
@@ -26,7 +26,6 @@
 | Monocacy Farrah Fig | Fruited Wheat | 5.20% | Frederick, MD |
 | Nepenthe Solar Crown | Witbier | 5.20% | Baltimore, MD |
 | Nepenthe Plutonian Shore | Oatmeal Stout | 6.80% | Baltimore, MD |
-| 3 Floyds Trolls Trolls Trolls | BA Imperial Stout | 13.00% | Munster, IN |
 | Checkerspot Wrong Side Of The Tracks | Kettle Sour | 7.50% | Baltimore, MD |
 | Checkerspot Daydream | Lager | 5.10% | Baltimore, MD |
 | Checkerspot Right Side Of The Tracks | Hazy IPA | 7.50% | Baltimore, MD |
@@ -38,6 +37,7 @@
 | Väsen Festbier | Festbier | 5.30% | Richmond, VA |
 | Kentucky Pumpkin Barrel Age | Pumpkin Ale | 10.00% | Lexington, KY |
 | Appalachian Campfire Decadence Smores | Nitro Cream Ale | 4.90% | Harrisburg, PA |
+| Peabody Heights The Last Of Oyst | Stout | 6.00% | Baltimore, MD |
 
 #### 🥫 Bottles & Cans (50)
 
@@ -52,7 +52,6 @@
 | MY5 The Original or Tangerine  | Not Beer | 4.50% | Landsdale, PA |
 | Brooklyn Special Effects IPA | N/A IPA | 0.50% | Brooklyn, NY |
 | Go Disarm Hazy IPA | N/A IPA | 0.50% | Naperville, Il |
-| Peabody Heights The Last Of Oyst (16oz) | Stout | 6.00% | Baltimore, MD |
 | Liefmans Goudenband ($13) | Oud Bruin | 8.00% | Belgium |
 | M8 Southern Cross ESB | ESB | 5.30% | Baltimore, MD |
 | OEC Biere De Mai (16oz) ($12) | Wild Ale | 6.00% | Oxford, CT |
@@ -63,6 +62,7 @@
 | Dogfish Head Festina Pêche | Berliner Weisse | 4.50% | Milton, DE |
 | Firestone Walker Mind Haze Grapefruit | Imperial Radler | 8.00% | Paso Robles, CA |
 | Firestone Walker Mind Haze Watermelon Rage | Imperial Radler | 8.00% | Paso Robles, CA |
+| Firestone Walker Mind Haze Lemonade | Imperial Radler | 8.00% | Paso Robles, CA |
 | *... and 30 more* | | | |
 
 
@@ -70,6 +70,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-09-27 17:01:41.753414 | 3 | 3 | 6 |
 | 2025-09-26 17:02:06.064629 | 3 | 3 | 6 |
 | 2025-09-25 17:02:01.614974 | 3 | 3 | 6 |
 | 2025-09-24 17:02:05.308493 | 0 | 2 | 2 |
@@ -79,7 +80,6 @@
 | 2025-09-20 17:01:50.132899 | 3 | 3 | 6 |
 | 2025-09-19 17:01:54.805779 | 6 | 8 | 14 |
 | 2025-09-18 17:01:56.055765 | 0 | 0 | 0 |
-| 2025-09-17 17:01:55.502832 | 0 | 2 | 2 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,22 +87,22 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Appalachian Campfire Decadence Smores | Nitro Cream Ale | 4.90% | Draft | Harrisburg, PA |
-| Go Disarm Hazy IPA | N/A IPA | 0.50% | Bottle/Can | Naperville, Il |
-| Kentucky Pumpkin Barrel Age | Pumpkin Ale | 10.00% | Draft | Lexington, KY |
+| Peabody Heights The Last Of Oyst | Stout | 6.00% | Draft | Baltimore, MD |
+| Victory Festbier | Marzen | 5.60% | Bottle/Can | Downingtown, PA |
+| OEC Brewing Oolong Kolsch | Kolsch | 4.80% | Bottle/Can | Oxford, CT |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Ellicottville Weed Wacker | IPA | 5.90% | Draft | Ellicottville, NY |
-| Falling Branch Falling Pumpkin | Pumpkin Ale | 6.00% | Bottle/Can | Street, MD |
-| Lakefront Nitro Creamsicle | Cream Ale | 5.60% | Draft | Milwaukee, WI |
+| Peabody Heights The Last Of Oyst (16oz) | Stout | 6.00% | Bottle/Can | Baltimore, MD |
+| Abita Fluffernutter | White Stout | 8.00% | Bottle/Can | Abita Springs, LA |
+| 3 Floyds Trolls Trolls Trolls | BA Imperial Stout | 13.00% | Draft | Munster, IN |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 18
+- **Total Snapshots**: 19
 - **Current Beer Count**: 66
-- **Total Change Records**: 17
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-09-26 17:02:06.064629
+- **Total Change Records**: 18
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-09-27 17:01:41.753414
