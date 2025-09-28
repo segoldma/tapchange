@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-09-27 17:01:41*
+*Generated on 2025-09-28 17:01:45*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-09-28 17:01:44.889321 | 66 |
 | 2025-09-27 17:01:41.753414 | 66 |
 | 2025-09-26 17:02:06.064629 | 66 |
 | 2025-09-25 17:02:01.614974 | 66 |
@@ -14,15 +15,13 @@
 | 2025-09-21 17:01:58.548548 | 65 |
 | 2025-09-20 17:01:50.132899 | 63 |
 | 2025-09-19 17:01:54.805779 | 63 |
-| 2025-09-18 17:01:56.055765 | 65 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (16)
+#### 🍺 Draft Beers (15)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
-| Peabody Heights True Chesapeake | Oyster Stout | 6.00% | Baltimore, MD |
 | Monocacy Farrah Fig | Fruited Wheat | 5.20% | Frederick, MD |
 | Nepenthe Solar Crown | Witbier | 5.20% | Baltimore, MD |
 | Nepenthe Plutonian Shore | Oatmeal Stout | 6.80% | Baltimore, MD |
@@ -30,16 +29,16 @@
 | Checkerspot Daydream | Lager | 5.10% | Baltimore, MD |
 | Checkerspot Right Side Of The Tracks | Hazy IPA | 7.50% | Baltimore, MD |
 | Checkerspot Zicke Zacke | Märzen | 7.50% | Baltimore, MD |
-| Warsteiner Oktoberfest | Marzen | 5.90% | Germany |
 | Väsen Light | American Lager | 4.70% | Richmond, VA |
 | Väsen West Coast IPA | WC IPA | 6.70% | Richmond, VA |
 | Väsen Bivvy | Hazy IPA | 5.60% | Richmond, VA |
 | Väsen Festbier | Festbier | 5.30% | Richmond, VA |
 | Kentucky Pumpkin Barrel Age | Pumpkin Ale | 10.00% | Lexington, KY |
-| Appalachian Campfire Decadence Smores | Nitro Cream Ale | 4.90% | Harrisburg, PA |
+| Appalachian Campfire Peanut Butter Decadence Smores | Nitro Cream Ale | 4.90% | Harrisburg, PA |
 | Peabody Heights The Last Of Oyst | Stout | 6.00% | Baltimore, MD |
+| Ellicottville Blueberry Wheat | Wheat Beer | 4.80% | Ellicottville, NY |
 
-#### 🥫 Bottles & Cans (50)
+#### 🥫 Bottles & Cans (51)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +62,14 @@
 | Firestone Walker Mind Haze Grapefruit | Imperial Radler | 8.00% | Paso Robles, CA |
 | Firestone Walker Mind Haze Watermelon Rage | Imperial Radler | 8.00% | Paso Robles, CA |
 | Firestone Walker Mind Haze Lemonade | Imperial Radler | 8.00% | Paso Robles, CA |
-| *... and 30 more* | | | |
+| *... and 31 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-09-28 17:01:44.889321 | 4 | 4 | 8 |
 | 2025-09-27 17:01:41.753414 | 3 | 3 | 6 |
 | 2025-09-26 17:02:06.064629 | 3 | 3 | 6 |
 | 2025-09-25 17:02:01.614974 | 3 | 3 | 6 |
@@ -79,7 +79,6 @@
 | 2025-09-21 17:01:58.548548 | 2 | 0 | 2 |
 | 2025-09-20 17:01:50.132899 | 3 | 3 | 6 |
 | 2025-09-19 17:01:54.805779 | 6 | 8 | 14 |
-| 2025-09-18 17:01:56.055765 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,22 +86,24 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Peabody Heights The Last Of Oyst | Stout | 6.00% | Draft | Baltimore, MD |
-| Victory Festbier | Marzen | 5.60% | Bottle/Can | Downingtown, PA |
-| OEC Brewing Oolong Kolsch | Kolsch | 4.80% | Bottle/Can | Oxford, CT |
+| Coors Banquet | Lager | 5.00% | Bottle/Can | Golden, CO |
+| Appalachian Campfire Peanut Butter Decadence Smores | Nitro Cream Ale | 4.90% | Draft | Harrisburg, PA |
+| Ellicottville Blueberry Wheat | Wheat Beer | 4.80% | Draft | Ellicottville, NY |
+| Ithaca Mango Muscadine (16oz) | Sour Ale | 5.00% | Bottle/Can | Ithaca, NY |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Peabody Heights The Last Of Oyst (16oz) | Stout | 6.00% | Bottle/Can | Baltimore, MD |
-| Abita Fluffernutter | White Stout | 8.00% | Bottle/Can | Abita Springs, LA |
-| 3 Floyds Trolls Trolls Trolls | BA Imperial Stout | 13.00% | Draft | Munster, IN |
+| Appalachian Campfire Decadence Smores | Nitro Cream Ale | 4.90% | Draft | Harrisburg, PA |
+| Burley Oak Badger Dog  | Schwarzbier | 4.90% | Bottle/Can | Berlin, MD |
+| Peabody Heights True Chesapeake | Oyster Stout | 6.00% | Draft | Baltimore, MD |
+| Warsteiner Oktoberfest | Marzen | 5.90% | Draft | Germany |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 19
+- **Total Snapshots**: 20
 - **Current Beer Count**: 66
-- **Total Change Records**: 18
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-09-27 17:01:41.753414
+- **Total Change Records**: 19
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-09-28 17:01:44.889321
