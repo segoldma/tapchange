@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-10-01 17:02:04*
+*Generated on 2025-10-02 17:01:53*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-10-02 17:01:52.913552 | 67 |
 | 2025-10-01 17:02:04.468095 | 67 |
 | 2025-09-30 17:02:01.575172 | 67 |
 | 2025-09-29 17:02:09.660394 | 66 |
@@ -14,7 +15,6 @@
 | 2025-09-25 17:02:01.614974 | 66 |
 | 2025-09-24 17:02:05.308493 | 66 |
 | 2025-09-23 17:01:58.733379 | 68 |
-| 2025-09-22 17:02:01.535579 | 65 |
 
 ### 🍺 Current Beer List
 
@@ -28,7 +28,6 @@
 | Checkerspot Right Side Of The Tracks | Hazy IPA | 7.50% | Baltimore, MD |
 | Checkerspot Zicke Zacke | Märzen | 7.50% | Baltimore, MD |
 | Väsen Light | American Lager | 4.70% | Richmond, VA |
-| Väsen West Coast IPA | WC IPA | 6.70% | Richmond, VA |
 | Väsen Bivvy | Hazy IPA | 5.60% | Richmond, VA |
 | Väsen Festbier | Festbier | 5.30% | Richmond, VA |
 | Kentucky Pumpkin Barrel Age | Pumpkin Ale | 10.00% | Lexington, KY |
@@ -37,7 +36,8 @@
 | Ellicottville Blueberry Wheat | Wheat Beer | 4.80% | Ellicottville, NY |
 | Wico Street Mr.Steezyagi | Rice Lager | 5.50% | Baltimore, MD |
 | Wico Street Steezaroni | Italian Pilsner | 5.00% | Baltimore, MD |
-| Wico Street Mr. Footballhead | WC IPA | 5.50% | Baltimore, MD |
+| Ballast Point Grapefruit Sculpin | IPA | 7.00% | San Diego, CA |
+| Brewer's Alley Old As Helles | Lager | 4.50% | Frederick, MD |
 
 #### 🥫 Bottles & Cans (51)
 
@@ -70,6 +70,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-10-02 17:01:52.913552 | 2 | 2 | 4 |
 | 2025-10-01 17:02:04.468095 | 3 | 3 | 6 |
 | 2025-09-30 17:02:01.575172 | 1 | 0 | 1 |
 | 2025-09-29 17:02:09.660394 | 0 | 0 | 0 |
@@ -79,7 +80,6 @@
 | 2025-09-25 17:02:01.614974 | 3 | 3 | 6 |
 | 2025-09-24 17:02:05.308493 | 0 | 2 | 2 |
 | 2025-09-23 17:01:58.733379 | 7 | 4 | 11 |
-| 2025-09-22 17:02:01.535579 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,22 +87,20 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Wico Street Mr. Footballhead | WC IPA | 5.50% | Draft | Baltimore, MD |
-| Wico Street Hella Steez | Helles Lager | 5.50% | Bottle/Can | Baltimore, MD |
-| Wico Street Steezaroni | Italian Pilsner | 5.00% | Draft | Baltimore, MD |
+| Brewer's Alley Old As Helles | Lager | 4.50% | Draft | Frederick, MD |
+| Ballast Point Grapefruit Sculpin | IPA | 7.00% | Draft | San Diego, CA |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Peabody Heights Ekiben Night Market | Lager  | 5.00% | Bottle/Can | Baltimore, MD |
-| Nepenthe Plutonian Shore | Oatmeal Stout | 6.80% | Draft | Baltimore, MD |
-| Monocacy Farrah Fig | Fruited Wheat | 5.20% | Draft | Frederick, MD |
+| Väsen West Coast IPA | WC IPA | 6.70% | Draft | Richmond, VA |
+| Wico Street Mr. Footballhead | WC IPA | 5.50% | Draft | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 23
+- **Total Snapshots**: 24
 - **Current Beer Count**: 67
-- **Total Change Records**: 22
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-01 17:02:04.468095
+- **Total Change Records**: 23
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-02 17:01:52.913552
