@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-10-02 17:01:53*
+*Generated on 2025-10-03 17:02:04*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-10-03 17:02:03.914495 | 66 |
 | 2025-10-02 17:01:52.913552 | 67 |
 | 2025-10-01 17:02:04.468095 | 67 |
 | 2025-09-30 17:02:01.575172 | 67 |
@@ -14,7 +15,6 @@
 | 2025-09-26 17:02:06.064629 | 66 |
 | 2025-09-25 17:02:01.614974 | 66 |
 | 2025-09-24 17:02:05.308493 | 66 |
-| 2025-09-23 17:01:58.733379 | 68 |
 
 ### 🍺 Current Beer List
 
@@ -24,11 +24,8 @@
 |------|-------|-----|----------|
 | Nepenthe Solar Crown | Witbier | 5.20% | Baltimore, MD |
 | Checkerspot Wrong Side Of The Tracks | Kettle Sour | 7.50% | Baltimore, MD |
-| Checkerspot Daydream | Lager | 5.10% | Baltimore, MD |
-| Checkerspot Right Side Of The Tracks | Hazy IPA | 7.50% | Baltimore, MD |
 | Checkerspot Zicke Zacke | Märzen | 7.50% | Baltimore, MD |
 | Väsen Light | American Lager | 4.70% | Richmond, VA |
-| Väsen Bivvy | Hazy IPA | 5.60% | Richmond, VA |
 | Väsen Festbier | Festbier | 5.30% | Richmond, VA |
 | Kentucky Pumpkin Barrel Age | Pumpkin Ale | 10.00% | Lexington, KY |
 | Appalachian Campfire Peanut Butter Decadence Smores | Nitro Cream Ale | 4.90% | Harrisburg, PA |
@@ -37,9 +34,12 @@
 | Wico Street Mr.Steezyagi | Rice Lager | 5.50% | Baltimore, MD |
 | Wico Street Steezaroni | Italian Pilsner | 5.00% | Baltimore, MD |
 | Ballast Point Grapefruit Sculpin | IPA | 7.00% | San Diego, CA |
+| Nepenthe Plutonian Shore | Oatmeal Stout | 6.80% | Baltimore, MD |
 | Brewer's Alley Old As Helles | Lager | 4.50% | Frederick, MD |
+| Ommegang Cooper's Hop Tripel IPA | Triple IPA | 10.50% | Cooperstown, NY |
+| Monocacy Farrah Fig | Fruited Wheat | 5.20% | Frederick, MD |
 
-#### 🥫 Bottles & Cans (51)
+#### 🥫 Bottles & Cans (50)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -56,20 +56,21 @@
 | M8 Southern Cross ESB | ESB | 5.30% | Baltimore, MD |
 | OEC Biere De Mai (16oz) ($12) | Wild Ale | 6.00% | Oxford, CT |
 | Oliver's Strawberry Lemonade Refresher | Berliner Weiss | 4.00% | Baltimore, MD |
-| Cushwa Old Wye Wit (16oz) | Wheat Ale | 5.30% | Williamsport, MD |
 | Leinenkugel Berry Weiss | Wheat Ale | 4.70% | Chippewa Falls, WI |
 | Schlafly Black IPA | Black IPA | 6.00% | St. Louis, MO |
 | Dogfish Head Festina Pêche | Berliner Weisse | 4.50% | Milton, DE |
 | Firestone Walker Mind Haze Grapefruit | Imperial Radler | 8.00% | Paso Robles, CA |
 | Firestone Walker Mind Haze Watermelon Rage | Imperial Radler | 8.00% | Paso Robles, CA |
 | Firestone Walker Mind Haze Lemonade | Imperial Radler | 8.00% | Paso Robles, CA |
-| *... and 31 more* | | | |
+| Rupee Mango Wheat Ale (16oz) | Wheat Ale | 4.00% | Potosi, WI |
+| *... and 30 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-10-03 17:02:03.914495 | 4 | 5 | 9 |
 | 2025-10-02 17:01:52.913552 | 2 | 2 | 4 |
 | 2025-10-01 17:02:04.468095 | 3 | 3 | 6 |
 | 2025-09-30 17:02:01.575172 | 1 | 0 | 1 |
@@ -79,7 +80,6 @@
 | 2025-09-26 17:02:06.064629 | 3 | 3 | 6 |
 | 2025-09-25 17:02:01.614974 | 3 | 3 | 6 |
 | 2025-09-24 17:02:05.308493 | 0 | 2 | 2 |
-| 2025-09-23 17:01:58.733379 | 7 | 4 | 11 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,20 +87,25 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Brewer's Alley Old As Helles | Lager | 4.50% | Draft | Frederick, MD |
-| Ballast Point Grapefruit Sculpin | IPA | 7.00% | Draft | San Diego, CA |
+| Nepenthe Alapaca Riot | IPA | 6.30% | Bottle/Can | Baltimore, MD |
+| Nepenthe Plutonian Shore | Oatmeal Stout | 6.80% | Draft | Baltimore, MD |
+| Monocacy Farrah Fig | Fruited Wheat | 5.20% | Draft | Frederick, MD |
+| Ommegang Cooper's Hop Tripel IPA | Triple IPA | 10.50% | Draft | Cooperstown, NY |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Väsen West Coast IPA | WC IPA | 6.70% | Draft | Richmond, VA |
-| Wico Street Mr. Footballhead | WC IPA | 5.50% | Draft | Baltimore, MD |
+| Cushwa Old Wye Wit (16oz) | Wheat Ale | 5.30% | Bottle/Can | Williamsport, MD |
+| Väsen Bivvy | Hazy IPA | 5.60% | Draft | Richmond, VA |
+| Checkerspot Daydream | Lager | 5.10% | Draft | Baltimore, MD |
+| Coors Banquet | Lager | 5.00% | Bottle/Can | Golden, CO |
+| Checkerspot Right Side Of The Tracks | Hazy IPA | 7.50% | Draft | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 24
-- **Current Beer Count**: 67
-- **Total Change Records**: 23
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-02 17:01:52.913552
+- **Total Snapshots**: 25
+- **Current Beer Count**: 66
+- **Total Change Records**: 24
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-03 17:02:03.914495
