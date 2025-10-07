@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-10-06 17:02:06*
+*Generated on 2025-10-07 17:02:09*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-10-07 17:02:09.076275 | 67 |
 | 2025-10-06 17:02:06.110700 | 66 |
 | 2025-10-05 17:01:51.406635 | 66 |
 | 2025-10-04 17:01:59.462882 | 66 |
@@ -14,15 +15,13 @@
 | 2025-09-30 17:02:01.575172 | 67 |
 | 2025-09-29 17:02:09.660394 | 66 |
 | 2025-09-28 17:01:44.889321 | 66 |
-| 2025-09-27 17:01:41.753414 | 66 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (16)
+#### 🍺 Draft Beers (15)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
-| Checkerspot Wrong Side Of The Tracks | Kettle Sour | 7.50% | Baltimore, MD |
 | Kentucky Pumpkin Barrel Age | Pumpkin Ale | 10.00% | Lexington, KY |
 | Appalachian Campfire Peanut Butter Decadence Smores | Nitro Cream Ale | 4.90% | Harrisburg, PA |
 | Peabody Heights The Last Of Oyst | Stout | 6.00% | Baltimore, MD |
@@ -39,7 +38,7 @@
 | Union Zadie's Lager | Lager | 4.50% | Baltimore, MD |
 | Lagunita's IPA | IPA | 6.20% | Petaluma, CA |
 
-#### 🥫 Bottles & Cans (50)
+#### 🥫 Bottles & Cans (52)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +62,14 @@
 | Firestone Walker Mind Haze Watermelon Rage | Imperial Radler | 8.00% | Paso Robles, CA |
 | Firestone Walker Mind Haze Lemonade | Imperial Radler | 8.00% | Paso Robles, CA |
 | Rupee Mango Wheat Ale (16oz) | Wheat Ale | 4.00% | Potosi, WI |
-| *... and 30 more* | | | |
+| *... and 32 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-10-07 17:02:09.076275 | 4 | 3 | 7 |
 | 2025-10-06 17:02:06.110700 | 0 | 0 | 0 |
 | 2025-10-05 17:01:51.406635 | 11 | 11 | 22 |
 | 2025-10-04 17:01:59.462882 | 0 | 0 | 0 |
@@ -79,16 +79,30 @@
 | 2025-09-30 17:02:01.575172 | 1 | 0 | 1 |
 | 2025-09-29 17:02:09.660394 | 0 | 0 | 0 |
 | 2025-09-28 17:01:44.889321 | 4 | 4 | 8 |
-| 2025-09-27 17:01:41.753414 | 3 | 3 | 6 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Schneider Weisse Aventinus Eisbock ($16) | Bock | 12.00% | Bottle/Can | Germany |
+| Victory Festbier | Märzen | 5.60% | Bottle/Can | Downingtown, PA |
+| Lakefront Pumpkin | Pumpkin Lager | 6.10% | Bottle/Can | Milwaukee, Wisconsin |
+| Shiner Oktoberfest | Märzen | 5.70% | Bottle/Can | Shiner, TX |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Victory Festbier | Marzen | 5.60% | Bottle/Can | Downingtown, PA |
+| Checkerspot Wrong Side Of The Tracks | Kettle Sour | 7.50% | Draft | Baltimore, MD |
+| RAR Jackson | Pumpkin Ale | 7.80% | Bottle/Can | Cambridge, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 28
-- **Current Beer Count**: 66
-- **Total Change Records**: 27
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-06 17:02:06.110700
+- **Total Snapshots**: 29
+- **Current Beer Count**: 67
+- **Total Change Records**: 28
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-07 17:02:09.076275
