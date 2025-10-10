@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-10-09 17:02:06*
+*Generated on 2025-10-10 17:02:15*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-10-10 17:02:15.674807 | 68 |
 | 2025-10-09 17:02:06.214120 | 69 |
 | 2025-10-08 17:02:09.813968 | 67 |
 | 2025-10-07 17:02:09.076275 | 67 |
@@ -14,7 +15,6 @@
 | 2025-10-03 17:02:03.914495 | 66 |
 | 2025-10-02 17:01:52.913552 | 67 |
 | 2025-10-01 17:02:04.468095 | 67 |
-| 2025-09-30 17:02:01.575172 | 67 |
 
 ### 🍺 Current Beer List
 
@@ -39,7 +39,7 @@
 | Lagunita's IPA | IPA | 6.20% | Petaluma, CA |
 | Goose Island Bourbon County Stout  | Stout (2023) | 14.10% | Chicago, IL |
 
-#### 🥫 Bottles & Cans (53)
+#### 🥫 Bottles & Cans (52)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -52,6 +52,7 @@
 | MY5 The Original or Tangerine  | Not Beer | 4.50% | Landsdale, PA |
 | Brooklyn Special Effects IPA | N/A IPA | 0.50% | Brooklyn, NY |
 | Go Disarm Hazy IPA | N/A IPA | 0.50% | Naperville, Il |
+| Partake Oktoberfest | N/A Oktoberfest | 0.50% | Chicago, IL |
 | Liefmans Goudenband ($13) | Oud Bruin | 8.00% | Belgium |
 | M8 Southern Cross ESB | ESB | 5.30% | Baltimore, MD |
 | OEC Biere De Mai (16oz) ($12) | Wild Ale | 6.00% | Oxford, CT |
@@ -62,14 +63,14 @@
 | Firestone Walker Mind Haze Grapefruit | Imperial Radler | 8.00% | Paso Robles, CA |
 | Firestone Walker Mind Haze Watermelon Rage | Imperial Radler | 8.00% | Paso Robles, CA |
 | Firestone Walker Mind Haze Lemonade | Imperial Radler | 8.00% | Paso Robles, CA |
-| Rupee Mango Wheat Ale (16oz) | Wheat Ale | 4.00% | Potosi, WI |
-| *... and 33 more* | | | |
+| *... and 32 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-10-10 17:02:15.674807 | 3 | 4 | 7 |
 | 2025-10-09 17:02:06.214120 | 2 | 0 | 2 |
 | 2025-10-08 17:02:09.813968 | 0 | 0 | 0 |
 | 2025-10-07 17:02:09.076275 | 4 | 3 | 7 |
@@ -79,7 +80,6 @@
 | 2025-10-03 17:02:03.914495 | 4 | 5 | 9 |
 | 2025-10-02 17:01:52.913552 | 2 | 2 | 4 |
 | 2025-10-01 17:02:04.468095 | 3 | 3 | 6 |
-| 2025-09-30 17:02:01.575172 | 1 | 0 | 1 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,13 +87,23 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Jack's Abby Porch Fest | Lager | 5.50% | Bottle/Can | Framingham, MA |
-| Goose Island Bourbon County Stout  | Stout (2023) | 14.10% | Draft | Chicago, IL |
+| Lakefront Oktoberfest | Marzen | 5.60% | Bottle/Can | Milwaukee, WI |
+| Lakefront Pumpkin | Pumpkin Lager | 6.10% | Bottle/Can | Milwaukee, WI |
+| Partake Oktoberfest | N/A Oktoberfest | 0.50% | Bottle/Can | Chicago, IL |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Lakefront Pumpkin | Pumpkin Lager | 6.10% | Bottle/Can | Milwaukee, Wisconsin |
+| Cushwa Jello (16oz) | NEIPA | 6.60% | Bottle/Can | Williamsport, MD |
+| Ellicottville Blood Orange | Hefeweizen | 4.60% | Bottle/Can | Ellicottville, NY |
+| Rupee Mango Wheat Ale (16oz) | Wheat Ale | 4.00% | Bottle/Can | Potosi, WI |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 31
-- **Current Beer Count**: 69
-- **Total Change Records**: 30
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-09 17:02:06.214120
+- **Total Snapshots**: 32
+- **Current Beer Count**: 68
+- **Total Change Records**: 31
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-10 17:02:15.674807
