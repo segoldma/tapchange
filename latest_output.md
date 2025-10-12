@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-10-11 17:01:40*
+*Generated on 2025-10-12 17:01:47*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-10-12 17:01:47.212224 | 67 |
 | 2025-10-11 17:01:40.089326 | 67 |
 | 2025-10-10 17:02:15.674807 | 68 |
 | 2025-10-09 17:02:06.214120 | 69 |
@@ -14,7 +15,6 @@
 | 2025-10-05 17:01:51.406635 | 66 |
 | 2025-10-04 17:01:59.462882 | 66 |
 | 2025-10-03 17:02:03.914495 | 66 |
-| 2025-10-02 17:01:52.913552 | 67 |
 
 ### 🍺 Current Beer List
 
@@ -27,7 +27,6 @@
 | Peabody Heights The Last Of Oyst | Stout | 6.00% | Baltimore, MD |
 | Ellicottville Blueberry Wheat | Wheat Beer | 4.80% | Ellicottville, NY |
 | Wico Street Mr.Steezyagi | Rice Lager | 5.50% | Baltimore, MD |
-| Wico Street Steezaroni | Italian Pilsner | 5.00% | Baltimore, MD |
 | Nepenthe Plutonian Shore | Oatmeal Stout | 6.80% | Baltimore, MD |
 | Brewer's Alley Old As Helles | Lager | 4.50% | Frederick, MD |
 | Ommegang Cooper's Hop Tripel IPA | Triple IPA | 10.50% | Cooperstown, NY |
@@ -38,6 +37,7 @@
 | Union Zadie's Lager | Lager | 4.50% | Baltimore, MD |
 | Lagunita's IPA | IPA | 6.20% | Petaluma, CA |
 | Goose Island Bourbon County Stout  | Stout (2023) | 14.10% | Chicago, IL |
+| Olde Mother Fest | Marzen | 5.90% | Frederick, MD |
 
 #### 🥫 Bottles & Cans (51)
 
@@ -59,10 +59,10 @@
 | Oliver's Strawberry Lemonade Refresher | Berliner Weiss | 4.00% | Baltimore, MD |
 | Leinenkugel Berry Weiss | Wheat Ale | 4.70% | Chippewa Falls, WI |
 | Schlafly Black IPA | Black IPA | 6.00% | St. Louis, MO |
-| Dogfish Head Festina Pêche | Berliner Weisse | 4.50% | Milton, DE |
 | Firestone Walker Mind Haze Grapefruit | Imperial Radler | 8.00% | Paso Robles, CA |
 | Firestone Walker Mind Haze Watermelon Rage | Imperial Radler | 8.00% | Paso Robles, CA |
 | Firestone Walker Mind Haze Lemonade | Imperial Radler | 8.00% | Paso Robles, CA |
+| Burley Oak Cashmere Cowboy (16oz) | DIPA | 8.00% | Berlin, MD |
 | *... and 31 more* | | | |
 
 
@@ -70,6 +70,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-10-12 17:01:47.212224 | 3 | 3 | 6 |
 | 2025-10-11 17:01:40.089326 | 3 | 4 | 7 |
 | 2025-10-10 17:02:15.674807 | 3 | 4 | 7 |
 | 2025-10-09 17:02:06.214120 | 2 | 0 | 2 |
@@ -79,7 +80,6 @@
 | 2025-10-05 17:01:51.406635 | 11 | 11 | 22 |
 | 2025-10-04 17:01:59.462882 | 0 | 0 | 0 |
 | 2025-10-03 17:02:03.914495 | 4 | 5 | 9 |
-| 2025-10-02 17:01:52.913552 | 2 | 2 | 4 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,23 +87,22 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Manor Hill My Own Murder | Black IPA | 6.50% | Bottle/Can | Ellicott City, MD |
-| Jack's Abbey House Lager | Helles Lager | 5.20% | Bottle/Can | Farmingham, MA |
-| Oskar Blues Old Chub | Scotch Ale | 8.00% | Bottle/Can | Longmont, CO |
+| Olde Mother Fest | Marzen | 5.90% | Draft | Frederick, MD |
+| OEC Yuzu Pilsner | Pilsner | 5.20% | Bottle/Can | Oxford, CT |
+| Ole Mother Tempest | Hefeweizen | 5.10% | Bottle/Can | Frederick, MD |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Forward Dry Dock Amber | Amber Lager | 5.50% | Bottle/Can | Baltimore, MD |
-| Jack's Abby Post Shift | Pilsner | 4.70% | Bottle/Can | Framingham, MA |
-| Peabody Heights The Catch | IPA | 6.20% | Bottle/Can | Baltimore, MD |
-| Jack's Abby Porch Fest | Lager | 5.50% | Bottle/Can | Framingham, MA |
+| Dogfish Head Festina Pêche | Berliner Weisse | 4.50% | Bottle/Can | Milton, DE |
+| Wico Street Steezaroni | Italian Pilsner | 5.00% | Draft | Baltimore, MD |
+| Ithaca Passionfruit Meyer Lemon (16oz) | Sour Ale | 5.00% | Bottle/Can | Ithaca, NY |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 33
+- **Total Snapshots**: 34
 - **Current Beer Count**: 67
-- **Total Change Records**: 32
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-11 17:01:40.089326
+- **Total Change Records**: 33
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-12 17:01:47.212224
