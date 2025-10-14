@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-10-13 17:01:52*
+*Generated on 2025-10-14 17:05:23*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-10-14 17:05:23.400251 | 66 |
 | 2025-10-13 17:01:52.389860 | 67 |
 | 2025-10-12 17:01:47.212224 | 67 |
 | 2025-10-11 17:01:40.089326 | 67 |
@@ -14,11 +15,10 @@
 | 2025-10-07 17:02:09.076275 | 67 |
 | 2025-10-06 17:02:06.110700 | 66 |
 | 2025-10-05 17:01:51.406635 | 66 |
-| 2025-10-04 17:01:59.462882 | 66 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (16)
+#### 🍺 Draft Beers (15)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -27,7 +27,6 @@
 | Peabody Heights The Last Of Oyst | Stout | 6.00% | Baltimore, MD |
 | Ellicottville Blueberry Wheat | Wheat Beer | 4.80% | Ellicottville, NY |
 | Wico Street Mr.Steezyagi | Rice Lager | 5.50% | Baltimore, MD |
-| Nepenthe Plutonian Shore | Oatmeal Stout | 6.80% | Baltimore, MD |
 | Brewer's Alley Old As Helles | Lager | 4.50% | Frederick, MD |
 | Ommegang Cooper's Hop Tripel IPA | Triple IPA | 10.50% | Cooperstown, NY |
 | Monocacy Farrah Fig | Fruited Wheat | 5.20% | Frederick, MD |
@@ -37,7 +36,7 @@
 | Union Zadie's Lager | Lager | 4.50% | Baltimore, MD |
 | Lagunita's IPA | IPA | 6.20% | Petaluma, CA |
 | Goose Island Bourbon County Stout  | Stout (2023) | 14.10% | Chicago, IL |
-| Olde Mother Fest | Marzen | 5.90% | Frederick, MD |
+| Wico Street Steezaroni | Italian Pilsner | 5.00% | Baltimore, MD |
 
 #### 🥫 Bottles & Cans (51)
 
@@ -70,6 +69,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-10-14 17:05:23.400251 | 3 | 4 | 7 |
 | 2025-10-13 17:01:52.389860 | 0 | 0 | 0 |
 | 2025-10-12 17:01:47.212224 | 3 | 3 | 6 |
 | 2025-10-11 17:01:40.089326 | 3 | 4 | 7 |
@@ -79,16 +79,30 @@
 | 2025-10-07 17:02:09.076275 | 4 | 3 | 7 |
 | 2025-10-06 17:02:06.110700 | 0 | 0 | 0 |
 | 2025-10-05 17:01:51.406635 | 11 | 11 | 22 |
-| 2025-10-04 17:01:59.462882 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Manor Hill Hike the Alps: Kellerbier | Kellerbier | 5.30% | Bottle/Can | Ellicott City, MD |
+| Wico Street Steezaroni | Italian Pilsner | 5.00% | Draft | Baltimore, MD |
+| Olde Mother Tempest | Hefeweizen | 5.10% | Bottle/Can | Frederick, MD |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Ole Mother Tempest | Hefeweizen | 5.10% | Bottle/Can | Frederick, MD |
+| Nepenthe Plutonian Shore | Oatmeal Stout | 6.80% | Draft | Baltimore, MD |
+| Olde Mother Fest | Marzen | 5.90% | Draft | Frederick, MD |
+| Brooklyn Oktoberfest | Marzen | 5.50% | Bottle/Can | Brooklyn, NY |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 35
-- **Current Beer Count**: 67
-- **Total Change Records**: 34
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-13 17:01:52.389860
+- **Total Snapshots**: 36
+- **Current Beer Count**: 66
+- **Total Change Records**: 35
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-14 17:05:23.400251
