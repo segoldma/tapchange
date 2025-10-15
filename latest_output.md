@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-10-14 17:05:23*
+*Generated on 2025-10-15 17:02:02*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-10-15 17:02:01.914609 | 66 |
 | 2025-10-14 17:05:23.400251 | 66 |
 | 2025-10-13 17:01:52.389860 | 67 |
 | 2025-10-12 17:01:47.212224 | 67 |
@@ -14,31 +15,31 @@
 | 2025-10-08 17:02:09.813968 | 67 |
 | 2025-10-07 17:02:09.076275 | 67 |
 | 2025-10-06 17:02:06.110700 | 66 |
-| 2025-10-05 17:01:51.406635 | 66 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (15)
+#### 🍺 Draft Beers (16)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
 | Kentucky Pumpkin Barrel Age | Pumpkin Ale | 10.00% | Lexington, KY |
 | Appalachian Campfire Peanut Butter Decadence Smores | Nitro Cream Ale | 4.90% | Harrisburg, PA |
-| Peabody Heights The Last Of Oyst | Stout | 6.00% | Baltimore, MD |
 | Ellicottville Blueberry Wheat | Wheat Beer | 4.80% | Ellicottville, NY |
 | Wico Street Mr.Steezyagi | Rice Lager | 5.50% | Baltimore, MD |
 | Brewer's Alley Old As Helles | Lager | 4.50% | Frederick, MD |
 | Ommegang Cooper's Hop Tripel IPA | Triple IPA | 10.50% | Cooperstown, NY |
 | Monocacy Farrah Fig | Fruited Wheat | 5.20% | Frederick, MD |
 | Wico Street Mr. Footballhead | WC IPA | 7.00% | Baltimore, MD |
-| Union Divine | IPA | 6.50% | Baltimore, MD |
 | Union Lil' Dipper | Hazy IPA | 4.70% | Baltimore, MD |
 | Union Zadie's Lager | Lager | 4.50% | Baltimore, MD |
 | Lagunita's IPA | IPA | 6.20% | Petaluma, CA |
 | Goose Island Bourbon County Stout  | Stout (2023) | 14.10% | Chicago, IL |
 | Wico Street Steezaroni | Italian Pilsner | 5.00% | Baltimore, MD |
+| Olde Mother Hank | Lager | 4.60% | Frederick, MD |
+| Olde Mother Festbier | Märzen | 5.90% | Frederick, MD |
+| Olde Mother Portal Vision | IPA | 6.20% | Frederick, MD |
 
-#### 🥫 Bottles & Cans (51)
+#### 🥫 Bottles & Cans (50)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -62,13 +63,14 @@
 | Firestone Walker Mind Haze Watermelon Rage | Imperial Radler | 8.00% | Paso Robles, CA |
 | Firestone Walker Mind Haze Lemonade | Imperial Radler | 8.00% | Paso Robles, CA |
 | Burley Oak Cashmere Cowboy (16oz) | DIPA | 8.00% | Berlin, MD |
-| *... and 31 more* | | | |
+| *... and 30 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-10-15 17:02:01.914609 | 4 | 4 | 8 |
 | 2025-10-14 17:05:23.400251 | 3 | 4 | 7 |
 | 2025-10-13 17:01:52.389860 | 0 | 0 | 0 |
 | 2025-10-12 17:01:47.212224 | 3 | 3 | 6 |
@@ -78,7 +80,6 @@
 | 2025-10-08 17:02:09.813968 | 0 | 0 | 0 |
 | 2025-10-07 17:02:09.076275 | 4 | 3 | 7 |
 | 2025-10-06 17:02:06.110700 | 0 | 0 | 0 |
-| 2025-10-05 17:01:51.406635 | 11 | 11 | 22 |
 
 ### 🆕 Latest Changes Details
 
@@ -86,23 +87,24 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Manor Hill Hike the Alps: Kellerbier | Kellerbier | 5.30% | Bottle/Can | Ellicott City, MD |
-| Wico Street Steezaroni | Italian Pilsner | 5.00% | Draft | Baltimore, MD |
-| Olde Mother Tempest | Hefeweizen | 5.10% | Bottle/Can | Frederick, MD |
+| Olde Mother Hank | Lager | 4.60% | Draft | Frederick, MD |
+| Olde Mother Festbier | Märzen | 5.90% | Draft | Frederick, MD |
+| Denizens Hike the Alps: Kellerbier | Kellerbier | 5.30% | Bottle/Can | Ellicott City, MD |
+| Olde Mother Portal Vision | IPA | 6.20% | Draft | Frederick, MD |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Ole Mother Tempest | Hefeweizen | 5.10% | Bottle/Can | Frederick, MD |
-| Nepenthe Plutonian Shore | Oatmeal Stout | 6.80% | Draft | Baltimore, MD |
-| Olde Mother Fest | Marzen | 5.90% | Draft | Frederick, MD |
-| Brooklyn Oktoberfest | Marzen | 5.50% | Bottle/Can | Brooklyn, NY |
+| Union Divine | IPA | 6.50% | Draft | Baltimore, MD |
+| Peabody Heights The Last Of Oyst | Stout | 6.00% | Draft | Baltimore, MD |
+| Manor Hill Hike the Alps: Kellerbier | Kellerbier | 5.30% | Bottle/Can | Ellicott City, MD |
+| Lakefront Pumpkin | Pumpkin Lager | 6.10% | Bottle/Can | Milwaukee, WI |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 36
+- **Total Snapshots**: 37
 - **Current Beer Count**: 66
-- **Total Change Records**: 35
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-14 17:05:23.400251
+- **Total Change Records**: 36
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-15 17:02:01.914609
