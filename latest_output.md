@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-10-18 17:01:39*
+*Generated on 2025-10-19 17:02:00*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-10-19 17:02:00.685077 | 65 |
 | 2025-10-18 17:01:39.583504 | 64 |
 | 2025-10-17 17:01:52.004017 | 64 |
 | 2025-10-16 17:02:03.357865 | 69 |
@@ -14,11 +15,10 @@
 | 2025-10-12 17:01:47.212224 | 67 |
 | 2025-10-11 17:01:40.089326 | 67 |
 | 2025-10-10 17:02:15.674807 | 68 |
-| 2025-10-09 17:02:06.214120 | 69 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (16)
+#### 🍺 Draft Beers (17)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -27,17 +27,18 @@
 | Wico Street Mr.Steezyagi | Rice Lager | 5.50% | Baltimore, MD |
 | Brewer's Alley Old As Helles | Lager | 4.50% | Frederick, MD |
 | Ommegang Cooper's Hop Tripel IPA | Triple IPA | 10.50% | Cooperstown, NY |
-| Monocacy Farrah Fig | Fruited Wheat | 5.20% | Frederick, MD |
 | Wico Street Mr. Footballhead | WC IPA | 7.00% | Baltimore, MD |
 | Union Lil' Dipper | Hazy IPA | 4.70% | Baltimore, MD |
 | Union Zadie's Lager | Lager | 4.50% | Baltimore, MD |
 | Goose Island Bourbon County Stout  | Stout (2023) | 14.10% | Chicago, IL |
 | Wico Street Steezaroni | Italian Pilsner | 5.00% | Baltimore, MD |
+| Lagunita's IPA | IPA | 6.20% | Petaluma, CA |
 | Olde Mother Hank | Lager | 4.60% | Frederick, MD |
 | Olde Mother Festbier | Märzen | 5.90% | Frederick, MD |
 | Olde Mother Portal Vision | IPA | 6.20% | Frederick, MD |
 | New Trail Fresh Hop IPA | IPA | 6.70% | Williamsport, PA |
 | Kirin Ichiban | Lager | 5.00% | Japan |
+| Mully's Oktoberfest | Festbier | 5.20% | Prince Frederick, MD |
 
 #### 🥫 Bottles & Cans (48)
 
@@ -60,9 +61,9 @@
 | Firestone Walker Mind Haze Watermelon Rage | Imperial Radler | 8.00% | Paso Robles, CA |
 | Firestone Walker Mind Haze Lemonade | Imperial Radler | 8.00% | Paso Robles, CA |
 | Schlafly Dark Mild | British Mild Ale | 3.80% | St. Louis, MO |
-| Monocacy Watermelon Pomegranate(16oz) | Fruited Sour | 5.00% | Frederick, MD |
 | Falling Branch Harford Flock | WC IPA | 6.00% | Street, MD |
 | Falling Branch Stargazer's Pursuit | Porter | 5.50% | Street, MD |
+| Wet City Dunkel-ish | Dunkel | 5.80% | Baltimore, MD |
 | *... and 28 more* | | | |
 
 
@@ -70,6 +71,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-10-19 17:02:00.685077 | 3 | 2 | 5 |
 | 2025-10-18 17:01:39.583504 | 3 | 3 | 6 |
 | 2025-10-17 17:01:52.004017 | 2 | 7 | 9 |
 | 2025-10-16 17:02:03.357865 | 4 | 1 | 5 |
@@ -79,7 +81,6 @@
 | 2025-10-12 17:01:47.212224 | 3 | 3 | 6 |
 | 2025-10-11 17:01:40.089326 | 3 | 4 | 7 |
 | 2025-10-10 17:02:15.674807 | 3 | 4 | 7 |
-| 2025-10-09 17:02:06.214120 | 2 | 0 | 2 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,22 +88,21 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Lancaster Oktoberfest | Marzen | 5.50% | Bottle/Can | Lancaster, PA |
-| Kirin Ichiban | Lager | 5.00% | Draft | Japan |
-| New Trail Fresh Hop IPA | IPA | 6.70% | Draft | Williamsport, PA |
+| Cushwa It's All In Your Head (16oz) | WCIPA | 7.00% | Bottle/Can | Williamsport, MD |
+| Mully's Oktoberfest | Festbier | 5.20% | Draft | Prince Frederick, MD |
+| Lagunita's IPA | IPA | 6.20% | Draft | Petaluma, CA |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Lagunita's IPA | IPA | 6.20% | Draft | Petaluma, CA |
-| Kentucky Pumpkin Barrel Age | Pumpkin Ale | 10.00% | Draft | Lexington, KY |
-| Victory Festbier | Märzen | 5.60% | Bottle/Can | Downingtown, PA |
+| Monocacy Farrah Fig | Fruited Wheat | 5.20% | Draft | Frederick, MD |
+| Monocacy Watermelon Pomegranate(16oz) | Fruited Sour | 5.00% | Bottle/Can | Frederick, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 40
-- **Current Beer Count**: 64
-- **Total Change Records**: 39
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-18 17:01:39.583504
+- **Total Snapshots**: 41
+- **Current Beer Count**: 65
+- **Total Change Records**: 40
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-19 17:02:00.685077
