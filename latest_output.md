@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-10-20 17:01:49*
+*Generated on 2025-10-21 17:02:09*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-10-21 17:02:09.614115 | 66 |
 | 2025-10-20 17:01:49.659845 | 65 |
 | 2025-10-19 17:02:00.685077 | 65 |
 | 2025-10-18 17:01:39.583504 | 64 |
@@ -14,24 +15,20 @@
 | 2025-10-14 17:05:23.400251 | 66 |
 | 2025-10-13 17:01:52.389860 | 67 |
 | 2025-10-12 17:01:47.212224 | 67 |
-| 2025-10-11 17:01:40.089326 | 67 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (17)
+#### 🍺 Draft Beers (16)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
 | Appalachian Campfire Peanut Butter Decadence Smores | Nitro Cream Ale | 4.90% | Harrisburg, PA |
-| Ellicottville Blueberry Wheat | Wheat Beer | 4.80% | Ellicottville, NY |
 | Wico Street Mr.Steezyagi | Rice Lager | 5.50% | Baltimore, MD |
-| Brewer's Alley Old As Helles | Lager | 4.50% | Frederick, MD |
 | Ommegang Cooper's Hop Tripel IPA | Triple IPA | 10.50% | Cooperstown, NY |
 | Wico Street Mr. Footballhead | WC IPA | 7.00% | Baltimore, MD |
 | Union Lil' Dipper | Hazy IPA | 4.70% | Baltimore, MD |
 | Union Zadie's Lager | Lager | 4.50% | Baltimore, MD |
 | Goose Island Bourbon County Stout  | Stout (2023) | 14.10% | Chicago, IL |
-| Wico Street Steezaroni | Italian Pilsner | 5.00% | Baltimore, MD |
 | Lagunita's IPA | IPA | 6.20% | Petaluma, CA |
 | Olde Mother Hank | Lager | 4.60% | Frederick, MD |
 | Olde Mother Festbier | Märzen | 5.90% | Frederick, MD |
@@ -39,8 +36,10 @@
 | New Trail Fresh Hop IPA | IPA | 6.70% | Williamsport, PA |
 | Kirin Ichiban | Lager | 5.00% | Japan |
 | Mully's Oktoberfest | Festbier | 5.20% | Prince Frederick, MD |
+| Mully's Blood Orange | Blonde Ale | 5.20% | Prince Frederick, MD |
+| Mully's FruiTart | Berliner Weisse | 5.40% | Prince Frederick, MD |
 
-#### 🥫 Bottles & Cans (48)
+#### 🥫 Bottles & Cans (50)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -64,13 +63,14 @@
 | Falling Branch Harford Flock | WC IPA | 6.00% | Street, MD |
 | Falling Branch Stargazer's Pursuit | Porter | 5.50% | Street, MD |
 | Wet City Dunkel-ish | Dunkel | 5.80% | Baltimore, MD |
-| *... and 28 more* | | | |
+| *... and 30 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-10-21 17:02:09.614115 | 4 | 3 | 7 |
 | 2025-10-20 17:01:49.659845 | 0 | 0 | 0 |
 | 2025-10-19 17:02:00.685077 | 3 | 2 | 5 |
 | 2025-10-18 17:01:39.583504 | 3 | 3 | 6 |
@@ -80,16 +80,30 @@
 | 2025-10-14 17:05:23.400251 | 3 | 4 | 7 |
 | 2025-10-13 17:01:52.389860 | 0 | 0 | 0 |
 | 2025-10-12 17:01:47.212224 | 3 | 3 | 6 |
-| 2025-10-11 17:01:40.089326 | 3 | 4 | 7 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Mully's Blood Orange | Blonde Ale | 5.20% | Draft | Prince Frederick, MD |
+| Mully's FruiTart | Berliner Weisse | 5.40% | Draft | Prince Frederick, MD |
+| Ministry Oktoberfest | Marzen | 6.10% | Bottle/Can | Baltimore, MD |
+| Mully's Carmelite Wheat | Hefeweizen | 5.50% | Bottle/Can | Prince Frederick, MD |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Ellicottville Blueberry Wheat | Wheat Beer | 4.80% | Draft | Ellicottville, NY |
+| Wico Street Steezaroni | Italian Pilsner | 5.00% | Draft | Baltimore, MD |
+| Brewer's Alley Old As Helles | Lager | 4.50% | Draft | Frederick, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 42
-- **Current Beer Count**: 65
-- **Total Change Records**: 41
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-20 17:01:49.659845
+- **Total Snapshots**: 43
+- **Current Beer Count**: 66
+- **Total Change Records**: 42
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-21 17:02:09.614115
