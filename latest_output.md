@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-10-22 17:02:16*
+*Generated on 2025-10-23 17:01:58*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-10-23 17:01:58.551719 | 65 |
 | 2025-10-22 17:02:16.662742 | 66 |
 | 2025-10-21 17:02:09.614115 | 66 |
 | 2025-10-20 17:01:49.659845 | 65 |
@@ -14,7 +15,6 @@
 | 2025-10-16 17:02:03.357865 | 69 |
 | 2025-10-15 17:02:01.914609 | 66 |
 | 2025-10-14 17:05:23.400251 | 66 |
-| 2025-10-13 17:01:52.389860 | 67 |
 
 ### 🍺 Current Beer List
 
@@ -39,7 +39,7 @@
 | Mully's Blood Orange | Blonde Ale | 5.20% | Prince Frederick, MD |
 | Mully's FruiTart | Berliner Weisse | 5.40% | Prince Frederick, MD |
 
-#### 🥫 Bottles & Cans (50)
+#### 🥫 Bottles & Cans (49)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +63,14 @@
 | Falling Branch Harford Flock | WC IPA | 6.00% | Street, MD |
 | Falling Branch Stargazer's Pursuit | Porter | 5.50% | Street, MD |
 | Wet City Dunkel-ish | Dunkel | 5.80% | Baltimore, MD |
-| *... and 30 more* | | | |
+| *... and 29 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-10-23 17:01:58.551719 | 0 | 1 | 1 |
 | 2025-10-22 17:02:16.662742 | 0 | 0 | 0 |
 | 2025-10-21 17:02:09.614115 | 4 | 3 | 7 |
 | 2025-10-20 17:01:49.659845 | 0 | 0 | 0 |
@@ -79,16 +80,19 @@
 | 2025-10-16 17:02:03.357865 | 4 | 1 | 5 |
 | 2025-10-15 17:02:01.914609 | 4 | 4 | 8 |
 | 2025-10-14 17:05:23.400251 | 3 | 4 | 7 |
-| 2025-10-13 17:01:52.389860 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Whole Hog Pumpkin Ale (16oz) | Pumpkin Ale | 7.00% | Bottle/Can | Stevens Point, WI |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 44
-- **Current Beer Count**: 66
-- **Total Change Records**: 43
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-22 17:02:16.662742
+- **Total Snapshots**: 45
+- **Current Beer Count**: 65
+- **Total Change Records**: 44
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-23 17:01:58.551719
