@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-10-23 17:01:58*
+*Generated on 2025-10-24 17:01:55*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-10-24 17:01:55.480937 | 66 |
 | 2025-10-23 17:01:58.551719 | 65 |
 | 2025-10-22 17:02:16.662742 | 66 |
 | 2025-10-21 17:02:09.614115 | 66 |
@@ -14,7 +15,6 @@
 | 2025-10-17 17:01:52.004017 | 64 |
 | 2025-10-16 17:02:03.357865 | 69 |
 | 2025-10-15 17:02:01.914609 | 66 |
-| 2025-10-14 17:05:23.400251 | 66 |
 
 ### 🍺 Current Beer List
 
@@ -39,7 +39,7 @@
 | Mully's Blood Orange | Blonde Ale | 5.20% | Prince Frederick, MD |
 | Mully's FruiTart | Berliner Weisse | 5.40% | Prince Frederick, MD |
 
-#### 🥫 Bottles & Cans (49)
+#### 🥫 Bottles & Cans (50)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +63,14 @@
 | Falling Branch Harford Flock | WC IPA | 6.00% | Street, MD |
 | Falling Branch Stargazer's Pursuit | Porter | 5.50% | Street, MD |
 | Wet City Dunkel-ish | Dunkel | 5.80% | Baltimore, MD |
-| *... and 29 more* | | | |
+| *... and 30 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-10-24 17:01:55.480937 | 2 | 1 | 3 |
 | 2025-10-23 17:01:58.551719 | 0 | 1 | 1 |
 | 2025-10-22 17:02:16.662742 | 0 | 0 | 0 |
 | 2025-10-21 17:02:09.614115 | 4 | 3 | 7 |
@@ -79,20 +80,26 @@
 | 2025-10-17 17:01:52.004017 | 2 | 7 | 9 |
 | 2025-10-16 17:02:03.357865 | 4 | 1 | 5 |
 | 2025-10-15 17:02:01.914609 | 4 | 4 | 8 |
-| 2025-10-14 17:05:23.400251 | 3 | 4 | 7 |
 
 ### 🆕 Latest Changes Details
+
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Erdinger Brauhaus Lager (16oz) | Helles Lager | 5.10% | Bottle/Can | Germany |
+| Deschutes Royal Fresh (19.2oz) $10 | Imperial IPA | 9.00% | Bottle/Can | Bend, OR |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Whole Hog Pumpkin Ale (16oz) | Pumpkin Ale | 7.00% | Bottle/Can | Stevens Point, WI |
+| Lancaster Oktoberfest | Marzen | 5.50% | Bottle/Can | Lancaster, PA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 45
-- **Current Beer Count**: 65
-- **Total Change Records**: 44
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-23 17:01:58.551719
+- **Total Snapshots**: 46
+- **Current Beer Count**: 66
+- **Total Change Records**: 45
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-24 17:01:55.480937
