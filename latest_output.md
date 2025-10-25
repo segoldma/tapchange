@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-10-24 17:01:55*
+*Generated on 2025-10-25 17:01:53*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-10-25 17:01:52.929609 | 65 |
 | 2025-10-24 17:01:55.480937 | 66 |
 | 2025-10-23 17:01:58.551719 | 65 |
 | 2025-10-22 17:02:16.662742 | 66 |
@@ -14,7 +15,6 @@
 | 2025-10-18 17:01:39.583504 | 64 |
 | 2025-10-17 17:01:52.004017 | 64 |
 | 2025-10-16 17:02:03.357865 | 69 |
-| 2025-10-15 17:02:01.914609 | 66 |
 
 ### 🍺 Current Beer List
 
@@ -26,8 +26,6 @@
 | Wico Street Mr.Steezyagi | Rice Lager | 5.50% | Baltimore, MD |
 | Ommegang Cooper's Hop Tripel IPA | Triple IPA | 10.50% | Cooperstown, NY |
 | Wico Street Mr. Footballhead | WC IPA | 7.00% | Baltimore, MD |
-| Union Lil' Dipper | Hazy IPA | 4.70% | Baltimore, MD |
-| Union Zadie's Lager | Lager | 4.50% | Baltimore, MD |
 | Goose Island Bourbon County Stout  | Stout (2023) | 14.10% | Chicago, IL |
 | Lagunita's IPA | IPA | 6.20% | Petaluma, CA |
 | Olde Mother Hank | Lager | 4.60% | Frederick, MD |
@@ -38,8 +36,10 @@
 | Mully's Oktoberfest | Festbier | 5.20% | Prince Frederick, MD |
 | Mully's Blood Orange | Blonde Ale | 5.20% | Prince Frederick, MD |
 | Mully's FruiTart | Berliner Weisse | 5.40% | Prince Frederick, MD |
+| Union Divine | IPA | 9.00% | Baltimore, MD |
+| Sierra Nevada Northern Hemisphere Harvest | IPA | 6.70% | Chico, CA |
 
-#### 🥫 Bottles & Cans (50)
+#### 🥫 Bottles & Cans (49)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -60,16 +60,17 @@
 | Firestone Walker Mind Haze Watermelon Rage | Imperial Radler | 8.00% | Paso Robles, CA |
 | Firestone Walker Mind Haze Lemonade | Imperial Radler | 8.00% | Paso Robles, CA |
 | Schlafly Dark Mild | British Mild Ale | 3.80% | St. Louis, MO |
-| Falling Branch Harford Flock | WC IPA | 6.00% | Street, MD |
 | Falling Branch Stargazer's Pursuit | Porter | 5.50% | Street, MD |
 | Wet City Dunkel-ish | Dunkel | 5.80% | Baltimore, MD |
-| *... and 30 more* | | | |
+| Rupee Basmati Lager (16oz) | Lager | 4.70% | Potosi, WI |
+| *... and 29 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-10-25 17:01:52.929609 | 5 | 6 | 11 |
 | 2025-10-24 17:01:55.480937 | 2 | 1 | 3 |
 | 2025-10-23 17:01:58.551719 | 0 | 1 | 1 |
 | 2025-10-22 17:02:16.662742 | 0 | 0 | 0 |
@@ -79,7 +80,6 @@
 | 2025-10-18 17:01:39.583504 | 3 | 3 | 6 |
 | 2025-10-17 17:01:52.004017 | 2 | 7 | 9 |
 | 2025-10-16 17:02:03.357865 | 4 | 1 | 5 |
-| 2025-10-15 17:02:01.914609 | 4 | 4 | 8 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,19 +87,27 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Erdinger Brauhaus Lager (16oz) | Helles Lager | 5.10% | Bottle/Can | Germany |
-| Deschutes Royal Fresh (19.2oz) $10 | Imperial IPA | 9.00% | Bottle/Can | Bend, OR |
+| Appalachian Kipona Fest | Marzen | 6.00% | Bottle/Can | Harrisburg, PA |
+| Sierra Nevada Northern Hemisphere Harvest | IPA | 6.70% | Draft | Chico, CA |
+| Union Divine | IPA | 9.00% | Draft | Baltimore, MD |
+| Cushwa Patchwork Mosaic (16oz) | NEIPA | 6.00% | Bottle/Can | Williamsport, MD |
+| Black Flag Red Handed | Red Ale | 5.50% | Bottle/Can | Columbia, MD |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Lancaster Oktoberfest | Marzen | 5.50% | Bottle/Can | Lancaster, PA |
+| Falling Branch Harford Flock | WC IPA | 6.00% | Bottle/Can | Street, MD |
+| Union Zadie's Lager | Lager | 4.50% | Draft | Baltimore, MD |
+| Union Lil' Dipper | Hazy IPA | 4.70% | Draft | Baltimore, MD |
+| Nepenthe Alapaca Riot | IPA | 6.30% | Bottle/Can | Baltimore, MD |
+| Ithaca Blue Raz (16oz) | Sour Ale | 5.00% | Bottle/Can | Ithaca, NY |
+| Cushwa Trust Fund Hippie (16oz) | NEIPA | 6.70% | Bottle/Can | Williamsport, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 46
-- **Current Beer Count**: 66
-- **Total Change Records**: 45
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-24 17:01:55.480937
+- **Total Snapshots**: 47
+- **Current Beer Count**: 65
+- **Total Change Records**: 46
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-25 17:01:52.929609
