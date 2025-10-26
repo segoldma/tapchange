@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-10-25 17:01:53*
+*Generated on 2025-10-26 17:01:53*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-10-26 17:01:53.804250 | 66 |
 | 2025-10-25 17:01:52.929609 | 65 |
 | 2025-10-24 17:01:55.480937 | 66 |
 | 2025-10-23 17:01:58.551719 | 65 |
@@ -14,7 +15,6 @@
 | 2025-10-19 17:02:00.685077 | 65 |
 | 2025-10-18 17:01:39.583504 | 64 |
 | 2025-10-17 17:01:52.004017 | 64 |
-| 2025-10-16 17:02:03.357865 | 69 |
 
 ### 🍺 Current Beer List
 
@@ -39,7 +39,7 @@
 | Union Divine | IPA | 9.00% | Baltimore, MD |
 | Sierra Nevada Northern Hemisphere Harvest | IPA | 6.70% | Chico, CA |
 
-#### 🥫 Bottles & Cans (49)
+#### 🥫 Bottles & Cans (50)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +63,14 @@
 | Falling Branch Stargazer's Pursuit | Porter | 5.50% | Street, MD |
 | Wet City Dunkel-ish | Dunkel | 5.80% | Baltimore, MD |
 | Rupee Basmati Lager (16oz) | Lager | 4.70% | Potosi, WI |
-| *... and 29 more* | | | |
+| *... and 30 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-10-26 17:01:53.804250 | 1 | 0 | 1 |
 | 2025-10-25 17:01:52.929609 | 5 | 6 | 11 |
 | 2025-10-24 17:01:55.480937 | 2 | 1 | 3 |
 | 2025-10-23 17:01:58.551719 | 0 | 1 | 1 |
@@ -79,7 +80,6 @@
 | 2025-10-19 17:02:00.685077 | 3 | 2 | 5 |
 | 2025-10-18 17:01:39.583504 | 3 | 3 | 6 |
 | 2025-10-17 17:01:52.004017 | 2 | 7 | 9 |
-| 2025-10-16 17:02:03.357865 | 4 | 1 | 5 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,27 +87,12 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Appalachian Kipona Fest | Marzen | 6.00% | Bottle/Can | Harrisburg, PA |
-| Sierra Nevada Northern Hemisphere Harvest | IPA | 6.70% | Draft | Chico, CA |
-| Union Divine | IPA | 9.00% | Draft | Baltimore, MD |
-| Cushwa Patchwork Mosaic (16oz) | NEIPA | 6.00% | Bottle/Can | Williamsport, MD |
-| Black Flag Red Handed | Red Ale | 5.50% | Bottle/Can | Columbia, MD |
-
-#### ➖ Removed Beers
-
-| Name | Style | ABV | Vessel | Location |
-|------|-------|-----|--------|----------|
-| Falling Branch Harford Flock | WC IPA | 6.00% | Bottle/Can | Street, MD |
-| Union Zadie's Lager | Lager | 4.50% | Draft | Baltimore, MD |
-| Union Lil' Dipper | Hazy IPA | 4.70% | Draft | Baltimore, MD |
-| Nepenthe Alapaca Riot | IPA | 6.30% | Bottle/Can | Baltimore, MD |
-| Ithaca Blue Raz (16oz) | Sour Ale | 5.00% | Bottle/Can | Ithaca, NY |
-| Cushwa Trust Fund Hippie (16oz) | NEIPA | 6.70% | Bottle/Can | Williamsport, MD |
+| Smuttynose Imperial Whole Lotta Haze | NEIPA | 9.00% | Bottle/Can | Hampton, NH |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 47
-- **Current Beer Count**: 65
-- **Total Change Records**: 46
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-25 17:01:52.929609
+- **Total Snapshots**: 48
+- **Current Beer Count**: 66
+- **Total Change Records**: 47
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-26 17:01:53.804250
