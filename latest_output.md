@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-10-27 17:02:05*
+*Generated on 2025-10-28 17:02:15*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-10-28 17:02:15.678351 | 67 |
 | 2025-10-27 17:02:05.385092 | 66 |
 | 2025-10-26 17:01:53.804250 | 66 |
 | 2025-10-25 17:01:52.929609 | 65 |
@@ -14,19 +15,16 @@
 | 2025-10-21 17:02:09.614115 | 66 |
 | 2025-10-20 17:01:49.659845 | 65 |
 | 2025-10-19 17:02:00.685077 | 65 |
-| 2025-10-18 17:01:39.583504 | 64 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (16)
+#### 🍺 Draft Beers (18)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
 | Appalachian Campfire Peanut Butter Decadence Smores | Nitro Cream Ale | 4.90% | Harrisburg, PA |
 | Wico Street Mr.Steezyagi | Rice Lager | 5.50% | Baltimore, MD |
-| Ommegang Cooper's Hop Tripel IPA | Triple IPA | 10.50% | Cooperstown, NY |
 | Wico Street Mr. Footballhead | WC IPA | 7.00% | Baltimore, MD |
-| Goose Island Bourbon County Stout  | Stout (2023) | 14.10% | Chicago, IL |
 | Lagunita's IPA | IPA | 6.20% | Petaluma, CA |
 | Olde Mother Hank | Lager | 4.60% | Frederick, MD |
 | Olde Mother Festbier | Märzen | 5.90% | Frederick, MD |
@@ -36,10 +34,14 @@
 | Mully's Oktoberfest | Festbier | 5.20% | Prince Frederick, MD |
 | Mully's Blood Orange | Blonde Ale | 5.20% | Prince Frederick, MD |
 | Mully's FruiTart | Berliner Weisse | 5.40% | Prince Frederick, MD |
-| Union Divine | IPA | 9.00% | Baltimore, MD |
+| Union Divine | IPA | 6.50% | Baltimore, MD |
 | Sierra Nevada Northern Hemisphere Harvest | IPA | 6.70% | Chico, CA |
+| Falling Branch That's My Uncrustable | Sour Ale | 5.00% | Street, MD |
+| Falling Branch Clear Skies | Helles Lager | 5.00% | Street, MD |
+| Falling Branch Sakura Winds  | Rice Lager | 5.00% | Street, MD |
+| Falling Branch Falling Pumpkin | Pumpkin Ale | 5.00% | Street, MD |
 
-#### 🥫 Bottles & Cans (50)
+#### 🥫 Bottles & Cans (49)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +65,14 @@
 | Falling Branch Stargazer's Pursuit | Porter | 5.50% | Street, MD |
 | Wet City Dunkel-ish | Dunkel | 5.80% | Baltimore, MD |
 | Rupee Basmati Lager (16oz) | Lager | 4.70% | Potosi, WI |
-| *... and 30 more* | | | |
+| *... and 29 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-10-28 17:02:15.678351 | 6 | 5 | 11 |
 | 2025-10-27 17:02:05.385092 | 1 | 1 | 2 |
 | 2025-10-26 17:01:53.804250 | 1 | 0 | 1 |
 | 2025-10-25 17:01:52.929609 | 5 | 6 | 11 |
@@ -79,7 +82,6 @@
 | 2025-10-21 17:02:09.614115 | 4 | 3 | 7 |
 | 2025-10-20 17:01:49.659845 | 0 | 0 | 0 |
 | 2025-10-19 17:02:00.685077 | 3 | 2 | 5 |
-| 2025-10-18 17:01:39.583504 | 3 | 3 | 6 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,18 +89,27 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Smuttynose Imperial Whole Lotta Haze(19.2oz)$10 | NEIPA | 9.00% | Bottle/Can | Hampton, NH |
+| Falling Branch Sakura Winds  | Rice Lager | 5.00% | Draft | Street, MD |
+| Smuttynose Imp. Whole Lotta Haze(19.2oz)$10 | NEIPA | 9.00% | Bottle/Can | Hampton, NH |
+| Falling Branch That's My Uncrustable | Sour Ale | 5.00% | Draft | Street, MD |
+| Falling Branch Falling Pumpkin | Pumpkin Ale | 5.00% | Draft | Street, MD |
+| Union Divine | IPA | 6.50% | Draft | Baltimore, MD |
+| Falling Branch Clear Skies | Helles Lager | 5.00% | Draft | Street, MD |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Smuttynose Imperial Whole Lotta Haze | NEIPA | 9.00% | Bottle/Can | Hampton, NH |
+| Ommegang Cooper's Hop Tripel IPA | Triple IPA | 10.50% | Draft | Cooperstown, NY |
+| Ithaca Mango Muscadine (16oz) | Sour Ale | 5.00% | Bottle/Can | Ithaca, NY |
+| Smuttynose Imperial Whole Lotta Haze(19.2oz)$10 | NEIPA | 9.00% | Bottle/Can | Hampton, NH |
+| Goose Island Bourbon County Stout  | Stout (2023) | 14.10% | Draft | Chicago, IL |
+| Union Divine | IPA | 9.00% | Draft | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 49
-- **Current Beer Count**: 66
-- **Total Change Records**: 48
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-27 17:02:05.385092
+- **Total Snapshots**: 50
+- **Current Beer Count**: 67
+- **Total Change Records**: 49
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-28 17:02:15.678351
