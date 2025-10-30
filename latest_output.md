@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-10-29 17:02:40*
+*Generated on 2025-10-30 17:01:53*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-10-30 17:01:53.474226 | 63 |
 | 2025-10-29 17:02:40.015559 | 64 |
 | 2025-10-28 17:02:15.678351 | 67 |
 | 2025-10-27 17:02:05.385092 | 66 |
@@ -14,7 +15,6 @@
 | 2025-10-23 17:01:58.551719 | 65 |
 | 2025-10-22 17:02:16.662742 | 66 |
 | 2025-10-21 17:02:09.614115 | 66 |
-| 2025-10-20 17:01:49.659845 | 65 |
 
 ### 🍺 Current Beer List
 
@@ -39,7 +39,7 @@
 | Falling Branch Sakura Winds  | Rice Lager | 5.00% | Street, MD |
 | Falling Branch Falling Pumpkin | Pumpkin Ale | 5.00% | Street, MD |
 
-#### 🥫 Bottles & Cans (48)
+#### 🥫 Bottles & Cans (47)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -50,7 +50,6 @@
 | Dad Water  | Tequila Cocktail | 5.25% | Indianapolis, IN |
 | Monster The Beast: Peach Perfect | Not Beer | 6.00% | Cold Spring, MN |
 | MY5 The Original or Tangerine  | Not Beer | 4.50% | Landsdale, PA |
-| Go Disarm Hazy IPA | N/A IPA | 0.50% | Naperville, Il |
 | Partake Oktoberfest | N/A Oktoberfest | 0.50% | Chicago, IL |
 | Liefmans Goudenband ($13) | Oud Bruin | 8.00% | Belgium |
 | OEC Biere De Mai (16oz) ($12) | Wild Ale | 6.00% | Oxford, CT |
@@ -63,13 +62,15 @@
 | Falling Branch Stargazer's Pursuit | Porter | 5.50% | Street, MD |
 | Wet City Dunkel-ish | Dunkel | 5.80% | Baltimore, MD |
 | Rupee Basmati Lager (16oz) | Lager | 4.70% | Potosi, WI |
-| *... and 28 more* | | | |
+| Ministry Bake Sale | Sour Ale | 5.80% | Baltimore, MD |
+| *... and 27 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-10-30 17:01:53.474226 | 0 | 1 | 1 |
 | 2025-10-29 17:02:40.015559 | 1 | 4 | 5 |
 | 2025-10-28 17:02:15.678351 | 6 | 5 | 11 |
 | 2025-10-27 17:02:05.385092 | 1 | 1 | 2 |
@@ -79,29 +80,19 @@
 | 2025-10-23 17:01:58.551719 | 0 | 1 | 1 |
 | 2025-10-22 17:02:16.662742 | 0 | 0 | 0 |
 | 2025-10-21 17:02:09.614115 | 4 | 3 | 7 |
-| 2025-10-20 17:01:49.659845 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
-
-#### ➕ Added Beers
-
-| Name | Style | ABV | Vessel | Location |
-|------|-------|-----|--------|----------|
-| Falling Branch That's My Uncrusted | Sour Ale | 5.00% | Draft | Street, MD |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Kirin Ichiban | Lager | 5.00% | Draft | Japan |
-| Lagunita's IPA | IPA | 6.20% | Draft | Petaluma, CA |
-| Falling Branch That's My Uncrustable | Sour Ale | 5.00% | Draft | Street, MD |
-| Peroni | Italian Lager | 4.70% | Bottle/Can | Italy |
+| Go Disarm Hazy IPA | N/A IPA | 0.50% | Bottle/Can | Naperville, Il |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 51
-- **Current Beer Count**: 64
-- **Total Change Records**: 50
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-29 17:02:40.015559
+- **Total Snapshots**: 52
+- **Current Beer Count**: 63
+- **Total Change Records**: 51
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-30 17:01:53.474226
