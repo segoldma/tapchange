@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-10-30 17:01:53*
+*Generated on 2025-10-31 17:02:18*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-10-31 17:02:18.138092 | 67 |
 | 2025-10-30 17:01:53.474226 | 63 |
 | 2025-10-29 17:02:40.015559 | 64 |
 | 2025-10-28 17:02:15.678351 | 67 |
@@ -14,7 +15,6 @@
 | 2025-10-24 17:01:55.480937 | 66 |
 | 2025-10-23 17:01:58.551719 | 65 |
 | 2025-10-22 17:02:16.662742 | 66 |
-| 2025-10-21 17:02:09.614115 | 66 |
 
 ### 🍺 Current Beer List
 
@@ -26,10 +26,7 @@
 | Wico Street Mr.Steezyagi | Rice Lager | 5.50% | Baltimore, MD |
 | Wico Street Mr. Footballhead | WC IPA | 7.00% | Baltimore, MD |
 | Olde Mother Hank | Lager | 4.60% | Frederick, MD |
-| Olde Mother Festbier | Märzen | 5.90% | Frederick, MD |
 | Olde Mother Portal Vision | IPA | 6.20% | Frederick, MD |
-| New Trail Fresh Hop IPA | IPA | 6.70% | Williamsport, PA |
-| Mully's Oktoberfest | Festbier | 5.20% | Prince Frederick, MD |
 | Mully's Blood Orange | Blonde Ale | 5.20% | Prince Frederick, MD |
 | Mully's FruiTart | Berliner Weisse | 5.40% | Prince Frederick, MD |
 | Union Divine | IPA | 6.50% | Baltimore, MD |
@@ -38,8 +35,11 @@
 | Falling Branch Clear Skies | Helles Lager | 5.00% | Street, MD |
 | Falling Branch Sakura Winds  | Rice Lager | 5.00% | Street, MD |
 | Falling Branch Falling Pumpkin | Pumpkin Ale | 5.00% | Street, MD |
+| Lagunita's IPA | IPA | 6.20% | Petaluma, CA |
+| Kirin Ichiban | Lager | 5.00% | Japan |
+| New Trail Leaf Peeper | IPA | 6.30% | Williamsport, PA |
 
-#### 🥫 Bottles & Cans (47)
+#### 🥫 Bottles & Cans (51)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -52,7 +52,6 @@
 | MY5 The Original or Tangerine  | Not Beer | 4.50% | Landsdale, PA |
 | Partake Oktoberfest | N/A Oktoberfest | 0.50% | Chicago, IL |
 | Liefmans Goudenband ($13) | Oud Bruin | 8.00% | Belgium |
-| OEC Biere De Mai (16oz) ($12) | Wild Ale | 6.00% | Oxford, CT |
 | Great Lakes Strawberry Pineapple Wheat | Wheat Ale | 5.50% | Cleveland, OH |
 | Schlafly Black IPA | Black IPA | 6.00% | St. Louis, MO |
 | Firestone Walker Mind Haze Grapefruit | Imperial Radler | 8.00% | Paso Robles, CA |
@@ -63,13 +62,15 @@
 | Wet City Dunkel-ish | Dunkel | 5.80% | Baltimore, MD |
 | Rupee Basmati Lager (16oz) | Lager | 4.70% | Potosi, WI |
 | Ministry Bake Sale | Sour Ale | 5.80% | Baltimore, MD |
-| *... and 27 more* | | | |
+| Schlafly Doppelbock | Doppelbock | 6.00% | St. Louis, MO |
+| *... and 31 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-10-31 17:02:18.138092 | 8 | 4 | 12 |
 | 2025-10-30 17:01:53.474226 | 0 | 1 | 1 |
 | 2025-10-29 17:02:40.015559 | 1 | 4 | 5 |
 | 2025-10-28 17:02:15.678351 | 6 | 5 | 11 |
@@ -79,20 +80,35 @@
 | 2025-10-24 17:01:55.480937 | 2 | 1 | 3 |
 | 2025-10-23 17:01:58.551719 | 0 | 1 | 1 |
 | 2025-10-22 17:02:16.662742 | 0 | 0 | 0 |
-| 2025-10-21 17:02:09.614115 | 4 | 3 | 7 |
 
 ### 🆕 Latest Changes Details
+
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Appalachian Breakfast At Basecamp | Helles Lager | 5.50% | Bottle/Can | Harrisburg, PA |
+| Lancaster Oktoberfest | Marzen | 5.20% | Bottle/Can | Lancaster, PA |
+| Kirin Ichiban | Lager | 5.00% | Draft | Japan |
+| Lagunita's IPA | IPA | 6.20% | Draft | Petaluma, CA |
+| Cushwa Jello | IPA | 6.60% | Bottle/Can | Williamsport, MD |
+| Appalachian Wildest Dreams (16oz) | Fruited Sour | 5.50% | Bottle/Can | Harrisburg, PA |
+| New Trail Leaf Peeper | IPA | 6.30% | Draft | Williamsport, PA |
+| Founders CBS Stout (2025) $15 | Imperial Stout | 11.70% | Bottle/Can | Grand Rapids, MI |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Go Disarm Hazy IPA | N/A IPA | 0.50% | Bottle/Can | Naperville, Il |
+| Mully's Oktoberfest | Festbier | 5.20% | Draft | Prince Frederick, MD |
+| Olde Mother Festbier | Märzen | 5.90% | Draft | Frederick, MD |
+| OEC Biere De Mai (16oz) ($12) | Wild Ale | 6.00% | Bottle/Can | Oxford, CT |
+| New Trail Fresh Hop IPA | IPA | 6.70% | Draft | Williamsport, PA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 52
-- **Current Beer Count**: 63
-- **Total Change Records**: 51
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-30 17:01:53.474226
+- **Total Snapshots**: 53
+- **Current Beer Count**: 67
+- **Total Change Records**: 52
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-10-31 17:02:18.138092
