@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-11-05 17:02:37*
+*Generated on 2025-11-06 17:03:25*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-11-06 17:03:25.186777 | 67 |
 | 2025-11-05 17:02:36.924610 | 67 |
 | 2025-11-04 17:02:05.932930 | 66 |
 | 2025-11-03 17:02:06.426310 | 67 |
@@ -14,7 +15,6 @@
 | 2025-10-30 17:01:53.474226 | 63 |
 | 2025-10-29 17:02:40.015559 | 64 |
 | 2025-10-28 17:02:15.678351 | 67 |
-| 2025-10-27 17:02:05.385092 | 66 |
 
 ### 🍺 Current Beer List
 
@@ -24,7 +24,6 @@
 |------|-------|-----|----------|
 | Appalachian Campfire Peanut Butter Decadence Smores | Nitro Cream Ale | 4.90% | Harrisburg, PA |
 | Wico Street Mr.Steezyagi | Rice Lager | 5.50% | Baltimore, MD |
-| Wico Street Mr. Footballhead | WC IPA | 7.00% | Baltimore, MD |
 | Olde Mother Portal Vision | IPA | 6.20% | Frederick, MD |
 | Mully's Blood Orange | Blonde Ale | 5.20% | Prince Frederick, MD |
 | Mully's FruiTart | Berliner Weisse | 5.40% | Prince Frederick, MD |
@@ -38,6 +37,7 @@
 | Bell's Hazy Hearted | Hazy IPA | 7.50% | Kalamazoo, MI |
 | New Belgium Voodoo Ranger Juizy Haze | Hazy IPA | 7.50% | Fort Collins, CO |
 | New Belgium Fat Tire | Red Ale | 5.20% | Fort Collins, CO |
+| Lagunita's IPA | IPA | 6.20% | Petaluma, CA |
 
 #### 🥫 Bottles & Cans (51)
 
@@ -70,6 +70,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-11-06 17:03:25.186777 | 1 | 1 | 2 |
 | 2025-11-05 17:02:36.924610 | 7 | 6 | 13 |
 | 2025-11-04 17:02:05.932930 | 1 | 2 | 3 |
 | 2025-11-03 17:02:06.426310 | 1 | 0 | 1 |
@@ -79,7 +80,6 @@
 | 2025-10-30 17:01:53.474226 | 0 | 1 | 1 |
 | 2025-10-29 17:02:40.015559 | 1 | 4 | 5 |
 | 2025-10-28 17:02:15.678351 | 6 | 5 | 11 |
-| 2025-10-27 17:02:05.385092 | 1 | 1 | 2 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,29 +87,18 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Best Day Brewing White | N/A Wheat Ale | 0.50% | Bottle/Can | Sausalito, CA |
-| Bell's Hazy Hearted | Hazy IPA | 7.50% | Draft | Kalamazoo, MI |
-| Pommeau de Normande (5oz Pours) | Cider | 17.00% | Bottle/Can | France |
-| New Belgium Fat Tire | Red Ale | 5.20% | Draft | Fort Collins, CO |
-| Cushwa Jello (16oz) | IPA | 6.60% | Bottle/Can | Williamsport, MD |
-| Bell's Big Hearted IPA | DIPA | 9.50% | Bottle/Can | Kalamazoo, MI |
-| New Belgium Voodoo Ranger Juizy Haze | Hazy IPA | 7.50% | Draft | Fort Collins, CO |
+| Lagunita's IPA | IPA | 6.20% | Draft | Petaluma, CA |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Union Divine | IPA | 6.50% | Draft | Baltimore, MD |
-| Best Day Brewing White | Wheat Ale | 0.50% | Bottle/Can | Sausalito, CA |
-| Cushwa Jello | IPA | 6.60% | Bottle/Can | Williamsport, MD |
-| Lagunita's IPA | IPA | 6.20% | Draft | Petaluma, CA |
-| Pommeau de Normande(5oz Pours) | Cider | 17.00% | Bottle/Can | France |
-| Great Lakes Strawberry Pineapple Wheat | Wheat Ale | 5.50% | Bottle/Can | Cleveland, OH |
+| Wico Street Mr. Footballhead | WC IPA | 7.00% | Draft | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 58
+- **Total Snapshots**: 59
 - **Current Beer Count**: 67
-- **Total Change Records**: 57
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-05 17:02:36.924610
+- **Total Change Records**: 58
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-06 17:03:25.186777
