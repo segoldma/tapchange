@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-11-07 17:01:58*
+*Generated on 2025-11-08 17:01:45*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-11-08 17:01:44.907781 | 65 |
 | 2025-11-07 17:01:58.206319 | 67 |
 | 2025-11-06 17:03:25.186777 | 67 |
 | 2025-11-05 17:02:36.924610 | 67 |
@@ -14,7 +15,6 @@
 | 2025-11-01 17:01:39.582130 | 66 |
 | 2025-10-31 17:02:18.138092 | 67 |
 | 2025-10-30 17:01:53.474226 | 63 |
-| 2025-10-29 17:02:40.015559 | 64 |
 
 ### 🍺 Current Beer List
 
@@ -22,7 +22,6 @@
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
-| Appalachian Campfire Peanut Butter Decadence Smores | Nitro Cream Ale | 4.90% | Harrisburg, PA |
 | Mully's Blood Orange | Blonde Ale | 5.20% | Prince Frederick, MD |
 | Mully's FruiTart | Berliner Weisse | 5.40% | Prince Frederick, MD |
 | Sierra Nevada Northern Hemisphere Harvest | IPA | 6.70% | Chico, CA |
@@ -38,8 +37,9 @@
 | Union Divine | IPA | 6.50% | Baltimore, MD |
 | Peabody Heights Right Place,Wrong Time | Double IPA | 8.00% | Baltimore, MD |
 | Checkerspot Belgian Block | Kolsch | 4.60% | Baltimore, MD |
+| Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Longmont, CO |
 
-#### 🥫 Bottles & Cans (51)
+#### 🥫 Bottles & Cans (49)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -53,23 +53,24 @@
 | Best Day Kolsch | N/A Kolsch | 0.50% | California |
 | Best Day Brewing White | N/A Wheat Ale | 0.50% | Sausalito, CA |
 | Liefmans Goudenband ($13) | Oud Bruin | 8.00% | Belgium |
-| Schlafly Black IPA | Black IPA | 6.00% | St. Louis, MO |
 | Firestone Walker Mind Haze Grapefruit | Imperial Radler | 8.00% | Paso Robles, CA |
 | Firestone Walker Mind Haze Watermelon Rage | Imperial Radler | 8.00% | Paso Robles, CA |
 | Firestone Walker Mind Haze Lemonade | Imperial Radler | 8.00% | Paso Robles, CA |
 | Schlafly Dark Mild | British Mild Ale | 3.80% | St. Louis, MO |
 | Falling Branch Stargazer's Pursuit | Porter | 5.50% | Street, MD |
-| Wet City Dunkel-ish | Dunkel | 5.80% | Baltimore, MD |
 | Rupee Basmati Lager (16oz) | Lager | 4.70% | Potosi, WI |
 | Schlafly Doppelbock | Doppelbock | 6.00% | St. Louis, MO |
 | OEC Brewing Oolong Kolsch | Kolsch | 4.80% | Oxford, CT |
-| *... and 31 more* | | | |
+| Wico Street Hella Steez | Helles Lager | 5.50% | Baltimore, MD |
+| Ithaca Grapefruit Honey (16oz) | Sour Ale | 5.00% | Ithaca, NY |
+| *... and 29 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-11-08 17:01:44.907781 | 1 | 3 | 4 |
 | 2025-11-07 17:01:58.206319 | 7 | 7 | 14 |
 | 2025-11-06 17:03:25.186777 | 1 | 1 | 2 |
 | 2025-11-05 17:02:36.924610 | 7 | 6 | 13 |
@@ -79,7 +80,6 @@
 | 2025-11-01 17:01:39.582130 | 1 | 2 | 3 |
 | 2025-10-31 17:02:18.138092 | 8 | 4 | 12 |
 | 2025-10-30 17:01:53.474226 | 0 | 1 | 1 |
-| 2025-10-29 17:02:40.015559 | 1 | 4 | 5 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,30 +87,20 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| OEC Biere De Mai (16oz) | Wild Ale | 6.00% | Bottle/Can | Oxford, CT |
-| Two Brothers 30 West | IPA | 6.50% | Bottle/Can | Warrenville, IL |
-| Union Divine | IPA | 6.50% | Draft | Baltimore, MD |
-| Checkerspot Belgian Block | Kolsch | 4.60% | Draft | Baltimore, MD |
-| Peabody Heights Right Place,Wrong Time | Double IPA | 8.00% | Draft | Baltimore, MD |
-| Peabody Heights Zap Time | Pale Ale | 5.50% | Bottle/Can | Baltimore, MD |
-| New Belgium Fat Tire | Amber Ale | 5.20% | Draft | Fort Collins, CO |
+| Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Draft | Longmont, CO |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Olde Mother Portal Vision | IPA | 6.20% | Draft | Frederick, MD |
-| Jack's Abbey House Lager | Helles Lager | 5.20% | Bottle/Can | Farmingham, MA |
-| Killian's Irish Red | Red Ale | 5.40% | Bottle/Can | Golden, CO |
-| New Belgium Fat Tire | Red Ale | 5.20% | Draft | Fort Collins, CO |
-| Lagunita's IPA | IPA | 6.20% | Draft | Petaluma, CA |
-| Wico Street Mr.Steezyagi | Rice Lager | 5.50% | Draft | Baltimore, MD |
-| Partake Oktoberfest | N/A Oktoberfest | 0.50% | Bottle/Can | Chicago, IL |
+| Wet City Dunkel-ish | Dunkel | 5.80% | Bottle/Can | Baltimore, MD |
+| Appalachian Campfire Peanut Butter Decadence Smores | Nitro Cream Ale | 4.90% | Draft | Harrisburg, PA |
+| Schlafly Black IPA | Black IPA | 6.00% | Bottle/Can | St. Louis, MO |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 60
-- **Current Beer Count**: 67
-- **Total Change Records**: 59
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-07 17:01:58.206319
+- **Total Snapshots**: 61
+- **Current Beer Count**: 65
+- **Total Change Records**: 60
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-08 17:01:44.907781
