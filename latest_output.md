@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-11-08 17:01:45*
+*Generated on 2025-11-09 17:01:46*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-11-09 17:01:46.409276 | 66 |
 | 2025-11-08 17:01:44.907781 | 65 |
 | 2025-11-07 17:01:58.206319 | 67 |
 | 2025-11-06 17:03:25.186777 | 67 |
@@ -14,7 +15,6 @@
 | 2025-11-02 17:01:46.079179 | 66 |
 | 2025-11-01 17:01:39.582130 | 66 |
 | 2025-10-31 17:02:18.138092 | 67 |
-| 2025-10-30 17:01:53.474226 | 63 |
 
 ### 🍺 Current Beer List
 
@@ -34,12 +34,12 @@
 | Bell's Hazy Hearted | Hazy IPA | 7.50% | Kalamazoo, MI |
 | New Belgium Voodoo Ranger Juizy Haze | Hazy IPA | 7.50% | Fort Collins, CO |
 | New Belgium Fat Tire | Amber Ale | 5.20% | Fort Collins, CO |
-| Union Divine | IPA | 6.50% | Baltimore, MD |
 | Peabody Heights Right Place,Wrong Time | Double IPA | 8.00% | Baltimore, MD |
 | Checkerspot Belgian Block | Kolsch | 4.60% | Baltimore, MD |
 | Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Longmont, CO |
+| Monocacy Bazooka Nugs | Belgian IPA | 8.50% | Frederick, MD |
 
-#### 🥫 Bottles & Cans (49)
+#### 🥫 Bottles & Cans (50)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +63,14 @@
 | OEC Brewing Oolong Kolsch | Kolsch | 4.80% | Oxford, CT |
 | Wico Street Hella Steez | Helles Lager | 5.50% | Baltimore, MD |
 | Ithaca Grapefruit Honey (16oz) | Sour Ale | 5.00% | Ithaca, NY |
-| *... and 29 more* | | | |
+| *... and 30 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-11-09 17:01:46.409276 | 2 | 1 | 3 |
 | 2025-11-08 17:01:44.907781 | 1 | 3 | 4 |
 | 2025-11-07 17:01:58.206319 | 7 | 7 | 14 |
 | 2025-11-06 17:03:25.186777 | 1 | 1 | 2 |
@@ -79,7 +80,6 @@
 | 2025-11-02 17:01:46.079179 | 2 | 2 | 4 |
 | 2025-11-01 17:01:39.582130 | 1 | 2 | 3 |
 | 2025-10-31 17:02:18.138092 | 8 | 4 | 12 |
-| 2025-10-30 17:01:53.474226 | 0 | 1 | 1 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,20 +87,19 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Draft | Longmont, CO |
+| Monocacy Bazooka Nugs | Belgian IPA | 8.50% | Draft | Frederick, MD |
+| Mobtown Priceless Advice | Gose | 5.50% | Bottle/Can | Baltimore, MD |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Wet City Dunkel-ish | Dunkel | 5.80% | Bottle/Can | Baltimore, MD |
-| Appalachian Campfire Peanut Butter Decadence Smores | Nitro Cream Ale | 4.90% | Draft | Harrisburg, PA |
-| Schlafly Black IPA | Black IPA | 6.00% | Bottle/Can | St. Louis, MO |
+| Union Divine | IPA | 6.50% | Draft | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 61
-- **Current Beer Count**: 65
-- **Total Change Records**: 60
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-08 17:01:44.907781
+- **Total Snapshots**: 62
+- **Current Beer Count**: 66
+- **Total Change Records**: 61
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-09 17:01:46.409276
