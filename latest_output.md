@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-11-10 17:02:24*
+*Generated on 2025-11-11 17:01:56*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-11-11 17:01:55.854638 | 68 |
 | 2025-11-10 17:02:23.896854 | 66 |
 | 2025-11-09 17:01:46.409276 | 66 |
 | 2025-11-08 17:01:44.907781 | 65 |
@@ -14,11 +15,10 @@
 | 2025-11-04 17:02:05.932930 | 66 |
 | 2025-11-03 17:02:06.426310 | 67 |
 | 2025-11-02 17:01:46.079179 | 66 |
-| 2025-11-01 17:01:39.582130 | 66 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (16)
+#### 🍺 Draft Beers (15)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -26,7 +26,6 @@
 | Mully's FruiTart | Berliner Weisse | 5.40% | Prince Frederick, MD |
 | Sierra Nevada Northern Hemisphere Harvest | IPA | 6.70% | Chico, CA |
 | Falling Branch That's My Uncrusted | Sour Ale | 5.00% | Street, MD |
-| Falling Branch Clear Skies | Helles Lager | 5.00% | Street, MD |
 | Falling Branch Sakura Winds  | Rice Lager | 5.00% | Street, MD |
 | Falling Branch Falling Pumpkin | Pumpkin Ale | 5.00% | Street, MD |
 | New Trail Leaf Peeper | IPA | 6.30% | Williamsport, PA |
@@ -39,7 +38,7 @@
 | Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Longmont, CO |
 | Monocacy Bazooka Nugs | Belgian IPA | 8.50% | Frederick, MD |
 
-#### 🥫 Bottles & Cans (50)
+#### 🥫 Bottles & Cans (53)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +62,14 @@
 | OEC Brewing Oolong Kolsch | Kolsch | 4.80% | Oxford, CT |
 | Wico Street Hella Steez | Helles Lager | 5.50% | Baltimore, MD |
 | Ithaca Grapefruit Honey (16oz) | Sour Ale | 5.00% | Ithaca, NY |
-| *... and 30 more* | | | |
+| *... and 33 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-11-11 17:01:55.854638 | 3 | 1 | 4 |
 | 2025-11-10 17:02:23.896854 | 0 | 0 | 0 |
 | 2025-11-09 17:01:46.409276 | 2 | 1 | 3 |
 | 2025-11-08 17:01:44.907781 | 1 | 3 | 4 |
@@ -79,16 +79,27 @@
 | 2025-11-04 17:02:05.932930 | 1 | 2 | 3 |
 | 2025-11-03 17:02:06.426310 | 1 | 0 | 1 |
 | 2025-11-02 17:01:46.079179 | 2 | 2 | 4 |
-| 2025-11-01 17:01:39.582130 | 1 | 2 | 3 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Michael Waltrip Bristol Sunshine | Ale | 4.50% | Bottle/Can | Bristol, VA |
+| Fairwinds Ironmaster | IPA | 6.00% | Bottle/Can | Lorton, VA |
+| Deschutes Mirror Pond | Pale Ale | 5.00% | Bottle/Can | Bend, OR |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Falling Branch Clear Skies | Helles Lager | 5.00% | Draft | Street, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 63
-- **Current Beer Count**: 66
-- **Total Change Records**: 62
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-10 17:02:23.896854
+- **Total Snapshots**: 64
+- **Current Beer Count**: 68
+- **Total Change Records**: 63
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-11 17:01:55.854638
