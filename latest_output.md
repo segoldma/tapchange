@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-11-11 17:01:56*
+*Generated on 2025-11-12 17:02:37*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-11-12 17:02:37.499797 | 71 |
 | 2025-11-11 17:01:55.854638 | 68 |
 | 2025-11-10 17:02:23.896854 | 66 |
 | 2025-11-09 17:01:46.409276 | 66 |
@@ -14,11 +15,10 @@
 | 2025-11-05 17:02:36.924610 | 67 |
 | 2025-11-04 17:02:05.932930 | 66 |
 | 2025-11-03 17:02:06.426310 | 67 |
-| 2025-11-02 17:01:46.079179 | 66 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (15)
+#### 🍺 Draft Beers (16)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -34,11 +34,12 @@
 | New Belgium Voodoo Ranger Juizy Haze | Hazy IPA | 7.50% | Fort Collins, CO |
 | New Belgium Fat Tire | Amber Ale | 5.20% | Fort Collins, CO |
 | Peabody Heights Right Place,Wrong Time | Double IPA | 8.00% | Baltimore, MD |
-| Checkerspot Belgian Block | Kolsch | 4.60% | Baltimore, MD |
 | Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Longmont, CO |
 | Monocacy Bazooka Nugs | Belgian IPA | 8.50% | Frederick, MD |
+| Lone Pine Oh-J | Imperial IPA | 8.10% | Portland, ME |
+| Lone Pine Bleacher Buddy | American Lager | 4.80% | Portland, ME |
 
-#### 🥫 Bottles & Cans (53)
+#### 🥫 Bottles & Cans (55)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -62,13 +63,14 @@
 | OEC Brewing Oolong Kolsch | Kolsch | 4.80% | Oxford, CT |
 | Wico Street Hella Steez | Helles Lager | 5.50% | Baltimore, MD |
 | Ithaca Grapefruit Honey (16oz) | Sour Ale | 5.00% | Ithaca, NY |
-| *... and 33 more* | | | |
+| *... and 35 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-11-12 17:02:37.499797 | 5 | 2 | 7 |
 | 2025-11-11 17:01:55.854638 | 3 | 1 | 4 |
 | 2025-11-10 17:02:23.896854 | 0 | 0 | 0 |
 | 2025-11-09 17:01:46.409276 | 2 | 1 | 3 |
@@ -78,7 +80,6 @@
 | 2025-11-05 17:02:36.924610 | 7 | 6 | 13 |
 | 2025-11-04 17:02:05.932930 | 1 | 2 | 3 |
 | 2025-11-03 17:02:06.426310 | 1 | 0 | 1 |
-| 2025-11-02 17:01:46.079179 | 2 | 2 | 4 |
 
 ### 🆕 Latest Changes Details
 
@@ -86,20 +87,23 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Michael Waltrip Bristol Sunshine | Ale | 4.50% | Bottle/Can | Bristol, VA |
-| Fairwinds Ironmaster | IPA | 6.00% | Bottle/Can | Lorton, VA |
+| Lone Pine Oh-J | Imperial IPA | 8.10% | Draft | Portland, ME |
+| Lone Pine/Lough Gill Sound Stout(16oz) | Stout | 5.10% | Bottle/Can | Portland, ME |
+| Lone Pine Bleacher Buddy | American Lager | 4.80% | Draft | Portland, ME |
 | Deschutes Mirror Pond | Pale Ale | 5.00% | Bottle/Can | Bend, OR |
+| Lone Pine New Age | White Ale | 5.10% | Bottle/Can | Portland, ME |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Falling Branch Clear Skies | Helles Lager | 5.00% | Draft | Street, MD |
+| Checkerspot Belgian Block | Kolsch | 4.60% | Draft | Baltimore, MD |
+| Deschutes Mirror Pond | Pale Ale | 5.00% | Bottle/Can | Bend, OR |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 64
-- **Current Beer Count**: 68
-- **Total Change Records**: 63
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-11 17:01:55.854638
+- **Total Snapshots**: 65
+- **Current Beer Count**: 71
+- **Total Change Records**: 64
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-12 17:02:37.499797
