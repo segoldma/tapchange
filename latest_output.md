@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-11-13 17:02:30*
+*Generated on 2025-11-14 17:01:59*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-11-14 17:01:59.158049 | 68 |
 | 2025-11-13 17:02:30.772292 | 71 |
 | 2025-11-12 17:02:37.499797 | 71 |
 | 2025-11-11 17:01:55.854638 | 68 |
@@ -14,7 +15,6 @@
 | 2025-11-07 17:01:58.206319 | 67 |
 | 2025-11-06 17:03:25.186777 | 67 |
 | 2025-11-05 17:02:36.924610 | 67 |
-| 2025-11-04 17:02:05.932930 | 66 |
 
 ### 🍺 Current Beer List
 
@@ -24,7 +24,6 @@
 |------|-------|-----|----------|
 | Mully's Blood Orange | Blonde Ale | 5.20% | Prince Frederick, MD |
 | Mully's FruiTart | Berliner Weisse | 5.40% | Prince Frederick, MD |
-| Sierra Nevada Northern Hemisphere Harvest | IPA | 6.70% | Chico, CA |
 | Falling Branch That's My Uncrusted | Sour Ale | 5.00% | Street, MD |
 | Falling Branch Sakura Winds  | Rice Lager | 5.00% | Street, MD |
 | Falling Branch Falling Pumpkin | Pumpkin Ale | 5.00% | Street, MD |
@@ -38,8 +37,9 @@
 | Monocacy Bazooka Nugs | Belgian IPA | 8.50% | Frederick, MD |
 | Lone Pine Oh-J | Imperial IPA | 8.10% | Portland, ME |
 | Lone Pine Bleacher Buddy | American Lager | 4.80% | Portland, ME |
+| Checkerspot Belgian Block | Kolsch | 4.60% | Baltimore, MD |
 
-#### 🥫 Bottles & Cans (55)
+#### 🥫 Bottles & Cans (52)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -57,19 +57,20 @@
 | Firestone Walker Mind Haze Watermelon Rage | Imperial Radler | 8.00% | Paso Robles, CA |
 | Firestone Walker Mind Haze Lemonade | Imperial Radler | 8.00% | Paso Robles, CA |
 | Schlafly Dark Mild | British Mild Ale | 3.80% | St. Louis, MO |
-| Falling Branch Stargazer's Pursuit | Porter | 5.50% | Street, MD |
 | Rupee Basmati Lager (16oz) | Lager | 4.70% | Potosi, WI |
 | Schlafly Doppelbock | Doppelbock | 6.00% | St. Louis, MO |
 | OEC Brewing Oolong Kolsch | Kolsch | 4.80% | Oxford, CT |
 | Wico Street Hella Steez | Helles Lager | 5.50% | Baltimore, MD |
 | Ithaca Grapefruit Honey (16oz) | Sour Ale | 5.00% | Ithaca, NY |
-| *... and 35 more* | | | |
+| Lancaster Shoo-Fly Pie | Porter | 6.20% | Lancaster, PA |
+| *... and 32 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-11-14 17:01:59.158049 | 1 | 4 | 5 |
 | 2025-11-13 17:02:30.772292 | 0 | 0 | 0 |
 | 2025-11-12 17:02:37.499797 | 5 | 2 | 7 |
 | 2025-11-11 17:01:55.854638 | 3 | 1 | 4 |
@@ -79,16 +80,28 @@
 | 2025-11-07 17:01:58.206319 | 7 | 7 | 14 |
 | 2025-11-06 17:03:25.186777 | 1 | 1 | 2 |
 | 2025-11-05 17:02:36.924610 | 7 | 6 | 13 |
-| 2025-11-04 17:02:05.932930 | 1 | 2 | 3 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Checkerspot Belgian Block | Kolsch | 4.60% | Draft | Baltimore, MD |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Cushwa Patchwork Mosaic (16oz) | NEIPA | 6.00% | Bottle/Can | Williamsport, MD |
+| Sierra Nevada Northern Hemisphere Harvest | IPA | 6.70% | Draft | Chico, CA |
+| Falling Branch Stargazer's Pursuit | Porter | 5.50% | Bottle/Can | Street, MD |
+| Peabody Heights Zap Time | Pale Ale | 5.50% | Bottle/Can | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 66
-- **Current Beer Count**: 71
-- **Total Change Records**: 65
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-13 17:02:30.772292
+- **Total Snapshots**: 67
+- **Current Beer Count**: 68
+- **Total Change Records**: 66
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-14 17:01:59.158049
