@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-11-16 17:02:03*
+*Generated on 2025-11-17 17:02:35*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-11-17 17:02:35.814138 | 67 |
 | 2025-11-16 17:02:03.290107 | 67 |
 | 2025-11-15 17:01:45.732592 | 68 |
 | 2025-11-14 17:01:59.158049 | 68 |
@@ -14,19 +15,16 @@
 | 2025-11-10 17:02:23.896854 | 66 |
 | 2025-11-09 17:01:46.409276 | 66 |
 | 2025-11-08 17:01:44.907781 | 65 |
-| 2025-11-07 17:01:58.206319 | 67 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (16)
+#### 🍺 Draft Beers (15)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
 | Mully's FruiTart | Berliner Weisse | 5.40% | Prince Frederick, MD |
 | Falling Branch That's My Uncrusted | Sour Ale | 5.00% | Street, MD |
 | Falling Branch Sakura Winds  | Rice Lager | 5.00% | Street, MD |
-| Pickett Band House Haze | Hazy IPA | 8.00% | Baltimore, MD |
-| Bell's Hazy Hearted | Hazy IPA | 7.50% | Kalamazoo, MI |
 | New Belgium Voodoo Ranger Juizy Haze | Hazy IPA | 7.50% | Fort Collins, CO |
 | New Belgium Fat Tire | Amber Ale | 5.20% | Fort Collins, CO |
 | Peabody Heights Right Place,Wrong Time | Double IPA | 8.00% | Baltimore, MD |
@@ -38,8 +36,9 @@
 | Jack's Abby Extra Layer | Dark Lager | 6.00% | Framingham, MA |
 | Guilford Hall Days of Yore | Dark Lager | 4.60% | Baltimore, MD |
 | Great Lakes Edmund Fitzgerald | Porter | 6.00% | Cleveland, OH |
+| Great Lakes Barrel Aged Christmas Ale | Winter Ale | 10.00% | Cleveland, OH |
 
-#### 🥫 Bottles & Cans (51)
+#### 🥫 Bottles & Cans (52)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +62,14 @@
 | Ithaca Grapefruit Honey (16oz) | Sour Ale | 5.00% | Ithaca, NY |
 | Lancaster Shoo-Fly Pie | Porter | 6.20% | Lancaster, PA |
 | Schneider Weisse Aventinus Eisbock ($16) | Bock | 12.00% | Germany |
-| *... and 31 more* | | | |
+| *... and 32 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-11-17 17:02:35.814138 | 2 | 2 | 4 |
 | 2025-11-16 17:02:03.290107 | 2 | 3 | 5 |
 | 2025-11-15 17:01:45.732592 | 3 | 3 | 6 |
 | 2025-11-14 17:01:59.158049 | 1 | 4 | 5 |
@@ -79,7 +79,6 @@
 | 2025-11-10 17:02:23.896854 | 0 | 0 | 0 |
 | 2025-11-09 17:01:46.409276 | 2 | 1 | 3 |
 | 2025-11-08 17:01:44.907781 | 1 | 3 | 4 |
-| 2025-11-07 17:01:58.206319 | 7 | 7 | 14 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,21 +86,20 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Great Lakes Edmund Fitzgerald | Porter | 6.00% | Draft | Cleveland, OH |
-| Great Lakes Christmas Ale | Winter Ale | 7.50% | Bottle/Can | Cleveland, OH |
+| Great Lakes Barrel Aged Christmas Ale | Winter Ale | 10.00% | Draft | Cleveland, OH |
+| Great Lakes Berry Jam Thumbprint | Milk Stout | 5.50% | Bottle/Can | Cleveland, OH |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| New Trail Leaf Peeper | IPA | 6.30% | Draft | Williamsport, PA |
-| Michael Waltrip Brewing Talladega Light | Lager | 4.20% | Bottle/Can | Bristol, VA |
-| Olde Mother Tempest | Hefeweizen | 5.10% | Bottle/Can | Frederick, MD |
+| Pickett Band House Haze | Hazy IPA | 8.00% | Draft | Baltimore, MD |
+| Bell's Hazy Hearted | Hazy IPA | 7.50% | Draft | Kalamazoo, MI |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 69
+- **Total Snapshots**: 70
 - **Current Beer Count**: 67
-- **Total Change Records**: 68
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-16 17:02:03.290107
+- **Total Change Records**: 69
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-17 17:02:35.814138
