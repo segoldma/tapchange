@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-11-18 17:02:39*
+*Generated on 2025-11-19 17:02:25*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-11-19 17:02:24.965964 | 70 |
 | 2025-11-18 17:02:39.835210 | 67 |
 | 2025-11-17 17:02:35.814138 | 67 |
 | 2025-11-16 17:02:03.290107 | 67 |
@@ -14,11 +15,10 @@
 | 2025-11-12 17:02:37.499797 | 71 |
 | 2025-11-11 17:01:55.854638 | 68 |
 | 2025-11-10 17:02:23.896854 | 66 |
-| 2025-11-09 17:01:46.409276 | 66 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (15)
+#### 🍺 Draft Beers (16)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -33,12 +33,13 @@
 | Lone Pine Oh-J | Imperial IPA | 8.10% | Portland, ME |
 | Lone Pine Bleacher Buddy | American Lager | 4.80% | Portland, ME |
 | Checkerspot Belgian Block | Kolsch | 4.60% | Baltimore, MD |
-| Jack's Abby Extra Layer | Dark Lager | 6.00% | Framingham, MA |
 | Guilford Hall Days of Yore | Dark Lager | 4.60% | Baltimore, MD |
 | Great Lakes Edmund Fitzgerald | Porter | 6.00% | Cleveland, OH |
 | Great Lakes Barrel Aged Christmas Ale | Winter Ale | 10.00% | Cleveland, OH |
+| Nepenthe Beebweepa | Hazy IPA | 6.50% | Baltimore, MD |
+| Nepenthe Dark Path | Coffee Porter | 5.50% | Baltimore, MD |
 
-#### 🥫 Bottles & Cans (52)
+#### 🥫 Bottles & Cans (54)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -62,13 +63,14 @@
 | Ithaca Grapefruit Honey (16oz) | Sour Ale | 5.00% | Ithaca, NY |
 | Lancaster Shoo-Fly Pie | Porter | 6.20% | Lancaster, PA |
 | Schneider Weisse Aventinus Eisbock ($16) | Bock | 12.00% | Germany |
-| *... and 32 more* | | | |
+| *... and 34 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-11-19 17:02:24.965964 | 4 | 1 | 5 |
 | 2025-11-18 17:02:39.835210 | 0 | 0 | 0 |
 | 2025-11-17 17:02:35.814138 | 2 | 2 | 4 |
 | 2025-11-16 17:02:03.290107 | 2 | 3 | 5 |
@@ -78,16 +80,28 @@
 | 2025-11-12 17:02:37.499797 | 5 | 2 | 7 |
 | 2025-11-11 17:01:55.854638 | 3 | 1 | 4 |
 | 2025-11-10 17:02:23.896854 | 0 | 0 | 0 |
-| 2025-11-09 17:01:46.409276 | 2 | 1 | 3 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Nepenthe Beebweepa | Hazy IPA | 6.50% | Draft | Baltimore, MD |
+| Nepenthe Dark Path | Coffee Porter | 5.50% | Draft | Baltimore, MD |
+| Nepenthe Polydribbles: Yuzu Lemon (16oz) | Sour Ale | 5.90% | Bottle/Can | Baltimore, MD |
+| Nepenthe Abracadavera (16oz) | WCIPA | 6.90% | Bottle/Can | Baltimore, MD |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Jack's Abby Extra Layer | Dark Lager | 6.00% | Draft | Framingham, MA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 71
-- **Current Beer Count**: 67
-- **Total Change Records**: 70
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-18 17:02:39.835210
+- **Total Snapshots**: 72
+- **Current Beer Count**: 70
+- **Total Change Records**: 71
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-19 17:02:24.965964
