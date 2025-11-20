@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-11-19 17:02:25*
+*Generated on 2025-11-20 17:02:44*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-11-20 17:02:44.579314 | 72 |
 | 2025-11-19 17:02:24.965964 | 70 |
 | 2025-11-18 17:02:39.835210 | 67 |
 | 2025-11-17 17:02:35.814138 | 67 |
@@ -14,7 +15,6 @@
 | 2025-11-13 17:02:30.772292 | 71 |
 | 2025-11-12 17:02:37.499797 | 71 |
 | 2025-11-11 17:01:55.854638 | 68 |
-| 2025-11-10 17:02:23.896854 | 66 |
 
 ### 🍺 Current Beer List
 
@@ -25,7 +25,6 @@
 | Mully's FruiTart | Berliner Weisse | 5.40% | Prince Frederick, MD |
 | Falling Branch That's My Uncrusted | Sour Ale | 5.00% | Street, MD |
 | Falling Branch Sakura Winds  | Rice Lager | 5.00% | Street, MD |
-| New Belgium Voodoo Ranger Juizy Haze | Hazy IPA | 7.50% | Fort Collins, CO |
 | New Belgium Fat Tire | Amber Ale | 5.20% | Fort Collins, CO |
 | Peabody Heights Right Place,Wrong Time | Double IPA | 8.00% | Baltimore, MD |
 | Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Longmont, CO |
@@ -33,13 +32,14 @@
 | Lone Pine Oh-J | Imperial IPA | 8.10% | Portland, ME |
 | Lone Pine Bleacher Buddy | American Lager | 4.80% | Portland, ME |
 | Checkerspot Belgian Block | Kolsch | 4.60% | Baltimore, MD |
-| Guilford Hall Days of Yore | Dark Lager | 4.60% | Baltimore, MD |
 | Great Lakes Edmund Fitzgerald | Porter | 6.00% | Cleveland, OH |
 | Great Lakes Barrel Aged Christmas Ale | Winter Ale | 10.00% | Cleveland, OH |
 | Nepenthe Beebweepa | Hazy IPA | 6.50% | Baltimore, MD |
 | Nepenthe Dark Path | Coffee Porter | 5.50% | Baltimore, MD |
+| Allagash Ski House | Wheat Ale | 7.50% | Portland, ME |
+| Rye River Brogue Irish Red | Red Ale | 4.40% | Ireland |
 
-#### 🥫 Bottles & Cans (54)
+#### 🥫 Bottles & Cans (56)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +63,14 @@
 | Ithaca Grapefruit Honey (16oz) | Sour Ale | 5.00% | Ithaca, NY |
 | Lancaster Shoo-Fly Pie | Porter | 6.20% | Lancaster, PA |
 | Schneider Weisse Aventinus Eisbock ($16) | Bock | 12.00% | Germany |
-| *... and 34 more* | | | |
+| *... and 36 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-11-20 17:02:44.579314 | 5 | 3 | 8 |
 | 2025-11-19 17:02:24.965964 | 4 | 1 | 5 |
 | 2025-11-18 17:02:39.835210 | 0 | 0 | 0 |
 | 2025-11-17 17:02:35.814138 | 2 | 2 | 4 |
@@ -79,7 +80,6 @@
 | 2025-11-13 17:02:30.772292 | 0 | 0 | 0 |
 | 2025-11-12 17:02:37.499797 | 5 | 2 | 7 |
 | 2025-11-11 17:01:55.854638 | 3 | 1 | 4 |
-| 2025-11-10 17:02:23.896854 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,21 +87,24 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Nepenthe Beebweepa | Hazy IPA | 6.50% | Draft | Baltimore, MD |
-| Nepenthe Dark Path | Coffee Porter | 5.50% | Draft | Baltimore, MD |
-| Nepenthe Polydribbles: Yuzu Lemon (16oz) | Sour Ale | 5.90% | Bottle/Can | Baltimore, MD |
-| Nepenthe Abracadavera (16oz) | WCIPA | 6.90% | Bottle/Can | Baltimore, MD |
+| Allagash Tripel ($8.50) | Tripel | 9.00% | Bottle/Can | Portland, ME |
+| Allagash Gatherwell ($13) | Imperial Stout | 11.00% | Bottle/Can | Portland, ME |
+| Allagash Ski House | Wheat Ale | 7.50% | Draft | Portland, ME |
+| Rye River Brogue Irish Red | Red Ale | 4.40% | Draft | Ireland |
+| Allagash Curieux ($11) | Tripel | 10.20% | Bottle/Can | Portland, ME |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Jack's Abby Extra Layer | Dark Lager | 6.00% | Draft | Framingham, MA |
+| Two Brothers 30 West | IPA | 6.50% | Bottle/Can | Warrenville, IL |
+| New Belgium Voodoo Ranger Juizy Haze | Hazy IPA | 7.50% | Draft | Fort Collins, CO |
+| Guilford Hall Days of Yore | Dark Lager | 4.60% | Draft | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 72
-- **Current Beer Count**: 70
-- **Total Change Records**: 71
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-19 17:02:24.965964
+- **Total Snapshots**: 73
+- **Current Beer Count**: 72
+- **Total Change Records**: 72
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-20 17:02:44.579314
