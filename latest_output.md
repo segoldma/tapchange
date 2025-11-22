@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-11-21 17:01:45*
+*Generated on 2025-11-22 17:01:44*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-11-22 17:01:44.549829 | 76 |
 | 2025-11-21 17:01:45.070826 | 72 |
 | 2025-11-20 17:02:44.579314 | 72 |
 | 2025-11-19 17:02:24.965964 | 70 |
@@ -14,16 +15,13 @@
 | 2025-11-15 17:01:45.732592 | 68 |
 | 2025-11-14 17:01:59.158049 | 68 |
 | 2025-11-13 17:02:30.772292 | 71 |
-| 2025-11-12 17:02:37.499797 | 71 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (16)
+#### 🍺 Draft Beers (17)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
-| Falling Branch That's My Uncrusted | Sour Ale | 5.00% | Street, MD |
-| New Belgium Fat Tire | Amber Ale | 5.20% | Fort Collins, CO |
 | Peabody Heights Right Place,Wrong Time | Double IPA | 8.00% | Baltimore, MD |
 | Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Longmont, CO |
 | Lone Pine Bleacher Buddy | American Lager | 4.80% | Portland, ME |
@@ -32,14 +30,17 @@
 | Nepenthe Beebweepa | Hazy IPA | 6.50% | Baltimore, MD |
 | Nepenthe Dark Path | Coffee Porter | 5.50% | Baltimore, MD |
 | Allagash Ski House | Wheat Ale | 7.50% | Portland, ME |
-| Rye River Brogue Irish Red | Red Ale | 4.40% | Ireland |
 | Union Lot Trees | Imperial IPA | 8.40% | Baltimore, MD |
 | Union Zadie's Lager | Lager | 4.50% | Baltimore, MD |
 | Manor Hill Katherine's Kolsch | Kolsch | 5.00% | Ellicott City, MD |
 | Manor Hill No Sleeves (2025) | Session IPA | 5.50% | Ellicott City, MD |
 | Manor Hill My Own Murder | Black IPA | 6.50% | Ellicott City, MD |
+| Gaffel Kolsch | Kolsch | 4.80% | Germany |
+| Weihenstephaner Hefeweissbier | Hefeweizen | 5.40% | Germany |
+| Bitberger Premium Pils | Pilsner | 4.80% | Germany |
+| Kostritzer Schwarzbier | Schwarzbier | 4.80% | Germany |
 
-#### 🥫 Bottles & Cans (56)
+#### 🥫 Bottles & Cans (59)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +64,14 @@
 | Lancaster Shoo-Fly Pie | Porter | 6.20% | Lancaster, PA |
 | Schneider Weisse Aventinus Eisbock ($16) | Bock | 12.00% | Germany |
 | Oskar Blues Old Chub | Scotch Ale | 8.00% | Longmont, CO |
-| *... and 36 more* | | | |
+| *... and 39 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-11-22 17:01:44.549829 | 8 | 4 | 12 |
 | 2025-11-21 17:01:45.070826 | 7 | 7 | 14 |
 | 2025-11-20 17:02:44.579314 | 5 | 3 | 8 |
 | 2025-11-19 17:02:24.965964 | 4 | 1 | 5 |
@@ -79,7 +81,6 @@
 | 2025-11-15 17:01:45.732592 | 3 | 3 | 6 |
 | 2025-11-14 17:01:59.158049 | 1 | 4 | 5 |
 | 2025-11-13 17:02:30.772292 | 0 | 0 | 0 |
-| 2025-11-12 17:02:37.499797 | 5 | 2 | 7 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,30 +88,28 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Manor Hill My Own Murder | Black IPA | 6.50% | Draft | Ellicott City, MD |
-| Manor Hill No Sleeves (2025) | Session IPA | 5.50% | Draft | Ellicott City, MD |
-| Union Lot Trees | Imperial IPA | 8.40% | Draft | Baltimore, MD |
-| Union Zadie's Lager | Lager | 4.50% | Draft | Baltimore, MD |
-| Union Hopwater Springs | N/A  | 0.00% | Bottle/Can | Baltimore, MD |
-| Manor Hill Katherine's Kolsch | Kolsch | 5.00% | Draft | Ellicott City, MD |
-| Union Lot Trees | Imperial IPA | 8.40% | Bottle/Can | Baltimore, MD |
+| Kostritzer Schwarzbier | Schwarzbier | 4.80% | Draft | Germany |
+| Weihenstephaner Hefeweissbier | Hefeweizen | 5.40% | Draft | Germany |
+| Aecht Schlenkerla Weichsel | Rauchbeer | 4.60% | Bottle/Can | Germany |
+| Arcobrau Coronator | Doppelbock | 7.20% | Bottle/Can | Germany |
+| Bitberger Premium Pils | Pilsner | 4.80% | Draft | Germany |
+| Flensburger Pilsener | Pilsner | 4.80% | Bottle/Can | Gernany |
+| Gaffel Kolsch | Kolsch | 4.80% | Draft | Germany |
+| Erdinger WeiBbier | Weissbier | 5.30% | Bottle/Can | Germany |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Monocacy Bazooka Nugs | Belgian IPA | 8.50% | Draft | Frederick, MD |
-| Mully's FruiTart | Berliner Weisse | 5.40% | Draft | Prince Frederick, MD |
-| Lone Pine Oh-J | Imperial IPA | 8.10% | Draft | Portland, ME |
-| Firestone Walker Mind Haze Watermelon Rage | Imperial Radler | 8.00% | Bottle/Can | Paso Robles, CA |
-| Checkerspot Belgian Block | Kolsch | 4.60% | Draft | Baltimore, MD |
-| Ithaca Grapefruit Honey (16oz) | Sour Ale | 5.00% | Bottle/Can | Ithaca, NY |
-| Falling Branch Sakura Winds  | Rice Lager | 5.00% | Draft | Street, MD |
+| Rye River Brogue Irish Red | Red Ale | 4.40% | Draft | Ireland |
+| Manor Hill My Own Murder | Black IPA | 6.50% | Bottle/Can | Ellicott City, MD |
+| Falling Branch That's My Uncrusted | Sour Ale | 5.00% | Draft | Street, MD |
+| New Belgium Fat Tire | Amber Ale | 5.20% | Draft | Fort Collins, CO |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 74
-- **Current Beer Count**: 72
-- **Total Change Records**: 73
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-21 17:01:45.070826
+- **Total Snapshots**: 75
+- **Current Beer Count**: 76
+- **Total Change Records**: 74
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-22 17:01:44.549829
