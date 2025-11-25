@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-11-24 17:01:47*
+*Generated on 2025-11-25 17:03:04*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-11-25 17:03:04.129040 | 75 |
 | 2025-11-24 17:01:47.503250 | 76 |
 | 2025-11-23 17:01:47.158737 | 76 |
 | 2025-11-22 17:01:44.549829 | 76 |
@@ -14,11 +15,10 @@
 | 2025-11-18 17:02:39.835210 | 67 |
 | 2025-11-17 17:02:35.814138 | 67 |
 | 2025-11-16 17:02:03.290107 | 67 |
-| 2025-11-15 17:01:45.732592 | 68 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (16)
+#### 🍺 Draft Beers (15)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -29,15 +29,14 @@
 | Nepenthe Dark Path | Coffee Porter | 5.50% | Baltimore, MD |
 | Union Lot Trees | Imperial IPA | 8.40% | Baltimore, MD |
 | Union Zadie's Lager | Lager | 4.50% | Baltimore, MD |
-| Manor Hill Katherine's Kolsch | Kolsch | 5.00% | Ellicott City, MD |
 | Manor Hill No Sleeves (2025) | Session IPA | 5.50% | Ellicott City, MD |
-| Manor Hill My Own Murder | Black IPA | 6.50% | Ellicott City, MD |
 | Gaffel Kolsch | Kolsch | 4.80% | Germany |
 | Weihenstephaner Hefeweissbier | Hefeweizen | 5.40% | Germany |
 | Bitberger Premium Pils | Pilsner | 4.80% | Germany |
 | Kostritzer Schwarzbier | Schwarzbier | 4.80% | Germany |
 | Pickett Neil's Meal | Oatmeal Stout | 9.00% | Baltimore, MD |
 | Pickett Bluegrass Sunday | Pilsner | 4.70% | Baltimore, MD |
+| Falling Branch That's My Uncrusted | Sour Ale | 5.00% | Street, MD |
 
 #### 🥫 Bottles & Cans (60)
 
@@ -70,6 +69,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-11-25 17:03:04.129040 | 1 | 2 | 3 |
 | 2025-11-24 17:01:47.503250 | 0 | 0 | 0 |
 | 2025-11-23 17:01:47.158737 | 4 | 4 | 8 |
 | 2025-11-22 17:01:44.549829 | 8 | 4 | 12 |
@@ -79,16 +79,26 @@
 | 2025-11-18 17:02:39.835210 | 0 | 0 | 0 |
 | 2025-11-17 17:02:35.814138 | 2 | 2 | 4 |
 | 2025-11-16 17:02:03.290107 | 2 | 3 | 5 |
-| 2025-11-15 17:01:45.732592 | 3 | 3 | 6 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Falling Branch That's My Uncrusted | Sour Ale | 5.00% | Draft | Street, MD |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Manor Hill Katherine's Kolsch | Kolsch | 5.00% | Draft | Ellicott City, MD |
+| Manor Hill My Own Murder | Black IPA | 6.50% | Draft | Ellicott City, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 77
-- **Current Beer Count**: 76
-- **Total Change Records**: 76
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-24 17:01:47.503250
+- **Total Snapshots**: 78
+- **Current Beer Count**: 75
+- **Total Change Records**: 77
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-25 17:03:04.129040
