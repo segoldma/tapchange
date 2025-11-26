@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-11-25 17:03:04*
+*Generated on 2025-11-26 17:02:11*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-11-26 17:02:10.899599 | 76 |
 | 2025-11-25 17:03:04.129040 | 75 |
 | 2025-11-24 17:01:47.503250 | 76 |
 | 2025-11-23 17:01:47.158737 | 76 |
@@ -14,7 +15,6 @@
 | 2025-11-19 17:02:24.965964 | 70 |
 | 2025-11-18 17:02:39.835210 | 67 |
 | 2025-11-17 17:02:35.814138 | 67 |
-| 2025-11-16 17:02:03.290107 | 67 |
 
 ### 🍺 Current Beer List
 
@@ -23,7 +23,6 @@
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
 | Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Longmont, CO |
-| Lone Pine Bleacher Buddy | American Lager | 4.80% | Portland, ME |
 | Great Lakes Barrel Aged Christmas Ale | Winter Ale | 10.00% | Cleveland, OH |
 | Nepenthe Beebweepa | Hazy IPA | 6.50% | Baltimore, MD |
 | Nepenthe Dark Path | Coffee Porter | 5.50% | Baltimore, MD |
@@ -37,8 +36,9 @@
 | Pickett Neil's Meal | Oatmeal Stout | 9.00% | Baltimore, MD |
 | Pickett Bluegrass Sunday | Pilsner | 4.70% | Baltimore, MD |
 | Falling Branch That's My Uncrusted | Sour Ale | 5.00% | Street, MD |
+| Lone Pine Oh-J | Hazy DIPA | 8.10% | Portland, ME |
 
-#### 🥫 Bottles & Cans (60)
+#### 🥫 Bottles & Cans (61)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -50,6 +50,7 @@
 | Monster The Beast: Peach Perfect | Not Beer | 6.00% | Cold Spring, MN |
 | MY5 The Original or Tangerine  | Not Beer | 4.50% | Landsdale, PA |
 | Best Day Kolsch | N/A Kolsch | 0.50% | California |
+| Best Day Electro-Lime | N/A Cerveza | 0.50% | California |
 | Best Day Brewing White | N/A Wheat Ale | 0.50% | Sausalito, CA |
 | Union Hopwater Springs | N/A  | 0.00% | Baltimore, MD |
 | Liefmans Goudenband ($13) | Oud Bruin | 8.00% | Belgium |
@@ -61,14 +62,14 @@
 | Wico Street Hella Steez | Helles Lager | 5.50% | Baltimore, MD |
 | Lancaster Shoo-Fly Pie | Porter | 6.20% | Lancaster, PA |
 | Schneider Weisse Aventinus Eisbock ($16) | Bock | 12.00% | Germany |
-| Oskar Blues Old Chub | Scotch Ale | 8.00% | Longmont, CO |
-| *... and 40 more* | | | |
+| *... and 41 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-11-26 17:02:10.899599 | 3 | 2 | 5 |
 | 2025-11-25 17:03:04.129040 | 1 | 2 | 3 |
 | 2025-11-24 17:01:47.503250 | 0 | 0 | 0 |
 | 2025-11-23 17:01:47.158737 | 4 | 4 | 8 |
@@ -78,7 +79,6 @@
 | 2025-11-19 17:02:24.965964 | 4 | 1 | 5 |
 | 2025-11-18 17:02:39.835210 | 0 | 0 | 0 |
 | 2025-11-17 17:02:35.814138 | 2 | 2 | 4 |
-| 2025-11-16 17:02:03.290107 | 2 | 3 | 5 |
 
 ### 🆕 Latest Changes Details
 
@@ -86,19 +86,21 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Falling Branch That's My Uncrusted | Sour Ale | 5.00% | Draft | Street, MD |
+| Lone Pine Oh-J | Hazy DIPA | 8.10% | Draft | Portland, ME |
+| Pickett 33 1/3 Nelson (16oz) | Hazy IPA | 7.00% | Bottle/Can | Baltimore, MD |
+| Best Day Electro-Lime | N/A Cerveza | 0.50% | Bottle/Can | California |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Manor Hill Katherine's Kolsch | Kolsch | 5.00% | Draft | Ellicott City, MD |
-| Manor Hill My Own Murder | Black IPA | 6.50% | Draft | Ellicott City, MD |
+| Lone Pine Bleacher Buddy | American Lager | 4.80% | Draft | Portland, ME |
+| Pickett 33 1/3 Nelson | Hazy IPA | 7.00% | Bottle/Can | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 78
-- **Current Beer Count**: 75
-- **Total Change Records**: 77
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-25 17:03:04.129040
+- **Total Snapshots**: 79
+- **Current Beer Count**: 76
+- **Total Change Records**: 78
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-26 17:02:10.899599
