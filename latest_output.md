@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-11-26 17:02:11*
+*Generated on 2025-11-27 17:02:05*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-11-27 17:02:05.394761 | 76 |
 | 2025-11-26 17:02:10.899599 | 76 |
 | 2025-11-25 17:03:04.129040 | 75 |
 | 2025-11-24 17:01:47.503250 | 76 |
@@ -14,7 +15,6 @@
 | 2025-11-20 17:02:44.579314 | 72 |
 | 2025-11-19 17:02:24.965964 | 70 |
 | 2025-11-18 17:02:39.835210 | 67 |
-| 2025-11-17 17:02:35.814138 | 67 |
 
 ### 🍺 Current Beer List
 
@@ -24,19 +24,19 @@
 |------|-------|-----|----------|
 | Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Longmont, CO |
 | Great Lakes Barrel Aged Christmas Ale | Winter Ale | 10.00% | Cleveland, OH |
-| Nepenthe Beebweepa | Hazy IPA | 6.50% | Baltimore, MD |
 | Nepenthe Dark Path | Coffee Porter | 5.50% | Baltimore, MD |
 | Union Lot Trees | Imperial IPA | 8.40% | Baltimore, MD |
-| Union Zadie's Lager | Lager | 4.50% | Baltimore, MD |
-| Manor Hill No Sleeves (2025) | Session IPA | 5.50% | Ellicott City, MD |
 | Gaffel Kolsch | Kolsch | 4.80% | Germany |
 | Weihenstephaner Hefeweissbier | Hefeweizen | 5.40% | Germany |
 | Bitberger Premium Pils | Pilsner | 4.80% | Germany |
 | Kostritzer Schwarzbier | Schwarzbier | 4.80% | Germany |
 | Pickett Neil's Meal | Oatmeal Stout | 9.00% | Baltimore, MD |
 | Pickett Bluegrass Sunday | Pilsner | 4.70% | Baltimore, MD |
-| Falling Branch That's My Uncrusted | Sour Ale | 5.00% | Street, MD |
 | Lone Pine Oh-J | Hazy DIPA | 8.10% | Portland, ME |
+| Ten Eyck Taildragger Sunrise | Hazy IPA | 7.00% | Queenstown,MD |
+| Ten Eyck Good Queen Anne | Imperial Stout | 13.00% | Queenstown,MD |
+| Ten Eyck Side Dish | Imperial Brown | 10.00% | Queenstown,MD |
+| Peabody Heights Right Place,Wrong Time | Double IPA | 8.00% | Baltimore, MD |
 
 #### 🥫 Bottles & Cans (61)
 
@@ -69,6 +69,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-11-27 17:02:05.394761 | 4 | 4 | 8 |
 | 2025-11-26 17:02:10.899599 | 3 | 2 | 5 |
 | 2025-11-25 17:03:04.129040 | 1 | 2 | 3 |
 | 2025-11-24 17:01:47.503250 | 0 | 0 | 0 |
@@ -78,7 +79,6 @@
 | 2025-11-20 17:02:44.579314 | 5 | 3 | 8 |
 | 2025-11-19 17:02:24.965964 | 4 | 1 | 5 |
 | 2025-11-18 17:02:39.835210 | 0 | 0 | 0 |
-| 2025-11-17 17:02:35.814138 | 2 | 2 | 4 |
 
 ### 🆕 Latest Changes Details
 
@@ -86,21 +86,24 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Lone Pine Oh-J | Hazy DIPA | 8.10% | Draft | Portland, ME |
-| Pickett 33 1/3 Nelson (16oz) | Hazy IPA | 7.00% | Bottle/Can | Baltimore, MD |
-| Best Day Electro-Lime | N/A Cerveza | 0.50% | Bottle/Can | California |
+| Peabody Heights Right Place,Wrong Time | Double IPA | 8.00% | Draft | Baltimore, MD |
+| Ten Eyck Taildragger Sunrise | Hazy IPA | 7.00% | Draft | Queenstown,MD |
+| Ten Eyck Good Queen Anne | Imperial Stout | 13.00% | Draft | Queenstown,MD |
+| Ten Eyck Side Dish | Imperial Brown | 10.00% | Draft | Queenstown,MD |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Lone Pine Bleacher Buddy | American Lager | 4.80% | Draft | Portland, ME |
-| Pickett 33 1/3 Nelson | Hazy IPA | 7.00% | Bottle/Can | Baltimore, MD |
+| Manor Hill No Sleeves (2025) | Session IPA | 5.50% | Draft | Ellicott City, MD |
+| Falling Branch That's My Uncrusted | Sour Ale | 5.00% | Draft | Street, MD |
+| Nepenthe Beebweepa | Hazy IPA | 6.50% | Draft | Baltimore, MD |
+| Union Zadie's Lager | Lager | 4.50% | Draft | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 79
+- **Total Snapshots**: 80
 - **Current Beer Count**: 76
-- **Total Change Records**: 78
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-26 17:02:10.899599
+- **Total Change Records**: 79
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-27 17:02:05.394761
