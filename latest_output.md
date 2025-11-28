@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-11-27 17:02:05*
+*Generated on 2025-11-28 17:01:42*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-11-28 17:01:42.102719 | 75 |
 | 2025-11-27 17:02:05.394761 | 76 |
 | 2025-11-26 17:02:10.899599 | 76 |
 | 2025-11-25 17:03:04.129040 | 75 |
@@ -14,7 +15,6 @@
 | 2025-11-21 17:01:45.070826 | 72 |
 | 2025-11-20 17:02:44.579314 | 72 |
 | 2025-11-19 17:02:24.965964 | 70 |
-| 2025-11-18 17:02:39.835210 | 67 |
 
 ### 🍺 Current Beer List
 
@@ -38,7 +38,7 @@
 | Ten Eyck Side Dish | Imperial Brown | 10.00% | Queenstown,MD |
 | Peabody Heights Right Place,Wrong Time | Double IPA | 8.00% | Baltimore, MD |
 
-#### 🥫 Bottles & Cans (61)
+#### 🥫 Bottles & Cans (60)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -62,13 +62,14 @@
 | Wico Street Hella Steez | Helles Lager | 5.50% | Baltimore, MD |
 | Lancaster Shoo-Fly Pie | Porter | 6.20% | Lancaster, PA |
 | Schneider Weisse Aventinus Eisbock ($16) | Bock | 12.00% | Germany |
-| *... and 41 more* | | | |
+| *... and 40 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-11-28 17:01:42.102719 | 0 | 1 | 1 |
 | 2025-11-27 17:02:05.394761 | 4 | 4 | 8 |
 | 2025-11-26 17:02:10.899599 | 3 | 2 | 5 |
 | 2025-11-25 17:03:04.129040 | 1 | 2 | 3 |
@@ -78,32 +79,19 @@
 | 2025-11-21 17:01:45.070826 | 7 | 7 | 14 |
 | 2025-11-20 17:02:44.579314 | 5 | 3 | 8 |
 | 2025-11-19 17:02:24.965964 | 4 | 1 | 5 |
-| 2025-11-18 17:02:39.835210 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
-
-#### ➕ Added Beers
-
-| Name | Style | ABV | Vessel | Location |
-|------|-------|-----|--------|----------|
-| Peabody Heights Right Place,Wrong Time | Double IPA | 8.00% | Draft | Baltimore, MD |
-| Ten Eyck Taildragger Sunrise | Hazy IPA | 7.00% | Draft | Queenstown,MD |
-| Ten Eyck Good Queen Anne | Imperial Stout | 13.00% | Draft | Queenstown,MD |
-| Ten Eyck Side Dish | Imperial Brown | 10.00% | Draft | Queenstown,MD |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Manor Hill No Sleeves (2025) | Session IPA | 5.50% | Draft | Ellicott City, MD |
-| Falling Branch That's My Uncrusted | Sour Ale | 5.00% | Draft | Street, MD |
-| Nepenthe Beebweepa | Hazy IPA | 6.50% | Draft | Baltimore, MD |
-| Union Zadie's Lager | Lager | 4.50% | Draft | Baltimore, MD |
+| Pickett 33 1/3 Nelson (16oz) | Hazy IPA | 7.00% | Bottle/Can | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 80
-- **Current Beer Count**: 76
-- **Total Change Records**: 79
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-27 17:02:05.394761
+- **Total Snapshots**: 81
+- **Current Beer Count**: 75
+- **Total Change Records**: 80
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-28 17:01:42.102719
