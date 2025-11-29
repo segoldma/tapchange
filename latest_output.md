@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-11-28 17:01:42*
+*Generated on 2025-11-29 17:01:50*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-11-29 17:01:50.462056 | 76 |
 | 2025-11-28 17:01:42.102719 | 75 |
 | 2025-11-27 17:02:05.394761 | 76 |
 | 2025-11-26 17:02:10.899599 | 76 |
@@ -14,7 +15,6 @@
 | 2025-11-22 17:01:44.549829 | 76 |
 | 2025-11-21 17:01:45.070826 | 72 |
 | 2025-11-20 17:02:44.579314 | 72 |
-| 2025-11-19 17:02:24.965964 | 70 |
 
 ### 🍺 Current Beer List
 
@@ -38,7 +38,7 @@
 | Ten Eyck Side Dish | Imperial Brown | 10.00% | Queenstown,MD |
 | Peabody Heights Right Place,Wrong Time | Double IPA | 8.00% | Baltimore, MD |
 
-#### 🥫 Bottles & Cans (60)
+#### 🥫 Bottles & Cans (61)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -62,13 +62,14 @@
 | Wico Street Hella Steez | Helles Lager | 5.50% | Baltimore, MD |
 | Lancaster Shoo-Fly Pie | Porter | 6.20% | Lancaster, PA |
 | Schneider Weisse Aventinus Eisbock ($16) | Bock | 12.00% | Germany |
-| *... and 40 more* | | | |
+| *... and 41 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-11-29 17:01:50.462056 | 1 | 0 | 1 |
 | 2025-11-28 17:01:42.102719 | 0 | 1 | 1 |
 | 2025-11-27 17:02:05.394761 | 4 | 4 | 8 |
 | 2025-11-26 17:02:10.899599 | 3 | 2 | 5 |
@@ -78,20 +79,19 @@
 | 2025-11-22 17:01:44.549829 | 8 | 4 | 12 |
 | 2025-11-21 17:01:45.070826 | 7 | 7 | 14 |
 | 2025-11-20 17:02:44.579314 | 5 | 3 | 8 |
-| 2025-11-19 17:02:24.965964 | 4 | 1 | 5 |
 
 ### 🆕 Latest Changes Details
 
-#### ➖ Removed Beers
+#### ➕ Added Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Pickett 33 1/3 Nelson (16oz) | Hazy IPA | 7.00% | Bottle/Can | Baltimore, MD |
+| Allagash Ski House | White Ale | 7.50% | Bottle/Can | Portland, ME |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 81
-- **Current Beer Count**: 75
-- **Total Change Records**: 80
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-28 17:01:42.102719
+- **Total Snapshots**: 82
+- **Current Beer Count**: 76
+- **Total Change Records**: 81
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-11-29 17:01:50.462056
