@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-12-01 17:03:52*
+*Generated on 2025-12-02 17:04:02*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-12-02 17:04:02.112101 | 78 |
 | 2025-12-01 17:03:52.138254 | 77 |
 | 2025-11-30 17:01:44.967922 | 77 |
 | 2025-11-29 17:01:50.462056 | 76 |
@@ -14,11 +15,10 @@
 | 2025-11-25 17:03:04.129040 | 75 |
 | 2025-11-24 17:01:47.503250 | 76 |
 | 2025-11-23 17:01:47.158737 | 76 |
-| 2025-11-22 17:01:44.549829 | 76 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (15)
+#### 🍺 Draft Beers (16)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -37,6 +37,7 @@
 | Ten Eyck Side Dish | Imperial Brown | 10.00% | Queenstown,MD |
 | Peabody Heights Right Place,Wrong Time | Double IPA | 8.00% | Baltimore, MD |
 | Monocacy Bazooka Nugs | Farmhouse Ale | 8.50% | Frederick, MD |
+| Sierra Nevada Celebration | IPA | 6.80% | Chico, CA |
 
 #### 🥫 Bottles & Cans (62)
 
@@ -58,10 +59,10 @@
 | Schlafly Dark Mild | British Mild Ale | 3.80% | St. Louis, MO |
 | Rupee Basmati Lager (16oz) | Lager | 4.70% | Potosi, WI |
 | Schlafly Doppelbock | Doppelbock | 6.00% | St. Louis, MO |
-| OEC Brewing Oolong Kolsch | Kolsch | 4.80% | Oxford, CT |
 | Wico Street Hella Steez | Helles Lager | 5.50% | Baltimore, MD |
 | Lancaster Shoo-Fly Pie | Porter | 6.20% | Lancaster, PA |
 | Schneider Weisse Aventinus Eisbock ($16) | Bock | 12.00% | Germany |
+| Oskar Blues Old Chub | Scotch Ale | 8.00% | Longmont, CO |
 | *... and 42 more* | | | |
 
 
@@ -69,6 +70,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-12-02 17:04:02.112101 | 3 | 2 | 5 |
 | 2025-12-01 17:03:52.138254 | 0 | 0 | 0 |
 | 2025-11-30 17:01:44.967922 | 2 | 1 | 3 |
 | 2025-11-29 17:01:50.462056 | 1 | 0 | 1 |
@@ -78,16 +80,28 @@
 | 2025-11-25 17:03:04.129040 | 1 | 2 | 3 |
 | 2025-11-24 17:01:47.503250 | 0 | 0 | 0 |
 | 2025-11-23 17:01:47.158737 | 4 | 4 | 8 |
-| 2025-11-22 17:01:44.549829 | 8 | 4 | 12 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Great Lakes Juicy Vibacious | Double IPA | 9.50% | Bottle/Can | Cleveland, OH |
+| Sierra Nevada Celebration | IPA | 6.80% | Draft | Chico, CA |
+| Manor Hill Porter | Porter | 5.50% | Bottle/Can | Ellicott City, MD |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| OEC Biere De Mai (16oz) | Wild Ale | 6.00% | Bottle/Can | Oxford, CT |
+| OEC Brewing Oolong Kolsch | Kolsch | 4.80% | Bottle/Can | Oxford, CT |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 84
-- **Current Beer Count**: 77
-- **Total Change Records**: 83
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-01 17:03:52.138254
+- **Total Snapshots**: 85
+- **Current Beer Count**: 78
+- **Total Change Records**: 84
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-02 17:04:02.112101
