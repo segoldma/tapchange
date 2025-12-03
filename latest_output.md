@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-12-02 17:04:02*
+*Generated on 2025-12-03 17:05:00*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-12-03 17:05:00.524564 | 77 |
 | 2025-12-02 17:04:02.112101 | 78 |
 | 2025-12-01 17:03:52.138254 | 77 |
 | 2025-11-30 17:01:44.967922 | 77 |
@@ -14,11 +15,10 @@
 | 2025-11-26 17:02:10.899599 | 76 |
 | 2025-11-25 17:03:04.129040 | 75 |
 | 2025-11-24 17:01:47.503250 | 76 |
-| 2025-11-23 17:01:47.158737 | 76 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (16)
+#### 🍺 Draft Beers (15)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -31,7 +31,6 @@
 | Bitberger Premium Pils | Pilsner | 4.80% | Germany |
 | Kostritzer Schwarzbier | Schwarzbier | 4.80% | Germany |
 | Pickett Neil's Meal | Oatmeal Stout | 9.00% | Baltimore, MD |
-| Pickett Bluegrass Sunday | Pilsner | 4.70% | Baltimore, MD |
 | Lone Pine Oh-J | Hazy DIPA | 8.10% | Portland, ME |
 | Ten Eyck Good Queen Anne | Imperial Stout | 13.00% | Queenstown,MD |
 | Ten Eyck Side Dish | Imperial Brown | 10.00% | Queenstown,MD |
@@ -70,6 +69,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-12-03 17:05:00.524564 | 0 | 1 | 1 |
 | 2025-12-02 17:04:02.112101 | 3 | 2 | 5 |
 | 2025-12-01 17:03:52.138254 | 0 | 0 | 0 |
 | 2025-11-30 17:01:44.967922 | 2 | 1 | 3 |
@@ -79,29 +79,19 @@
 | 2025-11-26 17:02:10.899599 | 3 | 2 | 5 |
 | 2025-11-25 17:03:04.129040 | 1 | 2 | 3 |
 | 2025-11-24 17:01:47.503250 | 0 | 0 | 0 |
-| 2025-11-23 17:01:47.158737 | 4 | 4 | 8 |
 
 ### 🆕 Latest Changes Details
-
-#### ➕ Added Beers
-
-| Name | Style | ABV | Vessel | Location |
-|------|-------|-----|--------|----------|
-| Great Lakes Juicy Vibacious | Double IPA | 9.50% | Bottle/Can | Cleveland, OH |
-| Sierra Nevada Celebration | IPA | 6.80% | Draft | Chico, CA |
-| Manor Hill Porter | Porter | 5.50% | Bottle/Can | Ellicott City, MD |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| OEC Biere De Mai (16oz) | Wild Ale | 6.00% | Bottle/Can | Oxford, CT |
-| OEC Brewing Oolong Kolsch | Kolsch | 4.80% | Bottle/Can | Oxford, CT |
+| Pickett Bluegrass Sunday | Pilsner | 4.70% | Draft | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 85
-- **Current Beer Count**: 78
-- **Total Change Records**: 84
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-02 17:04:02.112101
+- **Total Snapshots**: 86
+- **Current Beer Count**: 77
+- **Total Change Records**: 85
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-03 17:05:00.524564
