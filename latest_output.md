@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-12-04 17:04:04*
+*Generated on 2025-12-05 17:02:34*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-12-05 17:02:34.093130 | 69 |
 | 2025-12-04 17:04:04.099514 | 77 |
 | 2025-12-03 17:05:00.524564 | 77 |
 | 2025-12-02 17:04:02.112101 | 78 |
@@ -14,7 +15,6 @@
 | 2025-11-28 17:01:42.102719 | 75 |
 | 2025-11-27 17:02:05.394761 | 76 |
 | 2025-11-26 17:02:10.899599 | 76 |
-| 2025-11-25 17:03:04.129040 | 75 |
 
 ### 🍺 Current Beer List
 
@@ -31,14 +31,14 @@
 | Bitberger Premium Pils | Pilsner | 4.80% | Germany |
 | Kostritzer Schwarzbier | Schwarzbier | 4.80% | Germany |
 | Pickett Neil's Meal | Oatmeal Stout | 9.00% | Baltimore, MD |
-| Lone Pine Oh-J | Hazy DIPA | 8.10% | Portland, ME |
 | Ten Eyck Good Queen Anne | Imperial Stout | 13.00% | Queenstown,MD |
 | Ten Eyck Side Dish | Imperial Brown | 10.00% | Queenstown,MD |
 | Peabody Heights Right Place,Wrong Time | Double IPA | 8.00% | Baltimore, MD |
 | Monocacy Bazooka Nugs | Farmhouse Ale | 8.50% | Frederick, MD |
 | Sierra Nevada Celebration | IPA | 6.80% | Chico, CA |
+| Falling Branch That's My Uncrusted | Sour Ale | 5.00% | Street, MD |
 
-#### 🥫 Bottles & Cans (62)
+#### 🥫 Bottles & Cans (54)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -49,26 +49,27 @@
 | Dad Water  | Tequila Cocktail | 5.25% | Indianapolis, IN |
 | Monster The Beast: Peach Perfect | Not Beer | 6.00% | Cold Spring, MN |
 | MY5 The Original or Tangerine  | Not Beer | 4.50% | Landsdale, PA |
-| Best Day Kolsch | N/A Kolsch | 0.50% | California |
 | Best Day Electro-Lime | N/A Cerveza | 0.50% | California |
 | Best Day Brewing White | N/A Wheat Ale | 0.50% | Sausalito, CA |
 | Union Hopwater Springs | N/A  | 0.00% | Baltimore, MD |
 | Liefmans Goudenband ($13) | Oud Bruin | 8.00% | Belgium |
 | Firestone Walker Mind Haze Lemonade | Imperial Radler | 8.00% | Paso Robles, CA |
 | Schlafly Dark Mild | British Mild Ale | 3.80% | St. Louis, MO |
-| Rupee Basmati Lager (16oz) | Lager | 4.70% | Potosi, WI |
 | Schlafly Doppelbock | Doppelbock | 6.00% | St. Louis, MO |
-| Wico Street Hella Steez | Helles Lager | 5.50% | Baltimore, MD |
 | Lancaster Shoo-Fly Pie | Porter | 6.20% | Lancaster, PA |
-| Schneider Weisse Aventinus Eisbock ($16) | Bock | 12.00% | Germany |
 | Oskar Blues Old Chub | Scotch Ale | 8.00% | Longmont, CO |
-| *... and 42 more* | | | |
+| OEC Yuzu Pilsner | Pilsner | 5.20% | Oxford, CT |
+| Denizens Hike the Alps: Kellerbier | Kellerbier | 5.30% | Ellicott City, MD |
+| Left Hand Peanut Butter Nitro Milk Stout | Stout | 6.20% | Longmont, CO |
+| Guilford Goatman | Bock | 6.30% | Baltimore, MD |
+| *... and 34 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-12-05 17:02:34.093130 | 5 | 13 | 18 |
 | 2025-12-04 17:04:04.099514 | 0 | 0 | 0 |
 | 2025-12-03 17:05:00.524564 | 0 | 1 | 1 |
 | 2025-12-02 17:04:02.112101 | 3 | 2 | 5 |
@@ -78,16 +79,39 @@
 | 2025-11-28 17:01:42.102719 | 0 | 1 | 1 |
 | 2025-11-27 17:02:05.394761 | 4 | 4 | 8 |
 | 2025-11-26 17:02:10.899599 | 3 | 2 | 5 |
-| 2025-11-25 17:03:04.129040 | 1 | 2 | 3 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Hamm's  | Lager | 4.70% | Bottle/Can | Milwaukee, WI |
+| Carib Lager | Lager | 5.00% | Bottle/Can | Cape Canaveral ,FL |
+| Mully's Hazy Not Lazy (16oz) | DIPA | 7.50% | Bottle/Can | Frederick, MD |
+| Cape May Coastal Evacuation | DIPA | 8.00% | Bottle/Can | Cape May, NJ |
+| Falling Branch That's My Uncrusted | Sour Ale | 5.00% | Draft | Street, MD |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Erdinger Brauhaus Lager (16oz) | Helles Lager | 5.10% | Bottle/Can | Germany |
+| Lone Pine Oh-J | Hazy DIPA | 8.10% | Draft | Portland, ME |
+| Allagash Gatherwell ($13) | Imperial Stout | 11.00% | Bottle/Can | Portland, ME |
+| Schneider Weisse Aventinus Eisbock ($16) | Bock | 12.00% | Bottle/Can | Germany |
+| Cushwa It's All In Your Head (16oz) | WCIPA | 7.00% | Bottle/Can | Williamsport, MD |
+| Wico Street Hella Steez | Helles Lager | 5.50% | Bottle/Can | Baltimore, MD |
+| Rupee Basmati Lager (16oz) | Lager | 4.70% | Bottle/Can | Potosi, WI |
+| Deschutes Royal Fresh (19.2oz) $10 | Imperial IPA | 9.00% | Bottle/Can | Bend, OR |
+| Best Day Kolsch | N/A Kolsch | 0.50% | Bottle/Can | California |
+| Appalachian Wildest Dreams (16oz) | Fruited Sour | 5.50% | Bottle/Can | Harrisburg, PA |
+| *... and 3 more* | | | | |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 87
-- **Current Beer Count**: 77
-- **Total Change Records**: 86
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-04 17:04:04.099514
+- **Total Snapshots**: 88
+- **Current Beer Count**: 69
+- **Total Change Records**: 87
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-05 17:02:34.093130
