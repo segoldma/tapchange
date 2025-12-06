@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-12-05 17:02:34*
+*Generated on 2025-12-06 17:01:51*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-12-06 17:01:51.572383 | 67 |
 | 2025-12-05 17:02:34.093130 | 69 |
 | 2025-12-04 17:04:04.099514 | 77 |
 | 2025-12-03 17:05:00.524564 | 77 |
@@ -14,7 +15,6 @@
 | 2025-11-29 17:01:50.462056 | 76 |
 | 2025-11-28 17:01:42.102719 | 75 |
 | 2025-11-27 17:02:05.394761 | 76 |
-| 2025-11-26 17:02:10.899599 | 76 |
 
 ### 🍺 Current Beer List
 
@@ -23,7 +23,6 @@
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
 | Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Longmont, CO |
-| Great Lakes Barrel Aged Christmas Ale | Winter Ale | 10.00% | Cleveland, OH |
 | Nepenthe Dark Path | Coffee Porter | 5.50% | Baltimore, MD |
 | Union Lot Trees | Imperial IPA | 8.40% | Baltimore, MD |
 | Gaffel Kolsch | Kolsch | 4.80% | Germany |
@@ -33,12 +32,13 @@
 | Pickett Neil's Meal | Oatmeal Stout | 9.00% | Baltimore, MD |
 | Ten Eyck Good Queen Anne | Imperial Stout | 13.00% | Queenstown,MD |
 | Ten Eyck Side Dish | Imperial Brown | 10.00% | Queenstown,MD |
-| Peabody Heights Right Place,Wrong Time | Double IPA | 8.00% | Baltimore, MD |
 | Monocacy Bazooka Nugs | Farmhouse Ale | 8.50% | Frederick, MD |
 | Sierra Nevada Celebration | IPA | 6.80% | Chico, CA |
 | Falling Branch That's My Uncrusted | Sour Ale | 5.00% | Street, MD |
+| Peabody Heights The Peachfather | Belgian Blonde | 6.00% | Baltimore, MD |
+| Guilford Days of Yore | Dark Lager | 4.60% | Baltimore, MD |
 
-#### 🥫 Bottles & Cans (54)
+#### 🥫 Bottles & Cans (52)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -62,13 +62,14 @@
 | Denizens Hike the Alps: Kellerbier | Kellerbier | 5.30% | Ellicott City, MD |
 | Left Hand Peanut Butter Nitro Milk Stout | Stout | 6.20% | Longmont, CO |
 | Guilford Goatman | Bock | 6.30% | Baltimore, MD |
-| *... and 34 more* | | | |
+| *... and 32 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-12-06 17:01:51.572383 | 5 | 7 | 12 |
 | 2025-12-05 17:02:34.093130 | 5 | 13 | 18 |
 | 2025-12-04 17:04:04.099514 | 0 | 0 | 0 |
 | 2025-12-03 17:05:00.524564 | 0 | 1 | 1 |
@@ -78,7 +79,6 @@
 | 2025-11-29 17:01:50.462056 | 1 | 0 | 1 |
 | 2025-11-28 17:01:42.102719 | 0 | 1 | 1 |
 | 2025-11-27 17:02:05.394761 | 4 | 4 | 8 |
-| 2025-11-26 17:02:10.899599 | 3 | 2 | 5 |
 
 ### 🆕 Latest Changes Details
 
@@ -86,32 +86,28 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Hamm's  | Lager | 4.70% | Bottle/Can | Milwaukee, WI |
-| Carib Lager | Lager | 5.00% | Bottle/Can | Cape Canaveral ,FL |
-| Mully's Hazy Not Lazy (16oz) | DIPA | 7.50% | Bottle/Can | Frederick, MD |
-| Cape May Coastal Evacuation | DIPA | 8.00% | Bottle/Can | Cape May, NJ |
-| Falling Branch That's My Uncrusted | Sour Ale | 5.00% | Draft | Street, MD |
+| Grolsch | Pilsner | 5.00% | Bottle/Can | Holland |
+| Peabody Heights The Peachfather | Belgian Blonde | 6.00% | Draft | Baltimore, MD |
+| Great Lakes Edmund Fitzgerald | Porter | 6.00% | Bottle/Can | Cleveland, OH |
+| Guilford Days of Yore | Dark Lager | 4.60% | Draft | Baltimore, MD |
+| Milwaukee's Best Ice | Lager | 5.90% | Bottle/Can | Milwaukee, Wisconsin |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Erdinger Brauhaus Lager (16oz) | Helles Lager | 5.10% | Bottle/Can | Germany |
-| Lone Pine Oh-J | Hazy DIPA | 8.10% | Draft | Portland, ME |
-| Allagash Gatherwell ($13) | Imperial Stout | 11.00% | Bottle/Can | Portland, ME |
-| Schneider Weisse Aventinus Eisbock ($16) | Bock | 12.00% | Bottle/Can | Germany |
-| Cushwa It's All In Your Head (16oz) | WCIPA | 7.00% | Bottle/Can | Williamsport, MD |
-| Wico Street Hella Steez | Helles Lager | 5.50% | Bottle/Can | Baltimore, MD |
-| Rupee Basmati Lager (16oz) | Lager | 4.70% | Bottle/Can | Potosi, WI |
-| Deschutes Royal Fresh (19.2oz) $10 | Imperial IPA | 9.00% | Bottle/Can | Bend, OR |
-| Best Day Kolsch | N/A Kolsch | 0.50% | Bottle/Can | California |
-| Appalachian Wildest Dreams (16oz) | Fruited Sour | 5.50% | Bottle/Can | Harrisburg, PA |
-| *... and 3 more* | | | | |
+| Peabody Heights Right Place,Wrong Time | Double IPA | 8.00% | Draft | Baltimore, MD |
+| Mully's Carmelite Wheat | Hefeweizen | 5.50% | Bottle/Can | Prince Frederick, MD |
+| Great Lakes Barrel Aged Christmas Ale | Winter Ale | 10.00% | Draft | Cleveland, OH |
+| Mully's Hazy Not Lazy (16oz) | DIPA | 7.50% | Bottle/Can | Frederick, MD |
+| Fairwinds Ironmaster | IPA | 6.00% | Bottle/Can | Lorton, VA |
+| Smuttynose Imp. Whole Lotta Haze(19.2oz)$10 | NEIPA | 9.00% | Bottle/Can | Hampton, NH |
+| Ministry Oktoberfest | Marzen | 6.10% | Bottle/Can | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 88
-- **Current Beer Count**: 69
-- **Total Change Records**: 87
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-05 17:02:34.093130
+- **Total Snapshots**: 89
+- **Current Beer Count**: 67
+- **Total Change Records**: 88
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-06 17:01:51.572383
