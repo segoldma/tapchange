@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-12-06 17:01:51*
+*Generated on 2025-12-07 17:01:45*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-12-07 17:01:45.343700 | 68 |
 | 2025-12-06 17:01:51.572383 | 67 |
 | 2025-12-05 17:02:34.093130 | 69 |
 | 2025-12-04 17:04:04.099514 | 77 |
@@ -14,7 +15,6 @@
 | 2025-11-30 17:01:44.967922 | 77 |
 | 2025-11-29 17:01:50.462056 | 76 |
 | 2025-11-28 17:01:42.102719 | 75 |
-| 2025-11-27 17:02:05.394761 | 76 |
 
 ### 🍺 Current Beer List
 
@@ -38,7 +38,7 @@
 | Peabody Heights The Peachfather | Belgian Blonde | 6.00% | Baltimore, MD |
 | Guilford Days of Yore | Dark Lager | 4.60% | Baltimore, MD |
 
-#### 🥫 Bottles & Cans (52)
+#### 🥫 Bottles & Cans (53)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -62,13 +62,14 @@
 | Denizens Hike the Alps: Kellerbier | Kellerbier | 5.30% | Ellicott City, MD |
 | Left Hand Peanut Butter Nitro Milk Stout | Stout | 6.20% | Longmont, CO |
 | Guilford Goatman | Bock | 6.30% | Baltimore, MD |
-| *... and 32 more* | | | |
+| *... and 33 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-12-07 17:01:45.343700 | 2 | 1 | 3 |
 | 2025-12-06 17:01:51.572383 | 5 | 7 | 12 |
 | 2025-12-05 17:02:34.093130 | 5 | 13 | 18 |
 | 2025-12-04 17:04:04.099514 | 0 | 0 | 0 |
@@ -78,7 +79,6 @@
 | 2025-11-30 17:01:44.967922 | 2 | 1 | 3 |
 | 2025-11-29 17:01:50.462056 | 1 | 0 | 1 |
 | 2025-11-28 17:01:42.102719 | 0 | 1 | 1 |
-| 2025-11-27 17:02:05.394761 | 4 | 4 | 8 |
 
 ### 🆕 Latest Changes Details
 
@@ -86,28 +86,19 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Grolsch | Pilsner | 5.00% | Bottle/Can | Holland |
-| Peabody Heights The Peachfather | Belgian Blonde | 6.00% | Draft | Baltimore, MD |
-| Great Lakes Edmund Fitzgerald | Porter | 6.00% | Bottle/Can | Cleveland, OH |
-| Guilford Days of Yore | Dark Lager | 4.60% | Draft | Baltimore, MD |
-| Milwaukee's Best Ice | Lager | 5.90% | Bottle/Can | Milwaukee, Wisconsin |
+| Cape May IPA | IPA | 6.30% | Bottle/Can | Cape May, NJ |
+| Great Lakes Midwest IPA | IPA | 7.00% | Bottle/Can | Cleveland, OH |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Peabody Heights Right Place,Wrong Time | Double IPA | 8.00% | Draft | Baltimore, MD |
-| Mully's Carmelite Wheat | Hefeweizen | 5.50% | Bottle/Can | Prince Frederick, MD |
-| Great Lakes Barrel Aged Christmas Ale | Winter Ale | 10.00% | Draft | Cleveland, OH |
-| Mully's Hazy Not Lazy (16oz) | DIPA | 7.50% | Bottle/Can | Frederick, MD |
-| Fairwinds Ironmaster | IPA | 6.00% | Bottle/Can | Lorton, VA |
-| Smuttynose Imp. Whole Lotta Haze(19.2oz)$10 | NEIPA | 9.00% | Bottle/Can | Hampton, NH |
-| Ministry Oktoberfest | Marzen | 6.10% | Bottle/Can | Baltimore, MD |
+| Industrial Arts Wrench | Hazy IPA | 7.10% | Bottle/Can | Beacon, NY |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 89
-- **Current Beer Count**: 67
-- **Total Change Records**: 88
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-06 17:01:51.572383
+- **Total Snapshots**: 90
+- **Current Beer Count**: 68
+- **Total Change Records**: 89
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-07 17:01:45.343700
