@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-12-09 17:03:17*
+*Generated on 2025-12-10 17:03:55*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-12-10 17:03:55.470966 | 68 |
 | 2025-12-09 17:03:17.567440 | 68 |
 | 2025-12-08 17:03:26.068045 | 68 |
 | 2025-12-07 17:01:45.343700 | 68 |
@@ -14,7 +15,6 @@
 | 2025-12-03 17:05:00.524564 | 77 |
 | 2025-12-02 17:04:02.112101 | 78 |
 | 2025-12-01 17:03:52.138254 | 77 |
-| 2025-11-30 17:01:44.967922 | 77 |
 
 ### 🍺 Current Beer List
 
@@ -27,16 +27,16 @@
 | Union Lot Trees | Imperial IPA | 8.40% | Baltimore, MD |
 | Gaffel Kolsch | Kolsch | 4.80% | Germany |
 | Weihenstephaner Hefeweissbier | Hefeweizen | 5.40% | Germany |
-| Bitberger Premium Pils | Pilsner | 4.80% | Germany |
 | Kostritzer Schwarzbier | Schwarzbier | 4.80% | Germany |
-| Pickett Neil's Meal | Oatmeal Stout | 9.00% | Baltimore, MD |
 | Ten Eyck Good Queen Anne | Imperial Stout | 13.00% | Queenstown,MD |
 | Ten Eyck Side Dish | Imperial Brown | 10.00% | Queenstown,MD |
 | Monocacy Bazooka Nugs | Farmhouse Ale | 8.50% | Frederick, MD |
 | Sierra Nevada Celebration | IPA | 6.80% | Chico, CA |
-| Falling Branch That's My Uncrusted | Sour Ale | 5.00% | Street, MD |
 | Peabody Heights The Peachfather | Belgian Blonde | 6.00% | Baltimore, MD |
 | Guilford Days of Yore | Dark Lager | 4.60% | Baltimore, MD |
+| Rye River Brogue Irish Red | Red Ale | 4.40% | Ireland |
+| Pickett Bluegrass Sunday | Pilsner | 4.70% | Baltimore, MD |
+| Other Half Hop Pirates | NE Hazy IPA | 6.80% | Brooklyn, NY |
 
 #### 🥫 Bottles & Cans (53)
 
@@ -69,6 +69,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-12-10 17:03:55.470966 | 5 | 5 | 10 |
 | 2025-12-09 17:03:17.567440 | 0 | 0 | 0 |
 | 2025-12-08 17:03:26.068045 | 0 | 0 | 0 |
 | 2025-12-07 17:01:45.343700 | 2 | 1 | 3 |
@@ -78,16 +79,33 @@
 | 2025-12-03 17:05:00.524564 | 0 | 1 | 1 |
 | 2025-12-02 17:04:02.112101 | 3 | 2 | 5 |
 | 2025-12-01 17:03:52.138254 | 0 | 0 | 0 |
-| 2025-11-30 17:01:44.967922 | 2 | 1 | 3 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Rye River Brogue Irish Red | Red Ale | 4.40% | Draft | Ireland |
+| Jack's Abby Framinghammer Ginger Bread | Blatic Porter | 9.00% | Bottle/Can | Framingham, MA |
+| Other Half Hop Pirates | NE Hazy IPA | 6.80% | Draft | Brooklyn, NY |
+| Black Flag Blanc Blanc (16oz) | Hazy Pale Ale | 7.00% | Bottle/Can | Columbia, MD |
+| Pickett Bluegrass Sunday | Pilsner | 4.70% | Draft | Baltimore, MD |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Bitberger Premium Pils | Pilsner | 4.80% | Draft | Germany |
+| Falling Branch That's My Uncrusted | Sour Ale | 5.00% | Draft | Street, MD |
+| Deschutes Mirror Pond | Pale Ale | 5.00% | Bottle/Can | Bend, OR |
+| Great Lakes Edmund Fitzgerald | Porter | 6.00% | Bottle/Can | Cleveland, OH |
+| Pickett Neil's Meal | Oatmeal Stout | 9.00% | Draft | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 92
+- **Total Snapshots**: 93
 - **Current Beer Count**: 68
-- **Total Change Records**: 91
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-09 17:03:17.567440
+- **Total Change Records**: 92
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-10 17:03:55.470966
