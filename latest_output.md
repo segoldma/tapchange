@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-12-11 17:05:33*
+*Generated on 2025-12-12 17:01:48*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-12-12 17:01:48.065480 | 69 |
 | 2025-12-11 17:05:33.054276 | 68 |
 | 2025-12-10 17:03:55.470966 | 68 |
 | 2025-12-09 17:03:17.567440 | 68 |
@@ -14,7 +15,6 @@
 | 2025-12-05 17:02:34.093130 | 69 |
 | 2025-12-04 17:04:04.099514 | 77 |
 | 2025-12-03 17:05:00.524564 | 77 |
-| 2025-12-02 17:04:02.112101 | 78 |
 
 ### 🍺 Current Beer List
 
@@ -25,7 +25,6 @@
 | Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Longmont, CO |
 | Nepenthe Dark Path | Coffee Porter | 5.50% | Baltimore, MD |
 | Union Lot Trees | Imperial IPA | 8.40% | Baltimore, MD |
-| Gaffel Kolsch | Kolsch | 4.80% | Germany |
 | Weihenstephaner Hefeweissbier | Hefeweizen | 5.40% | Germany |
 | Kostritzer Schwarzbier | Schwarzbier | 4.80% | Germany |
 | Ten Eyck Good Queen Anne | Imperial Stout | 13.00% | Queenstown,MD |
@@ -37,8 +36,9 @@
 | Rye River Brogue Irish Red | Red Ale | 4.40% | Ireland |
 | Pickett Bluegrass Sunday | Pilsner | 4.70% | Baltimore, MD |
 | Other Half Hop Pirates | NE Hazy IPA | 6.80% | Brooklyn, NY |
+| Bell's Christmas Ale | Scotch Ale | 7.50% | Kalamazoo, MI |
 
-#### 🥫 Bottles & Cans (53)
+#### 🥫 Bottles & Cans (54)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -62,13 +62,14 @@
 | Denizens Hike the Alps: Kellerbier | Kellerbier | 5.30% | Ellicott City, MD |
 | Left Hand Peanut Butter Nitro Milk Stout | Stout | 6.20% | Longmont, CO |
 | Guilford Goatman | Bock | 6.30% | Baltimore, MD |
-| *... and 33 more* | | | |
+| *... and 34 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-12-12 17:01:48.065480 | 3 | 2 | 5 |
 | 2025-12-11 17:05:33.054276 | 0 | 0 | 0 |
 | 2025-12-10 17:03:55.470966 | 5 | 5 | 10 |
 | 2025-12-09 17:03:17.567440 | 0 | 0 | 0 |
@@ -78,16 +79,28 @@
 | 2025-12-05 17:02:34.093130 | 5 | 13 | 18 |
 | 2025-12-04 17:04:04.099514 | 0 | 0 | 0 |
 | 2025-12-03 17:05:00.524564 | 0 | 1 | 1 |
-| 2025-12-02 17:04:02.112101 | 3 | 2 | 5 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Great Lakes Cold Rush Light Lager | Lager | 4.00% | Bottle/Can | Cleveland, OH |
+| Bell's Christmas Ale | Scotch Ale | 7.50% | Draft | Kalamazoo, MI |
+| Wico Street Greetings From Pigtown | Blonde Ale | 5.50% | Bottle/Can | Baltimore, MD |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Gaffel Kolsch | Kolsch | 4.80% | Draft | Germany |
+| Great Lakes Midwest IPA | IPA | 7.00% | Bottle/Can | Cleveland, OH |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 94
-- **Current Beer Count**: 68
-- **Total Change Records**: 93
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-11 17:05:33.054276
+- **Total Snapshots**: 95
+- **Current Beer Count**: 69
+- **Total Change Records**: 94
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-12 17:01:48.065480
