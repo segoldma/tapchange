@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-12-12 17:01:48*
+*Generated on 2025-12-13 17:01:44*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-12-13 17:01:44.295964 | 70 |
 | 2025-12-12 17:01:48.065480 | 69 |
 | 2025-12-11 17:05:33.054276 | 68 |
 | 2025-12-10 17:03:55.470966 | 68 |
@@ -14,17 +15,15 @@
 | 2025-12-06 17:01:51.572383 | 67 |
 | 2025-12-05 17:02:34.093130 | 69 |
 | 2025-12-04 17:04:04.099514 | 77 |
-| 2025-12-03 17:05:00.524564 | 77 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (15)
+#### 🍺 Draft Beers (16)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
 | Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Longmont, CO |
 | Nepenthe Dark Path | Coffee Porter | 5.50% | Baltimore, MD |
-| Union Lot Trees | Imperial IPA | 8.40% | Baltimore, MD |
 | Weihenstephaner Hefeweissbier | Hefeweizen | 5.40% | Germany |
 | Kostritzer Schwarzbier | Schwarzbier | 4.80% | Germany |
 | Ten Eyck Good Queen Anne | Imperial Stout | 13.00% | Queenstown,MD |
@@ -37,6 +36,8 @@
 | Pickett Bluegrass Sunday | Pilsner | 4.70% | Baltimore, MD |
 | Other Half Hop Pirates | NE Hazy IPA | 6.80% | Brooklyn, NY |
 | Bell's Christmas Ale | Scotch Ale | 7.50% | Kalamazoo, MI |
+| Falling Branch Sakura Winds  | Lager | 5.00% | Street, MD |
+| Manor Hill Katherine's Kolsch | Kolsch | 5.00% | Ellicott City, MD |
 
 #### 🥫 Bottles & Cans (54)
 
@@ -69,6 +70,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-12-13 17:01:44.295964 | 4 | 3 | 7 |
 | 2025-12-12 17:01:48.065480 | 3 | 2 | 5 |
 | 2025-12-11 17:05:33.054276 | 0 | 0 | 0 |
 | 2025-12-10 17:03:55.470966 | 5 | 5 | 10 |
@@ -78,7 +80,6 @@
 | 2025-12-06 17:01:51.572383 | 5 | 7 | 12 |
 | 2025-12-05 17:02:34.093130 | 5 | 13 | 18 |
 | 2025-12-04 17:04:04.099514 | 0 | 0 | 0 |
-| 2025-12-03 17:05:00.524564 | 0 | 1 | 1 |
 
 ### 🆕 Latest Changes Details
 
@@ -86,21 +87,23 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Great Lakes Cold Rush Light Lager | Lager | 4.00% | Bottle/Can | Cleveland, OH |
-| Bell's Christmas Ale | Scotch Ale | 7.50% | Draft | Kalamazoo, MI |
-| Wico Street Greetings From Pigtown | Blonde Ale | 5.50% | Bottle/Can | Baltimore, MD |
+| Falling Branch Sakura Winds  | Lager | 5.00% | Draft | Street, MD |
+| Victory Very Merry Monkey | Spiced Ale | 9.50% | Bottle/Can | Downingtown, PA |
+| Manor Hill Katherine's Kolsch | Kolsch | 5.00% | Draft | Ellicott City, MD |
+| Ommegang Passport Royal (16oz) | IPA | 7.50% | Bottle/Can | Cooperstown, NY |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Gaffel Kolsch | Kolsch | 4.80% | Draft | Germany |
-| Great Lakes Midwest IPA | IPA | 7.00% | Bottle/Can | Cleveland, OH |
+| Union Lot Trees | Imperial IPA | 8.40% | Draft | Baltimore, MD |
+| Nepenthe Polydribbles: Yuzu Lemon (16oz) | Sour Ale | 5.90% | Bottle/Can | Baltimore, MD |
+| Great Lakes Cold Rush Light Lager | Lager | 4.00% | Bottle/Can | Cleveland, OH |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 95
-- **Current Beer Count**: 69
-- **Total Change Records**: 94
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-12 17:01:48.065480
+- **Total Snapshots**: 96
+- **Current Beer Count**: 70
+- **Total Change Records**: 95
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-13 17:01:44.295964
