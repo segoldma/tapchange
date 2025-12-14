@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-12-13 17:01:44*
+*Generated on 2025-12-14 17:01:41*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-12-14 17:01:41.694173 | 72 |
 | 2025-12-13 17:01:44.295964 | 70 |
 | 2025-12-12 17:01:48.065480 | 69 |
 | 2025-12-11 17:05:33.054276 | 68 |
@@ -14,7 +15,6 @@
 | 2025-12-07 17:01:45.343700 | 68 |
 | 2025-12-06 17:01:51.572383 | 67 |
 | 2025-12-05 17:02:34.093130 | 69 |
-| 2025-12-04 17:04:04.099514 | 77 |
 
 ### 🍺 Current Beer List
 
@@ -36,10 +36,10 @@
 | Pickett Bluegrass Sunday | Pilsner | 4.70% | Baltimore, MD |
 | Other Half Hop Pirates | NE Hazy IPA | 6.80% | Brooklyn, NY |
 | Bell's Christmas Ale | Scotch Ale | 7.50% | Kalamazoo, MI |
-| Falling Branch Sakura Winds  | Lager | 5.00% | Street, MD |
 | Manor Hill Katherine's Kolsch | Kolsch | 5.00% | Ellicott City, MD |
+| Troegs Mad Elf | Holiday Ale | 11.00% | Hershey, PA |
 
-#### 🥫 Bottles & Cans (54)
+#### 🥫 Bottles & Cans (56)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +63,14 @@
 | Denizens Hike the Alps: Kellerbier | Kellerbier | 5.30% | Ellicott City, MD |
 | Left Hand Peanut Butter Nitro Milk Stout | Stout | 6.20% | Longmont, CO |
 | Guilford Goatman | Bock | 6.30% | Baltimore, MD |
-| *... and 34 more* | | | |
+| *... and 36 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-12-14 17:01:41.694173 | 4 | 2 | 6 |
 | 2025-12-13 17:01:44.295964 | 4 | 3 | 7 |
 | 2025-12-12 17:01:48.065480 | 3 | 2 | 5 |
 | 2025-12-11 17:05:33.054276 | 0 | 0 | 0 |
@@ -79,7 +80,6 @@
 | 2025-12-07 17:01:45.343700 | 2 | 1 | 3 |
 | 2025-12-06 17:01:51.572383 | 5 | 7 | 12 |
 | 2025-12-05 17:02:34.093130 | 5 | 13 | 18 |
-| 2025-12-04 17:04:04.099514 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,23 +87,22 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Falling Branch Sakura Winds  | Lager | 5.00% | Draft | Street, MD |
-| Victory Very Merry Monkey | Spiced Ale | 9.50% | Bottle/Can | Downingtown, PA |
-| Manor Hill Katherine's Kolsch | Kolsch | 5.00% | Draft | Ellicott City, MD |
-| Ommegang Passport Royal (16oz) | IPA | 7.50% | Bottle/Can | Cooperstown, NY |
+| Carib Shandy Lime | Shandy | 0.90% | Bottle/Can | Cape Canaveral ,FL |
+| Troegs Mad Elf | Holiday Ale | 11.00% | Draft | Hershey, PA |
+| Great Lakes Dortmunder Gold | Lager | 5.80% | Bottle/Can | Cleveland, OH |
+| Ommegang Passport Royal (16oz) | Sour IPA | 7.50% | Bottle/Can | Cooperstown, NY |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Union Lot Trees | Imperial IPA | 8.40% | Draft | Baltimore, MD |
-| Nepenthe Polydribbles: Yuzu Lemon (16oz) | Sour Ale | 5.90% | Bottle/Can | Baltimore, MD |
-| Great Lakes Cold Rush Light Lager | Lager | 4.00% | Bottle/Can | Cleveland, OH |
+| Falling Branch Sakura Winds  | Lager | 5.00% | Draft | Street, MD |
+| Ommegang Passport Royal (16oz) | IPA | 7.50% | Bottle/Can | Cooperstown, NY |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 96
-- **Current Beer Count**: 70
-- **Total Change Records**: 95
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-13 17:01:44.295964
+- **Total Snapshots**: 97
+- **Current Beer Count**: 72
+- **Total Change Records**: 96
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-14 17:01:41.694173
