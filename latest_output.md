@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-12-15 17:05:05*
+*Generated on 2025-12-16 17:05:00*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-12-16 17:05:00.337914 | 71 |
 | 2025-12-15 17:05:05.120725 | 72 |
 | 2025-12-14 17:01:41.694173 | 72 |
 | 2025-12-13 17:01:44.295964 | 70 |
@@ -14,7 +15,6 @@
 | 2025-12-09 17:03:17.567440 | 68 |
 | 2025-12-08 17:03:26.068045 | 68 |
 | 2025-12-07 17:01:45.343700 | 68 |
-| 2025-12-06 17:01:51.572383 | 67 |
 
 ### 🍺 Current Beer List
 
@@ -33,13 +33,13 @@
 | Peabody Heights The Peachfather | Belgian Blonde | 6.00% | Baltimore, MD |
 | Guilford Days of Yore | Dark Lager | 4.60% | Baltimore, MD |
 | Rye River Brogue Irish Red | Red Ale | 4.40% | Ireland |
-| Pickett Bluegrass Sunday | Pilsner | 4.70% | Baltimore, MD |
 | Other Half Hop Pirates | NE Hazy IPA | 6.80% | Brooklyn, NY |
 | Bell's Christmas Ale | Scotch Ale | 7.50% | Kalamazoo, MI |
 | Manor Hill Katherine's Kolsch | Kolsch | 5.00% | Ellicott City, MD |
 | Troegs Mad Elf | Holiday Ale | 11.00% | Hershey, PA |
+| Mully's Fruit Tart Triple Berry | Sour Ale | 5.40% | Prince Fredrick, MD |
 
-#### 🥫 Bottles & Cans (56)
+#### 🥫 Bottles & Cans (55)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +63,14 @@
 | Denizens Hike the Alps: Kellerbier | Kellerbier | 5.30% | Ellicott City, MD |
 | Left Hand Peanut Butter Nitro Milk Stout | Stout | 6.20% | Longmont, CO |
 | Guilford Goatman | Bock | 6.30% | Baltimore, MD |
-| *... and 36 more* | | | |
+| *... and 35 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-12-16 17:05:00.337914 | 2 | 3 | 5 |
 | 2025-12-15 17:05:05.120725 | 0 | 0 | 0 |
 | 2025-12-14 17:01:41.694173 | 4 | 2 | 6 |
 | 2025-12-13 17:01:44.295964 | 4 | 3 | 7 |
@@ -79,16 +80,28 @@
 | 2025-12-09 17:03:17.567440 | 0 | 0 | 0 |
 | 2025-12-08 17:03:26.068045 | 0 | 0 | 0 |
 | 2025-12-07 17:01:45.343700 | 2 | 1 | 3 |
-| 2025-12-06 17:01:51.572383 | 5 | 7 | 12 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| St. Bernardus Christmas Ale (25.4oz) | Belgian Ale | 10.00% | Bottle/Can | Belgium |
+| Mully's Fruit Tart Triple Berry | Sour Ale | 5.40% | Draft | Prince Fredrick, MD |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Lone Pine New Age | White Ale | 5.10% | Bottle/Can | Portland, ME |
+| Lone Pine/Lough Gill Sound Stout(16oz) | Stout | 5.10% | Bottle/Can | Portland, ME |
+| Pickett Bluegrass Sunday | Pilsner | 4.70% | Draft | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 98
-- **Current Beer Count**: 72
-- **Total Change Records**: 97
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-15 17:05:05.120725
+- **Total Snapshots**: 99
+- **Current Beer Count**: 71
+- **Total Change Records**: 98
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-16 17:05:00.337914
