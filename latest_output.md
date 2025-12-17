@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-12-16 17:05:00*
+*Generated on 2025-12-17 17:04:47*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-12-17 17:04:47.836919 | 70 |
 | 2025-12-16 17:05:00.337914 | 71 |
 | 2025-12-15 17:05:05.120725 | 72 |
 | 2025-12-14 17:01:41.694173 | 72 |
@@ -14,7 +15,6 @@
 | 2025-12-10 17:03:55.470966 | 68 |
 | 2025-12-09 17:03:17.567440 | 68 |
 | 2025-12-08 17:03:26.068045 | 68 |
-| 2025-12-07 17:01:45.343700 | 68 |
 
 ### 🍺 Current Beer List
 
@@ -39,7 +39,7 @@
 | Troegs Mad Elf | Holiday Ale | 11.00% | Hershey, PA |
 | Mully's Fruit Tart Triple Berry | Sour Ale | 5.40% | Prince Fredrick, MD |
 
-#### 🥫 Bottles & Cans (55)
+#### 🥫 Bottles & Cans (54)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +63,14 @@
 | Denizens Hike the Alps: Kellerbier | Kellerbier | 5.30% | Ellicott City, MD |
 | Left Hand Peanut Butter Nitro Milk Stout | Stout | 6.20% | Longmont, CO |
 | Guilford Goatman | Bock | 6.30% | Baltimore, MD |
-| *... and 35 more* | | | |
+| *... and 34 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-12-17 17:04:47.836919 | 1 | 2 | 3 |
 | 2025-12-16 17:05:00.337914 | 2 | 3 | 5 |
 | 2025-12-15 17:05:05.120725 | 0 | 0 | 0 |
 | 2025-12-14 17:01:41.694173 | 4 | 2 | 6 |
@@ -79,7 +80,6 @@
 | 2025-12-10 17:03:55.470966 | 5 | 5 | 10 |
 | 2025-12-09 17:03:17.567440 | 0 | 0 | 0 |
 | 2025-12-08 17:03:26.068045 | 0 | 0 | 0 |
-| 2025-12-07 17:01:45.343700 | 2 | 1 | 3 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,21 +87,19 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| St. Bernardus Christmas Ale (25.4oz) | Belgian Ale | 10.00% | Bottle/Can | Belgium |
-| Mully's Fruit Tart Triple Berry | Sour Ale | 5.40% | Draft | Prince Fredrick, MD |
+| Ministry Shot In The Dark | Coffee Porter | 6.50% | Bottle/Can | Baltimore, MD |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Lone Pine New Age | White Ale | 5.10% | Bottle/Can | Portland, ME |
-| Lone Pine/Lough Gill Sound Stout(16oz) | Stout | 5.10% | Bottle/Can | Portland, ME |
-| Pickett Bluegrass Sunday | Pilsner | 4.70% | Draft | Baltimore, MD |
+| Narragansett Atlantic (16oz) | Lager | 3.50% | Bottle/Can | Providence, RI |
+| Nepenthe Abracadavera (16oz) | WCIPA | 6.90% | Bottle/Can | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 99
-- **Current Beer Count**: 71
-- **Total Change Records**: 98
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-16 17:05:00.337914
+- **Total Snapshots**: 100
+- **Current Beer Count**: 70
+- **Total Change Records**: 99
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-17 17:04:47.836919
