@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-12-19 17:02:41*
+*Generated on 2025-12-20 17:01:35*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-12-20 17:01:35.552293 | 69 |
 | 2025-12-19 17:02:41.241786 | 68 |
 | 2025-12-18 17:04:15.315370 | 70 |
 | 2025-12-17 17:04:47.836919 | 70 |
@@ -14,7 +15,6 @@
 | 2025-12-13 17:01:44.295964 | 70 |
 | 2025-12-12 17:01:48.065480 | 69 |
 | 2025-12-11 17:05:33.054276 | 68 |
-| 2025-12-10 17:03:55.470966 | 68 |
 
 ### 🍺 Current Beer List
 
@@ -24,22 +24,22 @@
 |------|-------|-----|----------|
 | Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Longmont, CO |
 | Nepenthe Dark Path | Coffee Porter | 5.50% | Baltimore, MD |
-| Weihenstephaner Hefeweissbier | Hefeweizen | 5.40% | Germany |
-| Kostritzer Schwarzbier | Schwarzbier | 4.80% | Germany |
 | Ten Eyck Good Queen Anne | Imperial Stout | 13.00% | Queenstown,MD |
 | Ten Eyck Side Dish | Imperial Brown | 10.00% | Queenstown,MD |
 | Sierra Nevada Celebration | IPA | 6.80% | Chico, CA |
 | Guilford Days of Yore | Dark Lager | 4.60% | Baltimore, MD |
 | Rye River Brogue Irish Red | Red Ale | 4.40% | Ireland |
 | Other Half Hop Pirates | NE Hazy IPA | 6.80% | Brooklyn, NY |
-| Bell's Christmas Ale | Scotch Ale | 7.50% | Kalamazoo, MI |
 | Mully's Fruit Tart Triple Berry | Sour Ale | 5.40% | Prince Fredrick, MD |
+| Manor Hill Katherine's Kölsch | Kölsch | 5.90% | Ellicott City, MD |
 | Troegs Mad Elf | Holiday Ale | 11.00% | Hershey, PA |
 | Troegs Mad Elf Grand Cru | Dark Strong Ale | 11.00% | Hershey, PA |
 | Troegs DreamWeaver Wheat | Hefeweizen | 4.80% | Hershey, PA |
 | Troegs Grand Cacao | Stout | 6.50% | Hershey, PA |
+| Hardywood Gingerbread Stout | Dbl Milk Stout | 9.20% | Richmond, VA |
+| Port City Spite House | IPA | 6.80% | Alexandria, VA |
 
-#### 🥫 Bottles & Cans (52)
+#### 🥫 Bottles & Cans (53)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +63,14 @@
 | Left Hand Peanut Butter Nitro Milk Stout | Stout | 6.20% | Longmont, CO |
 | Guilford Goatman | Bock | 6.30% | Baltimore, MD |
 | Appalachian Kipona Fest | Marzen | 6.00% | Harrisburg, PA |
-| *... and 32 more* | | | |
+| *... and 33 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-12-20 17:01:35.552293 | 9 | 8 | 17 |
 | 2025-12-19 17:02:41.241786 | 3 | 5 | 8 |
 | 2025-12-18 17:04:15.315370 | 0 | 0 | 0 |
 | 2025-12-17 17:04:47.836919 | 1 | 2 | 3 |
@@ -79,7 +80,6 @@
 | 2025-12-13 17:01:44.295964 | 4 | 3 | 7 |
 | 2025-12-12 17:01:48.065480 | 3 | 2 | 5 |
 | 2025-12-11 17:05:33.054276 | 0 | 0 | 0 |
-| 2025-12-10 17:03:55.470966 | 5 | 5 | 10 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,24 +87,33 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Troegs Mad Elf Grand Cru | Dark Strong Ale | 11.00% | Draft | Hershey, PA |
-| Troegs Grand Cacao | Stout | 6.50% | Draft | Hershey, PA |
-| Troegs DreamWeaver Wheat | Hefeweizen | 4.80% | Draft | Hershey, PA |
+| Carib Shandy Lime | Shandy | 0.90% | Bottle/Can | Cape Canaveral ,FL |
+| Mobtown The Doogie | Hazy Pale Ale | 5.10% | Bottle/Can | Baltimore, MD |
+| Ommegang Passport Royal (16oz) | Sour IPA | 7.50% | Bottle/Can | Cooperstown, NY |
+| Hardywood Gingerbread Stout | Dbl Milk Stout | 9.20% | Draft | Richmond, VA |
+| Lost Rhino Two-A-Daze | Hazy IPA | 6.10% | Bottle/Can | Ashburn, VA |
+| Fairwinds Winter Lager | Lager | 5.10% | Bottle/Can | Lorton, VA |
+| Manor Hill Katherine's Kölsch | Kölsch | 5.90% | Draft | Ellicott City, MD |
+| Peak Winter IPA | NE Hazy IPA | 5.00% | Bottle/Can | Portland, ME |
+| Port City Spite House | IPA | 6.80% | Draft | Alexandria, VA |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Manor Hill Katherine's Kolsch | Kolsch | 5.00% | Draft | Ellicott City, MD |
-| Peabody Heights The Peachfather | Belgian Blonde | 6.00% | Draft | Baltimore, MD |
-| Mobtown Priceless Advice | Gose | 5.50% | Bottle/Can | Baltimore, MD |
-| Monocacy Bazooka Nugs | Farmhouse Ale | 8.50% | Draft | Frederick, MD |
-| OEC Yuzu Pilsner | Pilsner | 5.20% | Bottle/Can | Oxford, CT |
+| Carib Shandy Lime | Shandy | 0.90% | Bottle/Can | Cape Canaveral ,FL |
+| Kostritzer Schwarzbier | Schwarzbier | 4.80% | Draft | Germany |
+| Ommegang Passport Royal (16oz) | Sour IPA | 7.50% | Bottle/Can | Cooperstown, NY |
+| Great Lakes Dortmunder Gold | Lager | 5.80% | Bottle/Can | Cleveland, OH |
+| Cape May IPA | IPA | 6.30% | Bottle/Can | Cape May, NJ |
+| Weihenstephaner Hefeweissbier | Hefeweizen | 5.40% | Draft | Germany |
+| Allagash Ski House | White Ale | 7.50% | Bottle/Can | Portland, ME |
+| Bell's Christmas Ale | Scotch Ale | 7.50% | Draft | Kalamazoo, MI |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 102
-- **Current Beer Count**: 68
-- **Total Change Records**: 101
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-19 17:02:41.241786
+- **Total Snapshots**: 103
+- **Current Beer Count**: 69
+- **Total Change Records**: 102
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-20 17:01:35.552293
