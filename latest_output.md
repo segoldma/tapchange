@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-12-22 17:02:28*
+*Generated on 2025-12-23 17:03:18*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-12-23 17:03:18.063907 | 69 |
 | 2025-12-22 17:02:28.612071 | 69 |
 | 2025-12-21 17:01:43.966030 | 69 |
 | 2025-12-20 17:01:35.552293 | 69 |
@@ -14,7 +15,6 @@
 | 2025-12-16 17:05:00.337914 | 71 |
 | 2025-12-15 17:05:05.120725 | 72 |
 | 2025-12-14 17:01:41.694173 | 72 |
-| 2025-12-13 17:01:44.295964 | 70 |
 
 ### 🍺 Current Beer List
 
@@ -29,7 +29,6 @@
 | Sierra Nevada Celebration | IPA | 6.80% | Chico, CA |
 | Guilford Days of Yore | Dark Lager | 4.60% | Baltimore, MD |
 | Rye River Brogue Irish Red | Red Ale | 4.40% | Ireland |
-| Other Half Hop Pirates | NE Hazy IPA | 6.80% | Brooklyn, NY |
 | Mully's Fruit Tart Triple Berry | Sour Ale | 5.40% | Prince Fredrick, MD |
 | Manor Hill Katherine's Kölsch | Kölsch | 5.90% | Ellicott City, MD |
 | Troegs Mad Elf | Holiday Ale | 11.00% | Hershey, PA |
@@ -38,6 +37,7 @@
 | Troegs Grand Cacao | Stout | 6.50% | Hershey, PA |
 | Hardywood Gingerbread Stout | Dbl Milk Stout | 9.20% | Richmond, VA |
 | Port City Spite House | IPA | 6.80% | Alexandria, VA |
+| Checkerspot Belgian Block | Kolsch | 4.60% | Baltimore, MD |
 
 #### 🥫 Bottles & Cans (53)
 
@@ -70,6 +70,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-12-23 17:03:18.063907 | 1 | 1 | 2 |
 | 2025-12-22 17:02:28.612071 | 0 | 0 | 0 |
 | 2025-12-21 17:01:43.966030 | 1 | 1 | 2 |
 | 2025-12-20 17:01:35.552293 | 9 | 8 | 17 |
@@ -79,16 +80,25 @@
 | 2025-12-16 17:05:00.337914 | 2 | 3 | 5 |
 | 2025-12-15 17:05:05.120725 | 0 | 0 | 0 |
 | 2025-12-14 17:01:41.694173 | 4 | 2 | 6 |
-| 2025-12-13 17:01:44.295964 | 4 | 3 | 7 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Checkerspot Belgian Block | Kolsch | 4.60% | Draft | Baltimore, MD |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Other Half Hop Pirates | NE Hazy IPA | 6.80% | Draft | Brooklyn, NY |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 105
+- **Total Snapshots**: 106
 - **Current Beer Count**: 69
-- **Total Change Records**: 104
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-22 17:02:28.612071
+- **Total Change Records**: 105
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-23 17:03:18.063907
