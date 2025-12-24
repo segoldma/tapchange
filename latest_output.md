@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-12-23 17:03:18*
+*Generated on 2025-12-24 17:01:44*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-12-24 17:01:43.854222 | 68 |
 | 2025-12-23 17:03:18.063907 | 69 |
 | 2025-12-22 17:02:28.612071 | 69 |
 | 2025-12-21 17:01:43.966030 | 69 |
@@ -14,7 +15,6 @@
 | 2025-12-17 17:04:47.836919 | 70 |
 | 2025-12-16 17:05:00.337914 | 71 |
 | 2025-12-15 17:05:05.120725 | 72 |
-| 2025-12-14 17:01:41.694173 | 72 |
 
 ### 🍺 Current Beer List
 
@@ -23,10 +23,8 @@
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
 | Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Longmont, CO |
-| Nepenthe Dark Path | Coffee Porter | 5.50% | Baltimore, MD |
 | Ten Eyck Good Queen Anne | Imperial Stout | 13.00% | Queenstown,MD |
 | Ten Eyck Side Dish | Imperial Brown | 10.00% | Queenstown,MD |
-| Sierra Nevada Celebration | IPA | 6.80% | Chico, CA |
 | Guilford Days of Yore | Dark Lager | 4.60% | Baltimore, MD |
 | Rye River Brogue Irish Red | Red Ale | 4.40% | Ireland |
 | Mully's Fruit Tart Triple Berry | Sour Ale | 5.40% | Prince Fredrick, MD |
@@ -38,8 +36,10 @@
 | Hardywood Gingerbread Stout | Dbl Milk Stout | 9.20% | Richmond, VA |
 | Port City Spite House | IPA | 6.80% | Alexandria, VA |
 | Checkerspot Belgian Block | Kolsch | 4.60% | Baltimore, MD |
+| New Trail Krush Broken Heels | Hazy IPA | 7.00% | Williamsport, PA |
+| Jack's Abby Extra Layer | Dark Lager | 6.00% | Framingham, MA |
 
-#### 🥫 Bottles & Cans (53)
+#### 🥫 Bottles & Cans (52)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +63,14 @@
 | Left Hand Peanut Butter Nitro Milk Stout | Stout | 6.20% | Longmont, CO |
 | Guilford Goatman | Bock | 6.30% | Baltimore, MD |
 | Appalachian Kipona Fest | Marzen | 6.00% | Harrisburg, PA |
-| *... and 33 more* | | | |
+| *... and 32 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-12-24 17:01:43.854222 | 3 | 4 | 7 |
 | 2025-12-23 17:03:18.063907 | 1 | 1 | 2 |
 | 2025-12-22 17:02:28.612071 | 0 | 0 | 0 |
 | 2025-12-21 17:01:43.966030 | 1 | 1 | 2 |
@@ -79,7 +80,6 @@
 | 2025-12-17 17:04:47.836919 | 1 | 2 | 3 |
 | 2025-12-16 17:05:00.337914 | 2 | 3 | 5 |
 | 2025-12-15 17:05:05.120725 | 0 | 0 | 0 |
-| 2025-12-14 17:01:41.694173 | 4 | 2 | 6 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,18 +87,23 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Checkerspot Belgian Block | Kolsch | 4.60% | Draft | Baltimore, MD |
+| Black Flag K Kapowski | Amber Ale  | 4.80% | Bottle/Can | Columbia, MD |
+| New Trail Krush Broken Heels | Hazy IPA | 7.00% | Draft | Williamsport, PA |
+| Jack's Abby Extra Layer | Dark Lager | 6.00% | Draft | Framingham, MA |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Other Half Hop Pirates | NE Hazy IPA | 6.80% | Draft | Brooklyn, NY |
+| Nepenthe Dark Path | Coffee Porter | 5.50% | Draft | Baltimore, MD |
+| Sierra Nevada Celebration | IPA | 6.80% | Draft | Chico, CA |
+| St. Bernardus Christmas Ale (25.4oz) | Belgian Ale | 10.00% | Bottle/Can | Belgium |
+| Hamm's  | Lager | 4.70% | Bottle/Can | Milwaukee, WI |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 106
-- **Current Beer Count**: 69
-- **Total Change Records**: 105
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-23 17:03:18.063907
+- **Total Snapshots**: 107
+- **Current Beer Count**: 68
+- **Total Change Records**: 106
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-24 17:01:43.854222
