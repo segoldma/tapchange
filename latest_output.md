@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-12-25 17:01:59*
+*Generated on 2025-12-26 17:01:43*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-12-26 17:01:43.716986 | 68 |
 | 2025-12-25 17:01:59.224639 | 68 |
 | 2025-12-24 17:01:43.854222 | 68 |
 | 2025-12-23 17:03:18.063907 | 69 |
@@ -14,7 +15,6 @@
 | 2025-12-19 17:02:41.241786 | 68 |
 | 2025-12-18 17:04:15.315370 | 70 |
 | 2025-12-17 17:04:47.836919 | 70 |
-| 2025-12-16 17:05:00.337914 | 71 |
 
 ### 🍺 Current Beer List
 
@@ -25,19 +25,19 @@
 | Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Longmont, CO |
 | Ten Eyck Good Queen Anne | Imperial Stout | 13.00% | Queenstown,MD |
 | Ten Eyck Side Dish | Imperial Brown | 10.00% | Queenstown,MD |
-| Guilford Days of Yore | Dark Lager | 4.60% | Baltimore, MD |
 | Rye River Brogue Irish Red | Red Ale | 4.40% | Ireland |
 | Mully's Fruit Tart Triple Berry | Sour Ale | 5.40% | Prince Fredrick, MD |
 | Manor Hill Katherine's Kölsch | Kölsch | 5.90% | Ellicott City, MD |
-| Troegs Mad Elf | Holiday Ale | 11.00% | Hershey, PA |
 | Troegs Mad Elf Grand Cru | Dark Strong Ale | 11.00% | Hershey, PA |
 | Troegs DreamWeaver Wheat | Hefeweizen | 4.80% | Hershey, PA |
-| Troegs Grand Cacao | Stout | 6.50% | Hershey, PA |
 | Hardywood Gingerbread Stout | Dbl Milk Stout | 9.20% | Richmond, VA |
 | Port City Spite House | IPA | 6.80% | Alexandria, VA |
 | Checkerspot Belgian Block | Kolsch | 4.60% | Baltimore, MD |
 | New Trail Krush Broken Heels | Hazy IPA | 7.00% | Williamsport, PA |
 | Jack's Abby Extra Layer | Dark Lager | 6.00% | Framingham, MA |
+| Monocacy Bazooka Nugs | Saison | 8.50% | Frederick, MD |
+| Other Half Short, Dark & Handsome | Stout | 7.40% | Brooklyn, NY |
+| Guilford Czech Ruby Lager | Amber Lager | 4.70% | Baltimore, MD |
 
 #### 🥫 Bottles & Cans (52)
 
@@ -70,6 +70,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-12-26 17:01:43.716986 | 3 | 3 | 6 |
 | 2025-12-25 17:01:59.224639 | 0 | 0 | 0 |
 | 2025-12-24 17:01:43.854222 | 3 | 4 | 7 |
 | 2025-12-23 17:03:18.063907 | 1 | 1 | 2 |
@@ -79,16 +80,29 @@
 | 2025-12-19 17:02:41.241786 | 3 | 5 | 8 |
 | 2025-12-18 17:04:15.315370 | 0 | 0 | 0 |
 | 2025-12-17 17:04:47.836919 | 1 | 2 | 3 |
-| 2025-12-16 17:05:00.337914 | 2 | 3 | 5 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Guilford Czech Ruby Lager | Amber Lager | 4.70% | Draft | Baltimore, MD |
+| Other Half Short, Dark & Handsome | Stout | 7.40% | Draft | Brooklyn, NY |
+| Monocacy Bazooka Nugs | Saison | 8.50% | Draft | Frederick, MD |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Troegs Mad Elf | Holiday Ale | 11.00% | Draft | Hershey, PA |
+| Troegs Grand Cacao | Stout | 6.50% | Draft | Hershey, PA |
+| Guilford Days of Yore | Dark Lager | 4.60% | Draft | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 108
+- **Total Snapshots**: 109
 - **Current Beer Count**: 68
-- **Total Change Records**: 107
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-25 17:01:59.224639
+- **Total Change Records**: 108
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-26 17:01:43.716986
