@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-12-26 17:01:43*
+*Generated on 2025-12-27 17:01:44*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-12-27 17:01:43.960489 | 68 |
 | 2025-12-26 17:01:43.716986 | 68 |
 | 2025-12-25 17:01:59.224639 | 68 |
 | 2025-12-24 17:01:43.854222 | 68 |
@@ -14,7 +15,6 @@
 | 2025-12-20 17:01:35.552293 | 69 |
 | 2025-12-19 17:02:41.241786 | 68 |
 | 2025-12-18 17:04:15.315370 | 70 |
-| 2025-12-17 17:04:47.836919 | 70 |
 
 ### 🍺 Current Beer List
 
@@ -70,6 +70,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-12-27 17:01:43.960489 | 2 | 2 | 4 |
 | 2025-12-26 17:01:43.716986 | 3 | 3 | 6 |
 | 2025-12-25 17:01:59.224639 | 0 | 0 | 0 |
 | 2025-12-24 17:01:43.854222 | 3 | 4 | 7 |
@@ -79,7 +80,6 @@
 | 2025-12-20 17:01:35.552293 | 9 | 8 | 17 |
 | 2025-12-19 17:02:41.241786 | 3 | 5 | 8 |
 | 2025-12-18 17:04:15.315370 | 0 | 0 | 0 |
-| 2025-12-17 17:04:47.836919 | 1 | 2 | 3 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,22 +87,20 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Guilford Czech Ruby Lager | Amber Lager | 4.70% | Draft | Baltimore, MD |
-| Other Half Short, Dark & Handsome | Stout | 7.40% | Draft | Brooklyn, NY |
-| Monocacy Bazooka Nugs | Saison | 8.50% | Draft | Frederick, MD |
+| Southern Tier Irish Coffee | Cream Ale | 5.50% | Bottle/Can | Lakewood, NY |
+| Victory Royale | IPA | 6.00% | Bottle/Can | Downingtown, PA |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Troegs Mad Elf | Holiday Ale | 11.00% | Draft | Hershey, PA |
-| Troegs Grand Cacao | Stout | 6.50% | Draft | Hershey, PA |
-| Guilford Days of Yore | Dark Lager | 4.60% | Draft | Baltimore, MD |
+| Flensburger Pilsener | Pilsner | 4.80% | Bottle/Can | Gernany |
+| Appalachian Breakfast At Basecamp | Helles Lager | 5.50% | Bottle/Can | Harrisburg, PA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 109
+- **Total Snapshots**: 110
 - **Current Beer Count**: 68
-- **Total Change Records**: 108
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-26 17:01:43.716986
+- **Total Change Records**: 109
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-27 17:01:43.960489
