@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-12-27 17:01:44*
+*Generated on 2025-12-28 17:01:44*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-12-28 17:01:44.506680 | 67 |
 | 2025-12-27 17:01:43.960489 | 68 |
 | 2025-12-26 17:01:43.716986 | 68 |
 | 2025-12-25 17:01:59.224639 | 68 |
@@ -14,7 +15,6 @@
 | 2025-12-21 17:01:43.966030 | 69 |
 | 2025-12-20 17:01:35.552293 | 69 |
 | 2025-12-19 17:02:41.241786 | 68 |
-| 2025-12-18 17:04:15.315370 | 70 |
 
 ### 🍺 Current Beer List
 
@@ -25,7 +25,6 @@
 | Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Longmont, CO |
 | Ten Eyck Good Queen Anne | Imperial Stout | 13.00% | Queenstown,MD |
 | Ten Eyck Side Dish | Imperial Brown | 10.00% | Queenstown,MD |
-| Rye River Brogue Irish Red | Red Ale | 4.40% | Ireland |
 | Mully's Fruit Tart Triple Berry | Sour Ale | 5.40% | Prince Fredrick, MD |
 | Manor Hill Katherine's Kölsch | Kölsch | 5.90% | Ellicott City, MD |
 | Troegs Mad Elf Grand Cru | Dark Strong Ale | 11.00% | Hershey, PA |
@@ -38,8 +37,9 @@
 | Monocacy Bazooka Nugs | Saison | 8.50% | Frederick, MD |
 | Other Half Short, Dark & Handsome | Stout | 7.40% | Brooklyn, NY |
 | Guilford Czech Ruby Lager | Amber Lager | 4.70% | Baltimore, MD |
+| Lone Pine Cloud Cake | Milkshake DIPA | 8.00% | Portland, ME |
 
-#### 🥫 Bottles & Cans (52)
+#### 🥫 Bottles & Cans (51)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +63,14 @@
 | Left Hand Peanut Butter Nitro Milk Stout | Stout | 6.20% | Longmont, CO |
 | Guilford Goatman | Bock | 6.30% | Baltimore, MD |
 | Appalachian Kipona Fest | Marzen | 6.00% | Harrisburg, PA |
-| *... and 32 more* | | | |
+| *... and 31 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-12-28 17:01:44.506680 | 3 | 4 | 7 |
 | 2025-12-27 17:01:43.960489 | 2 | 2 | 4 |
 | 2025-12-26 17:01:43.716986 | 3 | 3 | 6 |
 | 2025-12-25 17:01:59.224639 | 0 | 0 | 0 |
@@ -79,7 +80,6 @@
 | 2025-12-21 17:01:43.966030 | 1 | 1 | 2 |
 | 2025-12-20 17:01:35.552293 | 9 | 8 | 17 |
 | 2025-12-19 17:02:41.241786 | 3 | 5 | 8 |
-| 2025-12-18 17:04:15.315370 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,20 +87,23 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Southern Tier Irish Coffee | Cream Ale | 5.50% | Bottle/Can | Lakewood, NY |
-| Victory Royale | IPA | 6.00% | Bottle/Can | Downingtown, PA |
+| Brooklyn Bel Air Sour | Sour | 5.80% | Bottle/Can | Brooklyn. NY |
+| Cushwa Onward (16oz) | Hazy IPA | 7.20% | Bottle/Can | Columbia, MD |
+| Lone Pine Cloud Cake | Milkshake DIPA | 8.00% | Draft | Portland, ME |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Flensburger Pilsener | Pilsner | 4.80% | Bottle/Can | Gernany |
-| Appalachian Breakfast At Basecamp | Helles Lager | 5.50% | Bottle/Can | Harrisburg, PA |
+| Great Lakes Juicy Vibacious | Double IPA | 9.50% | Bottle/Can | Cleveland, OH |
+| Rye River Brogue Irish Red | Red Ale | 4.40% | Draft | Ireland |
+| Manor Hill Porter | Porter | 5.50% | Bottle/Can | Ellicott City, MD |
+| Voodoo Empty Calories | Lager | 4.70% | Bottle/Can | Meadville, PA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 110
-- **Current Beer Count**: 68
-- **Total Change Records**: 109
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-27 17:01:43.960489
+- **Total Snapshots**: 111
+- **Current Beer Count**: 67
+- **Total Change Records**: 110
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-28 17:01:44.506680
