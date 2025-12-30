@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-12-29 17:02:23*
+*Generated on 2025-12-30 17:03:12*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-12-30 17:03:12.592885 | 66 |
 | 2025-12-29 17:02:23.145030 | 67 |
 | 2025-12-28 17:01:44.506680 | 67 |
 | 2025-12-27 17:01:43.960489 | 68 |
@@ -14,7 +15,6 @@
 | 2025-12-23 17:03:18.063907 | 69 |
 | 2025-12-22 17:02:28.612071 | 69 |
 | 2025-12-21 17:01:43.966030 | 69 |
-| 2025-12-20 17:01:35.552293 | 69 |
 
 ### 🍺 Current Beer List
 
@@ -39,7 +39,7 @@
 | Guilford Czech Ruby Lager | Amber Lager | 4.70% | Baltimore, MD |
 | Lone Pine Cloud Cake | Milkshake DIPA | 8.00% | Portland, ME |
 
-#### 🥫 Bottles & Cans (51)
+#### 🥫 Bottles & Cans (50)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +63,14 @@
 | Left Hand Peanut Butter Nitro Milk Stout | Stout | 6.20% | Longmont, CO |
 | Guilford Goatman | Bock | 6.30% | Baltimore, MD |
 | Appalachian Kipona Fest | Marzen | 6.00% | Harrisburg, PA |
-| *... and 31 more* | | | |
+| *... and 30 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-12-30 17:03:12.592885 | 1 | 2 | 3 |
 | 2025-12-29 17:02:23.145030 | 0 | 0 | 0 |
 | 2025-12-28 17:01:44.506680 | 3 | 4 | 7 |
 | 2025-12-27 17:01:43.960489 | 2 | 2 | 4 |
@@ -79,16 +80,26 @@
 | 2025-12-23 17:03:18.063907 | 1 | 1 | 2 |
 | 2025-12-22 17:02:28.612071 | 0 | 0 | 0 |
 | 2025-12-21 17:01:43.966030 | 1 | 1 | 2 |
-| 2025-12-20 17:01:35.552293 | 9 | 8 | 17 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Manor Hill Echos of Sanctity | Abbey Dubbel | 7.80% | Bottle/Can | Baltimore, MD |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Union Lot Trees | Imperial IPA | 8.40% | Bottle/Can | Baltimore, MD |
+| Michael Waltrip Bristol Sunshine | Ale | 4.50% | Bottle/Can | Bristol, VA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 112
-- **Current Beer Count**: 67
-- **Total Change Records**: 111
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-29 17:02:23.145030
+- **Total Snapshots**: 113
+- **Current Beer Count**: 66
+- **Total Change Records**: 112
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-30 17:03:12.592885
