@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2025-12-30 17:03:12*
+*Generated on 2025-12-31 17:01:43*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2025-12-31 17:01:43.184013 | 67 |
 | 2025-12-30 17:03:12.592885 | 66 |
 | 2025-12-29 17:02:23.145030 | 67 |
 | 2025-12-28 17:01:44.506680 | 67 |
@@ -14,7 +15,6 @@
 | 2025-12-24 17:01:43.854222 | 68 |
 | 2025-12-23 17:03:18.063907 | 69 |
 | 2025-12-22 17:02:28.612071 | 69 |
-| 2025-12-21 17:01:43.966030 | 69 |
 
 ### 🍺 Current Beer List
 
@@ -39,7 +39,7 @@
 | Guilford Czech Ruby Lager | Amber Lager | 4.70% | Baltimore, MD |
 | Lone Pine Cloud Cake | Milkshake DIPA | 8.00% | Portland, ME |
 
-#### 🥫 Bottles & Cans (50)
+#### 🥫 Bottles & Cans (51)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +63,14 @@
 | Left Hand Peanut Butter Nitro Milk Stout | Stout | 6.20% | Longmont, CO |
 | Guilford Goatman | Bock | 6.30% | Baltimore, MD |
 | Appalachian Kipona Fest | Marzen | 6.00% | Harrisburg, PA |
-| *... and 30 more* | | | |
+| *... and 31 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2025-12-31 17:01:43.184013 | 1 | 0 | 1 |
 | 2025-12-30 17:03:12.592885 | 1 | 2 | 3 |
 | 2025-12-29 17:02:23.145030 | 0 | 0 | 0 |
 | 2025-12-28 17:01:44.506680 | 3 | 4 | 7 |
@@ -79,7 +80,6 @@
 | 2025-12-24 17:01:43.854222 | 3 | 4 | 7 |
 | 2025-12-23 17:03:18.063907 | 1 | 1 | 2 |
 | 2025-12-22 17:02:28.612071 | 0 | 0 | 0 |
-| 2025-12-21 17:01:43.966030 | 1 | 1 | 2 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,19 +87,12 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Manor Hill Echos of Sanctity | Abbey Dubbel | 7.80% | Bottle/Can | Baltimore, MD |
-
-#### ➖ Removed Beers
-
-| Name | Style | ABV | Vessel | Location |
-|------|-------|-----|--------|----------|
-| Union Lot Trees | Imperial IPA | 8.40% | Bottle/Can | Baltimore, MD |
-| Michael Waltrip Bristol Sunshine | Ale | 4.50% | Bottle/Can | Bristol, VA |
+| Allagash Gatherwell ($13) | Barrel Aged Stout | 11.00% | Bottle/Can | Portland, ME |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 113
-- **Current Beer Count**: 66
-- **Total Change Records**: 112
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-30 17:03:12.592885
+- **Total Snapshots**: 114
+- **Current Beer Count**: 67
+- **Total Change Records**: 113
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2025-12-31 17:01:43.184013
