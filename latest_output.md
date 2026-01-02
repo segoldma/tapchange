@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-01-01 17:03:08*
+*Generated on 2026-01-02 17:02:18*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-01-02 17:02:18.192381 | 67 |
 | 2026-01-01 17:03:08.809489 | 67 |
 | 2025-12-31 17:01:43.184013 | 67 |
 | 2025-12-30 17:03:12.592885 | 66 |
@@ -14,7 +15,6 @@
 | 2025-12-26 17:01:43.716986 | 68 |
 | 2025-12-25 17:01:59.224639 | 68 |
 | 2025-12-24 17:01:43.854222 | 68 |
-| 2025-12-23 17:03:18.063907 | 69 |
 
 ### 🍺 Current Beer List
 
@@ -30,7 +30,6 @@
 | Troegs Mad Elf Grand Cru | Dark Strong Ale | 11.00% | Hershey, PA |
 | Troegs DreamWeaver Wheat | Hefeweizen | 4.80% | Hershey, PA |
 | Hardywood Gingerbread Stout | Dbl Milk Stout | 9.20% | Richmond, VA |
-| Port City Spite House | IPA | 6.80% | Alexandria, VA |
 | Checkerspot Belgian Block | Kolsch | 4.60% | Baltimore, MD |
 | New Trail Krush Broken Heels | Hazy IPA | 7.00% | Williamsport, PA |
 | Jack's Abby Extra Layer | Dark Lager | 6.00% | Framingham, MA |
@@ -38,6 +37,7 @@
 | Other Half Short, Dark & Handsome | Stout | 7.40% | Brooklyn, NY |
 | Guilford Czech Ruby Lager | Amber Lager | 4.70% | Baltimore, MD |
 | Lone Pine Cloud Cake | Milkshake DIPA | 8.00% | Portland, ME |
+| Checkerspot Psycho Haze | Hazy IPA | 7.00% | Baltimore, MD |
 
 #### 🥫 Bottles & Cans (51)
 
@@ -58,11 +58,11 @@
 | Schlafly Dark Mild | British Mild Ale | 3.80% | St. Louis, MO |
 | Schlafly Doppelbock | Doppelbock | 6.00% | St. Louis, MO |
 | Lancaster Shoo-Fly Pie | Porter | 6.20% | Lancaster, PA |
-| Oskar Blues Old Chub | Scotch Ale | 8.00% | Longmont, CO |
 | Denizens Hike the Alps: Kellerbier | Kellerbier | 5.30% | Ellicott City, MD |
 | Left Hand Peanut Butter Nitro Milk Stout | Stout | 6.20% | Longmont, CO |
 | Guilford Goatman | Bock | 6.30% | Baltimore, MD |
 | Appalachian Kipona Fest | Marzen | 6.00% | Harrisburg, PA |
+| Founders CBS Stout (2025) $15 | Imperial Stout | 11.70% | Grand Rapids, MI |
 | *... and 31 more* | | | |
 
 
@@ -70,6 +70,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-01-02 17:02:18.192381 | 3 | 3 | 6 |
 | 2026-01-01 17:03:08.809489 | 0 | 0 | 0 |
 | 2025-12-31 17:01:43.184013 | 1 | 0 | 1 |
 | 2025-12-30 17:03:12.592885 | 1 | 2 | 3 |
@@ -79,16 +80,29 @@
 | 2025-12-26 17:01:43.716986 | 3 | 3 | 6 |
 | 2025-12-25 17:01:59.224639 | 0 | 0 | 0 |
 | 2025-12-24 17:01:43.854222 | 3 | 4 | 7 |
-| 2025-12-23 17:03:18.063907 | 1 | 1 | 2 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Checkerspot Psycho Haze | Hazy IPA | 7.00% | Draft | Baltimore, MD |
+| Jack's Abby Fudge Brownie | Baltic Porter | 9.00% | Bottle/Can | Framingham, MA |
+| Falling Branch Early Riser | IPA | 6.00% | Bottle/Can | Street, MD |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Great Lakes Christmas Ale | Winter Ale | 7.50% | Bottle/Can | Cleveland, OH |
+| Port City Spite House | IPA | 6.80% | Draft | Alexandria, VA |
+| Oskar Blues Old Chub | Scotch Ale | 8.00% | Bottle/Can | Longmont, CO |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 115
+- **Total Snapshots**: 116
 - **Current Beer Count**: 67
-- **Total Change Records**: 114
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-01 17:03:08.809489
+- **Total Change Records**: 115
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-02 17:02:18.192381
