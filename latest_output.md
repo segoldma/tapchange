@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-01-02 17:02:18*
+*Generated on 2026-01-03 17:01:43*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-01-03 17:01:42.850762 | 70 |
 | 2026-01-02 17:02:18.192381 | 67 |
 | 2026-01-01 17:03:08.809489 | 67 |
 | 2025-12-31 17:01:43.184013 | 67 |
@@ -14,7 +15,6 @@
 | 2025-12-27 17:01:43.960489 | 68 |
 | 2025-12-26 17:01:43.716986 | 68 |
 | 2025-12-25 17:01:59.224639 | 68 |
-| 2025-12-24 17:01:43.854222 | 68 |
 
 ### 🍺 Current Beer List
 
@@ -26,7 +26,6 @@
 | Ten Eyck Good Queen Anne | Imperial Stout | 13.00% | Queenstown,MD |
 | Ten Eyck Side Dish | Imperial Brown | 10.00% | Queenstown,MD |
 | Mully's Fruit Tart Triple Berry | Sour Ale | 5.40% | Prince Fredrick, MD |
-| Manor Hill Katherine's Kölsch | Kölsch | 5.90% | Ellicott City, MD |
 | Troegs Mad Elf Grand Cru | Dark Strong Ale | 11.00% | Hershey, PA |
 | Troegs DreamWeaver Wheat | Hefeweizen | 4.80% | Hershey, PA |
 | Hardywood Gingerbread Stout | Dbl Milk Stout | 9.20% | Richmond, VA |
@@ -38,8 +37,9 @@
 | Guilford Czech Ruby Lager | Amber Lager | 4.70% | Baltimore, MD |
 | Lone Pine Cloud Cake | Milkshake DIPA | 8.00% | Portland, ME |
 | Checkerspot Psycho Haze | Hazy IPA | 7.00% | Baltimore, MD |
+| New Trail Rolled Oats | Oatmeal Stout | 6.50% | Williamsport, PA |
 
-#### 🥫 Bottles & Cans (51)
+#### 🥫 Bottles & Cans (54)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -59,17 +59,18 @@
 | Schlafly Doppelbock | Doppelbock | 6.00% | St. Louis, MO |
 | Lancaster Shoo-Fly Pie | Porter | 6.20% | Lancaster, PA |
 | Denizens Hike the Alps: Kellerbier | Kellerbier | 5.30% | Ellicott City, MD |
-| Left Hand Peanut Butter Nitro Milk Stout | Stout | 6.20% | Longmont, CO |
 | Guilford Goatman | Bock | 6.30% | Baltimore, MD |
 | Appalachian Kipona Fest | Marzen | 6.00% | Harrisburg, PA |
 | Founders CBS Stout (2025) $15 | Imperial Stout | 11.70% | Grand Rapids, MI |
-| *... and 31 more* | | | |
+| Stevens Point Cookies 'N Cream | Stout | 5.50% | Stevens Point, WI |
+| *... and 34 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-01-03 17:01:42.850762 | 5 | 2 | 7 |
 | 2026-01-02 17:02:18.192381 | 3 | 3 | 6 |
 | 2026-01-01 17:03:08.809489 | 0 | 0 | 0 |
 | 2025-12-31 17:01:43.184013 | 1 | 0 | 1 |
@@ -79,7 +80,6 @@
 | 2025-12-27 17:01:43.960489 | 2 | 2 | 4 |
 | 2025-12-26 17:01:43.716986 | 3 | 3 | 6 |
 | 2025-12-25 17:01:59.224639 | 0 | 0 | 0 |
-| 2025-12-24 17:01:43.854222 | 3 | 4 | 7 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,22 +87,23 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Checkerspot Psycho Haze | Hazy IPA | 7.00% | Draft | Baltimore, MD |
-| Jack's Abby Fudge Brownie | Baltic Porter | 9.00% | Bottle/Can | Framingham, MA |
-| Falling Branch Early Riser | IPA | 6.00% | Bottle/Can | Street, MD |
+| Lone Pine Holy Donut Holy Cannoli | Imperial Stout | 9.00% | Bottle/Can | Portland, ME |
+| New Trail Rolled Oats | Oatmeal Stout | 6.50% | Draft | Williamsport, PA |
+| Olde Mother Teddy's Malt Liquor | Malt Liquor | 8.00% | Bottle/Can | Frederick, MD |
+| Jack's Abbey Hoponius Union | WC Lager | 6.50% | Bottle/Can | Framingham, MA |
+| Lone Pine Holy Donut Coffee Cake | Imperial Stout | 9.00% | Bottle/Can | Portland, ME |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Great Lakes Christmas Ale | Winter Ale | 7.50% | Bottle/Can | Cleveland, OH |
-| Port City Spite House | IPA | 6.80% | Draft | Alexandria, VA |
-| Oskar Blues Old Chub | Scotch Ale | 8.00% | Bottle/Can | Longmont, CO |
+| Manor Hill Katherine's Kölsch | Kölsch | 5.90% | Draft | Ellicott City, MD |
+| Left Hand Peanut Butter Nitro Milk Stout | Stout | 6.20% | Bottle/Can | Longmont, CO |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 116
-- **Current Beer Count**: 67
-- **Total Change Records**: 115
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-02 17:02:18.192381
+- **Total Snapshots**: 117
+- **Current Beer Count**: 70
+- **Total Change Records**: 116
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-03 17:01:42.850762
