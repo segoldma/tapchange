@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-01-05 17:03:57*
+*Generated on 2026-01-06 17:04:36*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-01-06 17:04:36.760501 | 67 |
 | 2026-01-05 17:03:57.650259 | 71 |
 | 2026-01-04 17:01:38.328713 | 71 |
 | 2026-01-03 17:01:42.850762 | 70 |
@@ -14,7 +15,6 @@
 | 2025-12-30 17:03:12.592885 | 66 |
 | 2025-12-29 17:02:23.145030 | 67 |
 | 2025-12-28 17:01:44.506680 | 67 |
-| 2025-12-27 17:01:43.960489 | 68 |
 
 ### 🍺 Current Beer List
 
@@ -23,7 +23,6 @@
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
 | Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Longmont, CO |
-| Ten Eyck Good Queen Anne | Imperial Stout | 13.00% | Queenstown,MD |
 | Ten Eyck Side Dish | Imperial Brown | 10.00% | Queenstown,MD |
 | Mully's Fruit Tart Triple Berry | Sour Ale | 5.40% | Prince Fredrick, MD |
 | Troegs Mad Elf Grand Cru | Dark Strong Ale | 11.00% | Hershey, PA |
@@ -31,15 +30,16 @@
 | Hardywood Gingerbread Stout | Dbl Milk Stout | 9.20% | Richmond, VA |
 | New Trail Krush Broken Heels | Hazy IPA | 7.00% | Williamsport, PA |
 | Jack's Abby Extra Layer | Dark Lager | 6.00% | Framingham, MA |
-| Other Half Short, Dark & Handsome | Stout | 7.40% | Brooklyn, NY |
 | Guilford Czech Ruby Lager | Amber Lager | 4.70% | Baltimore, MD |
 | Lone Pine Cloud Cake | Milkshake DIPA | 8.00% | Portland, ME |
 | Checkerspot Psycho Haze | Hazy IPA | 7.00% | Baltimore, MD |
 | New Trail Rolled Oats | Oatmeal Stout | 6.50% | Williamsport, PA |
 | Peabody Heights The Peach Father | Belgian Blonde | 6.00% | Baltimore, MD |
 | Monocacy Harvest Haze | IPA | 6.50% | Frederick, MD |
+| Great Lakes Barrel Aged Mocha Blackout Stout | Imperial Stout | 11.00% | Cleveland, OH |
+| Founders DKML | Malt Liquor | 14.20% | Grand Rapids, MI |
 
-#### 🥫 Bottles & Cans (55)
+#### 🥫 Bottles & Cans (51)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +63,14 @@
 | Appalachian Kipona Fest | Marzen | 6.00% | Harrisburg, PA |
 | Founders CBS Stout (2025) $15 | Imperial Stout | 11.70% | Grand Rapids, MI |
 | Stevens Point Cookies 'N Cream | Stout | 5.50% | Stevens Point, WI |
-| *... and 35 more* | | | |
+| *... and 31 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-01-06 17:04:36.760501 | 2 | 6 | 8 |
 | 2026-01-05 17:03:57.650259 | 0 | 0 | 0 |
 | 2026-01-04 17:01:38.328713 | 3 | 2 | 5 |
 | 2026-01-03 17:01:42.850762 | 5 | 2 | 7 |
@@ -79,16 +80,31 @@
 | 2025-12-30 17:03:12.592885 | 1 | 2 | 3 |
 | 2025-12-29 17:02:23.145030 | 0 | 0 | 0 |
 | 2025-12-28 17:01:44.506680 | 3 | 4 | 7 |
-| 2025-12-27 17:01:43.960489 | 2 | 2 | 4 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Founders DKML | Malt Liquor | 14.20% | Draft | Grand Rapids, MI |
+| Great Lakes Barrel Aged Mocha Blackout Stout | Imperial Stout | 11.00% | Draft | Cleveland, OH |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Ten Eyck Good Queen Anne | Imperial Stout | 13.00% | Draft | Queenstown,MD |
+| Aecht Schlenkerla Weichsel (16oz) ($12) | Rauchbeer | 4.60% | Bottle/Can | Germany |
+| Grolsch | Pilsner | 5.00% | Bottle/Can | Holland |
+| Milwaukee's Best Ice | Lager | 5.90% | Bottle/Can | Milwaukee, Wisconsin |
+| Other Half Short, Dark & Handsome | Stout | 7.40% | Draft | Brooklyn, NY |
+| Carib Lager | Lager | 5.00% | Bottle/Can | Cape Canaveral ,FL |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 119
-- **Current Beer Count**: 71
-- **Total Change Records**: 118
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-05 17:03:57.650259
+- **Total Snapshots**: 120
+- **Current Beer Count**: 67
+- **Total Change Records**: 119
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-06 17:04:36.760501
