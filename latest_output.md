@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-01-08 17:05:45*
+*Generated on 2026-01-09 17:04:28*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-01-09 17:04:28.164481 | 66 |
 | 2026-01-08 17:05:45.306233 | 68 |
 | 2026-01-07 17:04:59.889194 | 68 |
 | 2026-01-06 17:04:36.760501 | 67 |
@@ -14,7 +15,6 @@
 | 2026-01-02 17:02:18.192381 | 67 |
 | 2026-01-01 17:03:08.809489 | 67 |
 | 2025-12-31 17:01:43.184013 | 67 |
-| 2025-12-30 17:03:12.592885 | 66 |
 
 ### 🍺 Current Beer List
 
@@ -28,7 +28,6 @@
 | Troegs Mad Elf Grand Cru | Dark Strong Ale | 11.00% | Hershey, PA |
 | Troegs DreamWeaver Wheat | Hefeweizen | 4.80% | Hershey, PA |
 | Hardywood Gingerbread Stout | Dbl Milk Stout | 9.20% | Richmond, VA |
-| New Trail Krush Broken Heels | Hazy IPA | 7.00% | Williamsport, PA |
 | Jack's Abby Extra Layer | Dark Lager | 6.00% | Framingham, MA |
 | Guilford Czech Ruby Lager | Amber Lager | 4.70% | Baltimore, MD |
 | Lone Pine Cloud Cake | Milkshake DIPA | 8.00% | Portland, ME |
@@ -36,10 +35,11 @@
 | New Trail Rolled Oats | Oatmeal Stout | 6.50% | Williamsport, PA |
 | Peabody Heights The Peach Father | Belgian Blonde | 6.00% | Baltimore, MD |
 | Monocacy Harvest Haze | IPA | 6.50% | Frederick, MD |
-| Great Lakes Barrel Aged Mocha Blackout Stout | Imperial Stout | 11.00% | Cleveland, OH |
+| Great Lakes Barrel Aged Mocha Blackout | Imperial Stout | 11.00% | Cleveland, OH |
 | Founders DKML | Malt Liquor | 14.20% | Grand Rapids, MI |
+| South County Chill Haven | Amber Lager | 5.00% | York, PA |
 
-#### 🥫 Bottles & Cans (52)
+#### 🥫 Bottles & Cans (50)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +63,14 @@
 | Appalachian Kipona Fest | Marzen | 6.00% | Harrisburg, PA |
 | Founders CBS Stout (2025) $15 | Imperial Stout | 11.70% | Grand Rapids, MI |
 | Stevens Point Cookies 'N Cream | Stout | 5.50% | Stevens Point, WI |
-| *... and 32 more* | | | |
+| *... and 30 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-01-09 17:04:28.164481 | 5 | 7 | 12 |
 | 2026-01-08 17:05:45.306233 | 0 | 0 | 0 |
 | 2026-01-07 17:04:59.889194 | 2 | 1 | 3 |
 | 2026-01-06 17:04:36.760501 | 2 | 6 | 8 |
@@ -79,16 +80,35 @@
 | 2026-01-02 17:02:18.192381 | 3 | 3 | 6 |
 | 2026-01-01 17:03:08.809489 | 0 | 0 | 0 |
 | 2025-12-31 17:01:43.184013 | 1 | 0 | 1 |
-| 2025-12-30 17:03:12.592885 | 1 | 2 | 3 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| South County Fakie | Pale Ale | 5.00% | Bottle/Can | York, PA |
+| South County Chill Haven | Amber Lager | 5.00% | Draft | York, PA |
+| Great Lakes Conway's Irish Ale | Red Ale | 6.30% | Bottle/Can | Cleveland, OH |
+| Lone Pine Holy Donut Dark Choc. Coconut | Imperial Stout | 10.50% | Bottle/Can | Portland, ME |
+| Great Lakes Barrel Aged Mocha Blackout | Imperial Stout | 11.00% | Draft | Cleveland, OH |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Southern Tier Irish Coffee | Cream Ale | 5.50% | Bottle/Can | Lakewood, NY |
+| Victory Very Merry Monkey | Spiced Ale | 9.50% | Bottle/Can | Downingtown, PA |
+| Lone Pine Holy Donut Dark Choc. Tsted Coconut | Imperial Stout | 10.50% | Bottle/Can | Portland, ME |
+| Great Lakes Barrel Aged Mocha Blackout Stout | Imperial Stout | 11.00% | Draft | Cleveland, OH |
+| New Trail Krush Broken Heels | Hazy IPA | 7.00% | Draft | Williamsport, PA |
+| Lost Rhino Two-A-Daze | Hazy IPA | 6.10% | Bottle/Can | Ashburn, VA |
+| Fairwinds Winter Lager | Lager | 5.10% | Bottle/Can | Lorton, VA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 122
-- **Current Beer Count**: 68
-- **Total Change Records**: 121
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-08 17:05:45.306233
+- **Total Snapshots**: 123
+- **Current Beer Count**: 66
+- **Total Change Records**: 122
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-09 17:04:28.164481
