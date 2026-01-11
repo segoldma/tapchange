@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-01-10 17:01:34*
+*Generated on 2026-01-11 17:01:42*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-01-11 17:01:42.022047 | 66 |
 | 2026-01-10 17:01:34.209957 | 66 |
 | 2026-01-09 17:04:28.164481 | 66 |
 | 2026-01-08 17:05:45.306233 | 68 |
@@ -14,21 +15,17 @@
 | 2026-01-04 17:01:38.328713 | 71 |
 | 2026-01-03 17:01:42.850762 | 70 |
 | 2026-01-02 17:02:18.192381 | 67 |
-| 2026-01-01 17:03:08.809489 | 67 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (16)
+#### 🍺 Draft Beers (15)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
 | Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Longmont, CO |
-| Ten Eyck Side Dish | Imperial Brown | 10.00% | Queenstown,MD |
 | Mully's Fruit Tart Triple Berry | Sour Ale | 5.40% | Prince Fredrick, MD |
 | Troegs Mad Elf Grand Cru | Dark Strong Ale | 11.00% | Hershey, PA |
-| Hardywood Gingerbread Stout | Dbl Milk Stout | 9.20% | Richmond, VA |
 | Jack's Abby Extra Layer | Dark Lager | 6.00% | Framingham, MA |
-| Guilford Czech Ruby Lager | Amber Lager | 4.70% | Baltimore, MD |
 | Lone Pine Cloud Cake | Milkshake DIPA | 8.00% | Portland, ME |
 | Checkerspot Psycho Haze | Hazy IPA | 7.00% | Baltimore, MD |
 | New Trail Rolled Oats | Oatmeal Stout | 6.50% | Williamsport, PA |
@@ -38,8 +35,10 @@
 | Founders DKML | Malt Liquor | 14.20% | Grand Rapids, MI |
 | South County Chill Haven | Amber Lager | 5.00% | York, PA |
 | Peabody Heights Falkor | Hazy IPA | 7.10% | Baltimore, MD |
+| Michael Waltrip Talladega Light | Lager | 4.20% | Bristol, VA |
+| Crooked Run Glade | Pilsner | 4.20% | Sterling, VA |
 
-#### 🥫 Bottles & Cans (50)
+#### 🥫 Bottles & Cans (51)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +62,14 @@
 | Founders CBS Stout (2025) $15 | Imperial Stout | 11.70% | Grand Rapids, MI |
 | Great Lakes Berry Jam Thumbprint | Milk Stout | 5.50% | Cleveland, OH |
 | Allagash Tripel ($8.50) | Tripel | 9.00% | Portland, ME |
-| *... and 30 more* | | | |
+| *... and 31 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-01-11 17:01:42.022047 | 3 | 3 | 6 |
 | 2026-01-10 17:01:34.209957 | 4 | 4 | 8 |
 | 2026-01-09 17:04:28.164481 | 5 | 7 | 12 |
 | 2026-01-08 17:05:45.306233 | 0 | 0 | 0 |
@@ -79,7 +79,6 @@
 | 2026-01-04 17:01:38.328713 | 3 | 2 | 5 |
 | 2026-01-03 17:01:42.850762 | 5 | 2 | 7 |
 | 2026-01-02 17:02:18.192381 | 3 | 3 | 6 |
-| 2026-01-01 17:03:08.809489 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,24 +86,22 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Miller Extra Light | Light Lager | 2.80% | Bottle/Can | Milwaukee, WI |
-| Peabody Heights Falkor | Hazy IPA | 7.10% | Draft | Baltimore, MD |
-| Bohemia Pilsner | Pilsner | 4.70% | Bottle/Can | White Plains, NY |
-| Labatt Ice (24oz) | Lager | 5.60% | Bottle/Can | Rochester, NY |
+| Crooked Run Glade | Pilsner | 4.20% | Draft | Sterling, VA |
+| Michael Waltrip Talladega Light | Lager | 4.20% | Draft | Bristol, VA |
+| Great Lakes Conway's Irish Stout | Stout | 4.80% | Bottle/Can | Cleveland, OH |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Stevens Point Cookies 'N Cream | Stout | 5.50% | Bottle/Can | Stevens Point, WI |
-| Peak Winter IPA | NE Hazy IPA | 5.00% | Bottle/Can | Portland, ME |
-| Appalachian Kipona Fest | Marzen | 6.00% | Bottle/Can | Harrisburg, PA |
-| Troegs DreamWeaver Wheat | Hefeweizen | 4.80% | Draft | Hershey, PA |
+| Ten Eyck Side Dish | Imperial Brown | 10.00% | Draft | Queenstown,MD |
+| Hardywood Gingerbread Stout | Dbl Milk Stout | 9.20% | Draft | Richmond, VA |
+| Guilford Czech Ruby Lager | Amber Lager | 4.70% | Draft | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 124
+- **Total Snapshots**: 125
 - **Current Beer Count**: 66
-- **Total Change Records**: 123
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-10 17:01:34.209957
+- **Total Change Records**: 124
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-11 17:01:42.022047
