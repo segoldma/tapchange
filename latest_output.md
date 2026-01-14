@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-01-13 17:05:40*
+*Generated on 2026-01-14 17:05:51*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-01-14 17:05:51.556885 | 69 |
 | 2026-01-13 17:05:40.657327 | 66 |
 | 2026-01-12 17:04:54.362325 | 66 |
 | 2026-01-11 17:01:42.022047 | 66 |
@@ -14,11 +15,10 @@
 | 2026-01-07 17:04:59.889194 | 68 |
 | 2026-01-06 17:04:36.760501 | 67 |
 | 2026-01-05 17:03:57.650259 | 71 |
-| 2026-01-04 17:01:38.328713 | 71 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (15)
+#### 🍺 Draft Beers (16)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -37,8 +37,9 @@
 | Peabody Heights Falkor | Hazy IPA | 7.10% | Baltimore, MD |
 | Michael Waltrip Talladega Light | Lager | 4.20% | Bristol, VA |
 | Crooked Run Glade | Pilsner | 4.20% | Sterling, VA |
+| Smuttynose Finestkind IPA | IPA | 6.90% | Hampton, NH |
 
-#### 🥫 Bottles & Cans (51)
+#### 🥫 Bottles & Cans (53)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -49,9 +50,11 @@
 | Dad Water  | Tequila Cocktail | 5.25% | Indianapolis, IN |
 | Monster The Beast: Peach Perfect | Not Beer | 6.00% | Cold Spring, MN |
 | MY5 The Original or Tangerine  | Not Beer | 4.50% | Landsdale, PA |
-| Best Day Electro-Lime | N/A Cerveza | 0.50% | California |
-| Best Day Brewing White | N/A Wheat Ale | 0.50% | Sausalito, CA |
-| Union Hopwater Springs | N/A  | 0.00% | Baltimore, MD |
+| Dunkin' Spiked Coffee | Not Beer | 6.00% | Boston, MA |
+| Best Day Kölsch | N/A Kölsch | 0.50% | California |
+| Best Day Hazy | N/A Hazy IPA | 0.50% | Sausalito, CA |
+| Best Day Imperial | N/A Imp. IPA | 0.50% | Sausalito, CA |
+| Crooked Crab Hop Wave | N/A  | 0.00% | Baltimore, MD |
 | Liefmans Goudenband ($13) | Oud Bruin | 8.00% | Belgium |
 | Firestone Walker Mind Haze Lemonade | Imperial Radler | 8.00% | Paso Robles, CA |
 | Schlafly Dark Mild | British Mild Ale | 3.80% | St. Louis, MO |
@@ -60,15 +63,14 @@
 | Denizens Hike the Alps: Kellerbier | Kellerbier | 5.30% | Ellicott City, MD |
 | Guilford Goatman | Bock | 6.30% | Baltimore, MD |
 | Founders CBS Stout (2025) $15 | Imperial Stout | 11.70% | Grand Rapids, MI |
-| Great Lakes Berry Jam Thumbprint | Milk Stout | 5.50% | Cleveland, OH |
-| Allagash Tripel ($8.50) | Tripel | 9.00% | Portland, ME |
-| *... and 31 more* | | | |
+| *... and 33 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-01-14 17:05:51.556885 | 7 | 4 | 11 |
 | 2026-01-13 17:05:40.657327 | 0 | 0 | 0 |
 | 2026-01-12 17:04:54.362325 | 0 | 0 | 0 |
 | 2026-01-11 17:01:42.022047 | 3 | 3 | 6 |
@@ -78,16 +80,34 @@
 | 2026-01-07 17:04:59.889194 | 2 | 1 | 3 |
 | 2026-01-06 17:04:36.760501 | 2 | 6 | 8 |
 | 2026-01-05 17:03:57.650259 | 0 | 0 | 0 |
-| 2026-01-04 17:01:38.328713 | 3 | 2 | 5 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Crooked Crab Hop Wave | N/A  | 0.00% | Bottle/Can | Baltimore, MD |
+| Best Day Kölsch | N/A Kölsch | 0.50% | Bottle/Can | California |
+| Best Day Hazy | N/A Hazy IPA | 0.50% | Bottle/Can | Sausalito, CA |
+| Carib Shandy Lime | Shandy | 0.90% | Bottle/Can | Cape Canaveral, FL |
+| Dunkin' Spiked Coffee | Not Beer | 6.00% | Bottle/Can | Boston, MA |
+| Smuttynose Finestkind IPA | IPA | 6.90% | Draft | Hampton, NH |
+| Best Day Imperial | N/A Imp. IPA | 0.50% | Bottle/Can | Sausalito, CA |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Carib Shandy Lime | Shandy | 0.90% | Bottle/Can | Cape Canaveral ,FL |
+| Best Day Electro-Lime | N/A Cerveza | 0.50% | Bottle/Can | California |
+| Best Day Brewing White | N/A Wheat Ale | 0.50% | Bottle/Can | Sausalito, CA |
+| Union Hopwater Springs | N/A  | 0.00% | Bottle/Can | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 127
-- **Current Beer Count**: 66
-- **Total Change Records**: 126
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-13 17:05:40.657327
+- **Total Snapshots**: 128
+- **Current Beer Count**: 69
+- **Total Change Records**: 127
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-14 17:05:51.556885
