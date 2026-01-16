@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-01-15 17:08:48*
+*Generated on 2026-01-16 17:04:37*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-01-16 17:04:36.682185 | 67 |
 | 2026-01-15 17:08:48.810602 | 69 |
 | 2026-01-14 17:05:51.556885 | 69 |
 | 2026-01-13 17:05:40.657327 | 66 |
@@ -14,18 +15,16 @@
 | 2026-01-09 17:04:28.164481 | 66 |
 | 2026-01-08 17:05:45.306233 | 68 |
 | 2026-01-07 17:04:59.889194 | 68 |
-| 2026-01-06 17:04:36.760501 | 67 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (16)
+#### 🍺 Draft Beers (15)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
 | Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Longmont, CO |
 | Mully's Fruit Tart Triple Berry | Sour Ale | 5.40% | Prince Fredrick, MD |
 | Troegs Mad Elf Grand Cru | Dark Strong Ale | 11.00% | Hershey, PA |
-| Jack's Abby Extra Layer | Dark Lager | 6.00% | Framingham, MA |
 | Lone Pine Cloud Cake | Milkshake DIPA | 8.00% | Portland, ME |
 | Checkerspot Psycho Haze | Hazy IPA | 7.00% | Baltimore, MD |
 | New Trail Rolled Oats | Oatmeal Stout | 6.50% | Williamsport, PA |
@@ -39,7 +38,7 @@
 | Crooked Run Glade | Pilsner | 4.20% | Sterling, VA |
 | Smuttynose Finestkind IPA | IPA | 6.90% | Hampton, NH |
 
-#### 🥫 Bottles & Cans (53)
+#### 🥫 Bottles & Cans (52)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -59,17 +58,18 @@
 | Firestone Walker Mind Haze Lemonade | Imperial Radler | 8.00% | Paso Robles, CA |
 | Schlafly Dark Mild | British Mild Ale | 3.80% | St. Louis, MO |
 | Schlafly Doppelbock | Doppelbock | 6.00% | St. Louis, MO |
-| Lancaster Shoo-Fly Pie | Porter | 6.20% | Lancaster, PA |
 | Denizens Hike the Alps: Kellerbier | Kellerbier | 5.30% | Ellicott City, MD |
 | Guilford Goatman | Bock | 6.30% | Baltimore, MD |
 | Founders CBS Stout (2025) $15 | Imperial Stout | 11.70% | Grand Rapids, MI |
-| *... and 33 more* | | | |
+| Great Lakes Berry Jam Thumbprint | Milk Stout | 5.50% | Cleveland, OH |
+| *... and 32 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-01-16 17:04:36.682185 | 1 | 3 | 4 |
 | 2026-01-15 17:08:48.810602 | 0 | 0 | 0 |
 | 2026-01-14 17:05:51.556885 | 7 | 4 | 11 |
 | 2026-01-13 17:05:40.657327 | 0 | 0 | 0 |
@@ -79,16 +79,27 @@
 | 2026-01-09 17:04:28.164481 | 5 | 7 | 12 |
 | 2026-01-08 17:05:45.306233 | 0 | 0 | 0 |
 | 2026-01-07 17:04:59.889194 | 2 | 1 | 3 |
-| 2026-01-06 17:04:36.760501 | 2 | 6 | 8 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Kasteel Rubus (16.9oz) $11 | Raspberry Ale | 7.00% | Bottle/Can | Belgium |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Lancaster Shoo-Fly Pie | Porter | 6.20% | Bottle/Can | Lancaster, PA |
+| Jack's Abby Extra Layer | Dark Lager | 6.00% | Draft | Framingham, MA |
+| Wico Street Greetings From Pigtown | Blonde Ale | 5.50% | Bottle/Can | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 129
-- **Current Beer Count**: 69
-- **Total Change Records**: 128
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-15 17:08:48.810602
+- **Total Snapshots**: 130
+- **Current Beer Count**: 67
+- **Total Change Records**: 129
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-16 17:04:36.682185
