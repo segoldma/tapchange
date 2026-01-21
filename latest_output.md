@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-01-20 17:06:36*
+*Generated on 2026-01-21 17:20:32*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-01-21 17:20:32.803231 | 72 |
 | 2026-01-20 17:06:35.949629 | 70 |
 | 2026-01-19 17:04:41.105156 | 70 |
 | 2026-01-18 17:01:48.664801 | 70 |
@@ -14,11 +15,10 @@
 | 2026-01-14 17:05:51.556885 | 69 |
 | 2026-01-13 17:05:40.657327 | 66 |
 | 2026-01-12 17:04:54.362325 | 66 |
-| 2026-01-11 17:01:42.022047 | 66 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (15)
+#### 🍺 Draft Beers (16)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -37,8 +37,9 @@
 | Brooklyn Pulp Art | Hazy IPA | 6.00% | Brooklyn, NY |
 | Heavy Seas/Other Half Broccoli Cannon | Hazy IPA | 6.00% | Baltimore, MD |
 | Cushwa Cush | Hazy IPA | 6.50% | Columbia, MD |
+| Mully's Schooner | Black Lager | 5.00% | Prince Frederick, MD |
 
-#### 🥫 Bottles & Cans (55)
+#### 🥫 Bottles & Cans (56)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -62,13 +63,14 @@
 | Founders CBS Stout (2025) $15 | Imperial Stout | 11.70% | Grand Rapids, MI |
 | Great Lakes Berry Jam Thumbprint | Milk Stout | 5.50% | Cleveland, OH |
 | Allagash Tripel ($8.50) | Tripel | 9.00% | Portland, ME |
-| *... and 35 more* | | | |
+| *... and 36 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-01-21 17:20:32.803231 | 3 | 1 | 4 |
 | 2026-01-20 17:06:35.949629 | 0 | 0 | 0 |
 | 2026-01-19 17:04:41.105156 | 0 | 0 | 0 |
 | 2026-01-18 17:01:48.664801 | 2 | 2 | 4 |
@@ -78,16 +80,27 @@
 | 2026-01-14 17:05:51.556885 | 7 | 4 | 11 |
 | 2026-01-13 17:05:40.657327 | 0 | 0 | 0 |
 | 2026-01-12 17:04:54.362325 | 0 | 0 | 0 |
-| 2026-01-11 17:01:42.022047 | 3 | 3 | 6 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Mully's Schooner | Black Lager | 5.00% | Draft | Prince Frederick, MD |
+| Antietam General's Golden Ale | Blonde Ale | 6.50% | Bottle/Can | Hagerstown, MD |
+| Lone Pine Holy Donut Coffee Cake | Imperial Stout | 9.00% | Bottle/Can | Portland, ME |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Labatt Ice (24oz) | Lager | 5.60% | Bottle/Can | Rochester, NY |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 134
-- **Current Beer Count**: 70
-- **Total Change Records**: 133
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-20 17:06:35.949629
+- **Total Snapshots**: 135
+- **Current Beer Count**: 72
+- **Total Change Records**: 134
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-21 17:20:32.803231
