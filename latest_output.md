@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-01-22 17:07:04*
+*Generated on 2026-01-23 17:05:35*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-01-23 17:05:35.233059 | 71 |
 | 2026-01-22 17:07:04.053513 | 72 |
 | 2026-01-21 17:20:32.803231 | 72 |
 | 2026-01-20 17:06:35.949629 | 70 |
@@ -14,7 +15,6 @@
 | 2026-01-16 17:04:36.682185 | 67 |
 | 2026-01-15 17:08:48.810602 | 69 |
 | 2026-01-14 17:05:51.556885 | 69 |
-| 2026-01-13 17:05:40.657327 | 66 |
 
 ### 🍺 Current Beer List
 
@@ -24,11 +24,8 @@
 |------|-------|-----|----------|
 | Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Longmont, CO |
 | Troegs Mad Elf Grand Cru | Dark Strong Ale | 11.00% | Hershey, PA |
-| Lone Pine Cloud Cake | Milkshake DIPA | 8.00% | Portland, ME |
 | Peabody Heights The Peach Father | Belgian Blonde | 6.00% | Baltimore, MD |
-| Monocacy Harvest Haze | IPA | 6.50% | Frederick, MD |
 | Great Lakes Barrel Aged Mocha Blackout | Imperial Stout | 11.00% | Cleveland, OH |
-| Founders DKML | Malt Liquor | 14.20% | Grand Rapids, MI |
 | South County Chill Haven | Amber Lager | 5.00% | York, PA |
 | Peabody Heights Falkor | Hazy IPA | 7.10% | Baltimore, MD |
 | Michael Waltrip Talladega Light | Lager | 4.20% | Bristol, VA |
@@ -38,8 +35,11 @@
 | Heavy Seas/Other Half Broccoli Cannon | Hazy IPA | 6.00% | Baltimore, MD |
 | Cushwa Cush | Hazy IPA | 6.50% | Columbia, MD |
 | Mully's Schooner | Black Lager | 5.00% | Prince Frederick, MD |
+| The Veil WeDedMon3 | Triple IPA | 11.00% | Richmond, VA |
+| The Veil S.U.R.E. | Hazy IPA | 6.00% | Richmond, VA |
+| New Trail Thru Hike | Hazy IPA | 6.00% | Williamsport, PA |
 
-#### 🥫 Bottles & Cans (56)
+#### 🥫 Bottles & Cans (55)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +63,14 @@
 | Founders CBS Stout (2025) $15 | Imperial Stout | 11.70% | Grand Rapids, MI |
 | Great Lakes Berry Jam Thumbprint | Milk Stout | 5.50% | Cleveland, OH |
 | Allagash Tripel ($8.50) | Tripel | 9.00% | Portland, ME |
-| *... and 36 more* | | | |
+| *... and 35 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-01-23 17:05:35.233059 | 4 | 5 | 9 |
 | 2026-01-22 17:07:04.053513 | 0 | 0 | 0 |
 | 2026-01-21 17:20:32.803231 | 3 | 1 | 4 |
 | 2026-01-20 17:06:35.949629 | 0 | 0 | 0 |
@@ -79,16 +80,32 @@
 | 2026-01-16 17:04:36.682185 | 1 | 3 | 4 |
 | 2026-01-15 17:08:48.810602 | 0 | 0 | 0 |
 | 2026-01-14 17:05:51.556885 | 7 | 4 | 11 |
-| 2026-01-13 17:05:40.657327 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Calvert Playground Legend | DIPA | 9.20% | Bottle/Can | Salisbury, MD |
+| The Veil WeDedMon3 | Triple IPA | 11.00% | Draft | Richmond, VA |
+| The Veil S.U.R.E. | Hazy IPA | 6.00% | Draft | Richmond, VA |
+| New Trail Thru Hike | Hazy IPA | 6.00% | Draft | Williamsport, PA |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Erdinger WeiBbier | Weissbier | 5.30% | Bottle/Can | Germany |
+| Lone Pine Cloud Cake | Milkshake DIPA | 8.00% | Draft | Portland, ME |
+| Monocacy Harvest Haze | IPA | 6.50% | Draft | Frederick, MD |
+| Founders DKML | Malt Liquor | 14.20% | Draft | Grand Rapids, MI |
+| Brooklyn Bel Air Sour | Sour | 5.80% | Bottle/Can | Brooklyn. NY |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 136
-- **Current Beer Count**: 72
-- **Total Change Records**: 135
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-22 17:07:04.053513
+- **Total Snapshots**: 137
+- **Current Beer Count**: 71
+- **Total Change Records**: 136
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-23 17:05:35.233059
