@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-01-23 17:05:35*
+*Generated on 2026-01-24 17:01:37*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-01-24 17:01:37.639387 | 69 |
 | 2026-01-23 17:05:35.233059 | 71 |
 | 2026-01-22 17:07:04.053513 | 72 |
 | 2026-01-21 17:20:32.803231 | 72 |
@@ -14,23 +15,19 @@
 | 2026-01-17 17:01:35.554040 | 70 |
 | 2026-01-16 17:04:36.682185 | 67 |
 | 2026-01-15 17:08:48.810602 | 69 |
-| 2026-01-14 17:05:51.556885 | 69 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (16)
+#### 🍺 Draft Beers (15)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
-| Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Longmont, CO |
 | Troegs Mad Elf Grand Cru | Dark Strong Ale | 11.00% | Hershey, PA |
-| Peabody Heights The Peach Father | Belgian Blonde | 6.00% | Baltimore, MD |
 | Great Lakes Barrel Aged Mocha Blackout | Imperial Stout | 11.00% | Cleveland, OH |
 | South County Chill Haven | Amber Lager | 5.00% | York, PA |
 | Peabody Heights Falkor | Hazy IPA | 7.10% | Baltimore, MD |
 | Michael Waltrip Talladega Light | Lager | 4.20% | Bristol, VA |
 | Crooked Run Glade | Pilsner | 4.20% | Sterling, VA |
-| Smuttynose Finestkind IPA | IPA | 6.90% | Hampton, NH |
 | Brooklyn Pulp Art | Hazy IPA | 6.00% | Brooklyn, NY |
 | Heavy Seas/Other Half Broccoli Cannon | Hazy IPA | 6.00% | Baltimore, MD |
 | Cushwa Cush | Hazy IPA | 6.50% | Columbia, MD |
@@ -38,8 +35,10 @@
 | The Veil WeDedMon3 | Triple IPA | 11.00% | Richmond, VA |
 | The Veil S.U.R.E. | Hazy IPA | 6.00% | Richmond, VA |
 | New Trail Thru Hike | Hazy IPA | 6.00% | Williamsport, PA |
+| DC Brau Old Time Lager | Lager | 4.00% | Washington, DC |
+| Southern Tier Irish Coffee Cream Ale | Cream Ale | 5.50% | Lakewood, NY |
 
-#### 🥫 Bottles & Cans (55)
+#### 🥫 Bottles & Cans (54)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -62,14 +61,15 @@
 | Guilford Goatman | Bock | 6.30% | Baltimore, MD |
 | Founders CBS Stout (2025) $15 | Imperial Stout | 11.70% | Grand Rapids, MI |
 | Great Lakes Berry Jam Thumbprint | Milk Stout | 5.50% | Cleveland, OH |
-| Allagash Tripel ($8.50) | Tripel | 9.00% | Portland, ME |
-| *... and 35 more* | | | |
+| Allagash Curieux ($11) | Tripel | 10.20% | Portland, ME |
+| *... and 34 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-01-24 17:01:37.639387 | 4 | 6 | 10 |
 | 2026-01-23 17:05:35.233059 | 4 | 5 | 9 |
 | 2026-01-22 17:07:04.053513 | 0 | 0 | 0 |
 | 2026-01-21 17:20:32.803231 | 3 | 1 | 4 |
@@ -79,7 +79,6 @@
 | 2026-01-17 17:01:35.554040 | 5 | 2 | 7 |
 | 2026-01-16 17:04:36.682185 | 1 | 3 | 4 |
 | 2026-01-15 17:08:48.810602 | 0 | 0 | 0 |
-| 2026-01-14 17:05:51.556885 | 7 | 4 | 11 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,25 +86,26 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Calvert Playground Legend | DIPA | 9.20% | Bottle/Can | Salisbury, MD |
-| The Veil WeDedMon3 | Triple IPA | 11.00% | Draft | Richmond, VA |
-| The Veil S.U.R.E. | Hazy IPA | 6.00% | Draft | Richmond, VA |
-| New Trail Thru Hike | Hazy IPA | 6.00% | Draft | Williamsport, PA |
+| Cigar City Florida Man (16oz) | DIPA | 9.00% | Bottle/Can | Tampa, FL |
+| Southern Tier Irish Coffee Cream Ale | Cream Ale | 5.50% | Draft | Lakewood, NY |
+| DC Brau Old Time Lager | Lager | 4.00% | Draft | Washington, DC |
+| Yuengling Lord Chesterfield Ale | Pale Ale | 5.40% | Bottle/Can | Pottsville, PA |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Erdinger WeiBbier | Weissbier | 5.30% | Bottle/Can | Germany |
-| Lone Pine Cloud Cake | Milkshake DIPA | 8.00% | Draft | Portland, ME |
-| Monocacy Harvest Haze | IPA | 6.50% | Draft | Frederick, MD |
-| Founders DKML | Malt Liquor | 14.20% | Draft | Grand Rapids, MI |
-| Brooklyn Bel Air Sour | Sour | 5.80% | Bottle/Can | Brooklyn. NY |
+| Allagash Tripel ($8.50) | Tripel | 9.00% | Bottle/Can | Portland, ME |
+| Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Draft | Longmont, CO |
+| Ministry Shot In The Dark | Coffee Porter | 6.50% | Bottle/Can | Baltimore, MD |
+| Smuttynose Finestkind IPA | IPA | 6.90% | Draft | Hampton, NH |
+| Peabody Heights The Peach Father | Belgian Blonde | 6.00% | Draft | Baltimore, MD |
+| Black Flag All The Small Things | Pale Ale | 5.10% | Bottle/Can | Columbia, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 137
-- **Current Beer Count**: 71
-- **Total Change Records**: 136
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-23 17:05:35.233059
+- **Total Snapshots**: 138
+- **Current Beer Count**: 69
+- **Total Change Records**: 137
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-24 17:01:37.639387
