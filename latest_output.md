@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-01-24 17:01:37*
+*Generated on 2026-01-25 17:01:42*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-01-25 17:01:42.690945 | 71 |
 | 2026-01-24 17:01:37.639387 | 69 |
 | 2026-01-23 17:05:35.233059 | 71 |
 | 2026-01-22 17:07:04.053513 | 72 |
@@ -14,7 +15,6 @@
 | 2026-01-18 17:01:48.664801 | 70 |
 | 2026-01-17 17:01:35.554040 | 70 |
 | 2026-01-16 17:04:36.682185 | 67 |
-| 2026-01-15 17:08:48.810602 | 69 |
 
 ### 🍺 Current Beer List
 
@@ -38,7 +38,7 @@
 | DC Brau Old Time Lager | Lager | 4.00% | Washington, DC |
 | Southern Tier Irish Coffee Cream Ale | Cream Ale | 5.50% | Lakewood, NY |
 
-#### 🥫 Bottles & Cans (54)
+#### 🥫 Bottles & Cans (56)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -62,13 +62,14 @@
 | Founders CBS Stout (2025) $15 | Imperial Stout | 11.70% | Grand Rapids, MI |
 | Great Lakes Berry Jam Thumbprint | Milk Stout | 5.50% | Cleveland, OH |
 | Allagash Curieux ($11) | Tripel | 10.20% | Portland, ME |
-| *... and 34 more* | | | |
+| *... and 36 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-01-25 17:01:42.690945 | 2 | 0 | 2 |
 | 2026-01-24 17:01:37.639387 | 4 | 6 | 10 |
 | 2026-01-23 17:05:35.233059 | 4 | 5 | 9 |
 | 2026-01-22 17:07:04.053513 | 0 | 0 | 0 |
@@ -78,7 +79,6 @@
 | 2026-01-18 17:01:48.664801 | 2 | 2 | 4 |
 | 2026-01-17 17:01:35.554040 | 5 | 2 | 7 |
 | 2026-01-16 17:04:36.682185 | 1 | 3 | 4 |
-| 2026-01-15 17:08:48.810602 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -86,26 +86,13 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Cigar City Florida Man (16oz) | DIPA | 9.00% | Bottle/Can | Tampa, FL |
-| Southern Tier Irish Coffee Cream Ale | Cream Ale | 5.50% | Draft | Lakewood, NY |
-| DC Brau Old Time Lager | Lager | 4.00% | Draft | Washington, DC |
-| Yuengling Lord Chesterfield Ale | Pale Ale | 5.40% | Bottle/Can | Pottsville, PA |
-
-#### ➖ Removed Beers
-
-| Name | Style | ABV | Vessel | Location |
-|------|-------|-----|--------|----------|
-| Allagash Tripel ($8.50) | Tripel | 9.00% | Bottle/Can | Portland, ME |
-| Left Hand Pumpkin Spiced Latte Nitro | Pumpkin Ale | 7.00% | Draft | Longmont, CO |
-| Ministry Shot In The Dark | Coffee Porter | 6.50% | Bottle/Can | Baltimore, MD |
-| Smuttynose Finestkind IPA | IPA | 6.90% | Draft | Hampton, NH |
-| Peabody Heights The Peach Father | Belgian Blonde | 6.00% | Draft | Baltimore, MD |
-| Black Flag All The Small Things | Pale Ale | 5.10% | Bottle/Can | Columbia, MD |
+| Monopolio Lager Clara | Lager | 5.00% | Bottle/Can | Mexico |
+| Montauk Wave Chaser IPA | IPA | 6.40% | Bottle/Can | Montauk, NY |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 138
-- **Current Beer Count**: 69
-- **Total Change Records**: 137
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-24 17:01:37.639387
+- **Total Snapshots**: 139
+- **Current Beer Count**: 71
+- **Total Change Records**: 138
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-25 17:01:42.690945
