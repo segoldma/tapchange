@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-01-30 17:10:43*
+*Generated on 2026-01-31 17:04:19*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-01-31 17:04:19.070791 | 67 |
 | 2026-01-30 17:10:42.899973 | 66 |
 | 2026-01-29 17:11:33.331316 | 68 |
 | 2026-01-28 17:09:54.000646 | 68 |
@@ -14,11 +15,10 @@
 | 2026-01-24 17:01:37.639387 | 69 |
 | 2026-01-23 17:05:35.233059 | 71 |
 | 2026-01-22 17:07:04.053513 | 72 |
-| 2026-01-21 17:20:32.803231 | 72 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (14)
+#### 🍺 Draft Beers (16)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -36,8 +36,10 @@
 | Guilford Vienna Lager | Lager | 4.60% | Baltimore, MD |
 | Checkerspot Idle Chartreuse | Spiced Ale | 8.00% | Baltimore, MD |
 | Warsteiner German Pilsner | Pilsner | 4.80% | Germany |
+| Great Lakes Midwest IPA | IPA | 7.00% | Cleveland, OH |
+| **Black Velvet** | Beer Cocktail | 11.00% | N/A |
 
-#### 🥫 Bottles & Cans (52)
+#### 🥫 Bottles & Cans (51)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -57,17 +59,18 @@
 | Guilford Goatman | Bock | 6.30% | Baltimore, MD |
 | Founders CBS Stout (2025) $15 | Imperial Stout | 11.70% | Grand Rapids, MI |
 | Great Lakes Berry Jam Thumbprint | Milk Stout | 5.50% | Cleveland, OH |
-| Allagash Curieux ($11) | Tripel | 10.20% | Portland, ME |
 | Arcobrau Coronator | Doppelbock | 7.20% | Germany |
 | Jack's Abby Framinghammer Ginger Bread | Blatic Porter | 9.00% | Framingham, MA |
 | Carib Shandy Lime | Shandy | 0.90% | Cape Canaveral, FL |
-| *... and 32 more* | | | |
+| Black Flag K Kapowski | Amber Ale  | 4.80% | Columbia, MD |
+| *... and 31 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-01-31 17:04:19.070791 | 3 | 2 | 5 |
 | 2026-01-30 17:10:42.899973 | 4 | 6 | 10 |
 | 2026-01-29 17:11:33.331316 | 0 | 0 | 0 |
 | 2026-01-28 17:09:54.000646 | 0 | 0 | 0 |
@@ -77,7 +80,6 @@
 | 2026-01-24 17:01:37.639387 | 4 | 6 | 10 |
 | 2026-01-23 17:05:35.233059 | 4 | 5 | 9 |
 | 2026-01-22 17:07:04.053513 | 0 | 0 | 0 |
-| 2026-01-21 17:20:32.803231 | 3 | 1 | 4 |
 
 ### 🆕 Latest Changes Details
 
@@ -85,26 +87,21 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Warsteiner German Pilsner | Pilsner | 4.80% | Draft | Germany |
-| The Veil IdonteverwanttoBU! (16oz) | Hazy DIPA | 9.30% | Bottle/Can | Richmond, VA |
-| Southern Tier Steady Yeti | Session IPA | 3.80% | Bottle/Can | Cooperstown, NY |
-| 1947 Premium Lager | Lager | 4.72% | Bottle/Can | Ewing, NJ |
+| Miller Genuine Draft | Lager | 4.60% | Bottle/Can | Milwaukee, WI |
+| Great Lakes Midwest IPA | IPA | 7.00% | Draft | Cleveland, OH |
+| **Black Velvet** | Beer Cocktail | 11.00% | Draft | N/A |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Troegs Mad Elf Grand Cru | Dark Strong Ale | 11.00% | Draft | Hershey, PA |
-| Ommegang Passport Royal (16oz) | Sour IPA | 7.50% | Bottle/Can | Cooperstown, NY |
-| Best Day Hazy | N/A Hazy IPA | 0.50% | Bottle/Can | Sausalito, CA |
-| Crooked Crab Hop Wave | N/A  | 0.00% | Bottle/Can | Baltimore, MD |
-| The Veil S.U.R.E. | Hazy IPA | 6.00% | Draft | Richmond, VA |
-| Victory Royale | IPA | 6.00% | Bottle/Can | Downingtown, PA |
+| South County Fakie | Pale Ale | 5.00% | Bottle/Can | York, PA |
+| Allagash Curieux ($11) | Tripel | 10.20% | Bottle/Can | Portland, ME |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 144
-- **Current Beer Count**: 66
-- **Total Change Records**: 143
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-30 17:10:42.899973
+- **Total Snapshots**: 145
+- **Current Beer Count**: 67
+- **Total Change Records**: 144
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-31 17:04:19.070791
