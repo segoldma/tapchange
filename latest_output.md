@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-01-31 17:04:19*
+*Generated on 2026-02-01 17:04:23*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-02-01 17:04:22.899426 | 65 |
 | 2026-01-31 17:04:19.070791 | 67 |
 | 2026-01-30 17:10:42.899973 | 66 |
 | 2026-01-29 17:11:33.331316 | 68 |
@@ -14,7 +15,6 @@
 | 2026-01-25 17:01:42.690945 | 71 |
 | 2026-01-24 17:01:37.639387 | 69 |
 | 2026-01-23 17:05:35.233059 | 71 |
-| 2026-01-22 17:07:04.053513 | 72 |
 
 ### 🍺 Current Beer List
 
@@ -22,7 +22,6 @@
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
-| Great Lakes Barrel Aged Mocha Blackout | Imperial Stout | 11.00% | Cleveland, OH |
 | Michael Waltrip Talladega Light | Lager | 4.20% | Bristol, VA |
 | Crooked Run Glade | Pilsner | 4.20% | Sterling, VA |
 | Brooklyn Pulp Art | Hazy IPA | 6.00% | Brooklyn, NY |
@@ -38,8 +37,9 @@
 | Warsteiner German Pilsner | Pilsner | 4.80% | Germany |
 | Great Lakes Midwest IPA | IPA | 7.00% | Cleveland, OH |
 | **Black Velvet** | Beer Cocktail | 11.00% | N/A |
+| Monopolio Lager Negra | Amber Lager | 5.50% | Mexico |
 
-#### 🥫 Bottles & Cans (51)
+#### 🥫 Bottles & Cans (49)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -53,7 +53,6 @@
 | Dunkin' Spiked Coffee | Not Beer | 6.00% | Boston, MA |
 | Best Day Kölsch | N/A Kölsch | 0.50% | California |
 | Best Day Imperial | N/A Imp. IPA | 0.50% | Sausalito, CA |
-| Schlafly Dark Mild | British Mild Ale | 3.80% | St. Louis, MO |
 | Schlafly Doppelbock | Doppelbock | 6.00% | St. Louis, MO |
 | Denizens Hike the Alps: Kellerbier | Kellerbier | 5.30% | Ellicott City, MD |
 | Guilford Goatman | Bock | 6.30% | Baltimore, MD |
@@ -62,14 +61,16 @@
 | Arcobrau Coronator | Doppelbock | 7.20% | Germany |
 | Jack's Abby Framinghammer Ginger Bread | Blatic Porter | 9.00% | Framingham, MA |
 | Carib Shandy Lime | Shandy | 0.90% | Cape Canaveral, FL |
-| Black Flag K Kapowski | Amber Ale  | 4.80% | Columbia, MD |
-| *... and 31 more* | | | |
+| Cushwa Onward (16oz) | Hazy IPA | 7.20% | Columbia, MD |
+| Manor Hill Echos of Sanctity | Abbey Dubbel | 7.80% | Baltimore, MD |
+| *... and 29 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-02-01 17:04:22.899426 | 1 | 3 | 4 |
 | 2026-01-31 17:04:19.070791 | 3 | 2 | 5 |
 | 2026-01-30 17:10:42.899973 | 4 | 6 | 10 |
 | 2026-01-29 17:11:33.331316 | 0 | 0 | 0 |
@@ -79,7 +80,6 @@
 | 2026-01-25 17:01:42.690945 | 2 | 0 | 2 |
 | 2026-01-24 17:01:37.639387 | 4 | 6 | 10 |
 | 2026-01-23 17:05:35.233059 | 4 | 5 | 9 |
-| 2026-01-22 17:07:04.053513 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,21 +87,20 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Miller Genuine Draft | Lager | 4.60% | Bottle/Can | Milwaukee, WI |
-| Great Lakes Midwest IPA | IPA | 7.00% | Draft | Cleveland, OH |
-| **Black Velvet** | Beer Cocktail | 11.00% | Draft | N/A |
+| Monopolio Lager Negra | Amber Lager | 5.50% | Draft | Mexico |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| South County Fakie | Pale Ale | 5.00% | Bottle/Can | York, PA |
-| Allagash Curieux ($11) | Tripel | 10.20% | Bottle/Can | Portland, ME |
+| Schlafly Dark Mild | British Mild Ale | 3.80% | Bottle/Can | St. Louis, MO |
+| Black Flag K Kapowski | Amber Ale  | 4.80% | Bottle/Can | Columbia, MD |
+| Great Lakes Barrel Aged Mocha Blackout | Imperial Stout | 11.00% | Draft | Cleveland, OH |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 145
-- **Current Beer Count**: 67
-- **Total Change Records**: 144
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-01-31 17:04:19.070791
+- **Total Snapshots**: 146
+- **Current Beer Count**: 65
+- **Total Change Records**: 145
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-01 17:04:22.899426
