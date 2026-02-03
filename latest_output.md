@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-02-02 17:12:34*
+*Generated on 2026-02-03 17:17:11*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-02-03 17:17:10.853015 | 65 |
 | 2026-02-02 17:12:34.294669 | 65 |
 | 2026-02-01 17:04:22.899426 | 65 |
 | 2026-01-31 17:04:19.070791 | 67 |
@@ -14,18 +15,15 @@
 | 2026-01-27 17:06:03.951238 | 68 |
 | 2026-01-26 17:07:10.190768 | 71 |
 | 2026-01-25 17:01:42.690945 | 71 |
-| 2026-01-24 17:01:37.639387 | 69 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (16)
+#### 🍺 Draft Beers (15)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
 | Michael Waltrip Talladega Light | Lager | 4.20% | Bristol, VA |
-| Crooked Run Glade | Pilsner | 4.20% | Sterling, VA |
 | Brooklyn Pulp Art | Hazy IPA | 6.00% | Brooklyn, NY |
-| Heavy Seas/Other Half Broccoli Cannon | Hazy IPA | 6.00% | Baltimore, MD |
 | Cushwa Cush | Hazy IPA | 6.50% | Columbia, MD |
 | Mully's Schooner | Black Lager | 5.00% | Prince Frederick, MD |
 | The Veil WeDedMon3 | Triple IPA | 11.00% | Richmond, VA |
@@ -36,10 +34,11 @@
 | Checkerspot Idle Chartreuse | Spiced Ale | 8.00% | Baltimore, MD |
 | Warsteiner German Pilsner | Pilsner | 4.80% | Germany |
 | Great Lakes Midwest IPA | IPA | 7.00% | Cleveland, OH |
-| **Black Velvet** | Beer Cocktail | 11.00% | N/A |
 | Monopolio Lager Negra | Amber Lager | 5.50% | Mexico |
+| Monopolio IPA Especial | IPA | 6.20% | Mexico |
+| Monopolio Lager Clara | Lager | 5.00% | Mexico |
 
-#### 🥫 Bottles & Cans (49)
+#### 🥫 Bottles & Cans (50)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +62,14 @@
 | Carib Shandy Lime | Shandy | 0.90% | Cape Canaveral, FL |
 | Cushwa Onward (16oz) | Hazy IPA | 7.20% | Columbia, MD |
 | Manor Hill Echos of Sanctity | Abbey Dubbel | 7.80% | Baltimore, MD |
-| *... and 29 more* | | | |
+| *... and 30 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-02-03 17:17:10.853015 | 3 | 3 | 6 |
 | 2026-02-02 17:12:34.294669 | 0 | 0 | 0 |
 | 2026-02-01 17:04:22.899426 | 1 | 3 | 4 |
 | 2026-01-31 17:04:19.070791 | 3 | 2 | 5 |
@@ -79,16 +79,29 @@
 | 2026-01-27 17:06:03.951238 | 2 | 5 | 7 |
 | 2026-01-26 17:07:10.190768 | 0 | 0 | 0 |
 | 2026-01-25 17:01:42.690945 | 2 | 0 | 2 |
-| 2026-01-24 17:01:37.639387 | 4 | 6 | 10 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Monopolio IPA Especial | IPA | 6.20% | Draft | Mexico |
+| Monopolio Lager Negra | Amber Lager | 5.50% | Bottle/Can | Mexico |
+| Monopolio Lager Clara | Lager | 5.00% | Draft | Mexico |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| **Black Velvet** | Beer Cocktail | 11.00% | Draft | N/A |
+| Heavy Seas/Other Half Broccoli Cannon | Hazy IPA | 6.00% | Draft | Baltimore, MD |
+| Crooked Run Glade | Pilsner | 4.20% | Draft | Sterling, VA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 147
+- **Total Snapshots**: 148
 - **Current Beer Count**: 65
-- **Total Change Records**: 146
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-02 17:12:34.294669
+- **Total Change Records**: 147
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-03 17:17:10.853015
