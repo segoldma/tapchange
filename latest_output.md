@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-02-03 17:17:11*
+*Generated on 2026-02-04 17:15:10*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-02-04 17:15:10.150496 | 66 |
 | 2026-02-03 17:17:10.853015 | 65 |
 | 2026-02-02 17:12:34.294669 | 65 |
 | 2026-02-01 17:04:22.899426 | 65 |
@@ -14,7 +15,6 @@
 | 2026-01-28 17:09:54.000646 | 68 |
 | 2026-01-27 17:06:03.951238 | 68 |
 | 2026-01-26 17:07:10.190768 | 71 |
-| 2026-01-25 17:01:42.690945 | 71 |
 
 ### 🍺 Current Beer List
 
@@ -38,7 +38,7 @@
 | Monopolio IPA Especial | IPA | 6.20% | Mexico |
 | Monopolio Lager Clara | Lager | 5.00% | Mexico |
 
-#### 🥫 Bottles & Cans (50)
+#### 🥫 Bottles & Cans (51)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -62,13 +62,14 @@
 | Carib Shandy Lime | Shandy | 0.90% | Cape Canaveral, FL |
 | Cushwa Onward (16oz) | Hazy IPA | 7.20% | Columbia, MD |
 | Manor Hill Echos of Sanctity | Abbey Dubbel | 7.80% | Baltimore, MD |
-| *... and 30 more* | | | |
+| *... and 31 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-02-04 17:15:10.150496 | 1 | 0 | 1 |
 | 2026-02-03 17:17:10.853015 | 3 | 3 | 6 |
 | 2026-02-02 17:12:34.294669 | 0 | 0 | 0 |
 | 2026-02-01 17:04:22.899426 | 1 | 3 | 4 |
@@ -78,7 +79,6 @@
 | 2026-01-28 17:09:54.000646 | 0 | 0 | 0 |
 | 2026-01-27 17:06:03.951238 | 2 | 5 | 7 |
 | 2026-01-26 17:07:10.190768 | 0 | 0 | 0 |
-| 2026-01-25 17:01:42.690945 | 2 | 0 | 2 |
 
 ### 🆕 Latest Changes Details
 
@@ -86,22 +86,12 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Monopolio IPA Especial | IPA | 6.20% | Draft | Mexico |
-| Monopolio Lager Negra | Amber Lager | 5.50% | Bottle/Can | Mexico |
-| Monopolio Lager Clara | Lager | 5.00% | Draft | Mexico |
-
-#### ➖ Removed Beers
-
-| Name | Style | ABV | Vessel | Location |
-|------|-------|-----|--------|----------|
-| **Black Velvet** | Beer Cocktail | 11.00% | Draft | N/A |
-| Heavy Seas/Other Half Broccoli Cannon | Hazy IPA | 6.00% | Draft | Baltimore, MD |
-| Crooked Run Glade | Pilsner | 4.20% | Draft | Sterling, VA |
+| Monopolio IPA Especial | IPA | 6.20% | Bottle/Can | Mexico |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 148
-- **Current Beer Count**: 65
-- **Total Change Records**: 147
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-03 17:17:10.853015
+- **Total Snapshots**: 149
+- **Current Beer Count**: 66
+- **Total Change Records**: 148
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-04 17:15:10.150496
