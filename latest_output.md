@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-02-05 17:15:33*
+*Generated on 2026-02-06 17:13:54*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-02-06 17:13:54.665529 | 67 |
 | 2026-02-05 17:15:33.650039 | 66 |
 | 2026-02-04 17:15:10.150496 | 66 |
 | 2026-02-03 17:17:10.853015 | 65 |
@@ -14,7 +15,6 @@
 | 2026-01-30 17:10:42.899973 | 66 |
 | 2026-01-29 17:11:33.331316 | 68 |
 | 2026-01-28 17:09:54.000646 | 68 |
-| 2026-01-27 17:06:03.951238 | 68 |
 
 ### 🍺 Current Beer List
 
@@ -22,7 +22,6 @@
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
-| Michael Waltrip Talladega Light | Lager | 4.20% | Bristol, VA |
 | Brooklyn Pulp Art | Hazy IPA | 6.00% | Brooklyn, NY |
 | Cushwa Cush | Hazy IPA | 6.50% | Columbia, MD |
 | Mully's Schooner | Black Lager | 5.00% | Prince Frederick, MD |
@@ -37,8 +36,9 @@
 | Monopolio Lager Negra | Amber Lager | 5.50% | Mexico |
 | Monopolio IPA Especial | IPA | 6.20% | Mexico |
 | Monopolio Lager Clara | Lager | 5.00% | Mexico |
+| Peabody Heights On Through The Night | Hefeweizen | 5.60% | Baltimore, MD |
 
-#### 🥫 Bottles & Cans (51)
+#### 🥫 Bottles & Cans (52)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -52,6 +52,7 @@
 | Dunkin' Spiked Coffee | Not Beer | 6.00% | Boston, MA |
 | Best Day Kölsch | N/A Kölsch | 0.50% | California |
 | Best Day Imperial | N/A Imp. IPA | 0.50% | Sausalito, CA |
+| Allagash White | Wheat Beer | 5.20% | Portland, ME |
 | Schlafly Doppelbock | Doppelbock | 6.00% | St. Louis, MO |
 | Denizens Hike the Alps: Kellerbier | Kellerbier | 5.30% | Ellicott City, MD |
 | Guilford Goatman | Bock | 6.30% | Baltimore, MD |
@@ -61,14 +62,14 @@
 | Jack's Abby Framinghammer Ginger Bread | Blatic Porter | 9.00% | Framingham, MA |
 | Carib Shandy Lime | Shandy | 0.90% | Cape Canaveral, FL |
 | Cushwa Onward (16oz) | Hazy IPA | 7.20% | Columbia, MD |
-| Manor Hill Echos of Sanctity | Abbey Dubbel | 7.80% | Baltimore, MD |
-| *... and 31 more* | | | |
+| *... and 32 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-02-06 17:13:54.665529 | 2 | 1 | 3 |
 | 2026-02-05 17:15:33.650039 | 0 | 0 | 0 |
 | 2026-02-04 17:15:10.150496 | 1 | 0 | 1 |
 | 2026-02-03 17:17:10.853015 | 3 | 3 | 6 |
@@ -78,16 +79,26 @@
 | 2026-01-30 17:10:42.899973 | 4 | 6 | 10 |
 | 2026-01-29 17:11:33.331316 | 0 | 0 | 0 |
 | 2026-01-28 17:09:54.000646 | 0 | 0 | 0 |
-| 2026-01-27 17:06:03.951238 | 2 | 5 | 7 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Allagash White | Wheat Beer | 5.20% | Bottle/Can | Portland, ME |
+| Peabody Heights On Through The Night | Hefeweizen | 5.60% | Draft | Baltimore, MD |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Michael Waltrip Talladega Light | Lager | 4.20% | Draft | Bristol, VA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 150
-- **Current Beer Count**: 66
-- **Total Change Records**: 149
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-05 17:15:33.650039
+- **Total Snapshots**: 151
+- **Current Beer Count**: 67
+- **Total Change Records**: 150
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-06 17:13:54.665529
