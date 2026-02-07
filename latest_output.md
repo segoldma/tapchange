@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-02-06 17:13:54*
+*Generated on 2026-02-07 17:05:38*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-02-07 17:05:38.479503 | 66 |
 | 2026-02-06 17:13:54.665529 | 67 |
 | 2026-02-05 17:15:33.650039 | 66 |
 | 2026-02-04 17:15:10.150496 | 66 |
@@ -14,7 +15,6 @@
 | 2026-01-31 17:04:19.070791 | 67 |
 | 2026-01-30 17:10:42.899973 | 66 |
 | 2026-01-29 17:11:33.331316 | 68 |
-| 2026-01-28 17:09:54.000646 | 68 |
 
 ### 🍺 Current Beer List
 
@@ -22,10 +22,8 @@
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
-| Brooklyn Pulp Art | Hazy IPA | 6.00% | Brooklyn, NY |
 | Cushwa Cush | Hazy IPA | 6.50% | Columbia, MD |
 | Mully's Schooner | Black Lager | 5.00% | Prince Frederick, MD |
-| The Veil WeDedMon3 | Triple IPA | 11.00% | Richmond, VA |
 | New Trail Thru Hike | Hazy IPA | 6.00% | Williamsport, PA |
 | DC Brau Old Time Lager | Lager | 4.00% | Washington, DC |
 | Southern Tier Irish Coffee Cream Ale | Cream Ale | 5.50% | Lakewood, NY |
@@ -37,8 +35,10 @@
 | Monopolio IPA Especial | IPA | 6.20% | Mexico |
 | Monopolio Lager Clara | Lager | 5.00% | Mexico |
 | Peabody Heights On Through The Night | Hefeweizen | 5.60% | Baltimore, MD |
+| Port City Porter | Porter | 7.20% | Alexandria, VA |
+| New Belgium VooDoo Ranger Blaze Lightning | Hazy IPA | 7.30% | Asheville, NC |
 
-#### 🥫 Bottles & Cans (52)
+#### 🥫 Bottles & Cans (51)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -62,13 +62,14 @@
 | Jack's Abby Framinghammer Ginger Bread | Blatic Porter | 9.00% | Framingham, MA |
 | Carib Shandy Lime | Shandy | 0.90% | Cape Canaveral, FL |
 | Cushwa Onward (16oz) | Hazy IPA | 7.20% | Columbia, MD |
-| *... and 32 more* | | | |
+| *... and 31 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-02-07 17:05:38.479503 | 2 | 3 | 5 |
 | 2026-02-06 17:13:54.665529 | 2 | 1 | 3 |
 | 2026-02-05 17:15:33.650039 | 0 | 0 | 0 |
 | 2026-02-04 17:15:10.150496 | 1 | 0 | 1 |
@@ -78,7 +79,6 @@
 | 2026-01-31 17:04:19.070791 | 3 | 2 | 5 |
 | 2026-01-30 17:10:42.899973 | 4 | 6 | 10 |
 | 2026-01-29 17:11:33.331316 | 0 | 0 | 0 |
-| 2026-01-28 17:09:54.000646 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -86,19 +86,21 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Allagash White | Wheat Beer | 5.20% | Bottle/Can | Portland, ME |
-| Peabody Heights On Through The Night | Hefeweizen | 5.60% | Draft | Baltimore, MD |
+| New Belgium VooDoo Ranger Blaze Lightning | Hazy IPA | 7.30% | Draft | Asheville, NC |
+| Port City Porter | Porter | 7.20% | Draft | Alexandria, VA |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Michael Waltrip Talladega Light | Lager | 4.20% | Draft | Bristol, VA |
+| The Veil WeDedMon3 | Triple IPA | 11.00% | Draft | Richmond, VA |
+| Brooklyn Pulp Art | Hazy IPA | 6.00% | Draft | Brooklyn, NY |
+| Falling Branch Early Riser | IPA | 6.00% | Bottle/Can | Street, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 151
-- **Current Beer Count**: 67
-- **Total Change Records**: 150
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-06 17:13:54.665529
+- **Total Snapshots**: 152
+- **Current Beer Count**: 66
+- **Total Change Records**: 151
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-07 17:05:38.479503
