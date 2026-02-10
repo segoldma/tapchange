@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-02-09 17:16:52*
+*Generated on 2026-02-10 17:20:46*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-02-10 17:20:46.055412 | 69 |
 | 2026-02-09 17:16:52.763784 | 66 |
 | 2026-02-08 17:05:40.054390 | 66 |
 | 2026-02-07 17:05:38.479503 | 66 |
@@ -14,11 +15,10 @@
 | 2026-02-03 17:17:10.853015 | 65 |
 | 2026-02-02 17:12:34.294669 | 65 |
 | 2026-02-01 17:04:22.899426 | 65 |
-| 2026-01-31 17:04:19.070791 | 67 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (15)
+#### 🍺 Draft Beers (17)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -35,10 +35,12 @@
 | Monopolio IPA Especial | IPA | 6.20% | Mexico |
 | Monopolio Lager Clara | Lager | 5.00% | Mexico |
 | Peabody Heights On Through The Night | Hefeweizen | 5.60% | Baltimore, MD |
-| Port City Porter | Porter | 7.20% | Alexandria, VA |
 | New Belgium VooDoo Ranger Blaze Lightning | Hazy IPA | 7.30% | Asheville, NC |
+| Port City Porter | Porter | 7.20% | Alexandria, VA |
+| Port City il Palio | Pilsner | 5.00% | Alexandria, VA |
+| Port City Doppelbock | Doppelbock | 8.20% | Alexandria, VA |
 
-#### 🥫 Bottles & Cans (51)
+#### 🥫 Bottles & Cans (52)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -61,14 +63,15 @@
 | Arcobrau Coronator | Doppelbock | 7.20% | Germany |
 | Jack's Abby Framinghammer Ginger Bread | Blatic Porter | 9.00% | Framingham, MA |
 | Carib Shandy Lime | Shandy | 0.90% | Cape Canaveral, FL |
-| Cushwa Onward (16oz) | Hazy IPA | 7.20% | Columbia, MD |
-| *... and 31 more* | | | |
+| Manor Hill Echos of Sanctity | Abbey Dubbel | 7.80% | Baltimore, MD |
+| *... and 32 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-02-10 17:20:46.055412 | 4 | 1 | 5 |
 | 2026-02-09 17:16:52.763784 | 0 | 0 | 0 |
 | 2026-02-08 17:05:40.054390 | 0 | 0 | 0 |
 | 2026-02-07 17:05:38.479503 | 2 | 3 | 5 |
@@ -78,16 +81,28 @@
 | 2026-02-03 17:17:10.853015 | 3 | 3 | 6 |
 | 2026-02-02 17:12:34.294669 | 0 | 0 | 0 |
 | 2026-02-01 17:04:22.899426 | 1 | 3 | 4 |
-| 2026-01-31 17:04:19.070791 | 3 | 2 | 5 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Port City Doppelbock | Doppelbock | 8.20% | Draft | Alexandria, VA |
+| Port City Cobblestone | Sour Ale | 5.00% | Bottle/Can | Alexandria, VA |
+| Port City il Palio | Pilsner | 5.00% | Draft | Alexandria, VA |
+| Port City Monkspell | Belgian Tripel | 8.50% | Bottle/Can | Alexandria, VA |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Cushwa Onward (16oz) | Hazy IPA | 7.20% | Bottle/Can | Columbia, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 154
-- **Current Beer Count**: 66
-- **Total Change Records**: 153
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-09 17:16:52.763784
+- **Total Snapshots**: 155
+- **Current Beer Count**: 69
+- **Total Change Records**: 154
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-10 17:20:46.055412
