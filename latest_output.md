@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-02-10 17:20:46*
+*Generated on 2026-02-11 17:20:34*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-02-11 17:20:34.811119 | 67 |
 | 2026-02-10 17:20:46.055412 | 69 |
 | 2026-02-09 17:16:52.763784 | 66 |
 | 2026-02-08 17:05:40.054390 | 66 |
@@ -14,25 +15,22 @@
 | 2026-02-04 17:15:10.150496 | 66 |
 | 2026-02-03 17:17:10.853015 | 65 |
 | 2026-02-02 17:12:34.294669 | 65 |
-| 2026-02-01 17:04:22.899426 | 65 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (17)
+#### 🍺 Draft Beers (15)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
 | Cushwa Cush | Hazy IPA | 6.50% | Columbia, MD |
 | Mully's Schooner | Black Lager | 5.00% | Prince Frederick, MD |
 | New Trail Thru Hike | Hazy IPA | 6.00% | Williamsport, PA |
-| DC Brau Old Time Lager | Lager | 4.00% | Washington, DC |
 | Southern Tier Irish Coffee Cream Ale | Cream Ale | 5.50% | Lakewood, NY |
 | Guilford Vienna Lager | Lager | 4.60% | Baltimore, MD |
 | Checkerspot Idle Chartreuse | Spiced Ale | 8.00% | Baltimore, MD |
 | Warsteiner German Pilsner | Pilsner | 4.80% | Germany |
 | Great Lakes Midwest IPA | IPA | 7.00% | Cleveland, OH |
 | Monopolio Lager Negra | Amber Lager | 5.50% | Mexico |
-| Monopolio IPA Especial | IPA | 6.20% | Mexico |
 | Monopolio Lager Clara | Lager | 5.00% | Mexico |
 | Peabody Heights On Through The Night | Hefeweizen | 5.60% | Baltimore, MD |
 | New Belgium VooDoo Ranger Blaze Lightning | Hazy IPA | 7.30% | Asheville, NC |
@@ -71,6 +69,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-02-11 17:20:34.811119 | 0 | 2 | 2 |
 | 2026-02-10 17:20:46.055412 | 4 | 1 | 5 |
 | 2026-02-09 17:16:52.763784 | 0 | 0 | 0 |
 | 2026-02-08 17:05:40.054390 | 0 | 0 | 0 |
@@ -80,29 +79,20 @@
 | 2026-02-04 17:15:10.150496 | 1 | 0 | 1 |
 | 2026-02-03 17:17:10.853015 | 3 | 3 | 6 |
 | 2026-02-02 17:12:34.294669 | 0 | 0 | 0 |
-| 2026-02-01 17:04:22.899426 | 1 | 3 | 4 |
 
 ### 🆕 Latest Changes Details
-
-#### ➕ Added Beers
-
-| Name | Style | ABV | Vessel | Location |
-|------|-------|-----|--------|----------|
-| Port City Doppelbock | Doppelbock | 8.20% | Draft | Alexandria, VA |
-| Port City Cobblestone | Sour Ale | 5.00% | Bottle/Can | Alexandria, VA |
-| Port City il Palio | Pilsner | 5.00% | Draft | Alexandria, VA |
-| Port City Monkspell | Belgian Tripel | 8.50% | Bottle/Can | Alexandria, VA |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Cushwa Onward (16oz) | Hazy IPA | 7.20% | Bottle/Can | Columbia, MD |
+| DC Brau Old Time Lager | Lager | 4.00% | Draft | Washington, DC |
+| Monopolio IPA Especial | IPA | 6.20% | Draft | Mexico |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 155
-- **Current Beer Count**: 69
-- **Total Change Records**: 154
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-10 17:20:46.055412
+- **Total Snapshots**: 156
+- **Current Beer Count**: 67
+- **Total Change Records**: 155
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-11 17:20:34.811119
