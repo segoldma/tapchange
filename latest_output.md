@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-02-13 17:15:31*
+*Generated on 2026-02-14 17:05:13*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-02-14 17:05:13.818869 | 67 |
 | 2026-02-13 17:15:31.011173 | 67 |
 | 2026-02-12 17:20:06.412522 | 67 |
 | 2026-02-11 17:20:34.811119 | 67 |
@@ -14,7 +15,6 @@
 | 2026-02-07 17:05:38.479503 | 66 |
 | 2026-02-06 17:13:54.665529 | 67 |
 | 2026-02-05 17:15:33.650039 | 66 |
-| 2026-02-04 17:15:10.150496 | 66 |
 
 ### 🍺 Current Beer List
 
@@ -22,7 +22,6 @@
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
-| Cushwa Cush | Hazy IPA | 6.50% | Columbia, MD |
 | Mully's Schooner | Black Lager | 5.00% | Prince Frederick, MD |
 | Southern Tier Irish Coffee Cream Ale | Cream Ale | 5.50% | Lakewood, NY |
 | Guilford Vienna Lager | Lager | 4.60% | Baltimore, MD |
@@ -37,6 +36,7 @@
 | Port City il Palio | Pilsner | 5.00% | Alexandria, VA |
 | Port City Doppelbock | Doppelbock | 8.20% | Alexandria, VA |
 | Founders Mosaic Promise | Pale Ale | 5.50% | Grand Rapids, MI |
+| Fat Orange Cat Crazy Cat Lady | Double IPA | 8.00% | North Haven, CT |
 
 #### 🥫 Bottles & Cans (52)
 
@@ -69,6 +69,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-02-14 17:05:13.818869 | 1 | 1 | 2 |
 | 2026-02-13 17:15:31.011173 | 2 | 2 | 4 |
 | 2026-02-12 17:20:06.412522 | 0 | 0 | 0 |
 | 2026-02-11 17:20:34.811119 | 0 | 2 | 2 |
@@ -78,7 +79,6 @@
 | 2026-02-07 17:05:38.479503 | 2 | 3 | 5 |
 | 2026-02-06 17:13:54.665529 | 2 | 1 | 3 |
 | 2026-02-05 17:15:33.650039 | 0 | 0 | 0 |
-| 2026-02-04 17:15:10.150496 | 1 | 0 | 1 |
 
 ### 🆕 Latest Changes Details
 
@@ -86,20 +86,18 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Monopolio IPA Especial | IPA | 6.20% | Draft | Mexico |
-| Founders Mosaic Promise | Pale Ale | 5.50% | Draft | Grand Rapids, MI |
+| Fat Orange Cat Crazy Cat Lady | Double IPA | 8.00% | Draft | North Haven, CT |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| New Trail Thru Hike | Hazy IPA | 6.00% | Draft | Williamsport, PA |
-| Great Lakes Midwest IPA | IPA | 7.00% | Draft | Cleveland, OH |
+| Cushwa Cush | Hazy IPA | 6.50% | Draft | Columbia, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 158
+- **Total Snapshots**: 159
 - **Current Beer Count**: 67
-- **Total Change Records**: 157
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-13 17:15:31.011173
+- **Total Change Records**: 158
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-14 17:05:13.818869
