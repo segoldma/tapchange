@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-02-14 17:05:13*
+*Generated on 2026-02-15 17:04:51*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-02-15 17:04:51.544866 | 68 |
 | 2026-02-14 17:05:13.818869 | 67 |
 | 2026-02-13 17:15:31.011173 | 67 |
 | 2026-02-12 17:20:06.412522 | 67 |
@@ -14,7 +15,6 @@
 | 2026-02-08 17:05:40.054390 | 66 |
 | 2026-02-07 17:05:38.479503 | 66 |
 | 2026-02-06 17:13:54.665529 | 67 |
-| 2026-02-05 17:15:33.650039 | 66 |
 
 ### 🍺 Current Beer List
 
@@ -26,7 +26,6 @@
 | Southern Tier Irish Coffee Cream Ale | Cream Ale | 5.50% | Lakewood, NY |
 | Guilford Vienna Lager | Lager | 4.60% | Baltimore, MD |
 | Checkerspot Idle Chartreuse | Spiced Ale | 8.00% | Baltimore, MD |
-| Warsteiner German Pilsner | Pilsner | 4.80% | Germany |
 | Monopolio Lager Negra | Amber Lager | 5.50% | Mexico |
 | Monopolio Lager Clara | Lager | 5.00% | Mexico |
 | Monopolio IPA Especial | IPA | 6.20% | Mexico |
@@ -37,8 +36,9 @@
 | Port City Doppelbock | Doppelbock | 8.20% | Alexandria, VA |
 | Founders Mosaic Promise | Pale Ale | 5.50% | Grand Rapids, MI |
 | Fat Orange Cat Crazy Cat Lady | Double IPA | 8.00% | North Haven, CT |
+| DC Brau Old Time Lager | Lager | 4.00% | Washington, DC |
 
-#### 🥫 Bottles & Cans (52)
+#### 🥫 Bottles & Cans (53)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -50,8 +50,8 @@
 | Monster The Beast: Peach Perfect | Not Beer | 6.00% | Cold Spring, MN |
 | MY5 The Original or Tangerine  | Not Beer | 4.50% | Landsdale, PA |
 | Dunkin' Spiked Coffee | Not Beer | 6.00% | Boston, MA |
-| Best Day Kölsch | N/A Kölsch | 0.50% | California |
-| Best Day Imperial | N/A Imp. IPA | 0.50% | Sausalito, CA |
+| Hop Lark Hop Sour | Not Beer | 0.00% | Boulder, CO |
+| Go The Story Double IPA | N/A DIPA | 0.50% | Naperville, IL |
 | Allagash White | Wheat Beer | 5.20% | Portland, ME |
 | Schlafly Doppelbock | Doppelbock | 6.00% | St. Louis, MO |
 | Denizens Hike the Alps: Kellerbier | Kellerbier | 5.30% | Ellicott City, MD |
@@ -62,13 +62,14 @@
 | Jack's Abby Framinghammer Ginger Bread | Blatic Porter | 9.00% | Framingham, MA |
 | Carib Shandy Lime | Shandy | 0.90% | Cape Canaveral, FL |
 | Manor Hill Echos of Sanctity | Abbey Dubbel | 7.80% | Baltimore, MD |
-| *... and 32 more* | | | |
+| *... and 33 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-02-15 17:04:51.544866 | 7 | 6 | 13 |
 | 2026-02-14 17:05:13.818869 | 1 | 1 | 2 |
 | 2026-02-13 17:15:31.011173 | 2 | 2 | 4 |
 | 2026-02-12 17:20:06.412522 | 0 | 0 | 0 |
@@ -78,7 +79,6 @@
 | 2026-02-08 17:05:40.054390 | 0 | 0 | 0 |
 | 2026-02-07 17:05:38.479503 | 2 | 3 | 5 |
 | 2026-02-06 17:13:54.665529 | 2 | 1 | 3 |
-| 2026-02-05 17:15:33.650039 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -86,18 +86,29 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Fat Orange Cat Crazy Cat Lady | Double IPA | 8.00% | Draft | North Haven, CT |
+| Go The Story Double IPA | N/A DIPA | 0.50% | Bottle/Can | Naperville, IL |
+| Nepenthe Robo-Pegasus (16oz) | Pale Ale | 5.60% | Bottle/Can | Baltimore, MD |
+| Cigar City Florida Man (19.2oz) | DIPA | 9.00% | Bottle/Can | Tampa, FL |
+| DC Brau Old Time Lager | Lager | 4.00% | Draft | Washington, DC |
+| Troegs Daylight Chaser | Dark IPA | 6.30% | Bottle/Can | Hershey, PA |
+| South County Chill Haven | Amber Lager | 5.00% | Bottle/Can | York, PA |
+| Hop Lark Hop Sour | Not Beer | 0.00% | Bottle/Can | Boulder, CO |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Cushwa Cush | Hazy IPA | 6.50% | Draft | Columbia, MD |
+| Mobtown Pasta Water | Italian Pilsner | 5.50% | Bottle/Can | Baltimore, MD |
+| Best Day Kölsch | N/A Kölsch | 0.50% | Bottle/Can | California |
+| Warsteiner German Pilsner | Pilsner | 4.80% | Draft | Germany |
+| Miller Extra Light | Light Lager | 2.80% | Bottle/Can | Milwaukee, WI |
+| Best Day Imperial | N/A Imp. IPA | 0.50% | Bottle/Can | Sausalito, CA |
+| Cigar City Florida Man (16oz) | DIPA | 9.00% | Bottle/Can | Tampa, FL |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 159
-- **Current Beer Count**: 67
-- **Total Change Records**: 158
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-14 17:05:13.818869
+- **Total Snapshots**: 160
+- **Current Beer Count**: 68
+- **Total Change Records**: 159
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-15 17:04:51.544866
