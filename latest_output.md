@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-02-15 17:04:51*
+*Generated on 2026-02-16 17:12:57*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-02-16 17:12:57.426653 | 70 |
 | 2026-02-15 17:04:51.544866 | 68 |
 | 2026-02-14 17:05:13.818869 | 67 |
 | 2026-02-13 17:15:31.011173 | 67 |
@@ -14,7 +15,6 @@
 | 2026-02-09 17:16:52.763784 | 66 |
 | 2026-02-08 17:05:40.054390 | 66 |
 | 2026-02-07 17:05:38.479503 | 66 |
-| 2026-02-06 17:13:54.665529 | 67 |
 
 ### 🍺 Current Beer List
 
@@ -38,7 +38,7 @@
 | Fat Orange Cat Crazy Cat Lady | Double IPA | 8.00% | North Haven, CT |
 | DC Brau Old Time Lager | Lager | 4.00% | Washington, DC |
 
-#### 🥫 Bottles & Cans (53)
+#### 🥫 Bottles & Cans (55)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -62,13 +62,14 @@
 | Jack's Abby Framinghammer Ginger Bread | Blatic Porter | 9.00% | Framingham, MA |
 | Carib Shandy Lime | Shandy | 0.90% | Cape Canaveral, FL |
 | Manor Hill Echos of Sanctity | Abbey Dubbel | 7.80% | Baltimore, MD |
-| *... and 33 more* | | | |
+| *... and 35 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-02-16 17:12:57.426653 | 2 | 0 | 2 |
 | 2026-02-15 17:04:51.544866 | 7 | 6 | 13 |
 | 2026-02-14 17:05:13.818869 | 1 | 1 | 2 |
 | 2026-02-13 17:15:31.011173 | 2 | 2 | 4 |
@@ -78,7 +79,6 @@
 | 2026-02-09 17:16:52.763784 | 0 | 0 | 0 |
 | 2026-02-08 17:05:40.054390 | 0 | 0 | 0 |
 | 2026-02-07 17:05:38.479503 | 2 | 3 | 5 |
-| 2026-02-06 17:13:54.665529 | 2 | 1 | 3 |
 
 ### 🆕 Latest Changes Details
 
@@ -86,29 +86,13 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Go The Story Double IPA | N/A DIPA | 0.50% | Bottle/Can | Naperville, IL |
-| Nepenthe Robo-Pegasus (16oz) | Pale Ale | 5.60% | Bottle/Can | Baltimore, MD |
-| Cigar City Florida Man (19.2oz) | DIPA | 9.00% | Bottle/Can | Tampa, FL |
-| DC Brau Old Time Lager | Lager | 4.00% | Draft | Washington, DC |
-| Troegs Daylight Chaser | Dark IPA | 6.30% | Bottle/Can | Hershey, PA |
-| South County Chill Haven | Amber Lager | 5.00% | Bottle/Can | York, PA |
-| Hop Lark Hop Sour | Not Beer | 0.00% | Bottle/Can | Boulder, CO |
-
-#### ➖ Removed Beers
-
-| Name | Style | ABV | Vessel | Location |
-|------|-------|-----|--------|----------|
-| Mobtown Pasta Water | Italian Pilsner | 5.50% | Bottle/Can | Baltimore, MD |
-| Best Day Kölsch | N/A Kölsch | 0.50% | Bottle/Can | California |
-| Warsteiner German Pilsner | Pilsner | 4.80% | Draft | Germany |
-| Miller Extra Light | Light Lager | 2.80% | Bottle/Can | Milwaukee, WI |
-| Best Day Imperial | N/A Imp. IPA | 0.50% | Bottle/Can | Sausalito, CA |
-| Cigar City Florida Man (16oz) | DIPA | 9.00% | Bottle/Can | Tampa, FL |
+| 3 Floyds Apocalypse Cow (16oz) | DIPA | 9.80% | Bottle/Can | Munster, IN |
+| Peak Blueberries for All (16oz) | Blueberry Ale | 5.00% | Bottle/Can | Portland, ME |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 160
-- **Current Beer Count**: 68
-- **Total Change Records**: 159
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-15 17:04:51.544866
+- **Total Snapshots**: 161
+- **Current Beer Count**: 70
+- **Total Change Records**: 160
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-16 17:12:57.426653
