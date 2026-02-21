@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-02-20 17:11:36*
+*Generated on 2026-02-21 17:04:52*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-02-21 17:04:52.264794 | 68 |
 | 2026-02-20 17:11:35.917234 | 68 |
 | 2026-02-19 17:17:54.088901 | 69 |
 | 2026-02-18 17:21:50.998380 | 69 |
@@ -14,7 +15,6 @@
 | 2026-02-14 17:05:13.818869 | 67 |
 | 2026-02-13 17:15:31.011173 | 67 |
 | 2026-02-12 17:20:06.412522 | 67 |
-| 2026-02-11 17:20:34.811119 | 67 |
 
 ### 🍺 Current Beer List
 
@@ -24,19 +24,19 @@
 |------|-------|-----|----------|
 | Mully's Schooner | Black Lager | 5.00% | Prince Frederick, MD |
 | Southern Tier Irish Coffee Cream Ale | Cream Ale | 5.50% | Lakewood, NY |
-| Guilford Vienna Lager | Lager | 4.60% | Baltimore, MD |
 | Checkerspot Idle Chartreuse | Spiced Ale | 8.00% | Baltimore, MD |
 | Monopolio Lager Negra | Amber Lager | 5.50% | Mexico |
 | Monopolio Lager Clara | Lager | 5.00% | Mexico |
 | Monopolio IPA Especial | IPA | 6.20% | Mexico |
 | Peabody Heights On Through The Night | Hefeweizen | 5.60% | Baltimore, MD |
-| New Belgium VooDoo Ranger Blaze Lightning | Hazy IPA | 7.30% | Asheville, NC |
 | Port City Porter | Porter | 7.20% | Alexandria, VA |
 | Port City il Palio | Pilsner | 5.00% | Alexandria, VA |
 | Founders Mosaic Promise | Pale Ale | 5.50% | Grand Rapids, MI |
 | Fat Orange Cat Stay @ Home Dad w/ No Kids | Hazy IPA | 5.90% | North Haven, CT |
 | Evil Twin Our Most Popular IPA | Hazy IPA | 6.00% | North Haven, CT |
-| DC Brau Old Time Lager | Lager | 4.00% | Washington, DC |
+| Pickett Say When | Hazy IPA | 7.20% | Baltimore, MD |
+| Peroni | Lager | 5.00% | Italy |
+| Port City Doppelbock | Doppelbock | 8.20% | Alexandria, VA |
 
 #### 🥫 Bottles & Cans (53)
 
@@ -69,6 +69,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-02-21 17:04:52.264794 | 4 | 4 | 8 |
 | 2026-02-20 17:11:35.917234 | 3 | 4 | 7 |
 | 2026-02-19 17:17:54.088901 | 0 | 0 | 0 |
 | 2026-02-18 17:21:50.998380 | 3 | 4 | 7 |
@@ -78,7 +79,6 @@
 | 2026-02-14 17:05:13.818869 | 1 | 1 | 2 |
 | 2026-02-13 17:15:31.011173 | 2 | 2 | 4 |
 | 2026-02-12 17:20:06.412522 | 0 | 0 | 0 |
-| 2026-02-11 17:20:34.811119 | 0 | 2 | 2 |
 
 ### 🆕 Latest Changes Details
 
@@ -86,23 +86,24 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| DC Brau Old Time Lager | Lager | 4.00% | Draft | Washington, DC |
-| O'Hara's Irish Red | Red Ale | 4.30% | Bottle/Can | Ireland |
-| Black Flag Obsidian Flow | Black Lager | 5.20% | Bottle/Can | Columbia, MD |
+| Peroni | Lager | 5.00% | Draft | Italy |
+| Union Pinehead | DIPA | 8.50% | Bottle/Can | Baltimore, MD |
+| Pickett Say When | Hazy IPA | 7.20% | Draft | Baltimore, MD |
+| Port City Doppelbock | Doppelbock | 8.20% | Draft | Alexandria, VA |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Molson Canadian Lager | Lager | 5.00% | Bottle/Can | Canada |
-| Denizens Hike the Alps: Kellerbier | Kellerbier | 5.30% | Bottle/Can | Ellicott City, MD |
-| Great Lakes Conway's Irish Stout | Stout | 4.80% | Bottle/Can | Cleveland, OH |
-| Fat Orange Cat Crazy Cat Lady | Double IPA | 8.00% | Draft | North Haven, CT |
+| Falling Branch That's My Uncrusted | Pastry Sour | 5.00% | Bottle/Can | Street, MD |
+| Guilford Vienna Lager | Lager | 4.60% | Draft | Baltimore, MD |
+| DC Brau Old Time Lager | Lager | 4.00% | Draft | Washington, DC |
+| New Belgium VooDoo Ranger Blaze Lightning | Hazy IPA | 7.30% | Draft | Asheville, NC |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 165
+- **Total Snapshots**: 166
 - **Current Beer Count**: 68
-- **Total Change Records**: 164
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-20 17:11:35.917234
+- **Total Change Records**: 165
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-21 17:04:52.264794
