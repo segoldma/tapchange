@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-02-25 17:21:01*
+*Generated on 2026-02-26 17:20:48*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-02-26 17:20:48.243306 | 73 |
 | 2026-02-25 17:21:01.191513 | 71 |
 | 2026-02-24 17:20:46.031945 | 70 |
 | 2026-02-23 17:22:11.418613 | 70 |
@@ -14,11 +15,10 @@
 | 2026-02-19 17:17:54.088901 | 69 |
 | 2026-02-18 17:21:50.998380 | 69 |
 | 2026-02-17 17:20:10.542555 | 70 |
-| 2026-02-16 17:12:57.426653 | 70 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (16)
+#### 🍺 Draft Beers (17)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -38,8 +38,9 @@
 | Pickett Say When | Hazy IPA | 7.20% | Baltimore, MD |
 | Pickett Broken G String | Hazy IPA | 7.00% | Baltimore, MD |
 | Pickett BA Goats In Hats | BA Imperial Stout | 11.00% | Baltimore, MD |
+| Jefferson Whiskey Boilermaker $16 | Beer N Shot |  | Full Pour of Pickett BA Goats In Hats w/ an 1oz pour Of Jefferson's "Unsquared" Bourbon |
 
-#### 🥫 Bottles & Cans (55)
+#### 🥫 Bottles & Cans (56)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +64,14 @@
 | Arcobrau Coronator | Doppelbock | 7.20% | Germany |
 | Jack's Abby Framinghammer Ginger Bread | Blatic Porter | 9.00% | Framingham, MA |
 | Carib Shandy Lime | Shandy | 0.90% | Cape Canaveral, FL |
-| *... and 35 more* | | | |
+| *... and 36 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-02-26 17:20:48.243306 | 3 | 1 | 4 |
 | 2026-02-25 17:21:01.191513 | 2 | 1 | 3 |
 | 2026-02-24 17:20:46.031945 | 0 | 0 | 0 |
 | 2026-02-23 17:22:11.418613 | 0 | 0 | 0 |
@@ -79,7 +81,6 @@
 | 2026-02-19 17:17:54.088901 | 0 | 0 | 0 |
 | 2026-02-18 17:21:50.998380 | 3 | 4 | 7 |
 | 2026-02-17 17:20:10.542555 | 0 | 0 | 0 |
-| 2026-02-16 17:12:57.426653 | 2 | 0 | 2 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,19 +88,20 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Pickett BA Goats In Hats | BA Imperial Stout | 11.00% | Draft | Baltimore, MD |
-| Troegs Nugget Nectar (Nitro) | Imperial Amber | 7.50% | Draft | Hersey, PA |
+| Kasteel Donker (16.9oz) $11 | Quadrupel Ale | 11.00% | Bottle/Can | Belgium |
+| Mully's Schooner | Black Lager | 5.00% | Draft | Prince Frederick, MD |
+| Jefferson Whiskey Boilermaker $16 | Beer N Shot |  | Draft | Full Pour of Pickett BA Goats In Hats w/ an 1oz pour Of Jefferson's "Unsquared" Bourbon |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Peroni | Lager | 5.00% | Draft | Italy |
+| Mully's Schooner | Black Lager | 5.00% | Draft | Prince Frederick, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 170
-- **Current Beer Count**: 71
-- **Total Change Records**: 169
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-25 17:21:01.191513
+- **Total Snapshots**: 171
+- **Current Beer Count**: 73
+- **Total Change Records**: 170
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-26 17:20:48.243306
