@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-02-26 17:20:48*
+*Generated on 2026-02-27 17:09:29*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-02-27 17:09:29.395820 | 74 |
 | 2026-02-26 17:20:48.243306 | 73 |
 | 2026-02-25 17:21:01.191513 | 71 |
 | 2026-02-24 17:20:46.031945 | 70 |
@@ -14,7 +15,6 @@
 | 2026-02-20 17:11:35.917234 | 68 |
 | 2026-02-19 17:17:54.088901 | 69 |
 | 2026-02-18 17:21:50.998380 | 69 |
-| 2026-02-17 17:20:10.542555 | 70 |
 
 ### 🍺 Current Beer List
 
@@ -25,7 +25,6 @@
 | Mully's Schooner | Black Lager | 5.00% | Prince Frederick, MD |
 | Southern Tier Irish Coffee Cream Ale | Cream Ale | 5.50% | Lakewood, NY |
 | Monopolio Lager Negra | Amber Lager | 5.50% | Mexico |
-| Monopolio Lager Clara | Lager | 5.00% | Mexico |
 | Monopolio IPA Especial | IPA | 6.20% | Mexico |
 | Peabody Heights On Through The Night | Hefeweizen | 5.60% | Baltimore, MD |
 | Port City Porter | Porter | 7.20% | Alexandria, VA |
@@ -35,12 +34,13 @@
 | Port City Doppelbock | Doppelbock | 8.20% | Alexandria, VA |
 | Sierra Nevada Rain Check | Stout | 8.90% | Chico, CA |
 | Troegs Nugget Nectar (Nitro) | Imperial Amber | 7.50% | Hersey, PA |
+| Peroni | Lager | 5.00% | Italy |
 | Pickett Say When | Hazy IPA | 7.20% | Baltimore, MD |
-| Pickett Broken G String | Hazy IPA | 7.00% | Baltimore, MD |
 | Pickett BA Goats In Hats | BA Imperial Stout | 11.00% | Baltimore, MD |
 | Jefferson Whiskey Boilermaker $16 | Beer N Shot |  | Full Pour of Pickett BA Goats In Hats w/ an 1oz pour Of Jefferson's "Unsquared" Bourbon |
+| Monocacy Radiance | Double IPA | 7.70% | Frederick, MD |
 
-#### 🥫 Bottles & Cans (56)
+#### 🥫 Bottles & Cans (57)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -64,13 +64,14 @@
 | Arcobrau Coronator | Doppelbock | 7.20% | Germany |
 | Jack's Abby Framinghammer Ginger Bread | Blatic Porter | 9.00% | Framingham, MA |
 | Carib Shandy Lime | Shandy | 0.90% | Cape Canaveral, FL |
-| *... and 36 more* | | | |
+| *... and 37 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-02-27 17:09:29.395820 | 3 | 2 | 5 |
 | 2026-02-26 17:20:48.243306 | 3 | 1 | 4 |
 | 2026-02-25 17:21:01.191513 | 2 | 1 | 3 |
 | 2026-02-24 17:20:46.031945 | 0 | 0 | 0 |
@@ -80,7 +81,6 @@
 | 2026-02-20 17:11:35.917234 | 3 | 4 | 7 |
 | 2026-02-19 17:17:54.088901 | 0 | 0 | 0 |
 | 2026-02-18 17:21:50.998380 | 3 | 4 | 7 |
-| 2026-02-17 17:20:10.542555 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -88,20 +88,21 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Kasteel Donker (16.9oz) $11 | Quadrupel Ale | 11.00% | Bottle/Can | Belgium |
-| Mully's Schooner | Black Lager | 5.00% | Draft | Prince Frederick, MD |
-| Jefferson Whiskey Boilermaker $16 | Beer N Shot |  | Draft | Full Pour of Pickett BA Goats In Hats w/ an 1oz pour Of Jefferson's "Unsquared" Bourbon |
+| Monocacy Radiance | Double IPA | 7.70% | Draft | Frederick, MD |
+| Peroni | Lager | 5.00% | Draft | Italy |
+| Union One More | IPA | 6.50% | Bottle/Can | Baltimore, MD |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Mully's Schooner | Black Lager | 5.00% | Draft | Prince Frederick, MD |
+| Pickett Broken G String | Hazy IPA | 7.00% | Draft | Baltimore, MD |
+| Monopolio Lager Clara | Lager | 5.00% | Draft | Mexico |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 171
-- **Current Beer Count**: 73
-- **Total Change Records**: 170
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-26 17:20:48.243306
+- **Total Snapshots**: 172
+- **Current Beer Count**: 74
+- **Total Change Records**: 171
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-27 17:09:29.395820
