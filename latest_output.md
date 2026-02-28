@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-02-27 17:09:29*
+*Generated on 2026-02-28 17:02:02*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-02-28 17:02:02.790002 | 73 |
 | 2026-02-27 17:09:29.395820 | 74 |
 | 2026-02-26 17:20:48.243306 | 73 |
 | 2026-02-25 17:21:01.191513 | 71 |
@@ -14,7 +15,6 @@
 | 2026-02-21 17:04:52.264794 | 68 |
 | 2026-02-20 17:11:35.917234 | 68 |
 | 2026-02-19 17:17:54.088901 | 69 |
-| 2026-02-18 17:21:50.998380 | 69 |
 
 ### 🍺 Current Beer List
 
@@ -40,7 +40,7 @@
 | Jefferson Whiskey Boilermaker $16 | Beer N Shot |  | Full Pour of Pickett BA Goats In Hats w/ an 1oz pour Of Jefferson's "Unsquared" Bourbon |
 | Monocacy Radiance | Double IPA | 7.70% | Frederick, MD |
 
-#### 🥫 Bottles & Cans (57)
+#### 🥫 Bottles & Cans (56)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -57,20 +57,21 @@
 | Untitled Art FLVR! | N/A Sour | 0.50% | Waukanee, WI |
 | Mike's Harder Lemonade | Not Beer | 8.00% | Waddell, AZ |
 | Allagash White | Wheat Beer | 5.20% | Portland, ME |
-| Schlafly Doppelbock | Doppelbock | 6.00% | St. Louis, MO |
 | Guilford Goatman | Bock | 6.30% | Baltimore, MD |
 | Founders CBS Stout (2025) $15 | Imperial Stout | 11.70% | Grand Rapids, MI |
 | Great Lakes Berry Jam Thumbprint | Milk Stout | 5.50% | Cleveland, OH |
 | Arcobrau Coronator | Doppelbock | 7.20% | Germany |
 | Jack's Abby Framinghammer Ginger Bread | Blatic Porter | 9.00% | Framingham, MA |
 | Carib Shandy Lime | Shandy | 0.90% | Cape Canaveral, FL |
-| *... and 37 more* | | | |
+| Manor Hill Echos of Sanctity | Abbey Dubbel | 7.80% | Baltimore, MD |
+| *... and 36 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-02-28 17:02:02.790002 | 1 | 2 | 3 |
 | 2026-02-27 17:09:29.395820 | 3 | 2 | 5 |
 | 2026-02-26 17:20:48.243306 | 3 | 1 | 4 |
 | 2026-02-25 17:21:01.191513 | 2 | 1 | 3 |
@@ -80,7 +81,6 @@
 | 2026-02-21 17:04:52.264794 | 4 | 4 | 8 |
 | 2026-02-20 17:11:35.917234 | 3 | 4 | 7 |
 | 2026-02-19 17:17:54.088901 | 0 | 0 | 0 |
-| 2026-02-18 17:21:50.998380 | 3 | 4 | 7 |
 
 ### 🆕 Latest Changes Details
 
@@ -88,21 +88,19 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Monocacy Radiance | Double IPA | 7.70% | Draft | Frederick, MD |
-| Peroni | Lager | 5.00% | Draft | Italy |
-| Union One More | IPA | 6.50% | Bottle/Can | Baltimore, MD |
+| Firestone Walker Sunglider | Golden Lager | 5.00% | Bottle/Can | Paso Robles, CA |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Pickett Broken G String | Hazy IPA | 7.00% | Draft | Baltimore, MD |
-| Monopolio Lager Clara | Lager | 5.00% | Draft | Mexico |
+| Cigar City Florida Man (19.2oz) | DIPA | 9.00% | Bottle/Can | Tampa, FL |
+| Schlafly Doppelbock | Doppelbock | 6.00% | Bottle/Can | St. Louis, MO |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 172
-- **Current Beer Count**: 74
-- **Total Change Records**: 171
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-27 17:09:29.395820
+- **Total Snapshots**: 173
+- **Current Beer Count**: 73
+- **Total Change Records**: 172
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-28 17:02:02.790002
