@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-02-28 17:02:02*
+*Generated on 2026-03-01 17:03:32*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-03-01 17:03:32.621894 | 73 |
 | 2026-02-28 17:02:02.790002 | 73 |
 | 2026-02-27 17:09:29.395820 | 74 |
 | 2026-02-26 17:20:48.243306 | 73 |
@@ -14,7 +15,6 @@
 | 2026-02-22 17:04:46.765360 | 70 |
 | 2026-02-21 17:04:52.264794 | 68 |
 | 2026-02-20 17:11:35.917234 | 68 |
-| 2026-02-19 17:17:54.088901 | 69 |
 
 ### 🍺 Current Beer List
 
@@ -30,15 +30,15 @@
 | Port City Porter | Porter | 7.20% | Alexandria, VA |
 | Port City il Palio | Pilsner | 5.00% | Alexandria, VA |
 | Founders Mosaic Promise | Pale Ale | 5.50% | Grand Rapids, MI |
-| Evil Twin Our Most Popular IPA | Hazy IPA | 6.00% | North Haven, CT |
 | Port City Doppelbock | Doppelbock | 8.20% | Alexandria, VA |
 | Sierra Nevada Rain Check | Stout | 8.90% | Chico, CA |
 | Troegs Nugget Nectar (Nitro) | Imperial Amber | 7.50% | Hersey, PA |
 | Peroni | Lager | 5.00% | Italy |
-| Pickett Say When | Hazy IPA | 7.20% | Baltimore, MD |
 | Pickett BA Goats In Hats | BA Imperial Stout | 11.00% | Baltimore, MD |
 | Jefferson Whiskey Boilermaker $16 | Beer N Shot |  | Full Pour of Pickett BA Goats In Hats w/ an 1oz pour Of Jefferson's "Unsquared" Bourbon |
 | Monocacy Radiance | Double IPA | 7.70% | Frederick, MD |
+| Monocacy Ultimate | Light Lager | 4.20% | Frederick, MD |
+| Mobtown Neon Dynasty | Rice Lager | 4.80% | Baltimore, MD |
 
 #### 🥫 Bottles & Cans (56)
 
@@ -71,6 +71,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-03-01 17:03:32.621894 | 3 | 3 | 6 |
 | 2026-02-28 17:02:02.790002 | 1 | 2 | 3 |
 | 2026-02-27 17:09:29.395820 | 3 | 2 | 5 |
 | 2026-02-26 17:20:48.243306 | 3 | 1 | 4 |
@@ -80,7 +81,6 @@
 | 2026-02-22 17:04:46.765360 | 5 | 3 | 8 |
 | 2026-02-21 17:04:52.264794 | 4 | 4 | 8 |
 | 2026-02-20 17:11:35.917234 | 3 | 4 | 7 |
-| 2026-02-19 17:17:54.088901 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -88,19 +88,22 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Firestone Walker Sunglider | Golden Lager | 5.00% | Bottle/Can | Paso Robles, CA |
+| RAR Slip-Ons Remixed Vol. 1 (16oz) | Hazy IPA | 6.70% | Bottle/Can | Cambridge, MD |
+| Monocacy Ultimate | Light Lager | 4.20% | Draft | Frederick, MD |
+| Mobtown Neon Dynasty | Rice Lager | 4.80% | Draft | Baltimore, MD |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Cigar City Florida Man (19.2oz) | DIPA | 9.00% | Bottle/Can | Tampa, FL |
-| Schlafly Doppelbock | Doppelbock | 6.00% | Bottle/Can | St. Louis, MO |
+| Evil Twin Our Most Popular IPA | Hazy IPA | 6.00% | Draft | North Haven, CT |
+| Pickett Say When | Hazy IPA | 7.20% | Draft | Baltimore, MD |
+| Yuengling Lord Chesterfield Ale | Pale Ale | 5.40% | Bottle/Can | Pottsville, PA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 173
+- **Total Snapshots**: 174
 - **Current Beer Count**: 73
-- **Total Change Records**: 172
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-02-28 17:02:02.790002
+- **Total Change Records**: 173
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-01 17:03:32.621894
