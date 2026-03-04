@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-03-03 17:13:53*
+*Generated on 2026-03-04 17:12:13*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-03-04 17:12:13.435903 | 72 |
 | 2026-03-03 17:13:53.410113 | 72 |
 | 2026-03-02 17:13:54.545678 | 73 |
 | 2026-03-01 17:03:32.621894 | 73 |
@@ -14,7 +15,6 @@
 | 2026-02-25 17:21:01.191513 | 71 |
 | 2026-02-24 17:20:46.031945 | 70 |
 | 2026-02-23 17:22:11.418613 | 70 |
-| 2026-02-22 17:04:46.765360 | 70 |
 
 ### 🍺 Current Beer List
 
@@ -30,14 +30,14 @@
 | Peroni | Lager | 5.00% | Italy |
 | Pickett BA Goats In Hats | BA Imperial Stout | 11.00% | Baltimore, MD |
 | Jefferson Whiskey Boilermaker $16 | Beer N Shot |  | Full Pour of Pickett BA Goats In Hats w/ an 1oz pour Of Jefferson's "Unsquared" Bourbon |
-| Monocacy Radiance | Double IPA | 7.70% | Frederick, MD |
-| Monocacy Ultimate | Light Lager | 4.20% | Frederick, MD |
-| Mobtown Neon Dynasty | Rice Lager | 4.80% | Baltimore, MD |
 | Union Pinehead | Hazy DIPA | 8.50% | Baltimore, MD |
 | Brookville Cultura | Mexican Lager | 5.00% | Brookville, MD |
-| Monocacy H.L. Rex | Session IPA | 4.70% | Frederick, MD |
+| Mobtown Neon Dynasty | Rice Lager | 4.80% | Baltimore, MD |
 | Mobtown Fever Dream | IPA | 7.40% | Baltimore, MD |
 | Mobtown The Doogie | Pale Ale | 5.10% | Baltimore, MD |
+| Monocacy Radiance | Double IPA | 7.70% | Frederick, MD |
+| Monocacy Ultimate | Light Lager | 4.20% | Frederick, MD |
+| Monocacy H.L. Rex | Session IPA | 4.70% | Frederick, MD |
 
 #### 🥫 Bottles & Cans (56)
 
@@ -70,6 +70,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-03-04 17:12:13.435903 | 0 | 0 | 0 |
 | 2026-03-03 17:13:53.410113 | 6 | 7 | 13 |
 | 2026-03-02 17:13:54.545678 | 0 | 0 | 0 |
 | 2026-03-01 17:03:32.621894 | 3 | 3 | 6 |
@@ -79,37 +80,15 @@
 | 2026-02-25 17:21:01.191513 | 2 | 1 | 3 |
 | 2026-02-24 17:20:46.031945 | 0 | 0 | 0 |
 | 2026-02-23 17:22:11.418613 | 0 | 0 | 0 |
-| 2026-02-22 17:04:46.765360 | 5 | 3 | 8 |
 
 ### 🆕 Latest Changes Details
 
-#### ➕ Added Beers
-
-| Name | Style | ABV | Vessel | Location |
-|------|-------|-----|--------|----------|
-| Brookville Cultura | Mexican Lager | 5.00% | Draft | Brookville, MD |
-| Monocacy H.L. Rex | Session IPA | 4.70% | Draft | Frederick, MD |
-| Union Pinehead | Hazy DIPA | 8.50% | Draft | Baltimore, MD |
-| Mobtown Fever Dream | IPA | 7.40% | Draft | Baltimore, MD |
-| Great Lakes Irish Lager | Lager | 5.00% | Bottle/Can | Cleveland, OH |
-| Mobtown The Doogie | Pale Ale | 5.10% | Draft | Baltimore, MD |
-
-#### ➖ Removed Beers
-
-| Name | Style | ABV | Vessel | Location |
-|------|-------|-----|--------|----------|
-| Carib Shandy Lime | Shandy | 0.90% | Bottle/Can | Cape Canaveral, FL |
-| Monopolio IPA Especial | IPA | 6.20% | Draft | Mexico |
-| Mully's Schooner | Black Lager | 5.00% | Draft | Prince Frederick, MD |
-| Southern Tier Irish Coffee Cream Ale | Cream Ale | 5.50% | Draft | Lakewood, NY |
-| Monopolio Lager Negra | Amber Lager | 5.50% | Draft | Mexico |
-| Port City il Palio | Pilsner | 5.00% | Draft | Alexandria, VA |
-| Founders Mosaic Promise | Pale Ale | 5.50% | Draft | Grand Rapids, MI |
+*No changes in the latest update.*
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 176
+- **Total Snapshots**: 177
 - **Current Beer Count**: 72
-- **Total Change Records**: 175
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-03 17:13:53.410113
+- **Total Change Records**: 176
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-04 17:12:13.435903
