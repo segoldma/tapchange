@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-03-04 17:12:13*
+*Generated on 2026-03-05 17:43:04*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-03-05 17:43:04.285322 | 71 |
 | 2026-03-04 17:12:13.435903 | 72 |
 | 2026-03-03 17:13:53.410113 | 72 |
 | 2026-03-02 17:13:54.545678 | 73 |
@@ -14,7 +15,6 @@
 | 2026-02-26 17:20:48.243306 | 73 |
 | 2026-02-25 17:21:01.191513 | 71 |
 | 2026-02-24 17:20:46.031945 | 70 |
-| 2026-02-23 17:22:11.418613 | 70 |
 
 ### 🍺 Current Beer List
 
@@ -27,7 +27,6 @@
 | Port City Doppelbock | Doppelbock | 8.20% | Alexandria, VA |
 | Sierra Nevada Rain Check | Stout | 8.90% | Chico, CA |
 | Troegs Nugget Nectar (Nitro) | Imperial Amber | 7.50% | Hersey, PA |
-| Peroni | Lager | 5.00% | Italy |
 | Pickett BA Goats In Hats | BA Imperial Stout | 11.00% | Baltimore, MD |
 | Jefferson Whiskey Boilermaker $16 | Beer N Shot |  | Full Pour of Pickett BA Goats In Hats w/ an 1oz pour Of Jefferson's "Unsquared" Bourbon |
 | Union Pinehead | Hazy DIPA | 8.50% | Baltimore, MD |
@@ -38,8 +37,9 @@
 | Monocacy Radiance | Double IPA | 7.70% | Frederick, MD |
 | Monocacy Ultimate | Light Lager | 4.20% | Frederick, MD |
 | Monocacy H.L. Rex | Session IPA | 4.70% | Frederick, MD |
+| Mobtown Black Forest | Stout | 8.70% | Baltimore, MD |
 
-#### 🥫 Bottles & Cans (56)
+#### 🥫 Bottles & Cans (55)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -63,13 +63,14 @@
 | Jack's Abby Framinghammer Ginger Bread | Blatic Porter | 9.00% | Framingham, MA |
 | Manor Hill Echos of Sanctity | Abbey Dubbel | 7.80% | Baltimore, MD |
 | Jack's Abby Fudge Brownie | Baltic Porter | 9.00% | Framingham, MA |
-| *... and 36 more* | | | |
+| *... and 35 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-03-05 17:43:04.285322 | 1 | 2 | 3 |
 | 2026-03-04 17:12:13.435903 | 0 | 0 | 0 |
 | 2026-03-03 17:13:53.410113 | 6 | 7 | 13 |
 | 2026-03-02 17:13:54.545678 | 0 | 0 | 0 |
@@ -79,16 +80,26 @@
 | 2026-02-26 17:20:48.243306 | 3 | 1 | 4 |
 | 2026-02-25 17:21:01.191513 | 2 | 1 | 3 |
 | 2026-02-24 17:20:46.031945 | 0 | 0 | 0 |
-| 2026-02-23 17:22:11.418613 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Mobtown Black Forest | Stout | 8.70% | Draft | Baltimore, MD |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Peroni | Lager | 5.00% | Draft | Italy |
+| Peak Blueberries for All (16oz) | Blueberry Ale | 5.00% | Bottle/Can | Portland, ME |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 177
-- **Current Beer Count**: 72
-- **Total Change Records**: 176
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-04 17:12:13.435903
+- **Total Snapshots**: 178
+- **Current Beer Count**: 71
+- **Total Change Records**: 177
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-05 17:43:04.285322
