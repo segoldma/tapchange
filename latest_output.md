@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-03-06 17:10:20*
+*Generated on 2026-03-07 17:02:51*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-03-07 17:02:51.305092 | 72 |
 | 2026-03-06 17:10:20.176427 | 72 |
 | 2026-03-05 17:43:04.285322 | 71 |
 | 2026-03-04 17:12:13.435903 | 72 |
@@ -14,7 +15,6 @@
 | 2026-02-28 17:02:02.790002 | 73 |
 | 2026-02-27 17:09:29.395820 | 74 |
 | 2026-02-26 17:20:48.243306 | 73 |
-| 2026-02-25 17:21:01.191513 | 71 |
 
 ### 🍺 Current Beer List
 
@@ -26,7 +26,6 @@
 | Port City Porter | Porter | 7.20% | Alexandria, VA |
 | Port City Doppelbock | Doppelbock | 8.20% | Alexandria, VA |
 | Sierra Nevada Rain Check | Stout | 8.90% | Chico, CA |
-| Troegs Nugget Nectar (Nitro) | Imperial Amber | 7.50% | Hersey, PA |
 | Pickett BA Goats In Hats | BA Imperial Stout | 11.00% | Baltimore, MD |
 | Union Pinehead | Hazy DIPA | 8.50% | Baltimore, MD |
 | Brookville Cultura | Mexican Lager | 5.00% | Brookville, MD |
@@ -37,6 +36,7 @@
 | Monocacy Ultimate | Light Lager | 4.20% | Frederick, MD |
 | Monocacy H.L. Rex | Session IPA | 4.70% | Frederick, MD |
 | Mobtown Black Forest | Stout | 8.70% | Baltimore, MD |
+| Guinness (Nitro) | Stout | 4.20% | Baltimore, MD |
 
 #### 🥫 Bottles & Cans (57)
 
@@ -69,6 +69,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-03-07 17:02:51.305092 | 1 | 1 | 2 |
 | 2026-03-06 17:10:20.176427 | 6 | 5 | 11 |
 | 2026-03-05 17:43:04.285322 | 1 | 2 | 3 |
 | 2026-03-04 17:12:13.435903 | 0 | 0 | 0 |
@@ -78,7 +79,6 @@
 | 2026-02-28 17:02:02.790002 | 1 | 2 | 3 |
 | 2026-02-27 17:09:29.395820 | 3 | 2 | 5 |
 | 2026-02-26 17:20:48.243306 | 3 | 1 | 4 |
-| 2026-02-25 17:21:01.191513 | 2 | 1 | 3 |
 
 ### 🆕 Latest Changes Details
 
@@ -86,27 +86,18 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Molson Golden | Lager | 5.00% | Bottle/Can | Canada |
-| Monocacy Radiance | Double IPA | 7.70% | Draft | Frederick, MD |
-| Mobtown Black Forest | Stout | 8.70% | Draft | Baltimore, MD |
-| Monocacy H.L. Rex | Session IPA | 4.70% | Draft | Frederick, MD |
-| Firestone Walker Union Jack | IPA | 7.00% | Bottle/Can | Paso Robles, CA |
-| Mobtown The Doogie | Pale Ale | 5.10% | Draft | Baltimore, MD |
+| Guinness (Nitro) | Stout | 4.20% | Draft | Baltimore, MD |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Mobtown The Doogie | Pale Ale | 5.10% | Draft | Baltimore, MD |
-| Mobtown Black Forest | Stout | 8.70% | Draft | Baltimore, MD |
-| Monocacy Radiance | Double IPA | 7.70% | Draft | Frederick, MD |
-| Jefferson Whiskey Boilermaker $16 | Beer N Shot |  | Draft | Full Pour of Pickett BA Goats In Hats w/ an 1oz pour Of Jefferson's "Unsquared" Bourbon |
-| Monocacy H.L. Rex | Session IPA | 4.70% | Draft | Frederick, MD |
+| Troegs Nugget Nectar (Nitro) | Imperial Amber | 7.50% | Draft | Hersey, PA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 179
+- **Total Snapshots**: 180
 - **Current Beer Count**: 72
-- **Total Change Records**: 178
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-06 17:10:20.176427
+- **Total Change Records**: 179
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-07 17:02:51.305092
