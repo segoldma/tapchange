@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-03-07 17:02:51*
+*Generated on 2026-03-08 17:03:45*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-03-08 17:03:45.178664 | 72 |
 | 2026-03-07 17:02:51.305092 | 72 |
 | 2026-03-06 17:10:20.176427 | 72 |
 | 2026-03-05 17:43:04.285322 | 71 |
@@ -14,7 +15,6 @@
 | 2026-03-01 17:03:32.621894 | 73 |
 | 2026-02-28 17:02:02.790002 | 73 |
 | 2026-02-27 17:09:29.395820 | 74 |
-| 2026-02-26 17:20:48.243306 | 73 |
 
 ### 🍺 Current Beer List
 
@@ -57,11 +57,11 @@
 | Allagash White | Wheat Beer | 5.20% | Portland, ME |
 | Guilford Goatman | Bock | 6.30% | Baltimore, MD |
 | Founders CBS Stout (2025) $15 | Imperial Stout | 11.70% | Grand Rapids, MI |
-| Great Lakes Berry Jam Thumbprint | Milk Stout | 5.50% | Cleveland, OH |
 | Arcobrau Coronator | Doppelbock | 7.20% | Germany |
 | Jack's Abby Framinghammer Ginger Bread | Blatic Porter | 9.00% | Framingham, MA |
 | Manor Hill Echos of Sanctity | Abbey Dubbel | 7.80% | Baltimore, MD |
 | Jack's Abby Fudge Brownie | Baltic Porter | 9.00% | Framingham, MA |
+| Lone Pine Holy Donut Holy Cannoli | Imperial Stout | 9.00% | Portland, ME |
 | *... and 37 more* | | | |
 
 
@@ -69,6 +69,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-03-08 17:03:45.178664 | 5 | 5 | 10 |
 | 2026-03-07 17:02:51.305092 | 1 | 1 | 2 |
 | 2026-03-06 17:10:20.176427 | 6 | 5 | 11 |
 | 2026-03-05 17:43:04.285322 | 1 | 2 | 3 |
@@ -78,7 +79,6 @@
 | 2026-03-01 17:03:32.621894 | 3 | 3 | 6 |
 | 2026-02-28 17:02:02.790002 | 1 | 2 | 3 |
 | 2026-02-27 17:09:29.395820 | 3 | 2 | 5 |
-| 2026-02-26 17:20:48.243306 | 3 | 1 | 4 |
 
 ### 🆕 Latest Changes Details
 
@@ -86,18 +86,26 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Guinness (Nitro) | Stout | 4.20% | Draft | Baltimore, MD |
+| Schlafly Shorty's Lemon Wheat | IPA | 3.00% | Bottle/Can | St. Louis, MO |
+| Schlafly Shorty's Small IPA | IPA | 3.00% | Bottle/Can | St. Louis, MO |
+| Schlafly Shorty's Lager | Lager | 3.00% | Bottle/Can | St. Louis, MO |
+| Founders All Day Peach | Hazy Session IPA | 4.70% | Bottle/Can | Grand Rapids, MI |
+| Troegs Night Gazer | Extra Stout | 7.10% | Bottle/Can | Hershey, PA |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Troegs Nugget Nectar (Nitro) | Imperial Amber | 7.50% | Draft | Hersey, PA |
+| RAR Slip-Ons Remixed Vol. 1 (16oz) | Hazy IPA | 6.70% | Bottle/Can | Cambridge, MD |
+| Southern Tier Steady Yeti | Session IPA | 3.80% | Bottle/Can | Cooperstown, NY |
+| Port City Cobblestone | Sour Ale | 5.00% | Bottle/Can | Alexandria, VA |
+| Great Lakes Berry Jam Thumbprint | Milk Stout | 5.50% | Bottle/Can | Cleveland, OH |
+| Bohemia Pilsner | Pilsner | 4.70% | Bottle/Can | White Plains, NY |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 180
+- **Total Snapshots**: 181
 - **Current Beer Count**: 72
-- **Total Change Records**: 179
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-07 17:02:51.305092
+- **Total Change Records**: 180
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-08 17:03:45.178664
