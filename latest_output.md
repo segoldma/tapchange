@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-03-09 17:15:17*
+*Generated on 2026-03-10 17:14:39*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-03-10 17:14:39.058415 | 71 |
 | 2026-03-09 17:15:17.850393 | 69 |
 | 2026-03-08 17:03:45.178664 | 72 |
 | 2026-03-07 17:02:51.305092 | 72 |
@@ -14,11 +15,10 @@
 | 2026-03-03 17:13:53.410113 | 72 |
 | 2026-03-02 17:13:54.545678 | 73 |
 | 2026-03-01 17:03:32.621894 | 73 |
-| 2026-02-28 17:02:02.790002 | 73 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (14)
+#### 🍺 Draft Beers (18)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -36,8 +36,12 @@
 | Monocacy H.L. Rex | Session IPA | 4.70% | Frederick, MD |
 | Mobtown Black Forest | Stout | 8.70% | Baltimore, MD |
 | Guinness (Nitro) | Stout | 4.20% | Baltimore, MD |
+| Liquidity Wits About You | Witbier | 6.00% | Mount Airy, MD |
+| Liquidity Celtic Tiger | Lager | 4.80% | Mount Airy, MD |
+| Liquidity SGP House Hazy | IPA | 6.80% | Mount Airy, MD |
+| Liquidity Bent River Sunset | IPA | 6.70% | Mount Airy, MD |
 
-#### 🥫 Bottles & Cans (55)
+#### 🥫 Bottles & Cans (53)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -54,20 +58,21 @@
 | Allagash White | Wheat Beer | 5.20% | Portland, ME |
 | Guilford Goatman | Bock | 6.30% | Baltimore, MD |
 | Founders CBS Stout (2025) $15 | Imperial Stout | 11.70% | Grand Rapids, MI |
-| Arcobrau Coronator | Doppelbock | 7.20% | Germany |
 | Jack's Abby Framinghammer Ginger Bread | Blatic Porter | 9.00% | Framingham, MA |
 | Manor Hill Echos of Sanctity | Abbey Dubbel | 7.80% | Baltimore, MD |
 | Jack's Abby Fudge Brownie | Baltic Porter | 9.00% | Framingham, MA |
 | Lone Pine Holy Donut Holy Cannoli | Imperial Stout | 9.00% | Portland, ME |
 | Lone Pine Holy Donut Coffee Cake | Imperial Stout | 9.00% | Portland, ME |
 | Lone Pine Holy Donut Dark Choc. Coconut | Imperial Stout | 10.50% | Portland, ME |
-| *... and 35 more* | | | |
+| Olde Mother Teddy's Malt Liquor | Malt Liquor | 8.00% | Frederick, MD |
+| *... and 33 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-03-10 17:14:39.058415 | 5 | 3 | 8 |
 | 2026-03-09 17:15:17.850393 | 0 | 3 | 3 |
 | 2026-03-08 17:03:45.178664 | 5 | 5 | 10 |
 | 2026-03-07 17:02:51.305092 | 1 | 1 | 2 |
@@ -77,22 +82,31 @@
 | 2026-03-03 17:13:53.410113 | 6 | 7 | 13 |
 | 2026-03-02 17:13:54.545678 | 0 | 0 | 0 |
 | 2026-03-01 17:03:32.621894 | 3 | 3 | 6 |
-| 2026-02-28 17:02:02.790002 | 1 | 2 | 3 |
 
 ### 🆕 Latest Changes Details
+
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Liquidity Wits About You | Witbier | 6.00% | Draft | Mount Airy, MD |
+| Liquidity Celtic Tiger | Lager | 4.80% | Draft | Mount Airy, MD |
+| Liquidity SGP House Hazy | IPA | 6.80% | Draft | Mount Airy, MD |
+| Jack's Abby Framinghammer Tiramisu | Baltic Porter | 9.00% | Bottle/Can | Framingham, MA |
+| Liquidity Bent River Sunset | IPA | 6.70% | Draft | Mount Airy, MD |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Untitled Art FLVR! | N/A Sour | 0.50% | Bottle/Can | Waukanee, WI |
-| Monster The Beast: Peach Perfect | Not Beer | 6.00% | Bottle/Can | Cold Spring, MN |
-| Peabody Heights On Through The Night | Hefeweizen | 5.60% | Draft | Baltimore, MD |
+| Antietam General's Golden Ale | Blonde Ale | 6.50% | Bottle/Can | Hagerstown, MD |
+| Arcobrau Coronator | Doppelbock | 7.20% | Bottle/Can | Germany |
+| Nepenthe Robo-Pegasus (16oz) | Pale Ale | 5.60% | Bottle/Can | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 182
-- **Current Beer Count**: 69
-- **Total Change Records**: 181
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-09 17:15:17.850393
+- **Total Snapshots**: 183
+- **Current Beer Count**: 71
+- **Total Change Records**: 182
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-10 17:14:39.058415
