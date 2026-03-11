@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-03-10 17:14:39*
+*Generated on 2026-03-11 17:16:06*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-03-11 17:16:06.155417 | 69 |
 | 2026-03-10 17:14:39.058415 | 71 |
 | 2026-03-09 17:15:17.850393 | 69 |
 | 2026-03-08 17:03:45.178664 | 72 |
@@ -14,11 +15,10 @@
 | 2026-03-04 17:12:13.435903 | 72 |
 | 2026-03-03 17:13:53.410113 | 72 |
 | 2026-03-02 17:13:54.545678 | 73 |
-| 2026-03-01 17:03:32.621894 | 73 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (18)
+#### 🍺 Draft Beers (16)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -27,17 +27,15 @@
 | Sierra Nevada Rain Check | Stout | 8.90% | Chico, CA |
 | Pickett BA Goats In Hats | BA Imperial Stout | 11.00% | Baltimore, MD |
 | Union Pinehead | Hazy DIPA | 8.50% | Baltimore, MD |
-| Brookville Cultura | Mexican Lager | 5.00% | Brookville, MD |
 | Mobtown Neon Dynasty | Rice Lager | 4.80% | Baltimore, MD |
 | Mobtown Fever Dream | IPA | 7.40% | Baltimore, MD |
 | Mobtown The Doogie | Pale Ale | 5.10% | Baltimore, MD |
 | Monocacy Radiance | Double IPA | 7.70% | Frederick, MD |
 | Monocacy Ultimate | Light Lager | 4.20% | Frederick, MD |
-| Monocacy H.L. Rex | Session IPA | 4.70% | Frederick, MD |
 | Mobtown Black Forest | Stout | 8.70% | Baltimore, MD |
 | Guinness (Nitro) | Stout | 4.20% | Baltimore, MD |
 | Liquidity Wits About You | Witbier | 6.00% | Mount Airy, MD |
-| Liquidity Celtic Tiger | Lager | 4.80% | Mount Airy, MD |
+| Liquidity Celtic Tiger | Irish Lager | 4.80% | Mount Airy, MD |
 | Liquidity SGP House Hazy | IPA | 6.80% | Mount Airy, MD |
 | Liquidity Bent River Sunset | IPA | 6.70% | Mount Airy, MD |
 
@@ -72,6 +70,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-03-11 17:16:06.155417 | 1 | 3 | 4 |
 | 2026-03-10 17:14:39.058415 | 5 | 3 | 8 |
 | 2026-03-09 17:15:17.850393 | 0 | 3 | 3 |
 | 2026-03-08 17:03:45.178664 | 5 | 5 | 10 |
@@ -81,7 +80,6 @@
 | 2026-03-04 17:12:13.435903 | 0 | 0 | 0 |
 | 2026-03-03 17:13:53.410113 | 6 | 7 | 13 |
 | 2026-03-02 17:13:54.545678 | 0 | 0 | 0 |
-| 2026-03-01 17:03:32.621894 | 3 | 3 | 6 |
 
 ### 🆕 Latest Changes Details
 
@@ -89,24 +87,20 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Liquidity Wits About You | Witbier | 6.00% | Draft | Mount Airy, MD |
-| Liquidity Celtic Tiger | Lager | 4.80% | Draft | Mount Airy, MD |
-| Liquidity SGP House Hazy | IPA | 6.80% | Draft | Mount Airy, MD |
-| Jack's Abby Framinghammer Tiramisu | Baltic Porter | 9.00% | Bottle/Can | Framingham, MA |
-| Liquidity Bent River Sunset | IPA | 6.70% | Draft | Mount Airy, MD |
+| Liquidity Celtic Tiger | Irish Lager | 4.80% | Draft | Mount Airy, MD |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Antietam General's Golden Ale | Blonde Ale | 6.50% | Bottle/Can | Hagerstown, MD |
-| Arcobrau Coronator | Doppelbock | 7.20% | Bottle/Can | Germany |
-| Nepenthe Robo-Pegasus (16oz) | Pale Ale | 5.60% | Bottle/Can | Baltimore, MD |
+| Monocacy H.L. Rex | Session IPA | 4.70% | Draft | Frederick, MD |
+| Liquidity Celtic Tiger | Lager | 4.80% | Draft | Mount Airy, MD |
+| Brookville Cultura | Mexican Lager | 5.00% | Draft | Brookville, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 183
-- **Current Beer Count**: 71
-- **Total Change Records**: 182
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-10 17:14:39.058415
+- **Total Snapshots**: 184
+- **Current Beer Count**: 69
+- **Total Change Records**: 183
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-11 17:16:06.155417
