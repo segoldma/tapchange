@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-03-13 17:10:43*
+*Generated on 2026-03-14 17:05:14*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-03-14 17:05:14.776310 | 67 |
 | 2026-03-13 17:10:42.884319 | 69 |
 | 2026-03-12 17:16:26.399412 | 69 |
 | 2026-03-11 17:16:06.155417 | 69 |
@@ -14,18 +15,16 @@
 | 2026-03-07 17:02:51.305092 | 72 |
 | 2026-03-06 17:10:20.176427 | 72 |
 | 2026-03-05 17:43:04.285322 | 71 |
-| 2026-03-04 17:12:13.435903 | 72 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (16)
+#### 🍺 Draft Beers (15)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
 | Port City Porter | Porter | 7.20% | Alexandria, VA |
 | Port City Doppelbock | Doppelbock | 8.20% | Alexandria, VA |
 | Sierra Nevada Rain Check | Stout | 8.90% | Chico, CA |
-| Pickett BA Goats In Hats | BA Imperial Stout | 11.00% | Baltimore, MD |
 | Union Pinehead | Hazy DIPA | 8.50% | Baltimore, MD |
 | Mobtown Neon Dynasty | Rice Lager | 4.80% | Baltimore, MD |
 | Mobtown Fever Dream | IPA | 7.40% | Baltimore, MD |
@@ -37,9 +36,9 @@
 | Liquidity Wits About You | Witbier | 6.00% | Mount Airy, MD |
 | Liquidity Celtic Tiger | Irish Lager | 4.80% | Mount Airy, MD |
 | Liquidity SGP House Hazy | IPA | 6.80% | Mount Airy, MD |
-| Liquidity Bent River Sunset | IPA | 6.70% | Mount Airy, MD |
+| Peroni | Italian Lager | 4.70% | Italy |
 
-#### 🥫 Bottles & Cans (53)
+#### 🥫 Bottles & Cans (52)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -62,14 +61,15 @@
 | Lone Pine Holy Donut Coffee Cake | Imperial Stout | 9.00% | Portland, ME |
 | Lone Pine Holy Donut Dark Choc. Coconut | Imperial Stout | 10.50% | Portland, ME |
 | Olde Mother Teddy's Malt Liquor | Malt Liquor | 8.00% | Frederick, MD |
-| Falling Branch Spotting Clouds | Fruited IPA | 8.00% | Street, MD |
-| *... and 33 more* | | | |
+| Great Lakes Conway's Irish Ale | Red Ale | 6.30% | Cleveland, OH |
+| *... and 32 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-03-14 17:05:14.776310 | 2 | 4 | 6 |
 | 2026-03-13 17:10:42.884319 | 6 | 6 | 12 |
 | 2026-03-12 17:16:26.399412 | 0 | 0 | 0 |
 | 2026-03-11 17:16:06.155417 | 1 | 3 | 4 |
@@ -79,7 +79,6 @@
 | 2026-03-07 17:02:51.305092 | 1 | 1 | 2 |
 | 2026-03-06 17:10:20.176427 | 6 | 5 | 11 |
 | 2026-03-05 17:43:04.285322 | 1 | 2 | 3 |
-| 2026-03-04 17:12:13.435903 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,28 +86,22 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Schlafly Shorty's Small IPA | IPA | 3.00% | Bottle/Can | St. Louis, MO |
-| Molson XXX | Lager | 7.30% | Bottle/Can | Canada |
-| Surfside Blueberry Lemonade | RTD | 4.50% | Bottle/Can | Philadelphia, PA |
-| Troegs Night Gazer | Extra Stout | 7.10% | Bottle/Can | Hershey, PA |
-| Schlafly Shorty's Lemon Wheat | IPA | 3.00% | Bottle/Can | St. Louis, MO |
-| Milwaukee's Best Light | Lager | 4.10% | Bottle/Can | Milwaukee, WI |
+| Peroni | Italian Lager | 4.70% | Draft | Italy |
+| Oskar Blues Neon Rodeo | Sour Ale | 4.30% | Bottle/Can | Longmont, CO |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Schlafly Shorty's Lemon Wheat | IPA | 3.00% | Bottle/Can | St. Louis, MO |
-| Schlafly Shorty's Small IPA | IPA | 3.00% | Bottle/Can | St. Louis, MO |
-| Troegs Night Gazer | Extra Stout | 7.10% | Bottle/Can | Hershey, PA |
-| Lone Pine Holy Donut Holy Cannoli | Imperial Stout | 9.00% | Bottle/Can | Portland, ME |
-| Jack's Abbey Hoponius Union | WC Lager | 6.50% | Bottle/Can | Framingham, MA |
-| Kasteel Rubus (16.9oz) $11 | Raspberry Ale | 7.00% | Bottle/Can | Belgium |
+| Falling Branch Spotting Clouds | Fruited IPA | 8.00% | Bottle/Can | Street, MD |
+| Union Pinehead | Hazy DIPA | 8.50% | Bottle/Can | Baltimore, MD |
+| Liquidity Bent River Sunset | IPA | 6.70% | Draft | Mount Airy, MD |
+| Pickett BA Goats In Hats | BA Imperial Stout | 11.00% | Draft | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 186
-- **Current Beer Count**: 69
-- **Total Change Records**: 185
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-13 17:10:42.884319
+- **Total Snapshots**: 187
+- **Current Beer Count**: 67
+- **Total Change Records**: 186
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-14 17:05:14.776310
