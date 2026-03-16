@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-03-15 17:04:47*
+*Generated on 2026-03-16 17:20:18*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-03-16 17:20:18.380951 | 68 |
 | 2026-03-15 17:04:46.992595 | 67 |
 | 2026-03-14 17:05:14.776310 | 67 |
 | 2026-03-13 17:10:42.884319 | 69 |
@@ -14,7 +15,6 @@
 | 2026-03-09 17:15:17.850393 | 69 |
 | 2026-03-08 17:03:45.178664 | 72 |
 | 2026-03-07 17:02:51.305092 | 72 |
-| 2026-03-06 17:10:20.176427 | 72 |
 
 ### 🍺 Current Beer List
 
@@ -38,7 +38,7 @@
 | Liquidity SGP House Hazy | IPA | 6.80% | Mount Airy, MD |
 | Peroni | Italian Lager | 4.70% | Italy |
 
-#### 🥫 Bottles & Cans (52)
+#### 🥫 Bottles & Cans (53)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -62,13 +62,14 @@
 | Lone Pine Holy Donut Dark Choc. Coconut | Imperial Stout | 10.50% | Portland, ME |
 | Olde Mother Teddy's Malt Liquor | Malt Liquor | 8.00% | Frederick, MD |
 | Great Lakes Conway's Irish Ale | Red Ale | 6.30% | Cleveland, OH |
-| *... and 32 more* | | | |
+| *... and 33 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-03-16 17:20:18.380951 | 2 | 1 | 3 |
 | 2026-03-15 17:04:46.992595 | 0 | 0 | 0 |
 | 2026-03-14 17:05:14.776310 | 2 | 4 | 6 |
 | 2026-03-13 17:10:42.884319 | 6 | 6 | 12 |
@@ -78,16 +79,26 @@
 | 2026-03-09 17:15:17.850393 | 0 | 3 | 3 |
 | 2026-03-08 17:03:45.178664 | 5 | 5 | 10 |
 | 2026-03-07 17:02:51.305092 | 1 | 1 | 2 |
-| 2026-03-06 17:10:20.176427 | 6 | 5 | 11 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Lancaster Blue Trail Raspberry | Fruited Ale | 5.00% | Bottle/Can | Lancaster, PA |
+| Cigar City Jai Alai Light | IPA | 4.00% | Bottle/Can | Tampa, FL |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Fairwinds High Barbary | Amber Lager | 5.40% | Bottle/Can | Lorton, VA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 188
-- **Current Beer Count**: 67
-- **Total Change Records**: 187
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-15 17:04:46.992595
+- **Total Snapshots**: 189
+- **Current Beer Count**: 68
+- **Total Change Records**: 188
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-16 17:20:18.380951
