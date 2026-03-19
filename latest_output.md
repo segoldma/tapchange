@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-03-18 17:20:30*
+*Generated on 2026-03-19 17:18:30*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-03-19 17:18:29.919487 | 69 |
 | 2026-03-18 17:20:30.645417 | 68 |
 | 2026-03-17 17:20:42.216400 | 68 |
 | 2026-03-16 17:20:18.380951 | 68 |
@@ -14,29 +15,29 @@
 | 2026-03-12 17:16:26.399412 | 69 |
 | 2026-03-11 17:16:06.155417 | 69 |
 | 2026-03-10 17:14:39.058415 | 71 |
-| 2026-03-09 17:15:17.850393 | 69 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (15)
+#### 🍺 Draft Beers (16)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
-| Port City Porter | Porter | 7.20% | Alexandria, VA |
 | Port City Doppelbock | Doppelbock | 8.20% | Alexandria, VA |
 | Sierra Nevada Rain Check | Stout | 8.90% | Chico, CA |
 | Union Pinehead | Hazy DIPA | 8.50% | Baltimore, MD |
-| Mobtown Neon Dynasty | Rice Lager | 4.80% | Baltimore, MD |
 | Mobtown Fever Dream | IPA | 7.40% | Baltimore, MD |
 | Mobtown The Doogie | Pale Ale | 5.10% | Baltimore, MD |
-| Monocacy Radiance | Double IPA | 7.70% | Frederick, MD |
 | Monocacy Ultimate | Light Lager | 4.20% | Frederick, MD |
 | Mobtown Black Forest | Stout | 8.70% | Baltimore, MD |
 | Guinness (Nitro) | Stout | 4.20% | Baltimore, MD |
-| Liquidity Wits About You | Witbier | 6.00% | Mount Airy, MD |
 | Liquidity Celtic Tiger | Irish Lager | 4.80% | Mount Airy, MD |
 | Liquidity SGP House Hazy | IPA | 6.80% | Mount Airy, MD |
+| Liquidity Bent River Sunset | IPA | 6.70% | Mount Airy, MD |
 | Peroni | Italian Lager | 4.70% | Italy |
+| New Trail Broken Heels | IPA | 7.00% | Williamsport, PA |
+| New Trail Superdelic Broken Heels | IPA | 7.00% | Williamsport, PA |
+| New Trail Lazy River Pils | Pilsner | 4.40% | Williamsport, PA |
+| New Trail Rambler | Double IPA | 8.90% | Williamsport, PA |
 
 #### 🥫 Bottles & Cans (53)
 
@@ -69,6 +70,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-03-19 17:18:29.919487 | 5 | 4 | 9 |
 | 2026-03-18 17:20:30.645417 | 0 | 0 | 0 |
 | 2026-03-17 17:20:42.216400 | 0 | 0 | 0 |
 | 2026-03-16 17:20:18.380951 | 2 | 1 | 3 |
@@ -78,16 +80,32 @@
 | 2026-03-12 17:16:26.399412 | 0 | 0 | 0 |
 | 2026-03-11 17:16:06.155417 | 1 | 3 | 4 |
 | 2026-03-10 17:14:39.058415 | 5 | 3 | 8 |
-| 2026-03-09 17:15:17.850393 | 0 | 3 | 3 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| New Trail Broken Heels | IPA | 7.00% | Draft | Williamsport, PA |
+| New Trail Rambler | Double IPA | 8.90% | Draft | Williamsport, PA |
+| Liquidity Bent River Sunset | IPA | 6.70% | Draft | Mount Airy, MD |
+| New Trail Superdelic Broken Heels | IPA | 7.00% | Draft | Williamsport, PA |
+| New Trail Lazy River Pils | Pilsner | 4.40% | Draft | Williamsport, PA |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Port City Porter | Porter | 7.20% | Draft | Alexandria, VA |
+| Liquidity Wits About You | Witbier | 6.00% | Draft | Mount Airy, MD |
+| Mobtown Neon Dynasty | Rice Lager | 4.80% | Draft | Baltimore, MD |
+| Monocacy Radiance | Double IPA | 7.70% | Draft | Frederick, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 191
-- **Current Beer Count**: 68
-- **Total Change Records**: 190
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-18 17:20:30.645417
+- **Total Snapshots**: 192
+- **Current Beer Count**: 69
+- **Total Change Records**: 191
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-19 17:18:29.919487
