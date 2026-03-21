@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-03-20 17:12:22*
+*Generated on 2026-03-21 17:04:18*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-03-21 17:04:18.594590 | 68 |
 | 2026-03-20 17:12:22.016524 | 67 |
 | 2026-03-19 17:18:29.919487 | 69 |
 | 2026-03-18 17:20:30.645417 | 68 |
@@ -14,11 +15,10 @@
 | 2026-03-14 17:05:14.776310 | 67 |
 | 2026-03-13 17:10:42.884319 | 69 |
 | 2026-03-12 17:16:26.399412 | 69 |
-| 2026-03-11 17:16:06.155417 | 69 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (15)
+#### 🍺 Draft Beers (16)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -37,6 +37,7 @@
 | New Trail Superdelic Broken Heels | IPA | 7.00% | Williamsport, PA |
 | New Trail Lazy River Pils | Pilsner | 4.40% | Williamsport, PA |
 | New Trail Rambler | Double IPA | 8.90% | Williamsport, PA |
+| Lancaster Celtic Rose | Irish Red | 5.00% | Lancaster, PA |
 
 #### 🥫 Bottles & Cans (52)
 
@@ -69,6 +70,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-03-21 17:04:18.594590 | 4 | 3 | 7 |
 | 2026-03-20 17:12:22.016524 | 2 | 4 | 6 |
 | 2026-03-19 17:18:29.919487 | 5 | 4 | 9 |
 | 2026-03-18 17:20:30.645417 | 0 | 0 | 0 |
@@ -78,7 +80,6 @@
 | 2026-03-14 17:05:14.776310 | 2 | 4 | 6 |
 | 2026-03-13 17:10:42.884319 | 6 | 6 | 12 |
 | 2026-03-12 17:16:26.399412 | 0 | 0 | 0 |
-| 2026-03-11 17:16:06.155417 | 1 | 3 | 4 |
 
 ### 🆕 Latest Changes Details
 
@@ -86,22 +87,23 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Liquidity Wits About You | Witbier | 6.00% | Draft | Mount Airy, MD |
-| Monocacy H.L. Rex | Session IPA | 4.70% | Draft | Frederick, MD |
+| Denizens Czexican | Lager | 5.00% | Bottle/Can | Riverdale Park, MD |
+| Southern Tier Cheat Day | Imperial Ale | 8.60% | Bottle/Can | Lakefront, NY |
+| Lancaster Celtic Rose | Irish Red | 5.00% | Draft | Lancaster, PA |
+| Stunt Double | Lager | 8.00% | Bottle/Can | Longmont, CO |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Port City Downright Pilsner | Pilsner | 4.80% | Bottle/Can | Alexandria, VA |
-| Mobtown The Doogie | Pale Ale | 5.10% | Draft | Baltimore, MD |
-| Monocacy Ultimate | Light Lager | 4.20% | Draft | Frederick, MD |
-| Liquidity Celtic Tiger | Irish Lager | 4.80% | Draft | Mount Airy, MD |
+| Firestone Walker Sunglider | Golden Lager | 5.00% | Bottle/Can | Paso Robles, CA |
+| 1947 Premium Lager | Lager | 4.72% | Bottle/Can | Ewing, NJ |
+| O'Hara's Irish Red | Red Ale | 4.30% | Bottle/Can | Ireland |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 193
-- **Current Beer Count**: 67
-- **Total Change Records**: 192
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-20 17:12:22.016524
+- **Total Snapshots**: 194
+- **Current Beer Count**: 68
+- **Total Change Records**: 193
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-21 17:04:18.594590
