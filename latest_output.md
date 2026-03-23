@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-03-22 17:04:08*
+*Generated on 2026-03-23 17:15:24*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-03-23 17:15:24.671683 | 68 |
 | 2026-03-22 17:04:08.454061 | 68 |
 | 2026-03-21 17:04:18.594590 | 68 |
 | 2026-03-20 17:12:22.016524 | 67 |
@@ -14,7 +15,6 @@
 | 2026-03-16 17:20:18.380951 | 68 |
 | 2026-03-15 17:04:46.992595 | 67 |
 | 2026-03-14 17:05:14.776310 | 67 |
-| 2026-03-13 17:10:42.884319 | 69 |
 
 ### 🍺 Current Beer List
 
@@ -24,7 +24,6 @@
 |------|-------|-----|----------|
 | Port City Doppelbock | Doppelbock | 8.20% | Alexandria, VA |
 | Sierra Nevada Rain Check | Stout | 8.90% | Chico, CA |
-| Union Pinehead | Hazy DIPA | 8.50% | Baltimore, MD |
 | Mobtown Fever Dream | IPA | 7.40% | Baltimore, MD |
 | Monocacy H.L. Rex | Session IPA | 4.70% | Frederick, MD |
 | Mobtown Black Forest | Stout | 8.70% | Baltimore, MD |
@@ -38,6 +37,7 @@
 | New Trail Lazy River Pils | Pilsner | 4.40% | Williamsport, PA |
 | New Trail Rambler | Double IPA | 8.90% | Williamsport, PA |
 | Lancaster Celtic Rose | Irish Red | 5.00% | Lancaster, PA |
+| RAR From the Orchard | Lager | 5.00% | Cambridge, MD |
 
 #### 🥫 Bottles & Cans (52)
 
@@ -70,6 +70,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-03-23 17:15:24.671683 | 3 | 3 | 6 |
 | 2026-03-22 17:04:08.454061 | 0 | 0 | 0 |
 | 2026-03-21 17:04:18.594590 | 4 | 3 | 7 |
 | 2026-03-20 17:12:22.016524 | 2 | 4 | 6 |
@@ -79,16 +80,29 @@
 | 2026-03-16 17:20:18.380951 | 2 | 1 | 3 |
 | 2026-03-15 17:04:46.992595 | 0 | 0 | 0 |
 | 2026-03-14 17:05:14.776310 | 2 | 4 | 6 |
-| 2026-03-13 17:10:42.884319 | 6 | 6 | 12 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Southern Tier Early Bird | Fruited Ale | 4.50% | Bottle/Can | Lakefront, NY |
+| Cigar City Sumo Splash | Lager | 4.30% | Bottle/Can | Tampa, FL |
+| RAR From the Orchard | Lager | 5.00% | Draft | Cambridge, MD |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Oskar Blues Neon Rodeo | Sour Ale | 4.30% | Bottle/Can | Longmont, CO |
+| Union Pinehead | Hazy DIPA | 8.50% | Draft | Baltimore, MD |
+| The Veil IdonteverwanttoBU! (16oz) | Hazy DIPA | 9.30% | Bottle/Can | Richmond, VA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 195
+- **Total Snapshots**: 196
 - **Current Beer Count**: 68
-- **Total Change Records**: 194
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-22 17:04:08.454061
+- **Total Change Records**: 195
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-23 17:15:24.671683
