@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-03-23 17:15:24*
+*Generated on 2026-03-24 17:18:37*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-03-24 17:18:37.431105 | 71 |
 | 2026-03-23 17:15:24.671683 | 68 |
 | 2026-03-22 17:04:08.454061 | 68 |
 | 2026-03-21 17:04:18.594590 | 68 |
@@ -14,11 +15,10 @@
 | 2026-03-17 17:20:42.216400 | 68 |
 | 2026-03-16 17:20:18.380951 | 68 |
 | 2026-03-15 17:04:46.992595 | 67 |
-| 2026-03-14 17:05:14.776310 | 67 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (16)
+#### 🍺 Draft Beers (19)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -38,6 +38,9 @@
 | New Trail Rambler | Double IPA | 8.90% | Williamsport, PA |
 | Lancaster Celtic Rose | Irish Red | 5.00% | Lancaster, PA |
 | RAR From the Orchard | Lager | 5.00% | Cambridge, MD |
+| RAR Lite | Lager | 4.50% | Cambridge, MD |
+| RAR Tropical Pulp | IPA | 6.20% | Cambridge, MD |
+| RAR Experimental Chessie | Double IPA | 8.50% | Cambridge, MD |
 
 #### 🥫 Bottles & Cans (52)
 
@@ -70,6 +73,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-03-24 17:18:37.431105 | 4 | 1 | 5 |
 | 2026-03-23 17:15:24.671683 | 3 | 3 | 6 |
 | 2026-03-22 17:04:08.454061 | 0 | 0 | 0 |
 | 2026-03-21 17:04:18.594590 | 4 | 3 | 7 |
@@ -79,7 +83,6 @@
 | 2026-03-17 17:20:42.216400 | 0 | 0 | 0 |
 | 2026-03-16 17:20:18.380951 | 2 | 1 | 3 |
 | 2026-03-15 17:04:46.992595 | 0 | 0 | 0 |
-| 2026-03-14 17:05:14.776310 | 2 | 4 | 6 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,22 +90,21 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Southern Tier Early Bird | Fruited Ale | 4.50% | Bottle/Can | Lakefront, NY |
 | Cigar City Sumo Splash | Lager | 4.30% | Bottle/Can | Tampa, FL |
-| RAR From the Orchard | Lager | 5.00% | Draft | Cambridge, MD |
+| RAR Lite | Lager | 4.50% | Draft | Cambridge, MD |
+| RAR Experimental Chessie | Double IPA | 8.50% | Draft | Cambridge, MD |
+| RAR Tropical Pulp | IPA | 6.20% | Draft | Cambridge, MD |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Oskar Blues Neon Rodeo | Sour Ale | 4.30% | Bottle/Can | Longmont, CO |
-| Union Pinehead | Hazy DIPA | 8.50% | Draft | Baltimore, MD |
-| The Veil IdonteverwanttoBU! (16oz) | Hazy DIPA | 9.30% | Bottle/Can | Richmond, VA |
+| Cigar City Sumo Splash | Lager | 4.30% | Bottle/Can | Tampa, FL |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 196
-- **Current Beer Count**: 68
-- **Total Change Records**: 195
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-23 17:15:24.671683
+- **Total Snapshots**: 197
+- **Current Beer Count**: 71
+- **Total Change Records**: 196
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-24 17:18:37.431105
