@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-03-24 17:18:37*
+*Generated on 2026-03-25 17:20:00*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-03-25 17:20:00.311151 | 69 |
 | 2026-03-24 17:18:37.431105 | 71 |
 | 2026-03-23 17:15:24.671683 | 68 |
 | 2026-03-22 17:04:08.454061 | 68 |
@@ -14,24 +15,21 @@
 | 2026-03-18 17:20:30.645417 | 68 |
 | 2026-03-17 17:20:42.216400 | 68 |
 | 2026-03-16 17:20:18.380951 | 68 |
-| 2026-03-15 17:04:46.992595 | 67 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (19)
+#### 🍺 Draft Beers (17)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
 | Port City Doppelbock | Doppelbock | 8.20% | Alexandria, VA |
 | Sierra Nevada Rain Check | Stout | 8.90% | Chico, CA |
 | Mobtown Fever Dream | IPA | 7.40% | Baltimore, MD |
-| Monocacy H.L. Rex | Session IPA | 4.70% | Frederick, MD |
 | Mobtown Black Forest | Stout | 8.70% | Baltimore, MD |
 | Guinness (Nitro) | Stout | 4.20% | Baltimore, MD |
 | Liquidity SGP House Hazy | IPA | 6.80% | Mount Airy, MD |
 | Liquidity Wits About You | Witbier | 6.00% | Mount Airy, MD |
 | Liquidity Bent River Sunset | IPA | 6.70% | Mount Airy, MD |
-| Peroni | Italian Lager | 4.70% | Italy |
 | New Trail Broken Heels | IPA | 7.00% | Williamsport, PA |
 | New Trail Superdelic Broken Heels | IPA | 7.00% | Williamsport, PA |
 | New Trail Lazy River Pils | Pilsner | 4.40% | Williamsport, PA |
@@ -73,6 +71,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-03-25 17:20:00.311151 | 1 | 3 | 4 |
 | 2026-03-24 17:18:37.431105 | 4 | 1 | 5 |
 | 2026-03-23 17:15:24.671683 | 3 | 3 | 6 |
 | 2026-03-22 17:04:08.454061 | 0 | 0 | 0 |
@@ -82,7 +81,6 @@
 | 2026-03-18 17:20:30.645417 | 0 | 0 | 0 |
 | 2026-03-17 17:20:42.216400 | 0 | 0 | 0 |
 | 2026-03-16 17:20:18.380951 | 2 | 1 | 3 |
-| 2026-03-15 17:04:46.992595 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -90,21 +88,20 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Cigar City Sumo Splash | Lager | 4.30% | Bottle/Can | Tampa, FL |
-| RAR Lite | Lager | 4.50% | Draft | Cambridge, MD |
 | RAR Experimental Chessie | Double IPA | 8.50% | Draft | Cambridge, MD |
-| RAR Tropical Pulp | IPA | 6.20% | Draft | Cambridge, MD |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Cigar City Sumo Splash | Lager | 4.30% | Bottle/Can | Tampa, FL |
+| Peroni | Italian Lager | 4.70% | Draft | Italy |
+| RAR Experimental Chessie | Double IPA | 8.50% | Draft | Cambridge, MD |
+| Monocacy H.L. Rex | Session IPA | 4.70% | Draft | Frederick, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 197
-- **Current Beer Count**: 71
-- **Total Change Records**: 196
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-24 17:18:37.431105
+- **Total Snapshots**: 198
+- **Current Beer Count**: 69
+- **Total Change Records**: 197
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-25 17:20:00.311151
