@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-03-27 17:15:49*
+*Generated on 2026-03-28 17:06:03*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-03-28 17:06:03.080635 | 67 |
 | 2026-03-27 17:15:49.350611 | 64 |
 | 2026-03-26 17:20:45.913053 | 68 |
 | 2026-03-25 17:20:00.311151 | 69 |
@@ -14,7 +15,6 @@
 | 2026-03-21 17:04:18.594590 | 68 |
 | 2026-03-20 17:12:22.016524 | 67 |
 | 2026-03-19 17:18:29.919487 | 69 |
-| 2026-03-18 17:20:30.645417 | 68 |
 
 ### 🍺 Current Beer List
 
@@ -24,7 +24,6 @@
 |------|-------|-----|----------|
 | Port City Doppelbock | Doppelbock | 8.20% | Alexandria, VA |
 | Sierra Nevada Rain Check | Stout | 8.90% | Chico, CA |
-| Mobtown Black Forest | Stout | 8.70% | Baltimore, MD |
 | Guinness (Nitro) | Stout | 4.20% | Baltimore, MD |
 | Liquidity Wits About You | Witbier | 6.00% | Mount Airy, MD |
 | Liquidity Bent River Sunset | IPA | 6.70% | Mount Airy, MD |
@@ -38,8 +37,9 @@
 | RAR Tropical Pulp | IPA | 6.20% | Cambridge, MD |
 | RAR Experimental Chessie | Double IPA | 8.50% | Cambridge, MD |
 | Peabody Heights Tears of Ra | Lager | 4.90% | Baltimore, MD |
+| Lancaster Celtic Rose | Irish Red | 5.00% | Lancaster, PA |
 
-#### 🥫 Bottles & Cans (48)
+#### 🥫 Bottles & Cans (51)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -58,18 +58,19 @@
 | Jack's Abby Framinghammer Ginger Bread | Blatic Porter | 9.00% | Framingham, MA |
 | Manor Hill Echos of Sanctity | Abbey Dubbel | 7.80% | Baltimore, MD |
 | Jack's Abby Fudge Brownie | Baltic Porter | 9.00% | Framingham, MA |
-| Lone Pine Holy Donut Coffee Cake | Imperial Stout | 9.00% | Portland, ME |
 | Lone Pine Holy Donut Dark Choc. Coconut | Imperial Stout | 10.50% | Portland, ME |
 | Olde Mother Teddy's Malt Liquor | Malt Liquor | 8.00% | Frederick, MD |
 | Calvert Playground Legend | DIPA | 9.20% | Salisbury, MD |
-| Monopolio Lager Clara | Lager | 5.00% | Mexico |
-| *... and 28 more* | | | |
+| Monopolio IPA Especial | IPA | 6.20% | Mexico |
+| Monopolio Lager Negra | Amber Lager | 5.50% | Mexico |
+| *... and 31 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-03-28 17:06:03.080635 | 6 | 3 | 9 |
 | 2026-03-27 17:15:49.350611 | 3 | 8 | 11 |
 | 2026-03-26 17:20:45.913053 | 0 | 1 | 1 |
 | 2026-03-25 17:20:00.311151 | 1 | 3 | 4 |
@@ -79,7 +80,6 @@
 | 2026-03-21 17:04:18.594590 | 4 | 3 | 7 |
 | 2026-03-20 17:12:22.016524 | 2 | 4 | 6 |
 | 2026-03-19 17:18:29.919487 | 5 | 4 | 9 |
-| 2026-03-18 17:20:30.645417 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,27 +87,25 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Peabody Heights Tears of Ra | Lager | 4.90% | Draft | Baltimore, MD |
-| Molson Ice | Lager | 5.60% | Bottle/Can | Canada |
-| Carib Lime Shandy | Shandy | 0.09% | Bottle/Can | Cape Canaveral, FL |
+| Monopolio IPA Especial | IPA | 6.20% | Bottle/Can | Mexico |
+| Freedom Brew American White Ale | White Ale | 5.00% | Bottle/Can | Westminister, MD |
+| Lancaster Celtic Rose | Irish Red | 5.00% | Draft | Lancaster, PA |
+| Cushwa That'll Play | Lager | 4.20% | Bottle/Can | Williamsport, MD |
+| Freedom Brew Amber Lager | Amber Lager | 5.20% | Bottle/Can | Westminister, MD |
+| Three Roads N150 | IPA | 6.80% | Bottle/Can | Lynchburg, VA |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Monopolio IPA Especial | IPA | 6.20% | Bottle/Can | Mexico |
-| Guilford Goatman | Bock | 6.30% | Bottle/Can | Baltimore, MD |
-| Miller Genuine Draft | Lager | 4.60% | Bottle/Can | Milwaukee, WI |
-| Lancaster Celtic Rose | Irish Red | 5.00% | Draft | Lancaster, PA |
-| Liquidity SGP House Hazy | IPA | 6.80% | Draft | Mount Airy, MD |
-| Great Lakes Conway's Irish Ale | Red Ale | 6.30% | Bottle/Can | Cleveland, OH |
-| Union One More | IPA | 6.50% | Bottle/Can | Baltimore, MD |
-| Evil Twin Antibody Language (16oz) $11 | Hazy Tripel | 10.00% | Bottle/Can | North Haven, CT |
+| Lone Pine Holy Donut Coffee Cake | Imperial Stout | 9.00% | Bottle/Can | Portland, ME |
+| Mobtown Black Forest | Stout | 8.70% | Draft | Baltimore, MD |
+| Monopolio Lager Clara | Lager | 5.00% | Bottle/Can | Mexico |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 200
-- **Current Beer Count**: 64
-- **Total Change Records**: 199
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-27 17:15:49.350611
+- **Total Snapshots**: 201
+- **Current Beer Count**: 67
+- **Total Change Records**: 200
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-28 17:06:03.080635
