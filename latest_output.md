@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-03-28 17:06:03*
+*Generated on 2026-03-29 17:06:51*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-03-29 17:06:51.206028 | 66 |
 | 2026-03-28 17:06:03.080635 | 67 |
 | 2026-03-27 17:15:49.350611 | 64 |
 | 2026-03-26 17:20:45.913053 | 68 |
@@ -14,7 +15,6 @@
 | 2026-03-22 17:04:08.454061 | 68 |
 | 2026-03-21 17:04:18.594590 | 68 |
 | 2026-03-20 17:12:22.016524 | 67 |
-| 2026-03-19 17:18:29.919487 | 69 |
 
 ### 🍺 Current Beer List
 
@@ -29,17 +29,17 @@
 | Liquidity Bent River Sunset | IPA | 6.70% | Mount Airy, MD |
 | New Trail Broken Heels | IPA | 7.00% | Williamsport, PA |
 | New Trail Superdelic Broken Heels | IPA | 7.00% | Williamsport, PA |
-| New Trail Lazy River Pils | Pilsner | 4.40% | Williamsport, PA |
 | New Trail Rambler | Double IPA | 8.90% | Williamsport, PA |
 | Port City Doppelbock | Doppelbock | 8.20% | Alexandria, VA |
-| RAR From the Orchard | Lager | 5.00% | Cambridge, MD |
 | RAR Lite | Lager | 4.50% | Cambridge, MD |
 | RAR Tropical Pulp | IPA | 6.20% | Cambridge, MD |
 | RAR Experimental Chessie | Double IPA | 8.50% | Cambridge, MD |
 | Peabody Heights Tears of Ra | Lager | 4.90% | Baltimore, MD |
-| Lancaster Celtic Rose | Irish Red | 5.00% | Lancaster, PA |
+| Monocacy Radiance | Double IPA | 7.70% | Frederick, MD |
+| Mobtown Neon Dynasty | Rice Lager | 4.80% | Baltimore, MD |
+| Monocacy H.L. Rex | Session IPA | 4.70% | Frederick, MD |
 
-#### 🥫 Bottles & Cans (51)
+#### 🥫 Bottles & Cans (50)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -54,7 +54,6 @@
 | Go The Story Double IPA | N/A DIPA | 0.50% | Naperville, IL |
 | Mike's Harder Lemonade | Not Beer | 8.00% | Waddell, AZ |
 | Allagash White | Wheat Beer | 5.20% | Portland, ME |
-| Founders CBS Stout (2025) $15 | Imperial Stout | 11.70% | Grand Rapids, MI |
 | Jack's Abby Framinghammer Ginger Bread | Blatic Porter | 9.00% | Framingham, MA |
 | Manor Hill Echos of Sanctity | Abbey Dubbel | 7.80% | Baltimore, MD |
 | Jack's Abby Fudge Brownie | Baltic Porter | 9.00% | Framingham, MA |
@@ -63,13 +62,15 @@
 | Calvert Playground Legend | DIPA | 9.20% | Salisbury, MD |
 | Monopolio IPA Especial | IPA | 6.20% | Mexico |
 | Monopolio Lager Negra | Amber Lager | 5.50% | Mexico |
-| *... and 31 more* | | | |
+| Port City Monkspell | Belgian Tripel | 8.50% | Alexandria, VA |
+| *... and 30 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-03-29 17:06:51.206028 | 4 | 5 | 9 |
 | 2026-03-28 17:06:03.080635 | 6 | 3 | 9 |
 | 2026-03-27 17:15:49.350611 | 3 | 8 | 11 |
 | 2026-03-26 17:20:45.913053 | 0 | 1 | 1 |
@@ -79,7 +80,6 @@
 | 2026-03-22 17:04:08.454061 | 0 | 0 | 0 |
 | 2026-03-21 17:04:18.594590 | 4 | 3 | 7 |
 | 2026-03-20 17:12:22.016524 | 2 | 4 | 6 |
-| 2026-03-19 17:18:29.919487 | 5 | 4 | 9 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,25 +87,25 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Monopolio IPA Especial | IPA | 6.20% | Bottle/Can | Mexico |
-| Freedom Brew American White Ale | White Ale | 5.00% | Bottle/Can | Westminister, MD |
-| Lancaster Celtic Rose | Irish Red | 5.00% | Draft | Lancaster, PA |
-| Cushwa That'll Play | Lager | 4.20% | Bottle/Can | Williamsport, MD |
-| Freedom Brew Amber Lager | Amber Lager | 5.20% | Bottle/Can | Westminister, MD |
-| Three Roads N150 | IPA | 6.80% | Bottle/Can | Lynchburg, VA |
+| Monocacy Radiance | Double IPA | 7.70% | Draft | Frederick, MD |
+| Monocacy H.L. Rex | Session IPA | 4.70% | Draft | Frederick, MD |
+| Mobtown Neon Dynasty | Rice Lager | 4.80% | Draft | Baltimore, MD |
+| Burnish Northwood | IPA | 6.80% | Bottle/Can | Salisbury, MD |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Lone Pine Holy Donut Coffee Cake | Imperial Stout | 9.00% | Bottle/Can | Portland, ME |
-| Mobtown Black Forest | Stout | 8.70% | Draft | Baltimore, MD |
-| Monopolio Lager Clara | Lager | 5.00% | Bottle/Can | Mexico |
+| RAR From the Orchard | Lager | 5.00% | Draft | Cambridge, MD |
+| New Trail Lazy River Pils | Pilsner | 4.40% | Draft | Williamsport, PA |
+| Lancaster Celtic Rose | Irish Red | 5.00% | Draft | Lancaster, PA |
+| Troegs Daylight Chaser | Dark IPA | 6.30% | Bottle/Can | Hershey, PA |
+| Founders CBS Stout (2025) $15 | Imperial Stout | 11.70% | Bottle/Can | Grand Rapids, MI |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 201
-- **Current Beer Count**: 67
-- **Total Change Records**: 200
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-28 17:06:03.080635
+- **Total Snapshots**: 202
+- **Current Beer Count**: 66
+- **Total Change Records**: 201
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-29 17:06:51.206028
