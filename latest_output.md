@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-03-30 17:16:52*
+*Generated on 2026-03-31 17:18:49*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-03-31 17:18:48.946426 | 66 |
 | 2026-03-30 17:16:52.499120 | 66 |
 | 2026-03-29 17:06:51.206028 | 66 |
 | 2026-03-28 17:06:03.080635 | 67 |
@@ -14,7 +15,6 @@
 | 2026-03-24 17:18:37.431105 | 71 |
 | 2026-03-23 17:15:24.671683 | 68 |
 | 2026-03-22 17:04:08.454061 | 68 |
-| 2026-03-21 17:04:18.594590 | 68 |
 
 ### 🍺 Current Beer List
 
@@ -26,7 +26,6 @@
 | Sierra Nevada Rain Check | Stout | 8.90% | Chico, CA |
 | Guinness (Nitro) | Stout | 4.20% | Baltimore, MD |
 | Liquidity Wits About You | Witbier | 6.00% | Mount Airy, MD |
-| Liquidity Bent River Sunset | IPA | 6.70% | Mount Airy, MD |
 | New Trail Broken Heels | IPA | 7.00% | Williamsport, PA |
 | New Trail Superdelic Broken Heels | IPA | 7.00% | Williamsport, PA |
 | New Trail Rambler | Double IPA | 8.90% | Williamsport, PA |
@@ -34,10 +33,11 @@
 | RAR Lite | Lager | 4.50% | Cambridge, MD |
 | RAR Tropical Pulp | IPA | 6.20% | Cambridge, MD |
 | RAR Experimental Chessie | Double IPA | 8.50% | Cambridge, MD |
-| Peabody Heights Tears of Ra | Lager | 4.90% | Baltimore, MD |
 | Monocacy Radiance | Double IPA | 7.70% | Frederick, MD |
 | Mobtown Neon Dynasty | Rice Lager | 4.80% | Baltimore, MD |
-| Monocacy H.L. Rex | Session IPA | 4.70% | Frederick, MD |
+| Peabody Heights Tears of Ra | Lager | 4.90% | Baltimore, MD |
+| Peabody Heights Dummy | IPA | 7.00% | Baltimore, MD |
+| Peabody Heights Shark Mentality | IPA | 6.90% | Baltimore, MD |
 
 #### 🥫 Bottles & Cans (50)
 
@@ -46,7 +46,6 @@
 | Florida Seltzers (Ask for Flavors) | Hard Seltzer | 5.00% | Wanakee, WI |
 | Surfside Tea (Variety) | Spiked Tea | 5.00% | Philadelphia, PA |
 | Rotating Craft Ciders | Cider | *** | Everywhere |
-| Pommeau de Normande (5oz Pours) | Cider | 17.00% | France |
 | Dad Water  | Tequila Cocktail | 5.25% | Indianapolis, IN |
 | MY5 The Original or Tangerine  | Not Beer | 4.50% | Landsdale, PA |
 | Dunkin' Spiked Coffee | Not Beer | 6.00% | Boston, MA |
@@ -63,6 +62,7 @@
 | Monopolio IPA Especial | IPA | 6.20% | Mexico |
 | Monopolio Lager Negra | Amber Lager | 5.50% | Mexico |
 | Port City Monkspell | Belgian Tripel | 8.50% | Alexandria, VA |
+| South County Chill Haven | Amber Lager | 5.00% | York, PA |
 | *... and 30 more* | | | |
 
 
@@ -70,6 +70,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-03-31 17:18:48.946426 | 4 | 4 | 8 |
 | 2026-03-30 17:16:52.499120 | 0 | 0 | 0 |
 | 2026-03-29 17:06:51.206028 | 4 | 5 | 9 |
 | 2026-03-28 17:06:03.080635 | 6 | 3 | 9 |
@@ -79,16 +80,31 @@
 | 2026-03-24 17:18:37.431105 | 4 | 1 | 5 |
 | 2026-03-23 17:15:24.671683 | 3 | 3 | 6 |
 | 2026-03-22 17:04:08.454061 | 0 | 0 | 0 |
-| 2026-03-21 17:04:18.594590 | 4 | 3 | 7 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Peabody Heights Attack From the 80's | Stout |  | Bottle/Can | Baltimore, MD |
+| Peabody Heights Dummy | IPA | 7.00% | Draft | Baltimore, MD |
+| Peabody Heights Shark Mentality | IPA | 6.90% | Draft | Baltimore, MD |
+| Troegs Daylight Chaser | IPA | 6.30% | Bottle/Can | Hershey, PA |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Monocacy H.L. Rex | Session IPA | 4.70% | Draft | Frederick, MD |
+| Cigar City Jai Alai Light | IPA | 4.00% | Bottle/Can | Tampa, FL |
+| Pommeau de Normande (5oz Pours) | Cider | 17.00% | Bottle/Can | France |
+| Liquidity Bent River Sunset | IPA | 6.70% | Draft | Mount Airy, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 203
+- **Total Snapshots**: 204
 - **Current Beer Count**: 66
-- **Total Change Records**: 202
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-30 17:16:52.499120
+- **Total Change Records**: 203
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-31 17:18:48.946426
