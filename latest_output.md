@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-03-31 17:18:49*
+*Generated on 2026-04-01 17:16:23*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-04-01 17:16:23.563875 | 67 |
 | 2026-03-31 17:18:48.946426 | 66 |
 | 2026-03-30 17:16:52.499120 | 66 |
 | 2026-03-29 17:06:51.206028 | 66 |
@@ -14,11 +15,10 @@
 | 2026-03-25 17:20:00.311151 | 69 |
 | 2026-03-24 17:18:37.431105 | 71 |
 | 2026-03-23 17:15:24.671683 | 68 |
-| 2026-03-22 17:04:08.454061 | 68 |
 
 ### 🍺 Current Beer List
 
-#### 🍺 Draft Beers (16)
+#### 🍺 Draft Beers (17)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -35,6 +35,7 @@
 | RAR Experimental Chessie | Double IPA | 8.50% | Cambridge, MD |
 | Monocacy Radiance | Double IPA | 7.70% | Frederick, MD |
 | Mobtown Neon Dynasty | Rice Lager | 4.80% | Baltimore, MD |
+| Monocacy H.L. Rex | Session IPA | 4.70% | Frederick, MD |
 | Peabody Heights Tears of Ra | Lager | 4.90% | Baltimore, MD |
 | Peabody Heights Dummy | IPA | 7.00% | Baltimore, MD |
 | Peabody Heights Shark Mentality | IPA | 6.90% | Baltimore, MD |
@@ -70,6 +71,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-04-01 17:16:23.563875 | 2 | 1 | 3 |
 | 2026-03-31 17:18:48.946426 | 4 | 4 | 8 |
 | 2026-03-30 17:16:52.499120 | 0 | 0 | 0 |
 | 2026-03-29 17:06:51.206028 | 4 | 5 | 9 |
@@ -79,7 +81,6 @@
 | 2026-03-25 17:20:00.311151 | 1 | 3 | 4 |
 | 2026-03-24 17:18:37.431105 | 4 | 1 | 5 |
 | 2026-03-23 17:15:24.671683 | 3 | 3 | 6 |
-| 2026-03-22 17:04:08.454061 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -87,24 +88,19 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Peabody Heights Attack From the 80's | Stout |  | Bottle/Can | Baltimore, MD |
-| Peabody Heights Dummy | IPA | 7.00% | Draft | Baltimore, MD |
-| Peabody Heights Shark Mentality | IPA | 6.90% | Draft | Baltimore, MD |
-| Troegs Daylight Chaser | IPA | 6.30% | Bottle/Can | Hershey, PA |
+| Peabody Heights Attack From the 80's | Stout | 4.70% | Bottle/Can | Baltimore, MD |
+| Monocacy H.L. Rex | Session IPA | 4.70% | Draft | Frederick, MD |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Monocacy H.L. Rex | Session IPA | 4.70% | Draft | Frederick, MD |
-| Cigar City Jai Alai Light | IPA | 4.00% | Bottle/Can | Tampa, FL |
-| Pommeau de Normande (5oz Pours) | Cider | 17.00% | Bottle/Can | France |
-| Liquidity Bent River Sunset | IPA | 6.70% | Draft | Mount Airy, MD |
+| Peabody Heights Attack From the 80's | Stout |  | Bottle/Can | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 204
-- **Current Beer Count**: 66
-- **Total Change Records**: 203
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-03-31 17:18:48.946426
+- **Total Snapshots**: 205
+- **Current Beer Count**: 67
+- **Total Change Records**: 204
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-04-01 17:16:23.563875
