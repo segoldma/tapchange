@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-04-01 17:16:23*
+*Generated on 2026-04-02 17:14:50*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-04-02 17:14:50.458696 | 70 |
 | 2026-04-01 17:16:23.563875 | 67 |
 | 2026-03-31 17:18:48.946426 | 66 |
 | 2026-03-30 17:16:52.499120 | 66 |
@@ -14,7 +15,6 @@
 | 2026-03-26 17:20:45.913053 | 68 |
 | 2026-03-25 17:20:00.311151 | 69 |
 | 2026-03-24 17:18:37.431105 | 71 |
-| 2026-03-23 17:15:24.671683 | 68 |
 
 ### 🍺 Current Beer List
 
@@ -40,7 +40,7 @@
 | Peabody Heights Dummy | IPA | 7.00% | Baltimore, MD |
 | Peabody Heights Shark Mentality | IPA | 6.90% | Baltimore, MD |
 
-#### 🥫 Bottles & Cans (50)
+#### 🥫 Bottles & Cans (53)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -64,13 +64,14 @@
 | Monopolio Lager Negra | Amber Lager | 5.50% | Mexico |
 | Port City Monkspell | Belgian Tripel | 8.50% | Alexandria, VA |
 | South County Chill Haven | Amber Lager | 5.00% | York, PA |
-| *... and 30 more* | | | |
+| *... and 33 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-04-02 17:14:50.458696 | 3 | 0 | 3 |
 | 2026-04-01 17:16:23.563875 | 2 | 1 | 3 |
 | 2026-03-31 17:18:48.946426 | 4 | 4 | 8 |
 | 2026-03-30 17:16:52.499120 | 0 | 0 | 0 |
@@ -80,7 +81,6 @@
 | 2026-03-26 17:20:45.913053 | 0 | 1 | 1 |
 | 2026-03-25 17:20:00.311151 | 1 | 3 | 4 |
 | 2026-03-24 17:18:37.431105 | 4 | 1 | 5 |
-| 2026-03-23 17:15:24.671683 | 3 | 3 | 6 |
 
 ### 🆕 Latest Changes Details
 
@@ -88,19 +88,14 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Peabody Heights Attack From the 80's | Stout | 4.70% | Bottle/Can | Baltimore, MD |
-| Monocacy H.L. Rex | Session IPA | 4.70% | Draft | Frederick, MD |
-
-#### ➖ Removed Beers
-
-| Name | Style | ABV | Vessel | Location |
-|------|-------|-----|--------|----------|
-| Peabody Heights Attack From the 80's | Stout |  | Bottle/Can | Baltimore, MD |
+| Finback Dreamspace (16oz) | Sour Ale | 7.00% | Bottle/Can | Queens, NY |
+| Tired Hands/Omnipollo Strawberry Milkshake IPA (16oz) | IPA | 7.20% | Bottle/Can | Ardmore, PA |
+| Magnify Ecto Cooler (16oz) | Sour Ale | 6.00% | Bottle/Can | Fairfield, NJ |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 205
-- **Current Beer Count**: 67
-- **Total Change Records**: 204
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-04-01 17:16:23.563875
+- **Total Snapshots**: 206
+- **Current Beer Count**: 70
+- **Total Change Records**: 205
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-04-02 17:14:50.458696
