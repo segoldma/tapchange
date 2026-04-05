@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-04-04 17:07:28*
+*Generated on 2026-04-05 17:07:36*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-04-05 17:07:36.780080 | 71 |
 | 2026-04-04 17:07:28.781117 | 70 |
 | 2026-04-03 17:07:51.473813 | 69 |
 | 2026-04-02 17:14:50.458696 | 70 |
@@ -14,7 +15,6 @@
 | 2026-03-29 17:06:51.206028 | 66 |
 | 2026-03-28 17:06:03.080635 | 67 |
 | 2026-03-27 17:15:49.350611 | 64 |
-| 2026-03-26 17:20:45.913053 | 68 |
 
 ### 🍺 Current Beer List
 
@@ -28,19 +28,19 @@
 | Liquidity Wits About You | Witbier | 6.00% | Mount Airy, MD |
 | New Trail Superdelic Broken Heels | IPA | 7.00% | Williamsport, PA |
 | New Trail Rambler | Double IPA | 8.90% | Williamsport, PA |
-| Port City Doppelbock | Doppelbock | 8.20% | Alexandria, VA |
 | RAR Lite | Lager | 4.50% | Cambridge, MD |
 | RAR Tropical Pulp | IPA | 6.20% | Cambridge, MD |
 | RAR Experimental Chessie | Double IPA | 8.50% | Cambridge, MD |
-| Monocacy Radiance | Double IPA | 7.70% | Frederick, MD |
 | Monocacy H.L. Rex | Session IPA | 4.70% | Frederick, MD |
 | Peroni | Italian Lager | 4.70% | Italy |
 | Peabody Heights Tears of Ra | Lager | 4.90% | Baltimore, MD |
-| Peabody Heights Dummy | IPA | 7.00% | Baltimore, MD |
 | Peabody Heights Shark Mentality | IPA | 6.90% | Baltimore, MD |
 | Heavy Seas Little Loose | IPA | 3.90% | Baltimore, MD |
+| Coors Banquet | Lager | 5.00% | Golden, CO |
+| Left Hand Colorful Colorado IPA | IPA | 6.60% | Longmont, CO |
+| Jack's Abby/Warsteiner Fest of Both Worlds | Lager | 5.90% | Framingham, MA |
 
-#### 🥫 Bottles & Cans (53)
+#### 🥫 Bottles & Cans (54)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -64,13 +64,14 @@
 | Port City Monkspell | Belgian Tripel | 8.50% | Alexandria, VA |
 | 3 Floyds Apocalypse Cow (16oz) | DIPA | 9.80% | Munster, IN |
 | Black Flag Obsidian Flow | Black Lager | 5.20% | Columbia, MD |
-| *... and 33 more* | | | |
+| *... and 34 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-04-05 17:07:36.780080 | 6 | 4 | 10 |
 | 2026-04-04 17:07:28.781117 | 6 | 5 | 11 |
 | 2026-04-03 17:07:51.473813 | 1 | 2 | 3 |
 | 2026-04-02 17:14:50.458696 | 3 | 0 | 3 |
@@ -80,7 +81,6 @@
 | 2026-03-29 17:06:51.206028 | 4 | 5 | 9 |
 | 2026-03-28 17:06:03.080635 | 6 | 3 | 9 |
 | 2026-03-27 17:15:49.350611 | 3 | 8 | 11 |
-| 2026-03-26 17:20:45.913053 | 0 | 1 | 1 |
 
 ### 🆕 Latest Changes Details
 
@@ -88,27 +88,26 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Sixpoint Pineapple Resin | DIPA | 9.10% | Bottle/Can | Brooklyn, NY |
-| Ministry Peach Pilsner | Pilsner | 5.30% | Bottle/Can | Baltimore, MD |
-| Heavy Seas Little Loose | IPA | 3.90% | Draft | Baltimore, MD |
-| Founders Rubaeus | Fruited Ale | 5.70% | Bottle/Can | Grand Rapids, MI |
-| Peroni | Italian Lager | 4.70% | Draft | Italy |
-| Victory Witty Monkey | Wheat Ale | 9.50% | Bottle/Can | Downingtown, PA |
+| Southern Tier Steady Yeti | IPA | 3.80% | Bottle/Can | Lakewood, NY |
+| Coors Banquet | Lager | 5.00% | Draft | Golden, CO |
+| Southern Tier Early Bird | Fruited Ale | 4.50% | Bottle/Can | Lakewood, NY |
+| Southern Tier Cheat Day | Imperial Ale | 8.60% | Bottle/Can | Lakewood, NY |
+| Jack's Abby/Warsteiner Fest of Both Worlds | Lager | 5.90% | Draft | Framingham, MA |
+| Left Hand Colorful Colorado IPA | IPA | 6.60% | Draft | Longmont, CO |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Monopolio IPA Especial | IPA | 6.20% | Bottle/Can | Mexico |
-| Mobtown Neon Dynasty | Rice Lager | 4.80% | Draft | Baltimore, MD |
-| New Trail Broken Heels | IPA | 7.00% | Draft | Williamsport, PA |
-| South County Chill Haven | Amber Lager | 5.00% | Bottle/Can | York, PA |
-| Molson Golden | Lager | 5.00% | Bottle/Can | Canada |
+| Peabody Heights Dummy | IPA | 7.00% | Draft | Baltimore, MD |
+| Monocacy Radiance | Double IPA | 7.70% | Draft | Frederick, MD |
+| Southern Tier Cheat Day | Imperial Ale | 8.60% | Bottle/Can | Lakefront, NY |
+| Southern Tier Early Bird | Fruited Ale | 4.50% | Bottle/Can | Lakefront, NY |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 208
-- **Current Beer Count**: 70
-- **Total Change Records**: 207
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-04-04 17:07:28.781117
+- **Total Snapshots**: 209
+- **Current Beer Count**: 71
+- **Total Change Records**: 208
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-04-05 17:07:36.780080
