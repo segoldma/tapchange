@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-04-08 17:21:49*
+*Generated on 2026-04-09 17:22:48*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-04-09 17:22:48.780863 | 72 |
 | 2026-04-08 17:21:49.705245 | 71 |
 | 2026-04-07 17:19:26.569774 | 71 |
 | 2026-04-06 17:14:19.642501 | 71 |
@@ -14,7 +15,6 @@
 | 2026-04-02 17:14:50.458696 | 70 |
 | 2026-04-01 17:16:23.563875 | 67 |
 | 2026-03-31 17:18:48.946426 | 66 |
-| 2026-03-30 17:16:52.499120 | 66 |
 
 ### 🍺 Current Beer List
 
@@ -29,7 +29,6 @@
 | New Trail Superdelic Broken Heels | IPA | 7.00% | Williamsport, PA |
 | New Trail Rambler | Double IPA | 8.90% | Williamsport, PA |
 | RAR Lite | Lager | 4.50% | Cambridge, MD |
-| RAR Tropical Pulp | IPA | 6.20% | Cambridge, MD |
 | RAR Experimental Chessie | Double IPA | 8.50% | Cambridge, MD |
 | Monocacy H.L. Rex | Session IPA | 4.70% | Frederick, MD |
 | Peroni | Italian Lager | 4.70% | Italy |
@@ -39,8 +38,9 @@
 | Coors Banquet | Lager | 5.00% | Golden, CO |
 | Left Hand Colorful Colorado IPA | IPA | 6.60% | Longmont, CO |
 | Jack's Abby/Warsteiner Fest of Both Worlds | Lager | 5.90% | Framingham, MA |
+| Big Truck Cruiser Lime | Lager | 4.00% | Parkton, MD |
 
-#### 🥫 Bottles & Cans (54)
+#### 🥫 Bottles & Cans (55)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -64,13 +64,14 @@
 | Port City Monkspell | Belgian Tripel | 8.50% | Alexandria, VA |
 | 3 Floyds Apocalypse Cow (16oz) | DIPA | 9.80% | Munster, IN |
 | Black Flag Obsidian Flow | Black Lager | 5.20% | Columbia, MD |
-| *... and 34 more* | | | |
+| *... and 35 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-04-09 17:22:48.780863 | 2 | 1 | 3 |
 | 2026-04-08 17:21:49.705245 | 0 | 0 | 0 |
 | 2026-04-07 17:19:26.569774 | 0 | 0 | 0 |
 | 2026-04-06 17:14:19.642501 | 0 | 0 | 0 |
@@ -80,16 +81,26 @@
 | 2026-04-02 17:14:50.458696 | 3 | 0 | 3 |
 | 2026-04-01 17:16:23.563875 | 2 | 1 | 3 |
 | 2026-03-31 17:18:48.946426 | 4 | 4 | 8 |
-| 2026-03-30 17:16:52.499120 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Big Truck Cruiser Lime | Lager | 4.00% | Draft | Parkton, MD |
+| Sixpoint The Pursuit | IPA | 6.40% | Bottle/Can | Brooklyn, NY |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| RAR Tropical Pulp | IPA | 6.20% | Draft | Cambridge, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 212
-- **Current Beer Count**: 71
-- **Total Change Records**: 211
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-04-08 17:21:49.705245
+- **Total Snapshots**: 213
+- **Current Beer Count**: 72
+- **Total Change Records**: 212
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-04-09 17:22:48.780863
