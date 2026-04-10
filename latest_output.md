@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-04-09 17:22:48*
+*Generated on 2026-04-10 17:14:37*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-04-10 17:14:37.541925 | 72 |
 | 2026-04-09 17:22:48.780863 | 72 |
 | 2026-04-08 17:21:49.705245 | 71 |
 | 2026-04-07 17:19:26.569774 | 71 |
@@ -14,7 +15,6 @@
 | 2026-04-03 17:07:51.473813 | 69 |
 | 2026-04-02 17:14:50.458696 | 70 |
 | 2026-04-01 17:16:23.563875 | 67 |
-| 2026-03-31 17:18:48.946426 | 66 |
 
 ### 🍺 Current Beer List
 
@@ -25,13 +25,10 @@
 | Port City Doppelbock | Doppelbock | 8.20% | Alexandria, VA |
 | Sierra Nevada Rain Check | Stout | 8.90% | Chico, CA |
 | Guinness (Nitro) | Stout | 4.20% | Baltimore, MD |
-| Liquidity Wits About You | Witbier | 6.00% | Mount Airy, MD |
 | New Trail Superdelic Broken Heels | IPA | 7.00% | Williamsport, PA |
 | New Trail Rambler | Double IPA | 8.90% | Williamsport, PA |
 | RAR Lite | Lager | 4.50% | Cambridge, MD |
 | RAR Experimental Chessie | Double IPA | 8.50% | Cambridge, MD |
-| Monocacy H.L. Rex | Session IPA | 4.70% | Frederick, MD |
-| Peroni | Italian Lager | 4.70% | Italy |
 | Peabody Heights Tears of Ra | Lager | 4.90% | Baltimore, MD |
 | Peabody Heights Shark Mentality | IPA | 6.90% | Baltimore, MD |
 | Heavy Seas Little Loose | IPA | 3.90% | Baltimore, MD |
@@ -39,6 +36,9 @@
 | Left Hand Colorful Colorado IPA | IPA | 6.60% | Longmont, CO |
 | Jack's Abby/Warsteiner Fest of Both Worlds | Lager | 5.90% | Framingham, MA |
 | Big Truck Cruiser Lime | Lager | 4.00% | Parkton, MD |
+| Peabody Heights Orange H8erade | Sour Ale | 4.00% | Baltimore, MD |
+| Ten Eyck Zena Pivo | Lager | 4.50% | Queenstown, MD |
+| Dos Equis Lager Especial | Lager | 4.20% | Mexico |
 
 #### 🥫 Bottles & Cans (55)
 
@@ -71,6 +71,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-04-10 17:14:37.541925 | 4 | 4 | 8 |
 | 2026-04-09 17:22:48.780863 | 2 | 1 | 3 |
 | 2026-04-08 17:21:49.705245 | 0 | 0 | 0 |
 | 2026-04-07 17:19:26.569774 | 0 | 0 | 0 |
@@ -80,7 +81,6 @@
 | 2026-04-03 17:07:51.473813 | 1 | 2 | 3 |
 | 2026-04-02 17:14:50.458696 | 3 | 0 | 3 |
 | 2026-04-01 17:16:23.563875 | 2 | 1 | 3 |
-| 2026-03-31 17:18:48.946426 | 4 | 4 | 8 |
 
 ### 🆕 Latest Changes Details
 
@@ -88,19 +88,24 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Big Truck Cruiser Lime | Lager | 4.00% | Draft | Parkton, MD |
-| Sixpoint The Pursuit | IPA | 6.40% | Bottle/Can | Brooklyn, NY |
+| Peabody Heights Grape H8erade | Sour Ale | 4.00% | Bottle/Can | Baltimore, MD |
+| Peabody Heights Orange H8erade | Sour Ale | 4.00% | Draft | Baltimore, MD |
+| Dos Equis Lager Especial | Lager | 4.20% | Draft | Mexico |
+| Ten Eyck Zena Pivo | Lager | 4.50% | Draft | Queenstown, MD |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| RAR Tropical Pulp | IPA | 6.20% | Draft | Cambridge, MD |
+| Liquidity Wits About You | Witbier | 6.00% | Draft | Mount Airy, MD |
+| Cigar City Sumo Splash | Lager | 4.30% | Bottle/Can | Tampa, FL |
+| Monocacy H.L. Rex | Session IPA | 4.70% | Draft | Frederick, MD |
+| Peroni | Italian Lager | 4.70% | Draft | Italy |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 213
+- **Total Snapshots**: 214
 - **Current Beer Count**: 72
-- **Total Change Records**: 212
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-04-09 17:22:48.780863
+- **Total Change Records**: 213
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-04-10 17:14:37.541925
