@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-04-10 17:14:37*
+*Generated on 2026-04-11 17:08:09*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-04-11 17:08:08.905180 | 73 |
 | 2026-04-10 17:14:37.541925 | 72 |
 | 2026-04-09 17:22:48.780863 | 72 |
 | 2026-04-08 17:21:49.705245 | 71 |
@@ -14,7 +15,6 @@
 | 2026-04-04 17:07:28.781117 | 70 |
 | 2026-04-03 17:07:51.473813 | 69 |
 | 2026-04-02 17:14:50.458696 | 70 |
-| 2026-04-01 17:16:23.563875 | 67 |
 
 ### 🍺 Current Beer List
 
@@ -40,7 +40,7 @@
 | Ten Eyck Zena Pivo | Lager | 4.50% | Queenstown, MD |
 | Dos Equis Lager Especial | Lager | 4.20% | Mexico |
 
-#### 🥫 Bottles & Cans (55)
+#### 🥫 Bottles & Cans (56)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -64,13 +64,14 @@
 | Port City Monkspell | Belgian Tripel | 8.50% | Alexandria, VA |
 | 3 Floyds Apocalypse Cow (16oz) | DIPA | 9.80% | Munster, IN |
 | Black Flag Obsidian Flow | Black Lager | 5.20% | Columbia, MD |
-| *... and 35 more* | | | |
+| *... and 36 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-04-11 17:08:08.905180 | 1 | 0 | 1 |
 | 2026-04-10 17:14:37.541925 | 4 | 4 | 8 |
 | 2026-04-09 17:22:48.780863 | 2 | 1 | 3 |
 | 2026-04-08 17:21:49.705245 | 0 | 0 | 0 |
@@ -80,7 +81,6 @@
 | 2026-04-04 17:07:28.781117 | 6 | 5 | 11 |
 | 2026-04-03 17:07:51.473813 | 1 | 2 | 3 |
 | 2026-04-02 17:14:50.458696 | 3 | 0 | 3 |
-| 2026-04-01 17:16:23.563875 | 2 | 1 | 3 |
 
 ### 🆕 Latest Changes Details
 
@@ -88,24 +88,12 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Peabody Heights Grape H8erade | Sour Ale | 4.00% | Bottle/Can | Baltimore, MD |
-| Peabody Heights Orange H8erade | Sour Ale | 4.00% | Draft | Baltimore, MD |
-| Dos Equis Lager Especial | Lager | 4.20% | Draft | Mexico |
-| Ten Eyck Zena Pivo | Lager | 4.50% | Draft | Queenstown, MD |
-
-#### ➖ Removed Beers
-
-| Name | Style | ABV | Vessel | Location |
-|------|-------|-----|--------|----------|
-| Liquidity Wits About You | Witbier | 6.00% | Draft | Mount Airy, MD |
-| Cigar City Sumo Splash | Lager | 4.30% | Bottle/Can | Tampa, FL |
-| Monocacy H.L. Rex | Session IPA | 4.70% | Draft | Frederick, MD |
-| Peroni | Italian Lager | 4.70% | Draft | Italy |
+| Industrial Arts Wrench | IPA | 7.10% | Bottle/Can | Beacon, NY |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 214
-- **Current Beer Count**: 72
-- **Total Change Records**: 213
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-04-10 17:14:37.541925
+- **Total Snapshots**: 215
+- **Current Beer Count**: 73
+- **Total Change Records**: 214
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-04-11 17:08:08.905180
