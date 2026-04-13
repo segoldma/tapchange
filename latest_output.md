@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-04-12 17:08:49*
+*Generated on 2026-04-13 17:21:00*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-04-13 17:21:00.164227 | 73 |
 | 2026-04-12 17:08:49.790318 | 73 |
 | 2026-04-11 17:08:08.905180 | 73 |
 | 2026-04-10 17:14:37.541925 | 72 |
@@ -14,7 +15,6 @@
 | 2026-04-06 17:14:19.642501 | 71 |
 | 2026-04-05 17:07:36.780080 | 71 |
 | 2026-04-04 17:07:28.781117 | 70 |
-| 2026-04-03 17:07:51.473813 | 69 |
 
 ### 🍺 Current Beer List
 
@@ -27,7 +27,6 @@
 | Guinness (Nitro) | Stout | 4.20% | Baltimore, MD |
 | New Trail Superdelic Broken Heels | IPA | 7.00% | Williamsport, PA |
 | New Trail Rambler | Double IPA | 8.90% | Williamsport, PA |
-| RAR Lite | Lager | 4.50% | Cambridge, MD |
 | RAR Experimental Chessie | Double IPA | 8.50% | Cambridge, MD |
 | Peabody Heights Tears of Ra | Lager | 4.90% | Baltimore, MD |
 | Peabody Heights Shark Mentality | IPA | 6.90% | Baltimore, MD |
@@ -39,6 +38,7 @@
 | Ten Eyck Zena Pivo | Lager | 4.50% | Queenstown, MD |
 | Dos Equis Lager Especial | Lager | 4.20% | Mexico |
 | Sierra Nevada Summerfest | Lager | 5.00% | Chico, CA |
+| Sierra Nevada Teddington | Porter | 5.30% | Chico, CA |
 
 #### 🥫 Bottles & Cans (56)
 
@@ -71,6 +71,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-04-13 17:21:00.164227 | 1 | 1 | 2 |
 | 2026-04-12 17:08:49.790318 | 1 | 1 | 2 |
 | 2026-04-11 17:08:08.905180 | 1 | 0 | 1 |
 | 2026-04-10 17:14:37.541925 | 4 | 4 | 8 |
@@ -80,7 +81,6 @@
 | 2026-04-06 17:14:19.642501 | 0 | 0 | 0 |
 | 2026-04-05 17:07:36.780080 | 6 | 4 | 10 |
 | 2026-04-04 17:07:28.781117 | 6 | 5 | 11 |
-| 2026-04-03 17:07:51.473813 | 1 | 2 | 3 |
 
 ### 🆕 Latest Changes Details
 
@@ -88,18 +88,18 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Sierra Nevada Summerfest | Lager | 5.00% | Draft | Chico, CA |
+| Sierra Nevada Teddington | Porter | 5.30% | Draft | Chico, CA |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Heavy Seas Little Loose | IPA | 3.90% | Draft | Baltimore, MD |
+| RAR Lite | Lager | 4.50% | Draft | Cambridge, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 216
+- **Total Snapshots**: 217
 - **Current Beer Count**: 73
-- **Total Change Records**: 215
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-04-12 17:08:49.790318
+- **Total Change Records**: 216
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-04-13 17:21:00.164227
