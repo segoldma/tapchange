@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-04-13 17:21:00*
+*Generated on 2026-04-14 17:22:52*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-04-14 17:22:52.431396 | 74 |
 | 2026-04-13 17:21:00.164227 | 73 |
 | 2026-04-12 17:08:49.790318 | 73 |
 | 2026-04-11 17:08:08.905180 | 73 |
@@ -14,7 +15,6 @@
 | 2026-04-07 17:19:26.569774 | 71 |
 | 2026-04-06 17:14:19.642501 | 71 |
 | 2026-04-05 17:07:36.780080 | 71 |
-| 2026-04-04 17:07:28.781117 | 70 |
 
 ### 🍺 Current Beer List
 
@@ -28,7 +28,6 @@
 | New Trail Superdelic Broken Heels | IPA | 7.00% | Williamsport, PA |
 | New Trail Rambler | Double IPA | 8.90% | Williamsport, PA |
 | RAR Experimental Chessie | Double IPA | 8.50% | Cambridge, MD |
-| Peabody Heights Tears of Ra | Lager | 4.90% | Baltimore, MD |
 | Peabody Heights Shark Mentality | IPA | 6.90% | Baltimore, MD |
 | Coors Banquet | Lager | 5.00% | Golden, CO |
 | Left Hand Colorful Colorado IPA | IPA | 6.60% | Longmont, CO |
@@ -36,11 +35,12 @@
 | Big Truck Cruiser Lime | Lager | 4.00% | Parkton, MD |
 | Peabody Heights Orange H8erade | Sour Ale | 4.00% | Baltimore, MD |
 | Ten Eyck Zena Pivo | Lager | 4.50% | Queenstown, MD |
-| Dos Equis Lager Especial | Lager | 4.20% | Mexico |
+|  Dos Equis Lager Especial | Lager | 4.20% | Mexico |
 | Sierra Nevada Summerfest | Lager | 5.00% | Chico, CA |
 | Sierra Nevada Teddington | Porter | 5.30% | Chico, CA |
+| Sierra Nevada Mountain Magic | IPA | 7.40% | Chico, CA |
 
-#### 🥫 Bottles & Cans (56)
+#### 🥫 Bottles & Cans (57)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -64,13 +64,14 @@
 | Port City Monkspell | Belgian Tripel | 8.50% | Alexandria, VA |
 | 3 Floyds Apocalypse Cow (16oz) | DIPA | 9.80% | Munster, IN |
 | Black Flag Obsidian Flow | Black Lager | 5.20% | Columbia, MD |
-| *... and 36 more* | | | |
+| *... and 37 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-04-14 17:22:52.431396 | 3 | 2 | 5 |
 | 2026-04-13 17:21:00.164227 | 1 | 1 | 2 |
 | 2026-04-12 17:08:49.790318 | 1 | 1 | 2 |
 | 2026-04-11 17:08:08.905180 | 1 | 0 | 1 |
@@ -80,7 +81,6 @@
 | 2026-04-07 17:19:26.569774 | 0 | 0 | 0 |
 | 2026-04-06 17:14:19.642501 | 0 | 0 | 0 |
 | 2026-04-05 17:07:36.780080 | 6 | 4 | 10 |
-| 2026-04-04 17:07:28.781117 | 6 | 5 | 11 |
 
 ### 🆕 Latest Changes Details
 
@@ -88,18 +88,21 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Sierra Nevada Teddington | Porter | 5.30% | Draft | Chico, CA |
+| Sierra Nevada Atomic Torpedo (19.2oz, $10) | Imperial IPA | 9.20% | Bottle/Can | Chico, CA |
+|  Dos Equis Lager Especial | Lager | 4.20% | Draft | Mexico |
+| Sierra Nevada Mountain Magic | IPA | 7.40% | Draft | Chico, CA |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| RAR Lite | Lager | 4.50% | Draft | Cambridge, MD |
+| Dos Equis Lager Especial | Lager | 4.20% | Draft | Mexico |
+| Peabody Heights Tears of Ra | Lager | 4.90% | Draft | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 217
-- **Current Beer Count**: 73
-- **Total Change Records**: 216
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-04-13 17:21:00.164227
+- **Total Snapshots**: 218
+- **Current Beer Count**: 74
+- **Total Change Records**: 217
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-04-14 17:22:52.431396
