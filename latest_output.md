@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-04-16 17:26:42*
+*Generated on 2026-04-17 17:15:02*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-04-17 17:15:02.256017 | 73 |
 | 2026-04-16 17:26:42.530353 | 74 |
 | 2026-04-15 17:21:24.491618 | 74 |
 | 2026-04-14 17:22:52.431396 | 74 |
@@ -14,7 +15,6 @@
 | 2026-04-10 17:14:37.541925 | 72 |
 | 2026-04-09 17:22:48.780863 | 72 |
 | 2026-04-08 17:21:49.705245 | 71 |
-| 2026-04-07 17:19:26.569774 | 71 |
 
 ### 🍺 Current Beer List
 
@@ -26,7 +26,6 @@
 | Sierra Nevada Rain Check | Stout | 8.90% | Chico, CA |
 | Guinness (Nitro) | Stout | 4.20% | Baltimore, MD |
 | New Trail Superdelic Broken Heels | IPA | 7.00% | Williamsport, PA |
-| New Trail Rambler | Double IPA | 8.90% | Williamsport, PA |
 | RAR Experimental Chessie | Double IPA | 8.50% | Cambridge, MD |
 | Peabody Heights Shark Mentality | IPA | 6.90% | Baltimore, MD |
 | Coors Banquet | Lager | 5.00% | Golden, CO |
@@ -39,8 +38,9 @@
 | Sierra Nevada Summerfest | Lager | 5.00% | Chico, CA |
 | Sierra Nevada Teddington | Porter | 5.30% | Chico, CA |
 | Sierra Nevada Mountain Magic | IPA | 7.40% | Chico, CA |
+| Brassier du Mont Blanc La Rousse | Biere de Garde | 6.50% | France |
 
-#### 🥫 Bottles & Cans (57)
+#### 🥫 Bottles & Cans (56)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -64,13 +64,14 @@
 | Port City Monkspell | Belgian Tripel | 8.50% | Alexandria, VA |
 | 3 Floyds Apocalypse Cow (16oz) | DIPA | 9.80% | Munster, IN |
 | Black Flag Obsidian Flow | Black Lager | 5.20% | Columbia, MD |
-| *... and 37 more* | | | |
+| *... and 36 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-04-17 17:15:02.256017 | 2 | 3 | 5 |
 | 2026-04-16 17:26:42.530353 | 0 | 0 | 0 |
 | 2026-04-15 17:21:24.491618 | 0 | 0 | 0 |
 | 2026-04-14 17:22:52.431396 | 3 | 2 | 5 |
@@ -80,16 +81,28 @@
 | 2026-04-10 17:14:37.541925 | 4 | 4 | 8 |
 | 2026-04-09 17:22:48.780863 | 2 | 1 | 3 |
 | 2026-04-08 17:21:49.705245 | 0 | 0 | 0 |
-| 2026-04-07 17:19:26.569774 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Dewey Light Lime Lager | Lager | 4.00% | Bottle/Can | Lewes, DE |
+| Brassier du Mont Blanc La Rousse | Biere de Garde | 6.50% | Draft | France |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Founders All Day Peach | Hazy Session IPA | 4.70% | Bottle/Can | Grand Rapids, MI |
+| Milwaukee's Best Light | Lager | 4.10% | Bottle/Can | Milwaukee, WI |
+| New Trail Rambler | Double IPA | 8.90% | Draft | Williamsport, PA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 220
-- **Current Beer Count**: 74
-- **Total Change Records**: 219
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-04-16 17:26:42.530353
+- **Total Snapshots**: 221
+- **Current Beer Count**: 73
+- **Total Change Records**: 220
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-04-17 17:15:02.256017
