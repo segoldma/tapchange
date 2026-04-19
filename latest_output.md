@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-04-18 17:10:08*
+*Generated on 2026-04-19 17:10:07*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-04-19 17:10:07.375806 | 69 |
 | 2026-04-18 17:10:07.761750 | 69 |
 | 2026-04-17 17:15:02.256017 | 73 |
 | 2026-04-16 17:26:42.530353 | 74 |
@@ -14,7 +15,6 @@
 | 2026-04-12 17:08:49.790318 | 73 |
 | 2026-04-11 17:08:08.905180 | 73 |
 | 2026-04-10 17:14:37.541925 | 72 |
-| 2026-04-09 17:22:48.780863 | 72 |
 
 ### 🍺 Current Beer List
 
@@ -27,7 +27,6 @@
 | Guinness (Nitro) | Stout | 4.20% | Baltimore, MD |
 | New Trail Superdelic Broken Heels | IPA | 7.00% | Williamsport, PA |
 | RAR Experimental Chessie | Double IPA | 8.50% | Cambridge, MD |
-| Peabody Heights Shark Mentality | IPA | 6.90% | Baltimore, MD |
 | Coors Banquet | Lager | 5.00% | Golden, CO |
 | Left Hand Colorful Colorado IPA | IPA | 6.60% | Longmont, CO |
 | Jack's Abby/Warsteiner Fest of Both Worlds | Lager | 5.90% | Framingham, MA |
@@ -39,6 +38,7 @@
 | Sierra Nevada Teddington | Porter | 5.30% | Chico, CA |
 | Sierra Nevada Mountain Magic | IPA | 7.40% | Chico, CA |
 | Brassier du Mont Blanc La Rousse | Biere de Garde | 6.50% | France |
+| Burnish Peach Socks | Wheat Ale | 5.10% | Salisbury, MD |
 
 #### 🥫 Bottles & Cans (52)
 
@@ -71,6 +71,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-04-19 17:10:07.375806 | 1 | 1 | 2 |
 | 2026-04-18 17:10:07.761750 | 2 | 6 | 8 |
 | 2026-04-17 17:15:02.256017 | 2 | 3 | 5 |
 | 2026-04-16 17:26:42.530353 | 0 | 0 | 0 |
@@ -80,7 +81,6 @@
 | 2026-04-12 17:08:49.790318 | 1 | 1 | 2 |
 | 2026-04-11 17:08:08.905180 | 1 | 0 | 1 |
 | 2026-04-10 17:14:37.541925 | 4 | 4 | 8 |
-| 2026-04-09 17:22:48.780863 | 2 | 1 | 3 |
 
 ### 🆕 Latest Changes Details
 
@@ -88,24 +88,18 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Go Sunshine State Tropical IPA | N/A IPA | 0.50% | Bottle/Can | Naperville, IL |
-| Sloop Cruiser | Golden Ale | 4.20% | Bottle/Can | Hopewell Junction, NY |
+| Burnish Peach Socks | Wheat Ale | 5.10% | Draft | Salisbury, MD |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Great Lakes Irish Lager | Lager | 5.00% | Bottle/Can | Cleveland, OH |
-| Go The Story Double IPA | N/A DIPA | 0.50% | Bottle/Can | Naperville, IL |
-| Carib Lime Shandy | Shandy | 0.09% | Bottle/Can | Cape Canaveral, FL |
-| Monopolio Lager Negra | Amber Lager | 5.50% | Bottle/Can | Mexico |
-| Kasteel Donker (16.9oz) $11 | Quadrupel Ale | 11.00% | Bottle/Can | Belgium |
-| Troegs Daylight Chaser | IPA | 6.30% | Bottle/Can | Hershey, PA |
+| Peabody Heights Shark Mentality | IPA | 6.90% | Draft | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 222
+- **Total Snapshots**: 223
 - **Current Beer Count**: 69
-- **Total Change Records**: 221
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-04-18 17:10:07.761750
+- **Total Change Records**: 222
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-04-19 17:10:07.375806
