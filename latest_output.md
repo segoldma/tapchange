@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-04-23 17:28:46*
+*Generated on 2026-04-24 17:17:31*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-04-24 17:17:31.056299 | 53 |
 | 2026-04-23 17:28:46.169772 | 54 |
 | 2026-04-22 17:18:56.491597 | 52 |
 | 2026-04-21 17:19:39.746943 | 52 |
@@ -14,11 +15,10 @@
 | 2026-04-17 17:15:02.256017 | 73 |
 | 2026-04-16 17:26:42.530353 | 74 |
 | 2026-04-15 17:21:24.491618 | 74 |
-| 2026-04-14 17:22:52.431396 | 74 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (54)
+#### 🥫 Bottles & Cans (53)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -39,16 +39,17 @@
 | Calvert Playground Legend | DIPA | 9.20% | Salisbury, MD |
 | Port City Monkspell | Belgian Tripel | 8.50% | Alexandria, VA |
 | 3 Floyds Apocalypse Cow (16oz) | DIPA | 9.80% | Munster, IN |
-| Black Flag Obsidian Flow | Black Lager | 5.20% | Columbia, MD |
 | Firestone Walker Union Jack | IPA | 7.00% | Paso Robles, CA |
 | Schlafly Shorty's Small IPA | IPA | 3.00% | St. Louis, MO |
-| *... and 34 more* | | | |
+| Schlafly Shorty's Lager | Lager | 3.00% | St. Louis, MO |
+| *... and 33 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-04-24 17:17:31.056299 | 0 | 1 | 1 |
 | 2026-04-23 17:28:46.169772 | 2 | 0 | 2 |
 | 2026-04-22 17:18:56.491597 | 0 | 0 | 0 |
 | 2026-04-21 17:19:39.746943 | 8 | 26 | 34 |
@@ -58,21 +59,19 @@
 | 2026-04-17 17:15:02.256017 | 2 | 3 | 5 |
 | 2026-04-16 17:26:42.530353 | 0 | 0 | 0 |
 | 2026-04-15 17:21:24.491618 | 0 | 0 | 0 |
-| 2026-04-14 17:22:52.431396 | 3 | 2 | 5 |
 
 ### 🆕 Latest Changes Details
 
-#### ➕ Added Beers
+#### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Three Floyds Wig Splitter | Stout | 7.70% | Bottle/Can | Munster, IN |
-| Magnify Nerd Squad (16oz) | Sour Ale | 5.00% | Bottle/Can | Fairfield, NJ |
+| Black Flag Obsidian Flow | Black Lager | 5.20% | Bottle/Can | Columbia, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 227
-- **Current Beer Count**: 54
-- **Total Change Records**: 226
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-04-23 17:28:46.169772
+- **Total Snapshots**: 228
+- **Current Beer Count**: 53
+- **Total Change Records**: 227
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-04-24 17:17:31.056299
