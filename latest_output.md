@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-04-30 17:28:09*
+*Generated on 2026-05-01 17:19:07*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-05-01 17:19:06.877196 | 54 |
 | 2026-04-30 17:28:09.499983 | 52 |
 | 2026-04-29 17:29:16.754045 | 55 |
 | 2026-04-28 17:31:30.047060 | 54 |
@@ -14,11 +15,10 @@
 | 2026-04-24 17:17:31.056299 | 53 |
 | 2026-04-23 17:28:46.169772 | 54 |
 | 2026-04-22 17:18:56.491597 | 52 |
-| 2026-04-21 17:19:39.746943 | 52 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (52)
+#### 🥫 Bottles & Cans (54)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -42,13 +42,14 @@
 | Schlafly Shorty's Lemon Wheat | IPA | 3.00% | St. Louis, MO |
 | Troegs Night Gazer | Extra Stout | 7.10% | Hershey, PA |
 | Jack's Abby Framinghammer Tiramisu | Baltic Porter | 9.00% | Framingham, MA |
-| *... and 32 more* | | | |
+| *... and 34 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-05-01 17:19:06.877196 | 5 | 3 | 8 |
 | 2026-04-30 17:28:09.499983 | 1 | 4 | 5 |
 | 2026-04-29 17:29:16.754045 | 1 | 0 | 1 |
 | 2026-04-28 17:31:30.047060 | 0 | 0 | 0 |
@@ -58,7 +59,6 @@
 | 2026-04-24 17:17:31.056299 | 0 | 1 | 1 |
 | 2026-04-23 17:28:46.169772 | 2 | 0 | 2 |
 | 2026-04-22 17:18:56.491597 | 0 | 0 | 0 |
-| 2026-04-21 17:19:39.746943 | 8 | 26 | 34 |
 
 ### 🆕 Latest Changes Details
 
@@ -66,21 +66,24 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
+| Freedom Brew American Lager | Lager | 5.00% | Bottle/Can | Westminister, MD |
+| Industrial Arts Pocket Wrench | Pale Ale | 4.50% | Bottle/Can | Beacon, NY |
+| Sloop Premium Lager | Lager | 4.60% | Bottle/Can | Hopewell Junction, NY |
 | Heineken 0.0 | Lager | 5.00% | Bottle/Can | Holland |
+| Great Lakes Orange & Lime Shandy | Shandy | 4.00% | Bottle/Can | Cleveland, OH |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Burnish Northwood | IPA | 6.80% | Bottle/Can | Salisbury, MD |
-| Three Roads N150 | IPA | 6.80% | Bottle/Can | Lynchburg, VA |
-| Port City Monkspell | Belgian Tripel | 8.50% | Bottle/Can | Alexandria, VA |
-| Calvert Playground Legend | DIPA | 9.20% | Bottle/Can | Salisbury, MD |
+| Cushwa That'll Play | Lager | 4.20% | Bottle/Can | Williamsport, MD |
+| Finback Dreamspace (16oz) | Sour Ale | 7.00% | Bottle/Can | Queens, NY |
+| Heineken 0.0 | Lager | 5.00% | Bottle/Can | Holland |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 234
-- **Current Beer Count**: 52
-- **Total Change Records**: 233
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-04-30 17:28:09.499983
+- **Total Snapshots**: 235
+- **Current Beer Count**: 54
+- **Total Change Records**: 234
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-05-01 17:19:06.877196
