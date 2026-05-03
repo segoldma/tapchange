@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-05-02 17:14:21*
+*Generated on 2026-05-03 17:14:42*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-05-03 17:14:42.840917 | 52 |
 | 2026-05-02 17:14:21.544157 | 50 |
 | 2026-05-01 17:19:06.877196 | 54 |
 | 2026-04-30 17:28:09.499983 | 52 |
@@ -14,11 +15,10 @@
 | 2026-04-26 17:17:44.341920 | 54 |
 | 2026-04-25 17:12:23.139172 | 53 |
 | 2026-04-24 17:17:31.056299 | 53 |
-| 2026-04-23 17:28:46.169772 | 54 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (50)
+#### 🥫 Bottles & Cans (52)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -42,13 +42,14 @@
 | Troegs Night Gazer | Extra Stout | 7.10% | Hershey, PA |
 | Jack's Abby Framinghammer Tiramisu | Baltic Porter | 9.00% | Framingham, MA |
 | Stunt Double | Lager | 8.00% | Longmont, CO |
-| *... and 30 more* | | | |
+| *... and 32 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-05-03 17:14:42.840917 | 2 | 0 | 2 |
 | 2026-05-02 17:14:21.544157 | 1 | 5 | 6 |
 | 2026-05-01 17:19:06.877196 | 5 | 3 | 8 |
 | 2026-04-30 17:28:09.499983 | 1 | 4 | 5 |
@@ -58,7 +59,6 @@
 | 2026-04-26 17:17:44.341920 | 2 | 1 | 3 |
 | 2026-04-25 17:12:23.139172 | 2 | 2 | 4 |
 | 2026-04-24 17:17:31.056299 | 0 | 1 | 1 |
-| 2026-04-23 17:28:46.169772 | 2 | 0 | 2 |
 
 ### 🆕 Latest Changes Details
 
@@ -66,22 +66,13 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Super Lyte | RTD | 4.50% | Bottle/Can | Philadelphia, PA |
-
-#### ➖ Removed Beers
-
-| Name | Style | ABV | Vessel | Location |
-|------|-------|-----|--------|----------|
-| Molson XXX | Lager | 7.30% | Bottle/Can | Canada |
-| Molson Ice | Lager | 5.60% | Bottle/Can | Canada |
-| 3 Floyds Apocalypse Cow (16oz) | DIPA | 9.80% | Bottle/Can | Munster, IN |
-| Schlafly Shorty's Lemon Wheat | IPA | 3.00% | Bottle/Can | St. Louis, MO |
-| Industrial Arts Wrench | IPA | 7.10% | Bottle/Can | Beacon, NY |
+| Victory Tiki Monkey | Fruited Ale | 7.50% | Bottle/Can | Downingtown, PA |
+| Great Lakes Mexican Lager | Lager | 5.40% | Bottle/Can | Cleveland, OH |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 236
-- **Current Beer Count**: 50
-- **Total Change Records**: 235
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-05-02 17:14:21.544157
+- **Total Snapshots**: 237
+- **Current Beer Count**: 52
+- **Total Change Records**: 236
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-05-03 17:14:42.840917
