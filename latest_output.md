@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-05-07 17:31:18*
+*Generated on 2026-05-08 17:28:12*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-05-08 17:28:12.813168 | 51 |
 | 2026-05-07 17:31:18.822998 | 52 |
 | 2026-05-06 17:29:58.642548 | 52 |
 | 2026-05-05 17:29:43.054994 | 52 |
@@ -14,11 +15,10 @@
 | 2026-05-01 17:19:06.877196 | 54 |
 | 2026-04-30 17:28:09.499983 | 52 |
 | 2026-04-29 17:29:16.754045 | 55 |
-| 2026-04-28 17:31:30.047060 | 54 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (52)
+#### 🥫 Bottles & Cans (51)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -42,13 +42,14 @@
 | Troegs Night Gazer | Extra Stout | 7.10% | Hershey, PA |
 | Jack's Abby Framinghammer Tiramisu | Baltic Porter | 9.00% | Framingham, MA |
 | Stunt Double | Lager | 8.00% | Longmont, CO |
-| *... and 32 more* | | | |
+| *... and 31 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-05-08 17:28:12.813168 | 1 | 2 | 3 |
 | 2026-05-07 17:31:18.822998 | 0 | 0 | 0 |
 | 2026-05-06 17:29:58.642548 | 0 | 0 | 0 |
 | 2026-05-05 17:29:43.054994 | 0 | 0 | 0 |
@@ -58,16 +59,26 @@
 | 2026-05-01 17:19:06.877196 | 5 | 3 | 8 |
 | 2026-04-30 17:28:09.499983 | 1 | 4 | 5 |
 | 2026-04-29 17:29:16.754045 | 1 | 0 | 1 |
-| 2026-04-28 17:31:30.047060 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| New Trail 8th Orbit (16oz, $10) | Triple IPA | 10.80% | Bottle/Can | Williamsport, PA |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Southern Tier Early Bird | Fruited Ale | 4.50% | Bottle/Can | Lakewood, NY |
+| Ministry Peach Pilsner | Pilsner | 5.30% | Bottle/Can | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 241
-- **Current Beer Count**: 52
-- **Total Change Records**: 240
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-05-07 17:31:18.822998
+- **Total Snapshots**: 242
+- **Current Beer Count**: 51
+- **Total Change Records**: 241
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-05-08 17:28:12.813168
