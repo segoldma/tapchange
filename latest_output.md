@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-05-08 17:28:12*
+*Generated on 2026-05-09 17:17:01*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-05-09 17:17:01.142245 | 47 |
 | 2026-05-08 17:28:12.813168 | 51 |
 | 2026-05-07 17:31:18.822998 | 52 |
 | 2026-05-06 17:29:58.642548 | 52 |
@@ -14,11 +15,10 @@
 | 2026-05-02 17:14:21.544157 | 50 |
 | 2026-05-01 17:19:06.877196 | 54 |
 | 2026-04-30 17:28:09.499983 | 52 |
-| 2026-04-29 17:29:16.754045 | 55 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (51)
+#### 🥫 Bottles & Cans (47)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -42,13 +42,14 @@
 | Troegs Night Gazer | Extra Stout | 7.10% | Hershey, PA |
 | Jack's Abby Framinghammer Tiramisu | Baltic Porter | 9.00% | Framingham, MA |
 | Stunt Double | Lager | 8.00% | Longmont, CO |
-| *... and 31 more* | | | |
+| *... and 27 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-05-09 17:17:01.142245 | 0 | 4 | 4 |
 | 2026-05-08 17:28:12.813168 | 1 | 2 | 3 |
 | 2026-05-07 17:31:18.822998 | 0 | 0 | 0 |
 | 2026-05-06 17:29:58.642548 | 0 | 0 | 0 |
@@ -58,27 +59,22 @@
 | 2026-05-02 17:14:21.544157 | 1 | 5 | 6 |
 | 2026-05-01 17:19:06.877196 | 5 | 3 | 8 |
 | 2026-04-30 17:28:09.499983 | 1 | 4 | 5 |
-| 2026-04-29 17:29:16.754045 | 1 | 0 | 1 |
 
 ### 🆕 Latest Changes Details
-
-#### ➕ Added Beers
-
-| Name | Style | ABV | Vessel | Location |
-|------|-------|-----|--------|----------|
-| New Trail 8th Orbit (16oz, $10) | Triple IPA | 10.80% | Bottle/Can | Williamsport, PA |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Southern Tier Early Bird | Fruited Ale | 4.50% | Bottle/Can | Lakewood, NY |
-| Ministry Peach Pilsner | Pilsner | 5.30% | Bottle/Can | Baltimore, MD |
+| Denizens Czexican | Lager | 5.00% | Bottle/Can | Riverdale Park, MD |
+| Ballad Kolsch | Kolsch | 5.40% | Bottle/Can | Danville, VA |
+| Sixpoint The Pursuit | IPA | 6.40% | Bottle/Can | Brooklyn, NY |
+| Industrial Arts Hex Bolt | IPA | 6.00% | Bottle/Can | Beacon, NY |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 242
-- **Current Beer Count**: 51
-- **Total Change Records**: 241
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-05-08 17:28:12.813168
+- **Total Snapshots**: 243
+- **Current Beer Count**: 47
+- **Total Change Records**: 242
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-05-09 17:17:01.142245
