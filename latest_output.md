@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-05-09 17:17:01*
+*Generated on 2026-05-10 17:17:36*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-05-10 17:17:36.510990 | 47 |
 | 2026-05-09 17:17:01.142245 | 47 |
 | 2026-05-08 17:28:12.813168 | 51 |
 | 2026-05-07 17:31:18.822998 | 52 |
@@ -14,7 +15,6 @@
 | 2026-05-03 17:14:42.840917 | 52 |
 | 2026-05-02 17:14:21.544157 | 50 |
 | 2026-05-01 17:19:06.877196 | 54 |
-| 2026-04-30 17:28:09.499983 | 52 |
 
 ### 🍺 Current Beer List
 
@@ -49,6 +49,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-05-10 17:17:36.510990 | 1 | 1 | 2 |
 | 2026-05-09 17:17:01.142245 | 0 | 4 | 4 |
 | 2026-05-08 17:28:12.813168 | 1 | 2 | 3 |
 | 2026-05-07 17:31:18.822998 | 0 | 0 | 0 |
@@ -58,23 +59,25 @@
 | 2026-05-03 17:14:42.840917 | 2 | 0 | 2 |
 | 2026-05-02 17:14:21.544157 | 1 | 5 | 6 |
 | 2026-05-01 17:19:06.877196 | 5 | 3 | 8 |
-| 2026-04-30 17:28:09.499983 | 1 | 4 | 5 |
 
 ### 🆕 Latest Changes Details
+
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Sloop Berry Cruiser | Golden Ale | 4.20% | Bottle/Can | Hopewell Junction, NY |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Denizens Czexican | Lager | 5.00% | Bottle/Can | Riverdale Park, MD |
-| Ballad Kolsch | Kolsch | 5.40% | Bottle/Can | Danville, VA |
-| Sixpoint The Pursuit | IPA | 6.40% | Bottle/Can | Brooklyn, NY |
-| Industrial Arts Hex Bolt | IPA | 6.00% | Bottle/Can | Beacon, NY |
+| Freedom Brew Amber Lager | Amber Lager | 5.20% | Bottle/Can | Westminister, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 243
+- **Total Snapshots**: 244
 - **Current Beer Count**: 47
-- **Total Change Records**: 242
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-05-09 17:17:01.142245
+- **Total Change Records**: 243
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-05-10 17:17:36.510990
