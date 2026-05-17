@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-05-16 17:19:08*
+*Generated on 2026-05-17 17:19:41*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-05-17 17:19:41.285223 | 49 |
 | 2026-05-16 17:19:07.889332 | 48 |
 | 2026-05-15 17:29:28.041106 | 48 |
 | 2026-05-14 17:31:36.837942 | 48 |
@@ -14,11 +15,10 @@
 | 2026-05-10 17:17:36.510990 | 47 |
 | 2026-05-09 17:17:01.142245 | 47 |
 | 2026-05-08 17:28:12.813168 | 51 |
-| 2026-05-07 17:31:18.822998 | 52 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (48)
+#### 🥫 Bottles & Cans (49)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -42,13 +42,14 @@
 | Troegs Night Gazer | Extra Stout | 7.10% | Hershey, PA |
 | Jack's Abby Framinghammer Tiramisu | Baltic Porter | 9.00% | Framingham, MA |
 | Stunt Double | Lager | 8.00% | Longmont, CO |
-| *... and 28 more* | | | |
+| *... and 29 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-05-17 17:19:41.285223 | 2 | 1 | 3 |
 | 2026-05-16 17:19:07.889332 | 0 | 0 | 0 |
 | 2026-05-15 17:29:28.041106 | 0 | 0 | 0 |
 | 2026-05-14 17:31:36.837942 | 1 | 1 | 2 |
@@ -58,16 +59,26 @@
 | 2026-05-10 17:17:36.510990 | 1 | 1 | 2 |
 | 2026-05-09 17:17:01.142245 | 0 | 4 | 4 |
 | 2026-05-08 17:28:12.813168 | 1 | 2 | 3 |
-| 2026-05-07 17:31:18.822998 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Burley Oak Adventure | IPA | 5.10% | Bottle/Can | Berlin, MD |
+| Narragansett Lager | Lager | 5.00% | Bottle/Can | Providence, RI |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Dewey Light Lime Lager | Lager | 4.00% | Bottle/Can | Lewes, DE |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 250
-- **Current Beer Count**: 48
-- **Total Change Records**: 249
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-05-16 17:19:07.889332
+- **Total Snapshots**: 251
+- **Current Beer Count**: 49
+- **Total Change Records**: 250
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-05-17 17:19:41.285223
