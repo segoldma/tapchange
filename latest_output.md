@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-05-20 17:57:11*
+*Generated on 2026-05-21 17:39:00*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-05-21 17:39:00.545856 | 49 |
 | 2026-05-20 17:57:11.159641 | 49 |
 | 2026-05-19 17:44:28.590835 | 49 |
 | 2026-05-18 17:40:49.600458 | 49 |
@@ -14,7 +15,6 @@
 | 2026-05-14 17:31:36.837942 | 48 |
 | 2026-05-13 17:38:51.188205 | 48 |
 | 2026-05-12 17:37:48.696651 | 47 |
-| 2026-05-11 17:37:00.200509 | 47 |
 
 ### 🍺 Current Beer List
 
@@ -30,7 +30,7 @@
 | MY5 The Original or Tangerine  | Not Beer | 4.50% | Landsdale, PA |
 | Dunkin' Spiked Coffee | Not Beer | 6.00% | Boston, MA |
 | Hop Lark Hop Sour | Not Beer | 0.00% | Boulder, CO |
-| Go Sunshine State Tropical IPA | N/A IPA | 0.50% | Naperville, IL |
+| Best Day Brewing West Coast IPA | N/A IPA | 0.50% | Sausalito, CA |
 | Heineken 0.0 | N/A | 0.00% | Netherlands |
 | Mike's Harder Lemonade | Not Beer | 8.00% | Waddell, AZ |
 | Allagash White | Wheat Beer | 5.20% | Portland, ME |
@@ -49,6 +49,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-05-21 17:39:00.545856 | 1 | 1 | 2 |
 | 2026-05-20 17:57:11.159641 | 0 | 0 | 0 |
 | 2026-05-19 17:44:28.590835 | 0 | 0 | 0 |
 | 2026-05-18 17:40:49.600458 | 0 | 0 | 0 |
@@ -58,16 +59,25 @@
 | 2026-05-14 17:31:36.837942 | 1 | 1 | 2 |
 | 2026-05-13 17:38:51.188205 | 1 | 0 | 1 |
 | 2026-05-12 17:37:48.696651 | 0 | 0 | 0 |
-| 2026-05-11 17:37:00.200509 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Best Day Brewing West Coast IPA | N/A IPA | 0.50% | Bottle/Can | Sausalito, CA |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Go Sunshine State Tropical IPA | N/A IPA | 0.50% | Bottle/Can | Naperville, IL |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 254
+- **Total Snapshots**: 255
 - **Current Beer Count**: 49
-- **Total Change Records**: 253
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-05-20 17:57:11.159641
+- **Total Change Records**: 254
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-05-21 17:39:00.545856
