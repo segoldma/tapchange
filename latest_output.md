@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-05-26 17:58:25*
+*Generated on 2026-05-27 17:58:55*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-05-27 17:58:55.702622 | 47 |
 | 2026-05-26 17:58:25.450958 | 47 |
 | 2026-05-25 17:30:05.057050 | 47 |
 | 2026-05-24 17:19:28.247541 | 48 |
@@ -14,7 +15,6 @@
 | 2026-05-20 17:57:11.159641 | 49 |
 | 2026-05-19 17:44:28.590835 | 49 |
 | 2026-05-18 17:40:49.600458 | 49 |
-| 2026-05-17 17:19:41.285223 | 49 |
 
 ### 🍺 Current Beer List
 
@@ -49,6 +49,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-05-27 17:58:55.702622 | 1 | 1 | 2 |
 | 2026-05-26 17:58:25.450958 | 0 | 0 | 0 |
 | 2026-05-25 17:30:05.057050 | 4 | 5 | 9 |
 | 2026-05-24 17:19:28.247541 | 0 | 0 | 0 |
@@ -58,16 +59,25 @@
 | 2026-05-20 17:57:11.159641 | 0 | 0 | 0 |
 | 2026-05-19 17:44:28.590835 | 0 | 0 | 0 |
 | 2026-05-18 17:40:49.600458 | 0 | 0 | 0 |
-| 2026-05-17 17:19:41.285223 | 2 | 1 | 3 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Burlington Strawberry Whale Cake | Blonde Ale | 5.50% | Bottle/Can | Burlington, VT |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Heineken 0.0 | Lager | 5.00% | Bottle/Can | Holland |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 260
+- **Total Snapshots**: 261
 - **Current Beer Count**: 47
-- **Total Change Records**: 259
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-05-26 17:58:25.450958
+- **Total Change Records**: 260
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-05-27 17:58:55.702622
