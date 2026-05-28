@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-05-27 17:58:55*
+*Generated on 2026-05-28 18:00:55*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-05-28 18:00:55.362259 | 46 |
 | 2026-05-27 17:58:55.702622 | 47 |
 | 2026-05-26 17:58:25.450958 | 47 |
 | 2026-05-25 17:30:05.057050 | 47 |
@@ -14,11 +15,10 @@
 | 2026-05-21 17:39:00.545856 | 49 |
 | 2026-05-20 17:57:11.159641 | 49 |
 | 2026-05-19 17:44:28.590835 | 49 |
-| 2026-05-18 17:40:49.600458 | 49 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (47)
+#### 🥫 Bottles & Cans (46)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -40,15 +40,16 @@
 | Southern Tier Cheat Day | Imperial Ale | 8.60% | Lakewood, NY |
 | Freedom Brew American White Ale | White Ale | 5.00% | Westminister, MD |
 | Peabody Heights Attack From the 80's | Stout | 4.70% | Baltimore, MD |
-| Victory Witty Monkey | Wheat Ale | 9.50% | Downingtown, PA |
 | Founders Rubaeus | Fruited Ale | 5.70% | Grand Rapids, MI |
-| *... and 27 more* | | | |
+| Southern Tier Steady Yeti | IPA | 3.80% | Lakewood, NY |
+| *... and 26 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-05-28 18:00:55.362259 | 3 | 4 | 7 |
 | 2026-05-27 17:58:55.702622 | 1 | 1 | 2 |
 | 2026-05-26 17:58:25.450958 | 0 | 0 | 0 |
 | 2026-05-25 17:30:05.057050 | 4 | 5 | 9 |
@@ -58,7 +59,6 @@
 | 2026-05-21 17:39:00.545856 | 1 | 1 | 2 |
 | 2026-05-20 17:57:11.159641 | 0 | 0 | 0 |
 | 2026-05-19 17:44:28.590835 | 0 | 0 | 0 |
-| 2026-05-18 17:40:49.600458 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -66,18 +66,23 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
+| Burlington Bumbleberry Whale Cake | Blonde Ale | 5.50% | Bottle/Can | Burlington, VT |
+| Great Lakes Rally Drum | Shandy | 4.00% | Bottle/Can | Cleveland, OH |
 | Burlington Strawberry Whale Cake | Blonde Ale | 5.50% | Bottle/Can | Burlington, VT |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Heineken 0.0 | Lager | 5.00% | Bottle/Can | Holland |
+| Victory Witty Monkey | Wheat Ale | 9.50% | Bottle/Can | Downingtown, PA |
+| Industrial Arts Pocket Wrench | Pale Ale | 4.50% | Bottle/Can | Beacon, NY |
+| Peabody Heights Megalodon | Pilsner | 5.00% | Bottle/Can | Baltimore, MD |
+| Burlington Strawberry Whale Cake | Blonde Ale | 5.50% | Bottle/Can | Burlington, VT |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 261
-- **Current Beer Count**: 47
-- **Total Change Records**: 260
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-05-27 17:58:55.702622
+- **Total Snapshots**: 262
+- **Current Beer Count**: 46
+- **Total Change Records**: 261
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-05-28 18:00:55.362259
