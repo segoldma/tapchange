@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-05-28 18:00:55*
+*Generated on 2026-05-29 18:00:54*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-05-29 18:00:54.506963 | 48 |
 | 2026-05-28 18:00:55.362259 | 46 |
 | 2026-05-27 17:58:55.702622 | 47 |
 | 2026-05-26 17:58:25.450958 | 47 |
@@ -14,11 +15,10 @@
 | 2026-05-22 17:31:44.585476 | 49 |
 | 2026-05-21 17:39:00.545856 | 49 |
 | 2026-05-20 17:57:11.159641 | 49 |
-| 2026-05-19 17:44:28.590835 | 49 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (46)
+#### 🥫 Bottles & Cans (48)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -42,13 +42,14 @@
 | Peabody Heights Attack From the 80's | Stout | 4.70% | Baltimore, MD |
 | Founders Rubaeus | Fruited Ale | 5.70% | Grand Rapids, MI |
 | Southern Tier Steady Yeti | IPA | 3.80% | Lakewood, NY |
-| *... and 26 more* | | | |
+| *... and 28 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-05-29 18:00:54.506963 | 2 | 0 | 2 |
 | 2026-05-28 18:00:55.362259 | 3 | 4 | 7 |
 | 2026-05-27 17:58:55.702622 | 1 | 1 | 2 |
 | 2026-05-26 17:58:25.450958 | 0 | 0 | 0 |
@@ -58,7 +59,6 @@
 | 2026-05-22 17:31:44.585476 | 0 | 0 | 0 |
 | 2026-05-21 17:39:00.545856 | 1 | 1 | 2 |
 | 2026-05-20 17:57:11.159641 | 0 | 0 | 0 |
-| 2026-05-19 17:44:28.590835 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -66,23 +66,13 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Burlington Bumbleberry Whale Cake | Blonde Ale | 5.50% | Bottle/Can | Burlington, VT |
-| Great Lakes Rally Drum | Shandy | 4.00% | Bottle/Can | Cleveland, OH |
-| Burlington Strawberry Whale Cake | Blonde Ale | 5.50% | Bottle/Can | Burlington, VT |
-
-#### ➖ Removed Beers
-
-| Name | Style | ABV | Vessel | Location |
-|------|-------|-----|--------|----------|
-| Victory Witty Monkey | Wheat Ale | 9.50% | Bottle/Can | Downingtown, PA |
-| Industrial Arts Pocket Wrench | Pale Ale | 4.50% | Bottle/Can | Beacon, NY |
-| Peabody Heights Megalodon | Pilsner | 5.00% | Bottle/Can | Baltimore, MD |
-| Burlington Strawberry Whale Cake | Blonde Ale | 5.50% | Bottle/Can | Burlington, VT |
+| Sweetwater Salt Life Livin' Salty | Laager | 5.00% | Bottle/Can | Atlanta, GA |
+| Harpoon Day Drifter | IPA | 4.80% | Bottle/Can | Boston, MA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 262
-- **Current Beer Count**: 46
-- **Total Change Records**: 261
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-05-28 18:00:55.362259
+- **Total Snapshots**: 263
+- **Current Beer Count**: 48
+- **Total Change Records**: 262
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-05-29 18:00:54.506963
