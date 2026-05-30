@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-05-29 18:00:54*
+*Generated on 2026-05-30 17:21:48*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-05-30 17:21:48.737514 | 48 |
 | 2026-05-29 18:00:54.506963 | 48 |
 | 2026-05-28 18:00:55.362259 | 46 |
 | 2026-05-27 17:58:55.702622 | 47 |
@@ -14,7 +15,6 @@
 | 2026-05-23 17:19:59.078256 | 48 |
 | 2026-05-22 17:31:44.585476 | 49 |
 | 2026-05-21 17:39:00.545856 | 49 |
-| 2026-05-20 17:57:11.159641 | 49 |
 
 ### 🍺 Current Beer List
 
@@ -49,6 +49,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-05-30 17:21:48.737514 | 1 | 1 | 2 |
 | 2026-05-29 18:00:54.506963 | 2 | 0 | 2 |
 | 2026-05-28 18:00:55.362259 | 3 | 4 | 7 |
 | 2026-05-27 17:58:55.702622 | 1 | 1 | 2 |
@@ -58,7 +59,6 @@
 | 2026-05-23 17:19:59.078256 | 5 | 6 | 11 |
 | 2026-05-22 17:31:44.585476 | 0 | 0 | 0 |
 | 2026-05-21 17:39:00.545856 | 1 | 1 | 2 |
-| 2026-05-20 17:57:11.159641 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -66,13 +66,18 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Sweetwater Salt Life Livin' Salty | Laager | 5.00% | Bottle/Can | Atlanta, GA |
-| Harpoon Day Drifter | IPA | 4.80% | Bottle/Can | Boston, MA |
+| RAR From the Patch | Lager | 4.50% | Bottle/Can | Cambridge, MD |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Great Lakes Mexican Lager | Lager | 5.40% | Bottle/Can | Cleveland, OH |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 263
+- **Total Snapshots**: 264
 - **Current Beer Count**: 48
-- **Total Change Records**: 262
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-05-29 18:00:54.506963
+- **Total Change Records**: 263
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-05-30 17:21:48.737514
