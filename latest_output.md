@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-06-05 17:34:22*
+*Generated on 2026-06-06 17:24:23*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-06-06 17:24:23.022387 | 46 |
 | 2026-06-05 17:34:22.298372 | 46 |
 | 2026-06-04 17:50:37.189730 | 48 |
 | 2026-06-03 18:25:47.784107 | 48 |
@@ -14,7 +15,6 @@
 | 2026-05-30 17:21:48.737514 | 48 |
 | 2026-05-29 18:00:54.506963 | 48 |
 | 2026-05-28 18:00:55.362259 | 46 |
-| 2026-05-27 17:58:55.702622 | 47 |
 
 ### 🍺 Current Beer List
 
@@ -25,7 +25,7 @@
 | Florida Seltzers (Ask for Flavors) | Hard Seltzer | 5.00% | Wanakee, WI |
 | Surfside Tea (Variety) | Spiked Tea | 5.00% | Philadelphia, PA |
 | Super Lyte | RTD | 4.50% | Philadelphia, PA |
-| Sun Cruiser Classic Lemonade | Spiked Tea | 4.50% | Boston, MA |
+| Sun Cruiser Classic Lemonade | Hard Lemonade | 4.50% | Boston, MA |
 | Rotating Craft Ciders | Cider | *** | Everywhere |
 | Dad Water  | Tequila Cocktail | 5.25% | Indianapolis, IN |
 | MY5 The Original or Tangerine  | Not Beer | 4.50% | Landsdale, PA |
@@ -49,6 +49,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-06-06 17:24:23.022387 | 1 | 1 | 2 |
 | 2026-06-05 17:34:22.298372 | 2 | 4 | 6 |
 | 2026-06-04 17:50:37.189730 | 0 | 0 | 0 |
 | 2026-06-03 18:25:47.784107 | 0 | 0 | 0 |
@@ -58,7 +59,6 @@
 | 2026-05-30 17:21:48.737514 | 1 | 1 | 2 |
 | 2026-05-29 18:00:54.506963 | 2 | 0 | 2 |
 | 2026-05-28 18:00:55.362259 | 3 | 4 | 7 |
-| 2026-05-27 17:58:55.702622 | 1 | 1 | 2 |
 
 ### 🆕 Latest Changes Details
 
@@ -66,22 +66,18 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Harpoon Summer Style | Blonde Ale | 5.00% | Bottle/Can | Boston, MA |
-| Sun Cruiser Classic Lemonade | Spiked Tea | 4.50% | Bottle/Can | Boston, MA |
+| Sun Cruiser Classic Lemonade | Hard Lemonade | 4.50% | Bottle/Can | Boston, MA |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Sloop Premium Lager | Lager | 4.60% | Bottle/Can | Hopewell Junction, NY |
-| Harpoon Day Drifter | IPA | 4.80% | Bottle/Can | Boston, MA |
-| Burley Oak Adventure | IPA | 5.10% | Bottle/Can | Berlin, MD |
-| Bush Light Apple (16oz) | Lager | 4.10% | Bottle/Can | St. Louis, MO |
+| Sun Cruiser Classic Lemonade | Spiked Tea | 4.50% | Bottle/Can | Boston, MA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 270
+- **Total Snapshots**: 271
 - **Current Beer Count**: 46
-- **Total Change Records**: 269
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-06-05 17:34:22.298372
+- **Total Change Records**: 270
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-06-06 17:24:23.022387
