@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-06-06 17:24:23*
+*Generated on 2026-06-07 17:27:22*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-06-07 17:27:21.999033 | 45 |
 | 2026-06-06 17:24:23.022387 | 46 |
 | 2026-06-05 17:34:22.298372 | 46 |
 | 2026-06-04 17:50:37.189730 | 48 |
@@ -14,11 +15,10 @@
 | 2026-05-31 17:22:00.275949 | 48 |
 | 2026-05-30 17:21:48.737514 | 48 |
 | 2026-05-29 18:00:54.506963 | 48 |
-| 2026-05-28 18:00:55.362259 | 46 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (46)
+#### 🥫 Bottles & Cans (45)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -30,7 +30,6 @@
 | Dad Water  | Tequila Cocktail | 5.25% | Indianapolis, IN |
 | MY5 The Original or Tangerine  | Not Beer | 4.50% | Landsdale, PA |
 | Dunkin' Spiked Coffee | Not Beer | 6.00% | Boston, MA |
-| Hop Lark Hop Sour | Not Beer | 0.00% | Boulder, CO |
 | Best Day Brewing West Coast IPA | N/A IPA | 0.50% | Sausalito, CA |
 | Heineken 0.0 | N/A | 0.00% | Netherlands |
 | Hop Lark Zombie Plane | N/A | 0.00% | Boulder, CO |
@@ -42,13 +41,15 @@
 | Freedom Brew American White Ale | White Ale | 5.00% | Westminister, MD |
 | Peabody Heights Attack From the 80's | Stout | 4.70% | Baltimore, MD |
 | Founders Rubaeus | Fruited Ale | 5.70% | Grand Rapids, MI |
-| *... and 26 more* | | | |
+| Sierra Nevada Atomic Torpedo (19.2oz, $10) | Imperial IPA | 9.20% | Chico, CA |
+| *... and 25 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-06-07 17:27:21.999033 | 2 | 3 | 5 |
 | 2026-06-06 17:24:23.022387 | 1 | 1 | 2 |
 | 2026-06-05 17:34:22.298372 | 2 | 4 | 6 |
 | 2026-06-04 17:50:37.189730 | 0 | 0 | 0 |
@@ -58,7 +59,6 @@
 | 2026-05-31 17:22:00.275949 | 0 | 0 | 0 |
 | 2026-05-30 17:21:48.737514 | 1 | 1 | 2 |
 | 2026-05-29 18:00:54.506963 | 2 | 0 | 2 |
-| 2026-05-28 18:00:55.362259 | 3 | 4 | 7 |
 
 ### 🆕 Latest Changes Details
 
@@ -66,18 +66,21 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Sun Cruiser Classic Lemonade | Hard Lemonade | 4.50% | Bottle/Can | Boston, MA |
+| Bell's Oberon Light | Wheat Ale | 4.00% | Bottle/Can | Comstock, MI |
+| New Trail Crisp Lime | Lager | 4.80% | Bottle/Can | Williamsport, PA |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Sun Cruiser Classic Lemonade | Spiked Tea | 4.50% | Bottle/Can | Boston, MA |
+| Bottle Logic Fuzzy Logic | IPA | 7.10% | Bottle/Can | San Diego, CA |
+| Hop Lark Hop Sour | Not Beer | 0.00% | Bottle/Can | Boulder, CO |
+| Southern Tier Steady Yeti | IPA | 3.80% | Bottle/Can | Lakewood, NY |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 271
-- **Current Beer Count**: 46
-- **Total Change Records**: 270
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-06-06 17:24:23.022387
+- **Total Snapshots**: 272
+- **Current Beer Count**: 45
+- **Total Change Records**: 271
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-06-07 17:27:21.999033
