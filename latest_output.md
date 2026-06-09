@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-06-08 17:58:32*
+*Generated on 2026-06-09 17:36:59*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-06-09 17:36:59.337269 | 45 |
 | 2026-06-08 17:58:32.870617 | 45 |
 | 2026-06-07 17:27:21.999033 | 45 |
 | 2026-06-06 17:24:23.022387 | 46 |
@@ -14,7 +15,6 @@
 | 2026-06-02 18:14:47.818702 | 48 |
 | 2026-06-01 18:52:07.777064 | 48 |
 | 2026-05-31 17:22:00.275949 | 48 |
-| 2026-05-30 17:21:48.737514 | 48 |
 
 ### 🍺 Current Beer List
 
@@ -30,8 +30,8 @@
 | Dad Water  | Tequila Cocktail | 5.25% | Indianapolis, IN |
 | MY5 The Original or Tangerine  | Not Beer | 4.50% | Landsdale, PA |
 | Dunkin' Spiked Coffee | Not Beer | 6.00% | Boston, MA |
+| Hop WTR Blood Orange | Sparkling NA | 0.00% | Venice, CA |
 | Best Day Brewing West Coast IPA | N/A IPA | 0.50% | Sausalito, CA |
-| Heineken 0.0 | N/A | 0.00% | Netherlands |
 | Hop Lark Zombie Plane | N/A | 0.00% | Boulder, CO |
 | Mike's Harder Lemonade | Not Beer | 8.00% | Waddell, AZ |
 | Allagash White | Wheat Beer | 5.20% | Portland, ME |
@@ -49,6 +49,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-06-09 17:36:59.337269 | 2 | 2 | 4 |
 | 2026-06-08 17:58:32.870617 | 0 | 0 | 0 |
 | 2026-06-07 17:27:21.999033 | 2 | 3 | 5 |
 | 2026-06-06 17:24:23.022387 | 1 | 1 | 2 |
@@ -58,16 +59,27 @@
 | 2026-06-02 18:14:47.818702 | 0 | 0 | 0 |
 | 2026-06-01 18:52:07.777064 | 0 | 0 | 0 |
 | 2026-05-31 17:22:00.275949 | 0 | 0 | 0 |
-| 2026-05-30 17:21:48.737514 | 1 | 1 | 2 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Freedom Brew Lemon Shandy | Shandy | 4.70% | Bottle/Can | Westminister, MD |
+| Hop WTR Blood Orange | Sparkling NA | 0.00% | Bottle/Can | Venice, CA |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Victory Tiki Monkey | Fruited Ale | 7.50% | Bottle/Can | Downingtown, PA |
+| Heineken 0.0 | N/A | 0.00% | Bottle/Can | Netherlands |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 273
+- **Total Snapshots**: 274
 - **Current Beer Count**: 45
-- **Total Change Records**: 272
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-06-08 17:58:32.870617
+- **Total Change Records**: 273
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-06-09 17:36:59.337269
