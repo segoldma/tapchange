@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-06-09 17:36:59*
+*Generated on 2026-06-10 17:59:26*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-06-10 17:59:25.998149 | 47 |
 | 2026-06-09 17:36:59.337269 | 45 |
 | 2026-06-08 17:58:32.870617 | 45 |
 | 2026-06-07 17:27:21.999033 | 45 |
@@ -14,11 +15,10 @@
 | 2026-06-03 18:25:47.784107 | 48 |
 | 2026-06-02 18:14:47.818702 | 48 |
 | 2026-06-01 18:52:07.777064 | 48 |
-| 2026-05-31 17:22:00.275949 | 48 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (45)
+#### 🥫 Bottles & Cans (47)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -42,13 +42,14 @@
 | Peabody Heights Attack From the 80's | Stout | 4.70% | Baltimore, MD |
 | Founders Rubaeus | Fruited Ale | 5.70% | Grand Rapids, MI |
 | Sierra Nevada Atomic Torpedo (19.2oz, $10) | Imperial IPA | 9.20% | Chico, CA |
-| *... and 25 more* | | | |
+| *... and 27 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-06-10 17:59:25.998149 | 2 | 0 | 2 |
 | 2026-06-09 17:36:59.337269 | 2 | 2 | 4 |
 | 2026-06-08 17:58:32.870617 | 0 | 0 | 0 |
 | 2026-06-07 17:27:21.999033 | 2 | 3 | 5 |
@@ -58,7 +59,6 @@
 | 2026-06-03 18:25:47.784107 | 0 | 0 | 0 |
 | 2026-06-02 18:14:47.818702 | 0 | 0 | 0 |
 | 2026-06-01 18:52:07.777064 | 0 | 0 | 0 |
-| 2026-05-31 17:22:00.275949 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -66,20 +66,13 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Freedom Brew Lemon Shandy | Shandy | 4.70% | Bottle/Can | Westminister, MD |
-| Hop WTR Blood Orange | Sparkling NA | 0.00% | Bottle/Can | Venice, CA |
-
-#### ➖ Removed Beers
-
-| Name | Style | ABV | Vessel | Location |
-|------|-------|-----|--------|----------|
-| Victory Tiki Monkey | Fruited Ale | 7.50% | Bottle/Can | Downingtown, PA |
-| Heineken 0.0 | N/A | 0.00% | Bottle/Can | Netherlands |
+| Harpoon IPA | IPA | 6.00% | Bottle/Can | Boston, MA |
+| Kronenbourg Blanc (16.9oz) | Witbier | 5.00% | Bottle/Can | France |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 274
-- **Current Beer Count**: 45
-- **Total Change Records**: 273
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-06-09 17:36:59.337269
+- **Total Snapshots**: 275
+- **Current Beer Count**: 47
+- **Total Change Records**: 274
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-06-10 17:59:25.998149
