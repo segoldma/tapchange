@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-06-11 18:01:25*
+*Generated on 2026-06-12 17:44:48*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-06-12 17:44:48.371794 | 50 |
 | 2026-06-11 18:01:25.021354 | 47 |
 | 2026-06-10 17:59:25.998149 | 47 |
 | 2026-06-09 17:36:59.337269 | 45 |
@@ -14,11 +15,10 @@
 | 2026-06-05 17:34:22.298372 | 46 |
 | 2026-06-04 17:50:37.189730 | 48 |
 | 2026-06-03 18:25:47.784107 | 48 |
-| 2026-06-02 18:14:47.818702 | 48 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (47)
+#### 🥫 Bottles & Cans (50)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -42,13 +42,14 @@
 | Peabody Heights Attack From the 80's | Stout | 4.70% | Baltimore, MD |
 | Founders Rubaeus | Fruited Ale | 5.70% | Grand Rapids, MI |
 | Sierra Nevada Atomic Torpedo (19.2oz, $10) | Imperial IPA | 9.20% | Chico, CA |
-| *... and 27 more* | | | |
+| *... and 30 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-06-12 17:44:48.371794 | 3 | 0 | 3 |
 | 2026-06-11 18:01:25.021354 | 0 | 0 | 0 |
 | 2026-06-10 17:59:25.998149 | 2 | 0 | 2 |
 | 2026-06-09 17:36:59.337269 | 2 | 2 | 4 |
@@ -58,16 +59,21 @@
 | 2026-06-05 17:34:22.298372 | 2 | 4 | 6 |
 | 2026-06-04 17:50:37.189730 | 0 | 0 | 0 |
 | 2026-06-03 18:25:47.784107 | 0 | 0 | 0 |
-| 2026-06-02 18:14:47.818702 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Lindemans D'Or (8.4oz, $11) | Fruited Sour | 8.00% | Bottle/Can | Belgium |
+| Bitburger Premium Pils (16.9oz) | Pilsner | 4.80% | Bottle/Can | Germany |
+| Carlsberg (16.9oz) | Pilsner | 5.00% | Bottle/Can | Denmark |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 276
-- **Current Beer Count**: 47
-- **Total Change Records**: 275
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-06-11 18:01:25.021354
+- **Total Snapshots**: 277
+- **Current Beer Count**: 50
+- **Total Change Records**: 276
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-06-12 17:44:48.371794
