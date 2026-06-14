@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-06-13 17:28:19*
+*Generated on 2026-06-14 17:27:45*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-06-14 17:27:44.998382 | 50 |
 | 2026-06-13 17:28:18.966947 | 50 |
 | 2026-06-12 17:44:48.371794 | 50 |
 | 2026-06-11 18:01:25.021354 | 47 |
@@ -14,7 +15,6 @@
 | 2026-06-07 17:27:21.999033 | 45 |
 | 2026-06-06 17:24:23.022387 | 46 |
 | 2026-06-05 17:34:22.298372 | 46 |
-| 2026-06-04 17:50:37.189730 | 48 |
 
 ### 🍺 Current Beer List
 
@@ -49,6 +49,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-06-14 17:27:44.998382 | 3 | 3 | 6 |
 | 2026-06-13 17:28:18.966947 | 0 | 0 | 0 |
 | 2026-06-12 17:44:48.371794 | 3 | 0 | 3 |
 | 2026-06-11 18:01:25.021354 | 0 | 0 | 0 |
@@ -58,16 +59,29 @@
 | 2026-06-07 17:27:21.999033 | 2 | 3 | 5 |
 | 2026-06-06 17:24:23.022387 | 1 | 1 | 2 |
 | 2026-06-05 17:34:22.298372 | 2 | 4 | 6 |
-| 2026-06-04 17:50:37.189730 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Toppling Goliath Nectaron Dry Ho Pseudo Sue | Pale Ale | 5.80% | Bottle/Can | Decorah, IA |
+| Toppling Goliath Mosaic Dry Hop Pseudo Sue | Pale Ale | 5.80% | Bottle/Can | Decorah, IA |
+| Toppling Goliath Galaxy Dry Hop Pseudo Sue | Pale Ale | 5.80% | Bottle/Can | Decorah, IA |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Sweetwater Salt Life Livin' Salty | Laager | 5.00% | Bottle/Can | Atlanta, GA |
+| Sloop Cruiser | Golden Ale | 4.20% | Bottle/Can | Hopewell Junction, NY |
+| 3 Floyds Turob Reaper | IPA | 7.00% | Bottle/Can | Munster, IN |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 278
+- **Total Snapshots**: 279
 - **Current Beer Count**: 50
-- **Total Change Records**: 277
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-06-13 17:28:18.966947
+- **Total Change Records**: 278
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-06-14 17:27:44.998382
