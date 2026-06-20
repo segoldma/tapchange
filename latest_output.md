@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-06-19 17:33:18*
+*Generated on 2026-06-20 17:28:49*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-06-20 17:28:49.424050 | 53 |
 | 2026-06-19 17:33:18.215589 | 54 |
 | 2026-06-18 17:59:29.274029 | 53 |
 | 2026-06-17 17:52:44.573357 | 53 |
@@ -14,11 +15,10 @@
 | 2026-06-13 17:28:18.966947 | 50 |
 | 2026-06-12 17:44:48.371794 | 50 |
 | 2026-06-11 18:01:25.021354 | 47 |
-| 2026-06-10 17:59:25.998149 | 47 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (54)
+#### 🥫 Bottles & Cans (53)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -42,13 +42,14 @@
 | Freedom Brew American White Ale | White Ale | 5.00% | Westminister, MD |
 | Peabody Heights Attack From the 80's | Stout | 4.70% | Baltimore, MD |
 | Founders Rubaeus | Fruited Ale | 5.70% | Grand Rapids, MI |
-| *... and 34 more* | | | |
+| *... and 33 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-06-20 17:28:49.424050 | 2 | 3 | 5 |
 | 2026-06-19 17:33:18.215589 | 5 | 4 | 9 |
 | 2026-06-18 17:59:29.274029 | 0 | 0 | 0 |
 | 2026-06-17 17:52:44.573357 | 2 | 2 | 4 |
@@ -58,7 +59,6 @@
 | 2026-06-13 17:28:18.966947 | 0 | 0 | 0 |
 | 2026-06-12 17:44:48.371794 | 3 | 0 | 3 |
 | 2026-06-11 18:01:25.021354 | 0 | 0 | 0 |
-| 2026-06-10 17:59:25.998149 | 2 | 0 | 2 |
 
 ### 🆕 Latest Changes Details
 
@@ -66,25 +66,21 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Sun Cruiser Classic Lemonade | Hard Lemonade | 4.50% | Bottle/Can | Boston, MA |
-| Sun Cruiser Classic Iced Tea | Hard Tea | 4.50% | Bottle/Can | Boston, MA |
-| First State Cosmic Justice | Mexican Lager | 5.50% | Bottle/Can | Middleton, DE |
-| Traquair Jacobite Ale ($13.50) | Scotch Ale | 8.00% | Bottle/Can | Scotland |
-| Union Greetings From Union | IPA | 3.33% | Bottle/Can | Baltimore, MD |
+| Kronenbourg 1664 (16.9oz) | Lager | 5.00% | Bottle/Can | France |
+| Coors Banquet | Lager | 5.00% | Bottle/Can | Golden, CO |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Ataquair Jacobite Ale ($13.50) | Scotch Ale | 8.00% | Bottle/Can | Scotland |
-| Industrial Arts Metric Pils | Pilsner | 4.70% | Bottle/Can | Beacon, NY |
-| Key Speed Wobbles | Session IPA | 4.60% | Bottle/Can | Baltimore, MD |
-| Sun Cruiser Classic Lemonade | Hard Lemonade | 4.50% | Bottle/Can | Boston, MA |
+| Carlsberg (16.9oz) | Pilsner | 5.00% | Bottle/Can | Denmark |
+| Bitburger Premium Pils (16.9oz) | Pilsner | 4.80% | Bottle/Can | Germany |
+| Kronenbourg Blanc (16.9oz) | Witbier | 5.00% | Bottle/Can | France |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 284
-- **Current Beer Count**: 54
-- **Total Change Records**: 283
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-06-19 17:33:18.215589
+- **Total Snapshots**: 285
+- **Current Beer Count**: 53
+- **Total Change Records**: 284
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-06-20 17:28:49.424050
