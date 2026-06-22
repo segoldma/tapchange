@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-06-21 17:29:13*
+*Generated on 2026-06-22 18:19:47*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-06-22 18:19:47.776992 | 52 |
 | 2026-06-21 17:29:13.000187 | 53 |
 | 2026-06-20 17:28:49.424050 | 53 |
 | 2026-06-19 17:33:18.215589 | 54 |
@@ -14,11 +15,10 @@
 | 2026-06-15 18:28:56.106814 | 50 |
 | 2026-06-14 17:27:44.998382 | 50 |
 | 2026-06-13 17:28:18.966947 | 50 |
-| 2026-06-12 17:44:48.371794 | 50 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (53)
+#### 🥫 Bottles & Cans (52)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -32,23 +32,24 @@
 | MY5 The Original or Tangerine  | Not Beer | 4.50% | Landsdale, PA |
 | Dunkin' Spiked Coffee | Not Beer | 6.00% | Boston, MA |
 | Hop WTR Blood Orange | Sparkling NA | 0.00% | Venice, CA |
-| Best Day Brewing West Coast IPA | N/A IPA | 0.50% | Sausalito, CA |
 | Hop Lark Zombie Plane | N/A | 0.00% | Boulder, CO |
 | Mike's Harder Lemonade | Not Beer | 8.00% | Waddell, AZ |
 | Allagash White | Wheat Beer | 5.20% | Portland, ME |
-| Schlafly Shorty's Small IPA | IPA | 3.00% | St. Louis, MO |
 | Jack's Abby Framinghammer Tiramisu | Baltic Porter | 9.00% | Framingham, MA |
 | Southern Tier Cheat Day | Imperial Ale | 8.60% | Lakewood, NY |
 | Freedom Brew American White Ale | White Ale | 5.00% | Westminister, MD |
 | Peabody Heights Attack From the 80's | Stout | 4.70% | Baltimore, MD |
-| Founders Rubaeus | Fruited Ale | 5.70% | Grand Rapids, MI |
-| *... and 33 more* | | | |
+| Sierra Nevada Atomic Torpedo (19.2oz, $10) | Imperial IPA | 9.20% | Chico, CA |
+| Great Lakes Orange & Honey Wheat | Wheat Ale | 5.50% | Cleveland, OH |
+| Three Floyds Wig Splitter | Stout | 7.70% | Munster, IN |
+| *... and 32 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-06-22 18:19:47.776992 | 4 | 5 | 9 |
 | 2026-06-21 17:29:13.000187 | 0 | 0 | 0 |
 | 2026-06-20 17:28:49.424050 | 2 | 3 | 5 |
 | 2026-06-19 17:33:18.215589 | 5 | 4 | 9 |
@@ -58,16 +59,32 @@
 | 2026-06-15 18:28:56.106814 | 0 | 0 | 0 |
 | 2026-06-14 17:27:44.998382 | 3 | 3 | 6 |
 | 2026-06-13 17:28:18.966947 | 0 | 0 | 0 |
-| 2026-06-12 17:44:48.371794 | 3 | 0 | 3 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Sloop Premium Lager | Lager | 4.60% | Bottle/Can | Hopewell Junction |
+| Troegs Pennsylvania Lager (16oz) | Lager | 5.00% | Bottle/Can | Hershey, PA |
+| Sloop Juice Bomb | IPA | 6.50% | Bottle/Can | Hopewell Junction |
+| Sierra Nevada Atomic Torpedo (19.2oz, $10) | DIPA | 9.20% | Bottle/Can | Chico, CA |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Best Day Brewing West Coast IPA | N/A IPA | 0.50% | Bottle/Can | Sausalito, CA |
+| Schlafly Shorty's Small IPA | IPA | 3.00% | Bottle/Can | St. Louis, MO |
+| Coors Banquet | Lager | 5.00% | Bottle/Can | Golden, CO |
+| Founders Rubaeus | Fruited Ale | 5.70% | Bottle/Can | Grand Rapids, MI |
+| Sixpoint Summer Sesh | Lager | 5.30% | Bottle/Can | Brooklyn, NY |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 286
-- **Current Beer Count**: 53
-- **Total Change Records**: 285
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-06-21 17:29:13.000187
+- **Total Snapshots**: 287
+- **Current Beer Count**: 52
+- **Total Change Records**: 286
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-06-22 18:19:47.776992
