@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-06-23 17:32:31*
+*Generated on 2026-06-24 17:34:26*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-06-24 17:34:26.216561 | 50 |
 | 2026-06-23 17:32:31.009484 | 52 |
 | 2026-06-22 18:19:47.776992 | 52 |
 | 2026-06-21 17:29:13.000187 | 53 |
@@ -14,11 +15,10 @@
 | 2026-06-17 17:52:44.573357 | 53 |
 | 2026-06-16 18:28:52.136638 | 53 |
 | 2026-06-15 18:28:56.106814 | 50 |
-| 2026-06-14 17:27:44.998382 | 50 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (52)
+#### 🥫 Bottles & Cans (50)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -42,13 +42,14 @@
 | Sierra Nevada Atomic Torpedo (19.2oz, $10) | Imperial IPA | 9.20% | Chico, CA |
 | Great Lakes Orange & Honey Wheat | Wheat Ale | 5.50% | Cleveland, OH |
 | Three Floyds Wig Splitter | Stout | 7.70% | Munster, IN |
-| *... and 32 more* | | | |
+| *... and 30 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-06-24 17:34:26.216561 | 0 | 2 | 2 |
 | 2026-06-23 17:32:31.009484 | 0 | 0 | 0 |
 | 2026-06-22 18:19:47.776992 | 4 | 5 | 9 |
 | 2026-06-21 17:29:13.000187 | 0 | 0 | 0 |
@@ -58,16 +59,20 @@
 | 2026-06-17 17:52:44.573357 | 2 | 2 | 4 |
 | 2026-06-16 18:28:52.136638 | 3 | 0 | 3 |
 | 2026-06-15 18:28:56.106814 | 0 | 0 | 0 |
-| 2026-06-14 17:27:44.998382 | 3 | 3 | 6 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Harpoon Summer Style | Blonde Ale | 5.00% | Bottle/Can | Boston, MA |
+| Narragansett Lager | Lager | 5.00% | Bottle/Can | Providence, RI |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 288
-- **Current Beer Count**: 52
-- **Total Change Records**: 287
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-06-23 17:32:31.009484
+- **Total Snapshots**: 289
+- **Current Beer Count**: 50
+- **Total Change Records**: 288
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-06-24 17:34:26.216561
