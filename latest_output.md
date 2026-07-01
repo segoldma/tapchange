@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-06-30 17:32:22*
+*Generated on 2026-07-01 17:34:05*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-07-01 17:34:05.566915 | 45 |
 | 2026-06-30 17:32:22.597662 | 47 |
 | 2026-06-29 17:49:37.508343 | 47 |
 | 2026-06-28 17:24:22.817665 | 47 |
@@ -14,11 +15,10 @@
 | 2026-06-24 17:34:26.216561 | 50 |
 | 2026-06-23 17:32:31.009484 | 52 |
 | 2026-06-22 18:19:47.776992 | 52 |
-| 2026-06-21 17:29:13.000187 | 53 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (47)
+#### 🥫 Bottles & Cans (45)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -42,13 +42,14 @@
 | Peabody Heights Attack From the 80's | Stout | 4.70% | Baltimore, MD |
 | Great Lakes Orange & Honey Wheat | Wheat Ale | 5.50% | Cleveland, OH |
 | Three Floyds Wig Splitter | Stout | 7.70% | Munster, IN |
-| *... and 27 more* | | | |
+| *... and 25 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-07-01 17:34:05.566915 | 3 | 5 | 8 |
 | 2026-06-30 17:32:22.597662 | 0 | 0 | 0 |
 | 2026-06-29 17:49:37.508343 | 0 | 0 | 0 |
 | 2026-06-28 17:24:22.817665 | 5 | 5 | 10 |
@@ -58,16 +59,31 @@
 | 2026-06-24 17:34:26.216561 | 0 | 2 | 2 |
 | 2026-06-23 17:32:31.009484 | 0 | 0 | 0 |
 | 2026-06-22 18:19:47.776992 | 4 | 5 | 9 |
-| 2026-06-21 17:29:13.000187 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Soul Tone IPA | IPA | 2.50% | Bottle/Can | Pottstown, PA |
+| Avery Yuzilla | Fruited Ale | 4.90% | Bottle/Can | Bolder, CO |
+| Piraat 7 (16.9oz, $10) | Belgian Ale | 7.00% | Bottle/Can | Belgium |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Kronenbourg 1664 (16.9oz) | Lager | 5.00% | Bottle/Can | France |
+| Toppling Goliath Galaxy Dry Hop Pseudo Sue | Pale Ale | 5.80% | Bottle/Can | Decorah, IA |
+| Sloop Premium Lager | Lager | 4.60% | Bottle/Can | Hopewell Junction |
+| Ballad Just Pressed | Sour Ale | 5.50% | Bottle/Can | Danville, VA |
+| Toppling Goliath Double Dry Hopped Pseudo Sue | Pale Ale | 5.80% | Bottle/Can | Decorah, IA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 295
-- **Current Beer Count**: 47
-- **Total Change Records**: 294
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-06-30 17:32:22.597662
+- **Total Snapshots**: 296
+- **Current Beer Count**: 45
+- **Total Change Records**: 295
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-07-01 17:34:05.566915
