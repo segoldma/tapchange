@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-07-08 18:11:58*
+*Generated on 2026-07-09 18:44:33*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-07-09 18:44:33.014108 | 40 |
 | 2026-07-08 18:11:58.556590 | 41 |
 | 2026-07-07 18:53:16.559432 | 41 |
 | 2026-07-06 18:48:40.487411 | 41 |
@@ -14,11 +15,10 @@
 | 2026-07-02 17:31:51.109944 | 44 |
 | 2026-07-01 17:34:05.566915 | 45 |
 | 2026-06-30 17:32:22.597662 | 47 |
-| 2026-06-29 17:49:37.508343 | 47 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (41)
+#### 🥫 Bottles & Cans (40)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -42,13 +42,14 @@
 | Great Lakes Rally Drum | Shandy | 4.00% | Cleveland, OH |
 | Burlington Bumbleberry Whale Cake | Blonde Ale | 5.50% | Burlington, VT |
 | Freedom Brew Lemon Shandy | Shandy | 4.70% | Westminister, MD |
-| *... and 21 more* | | | |
+| *... and 20 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-07-09 18:44:33.014108 | 0 | 1 | 1 |
 | 2026-07-08 18:11:58.556590 | 0 | 0 | 0 |
 | 2026-07-07 18:53:16.559432 | 0 | 0 | 0 |
 | 2026-07-06 18:48:40.487411 | 0 | 0 | 0 |
@@ -58,16 +59,19 @@
 | 2026-07-02 17:31:51.109944 | 1 | 2 | 3 |
 | 2026-07-01 17:34:05.566915 | 3 | 5 | 8 |
 | 2026-06-30 17:32:22.597662 | 0 | 0 | 0 |
-| 2026-06-29 17:49:37.508343 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Sloop Cruiser | Blonde Ale | 4.20% | Bottle/Can | Hopewell Junction |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 303
-- **Current Beer Count**: 41
-- **Total Change Records**: 302
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-07-08 18:11:58.556590
+- **Total Snapshots**: 304
+- **Current Beer Count**: 40
+- **Total Change Records**: 303
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-07-09 18:44:33.014108
