@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-07-18 17:45:31*
+*Generated on 2026-07-19 17:46:18*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-07-19 17:46:18.175491 | 46 |
 | 2026-07-18 17:45:31.363283 | 47 |
 | 2026-07-17 17:56:15.900523 | 47 |
 | 2026-07-16 17:58:02.380075 | 43 |
@@ -14,11 +15,10 @@
 | 2026-07-12 17:48:33.786146 | 42 |
 | 2026-07-11 17:44:09.840450 | 44 |
 | 2026-07-10 18:15:21.308269 | 42 |
-| 2026-07-09 18:44:33.014108 | 40 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (47)
+#### 🥫 Bottles & Cans (46)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -34,7 +34,6 @@
 | Austin Eastsiders Brazilian Limeade | Hard Limeade | 6.50% | Armada, MI |
 | Allagash White | Wheat Beer | 5.20% | Portland, ME |
 | Jack's Abby Framinghammer Tiramisu | Baltic Porter | 9.00% | Framingham, MA |
-| Southern Tier Cheat Day | Imperial Ale | 8.60% | Lakewood, NY |
 | New Trail 8th Orbit (16oz, $10) | Triple IPA | 10.80% | Williamsport, PA |
 | Trappistes Rochefort Tripel Extra ($15) | Belgian Tripel | 8.10% | Belgium |
 | Ayinger Altbairisch Dunkel (16.9oz, $10) | Dunkel | 5.00% | Germany |
@@ -42,13 +41,15 @@
 | Firestone Walker IPA | IPA | 6.50% | Paso Robles, CA |
 | Victory Prima Light | Pilsner | 4.20% | Downingtown, PA |
 | Abita 40th Anniversary | Blonde Ale | 8.00% | Covington, LA |
-| *... and 27 more* | | | |
+| Oskar Blues Dale's American IPA | IPA | 6.90% | Longmont, CO |
+| *... and 26 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-07-19 17:46:18.175491 | 1 | 2 | 3 |
 | 2026-07-18 17:45:31.363283 | 2 | 2 | 4 |
 | 2026-07-17 17:56:15.900523 | 4 | 0 | 4 |
 | 2026-07-16 17:58:02.380075 | 0 | 0 | 0 |
@@ -58,7 +59,6 @@
 | 2026-07-12 17:48:33.786146 | 2 | 4 | 6 |
 | 2026-07-11 17:44:09.840450 | 2 | 0 | 2 |
 | 2026-07-10 18:15:21.308269 | 4 | 2 | 6 |
-| 2026-07-09 18:44:33.014108 | 0 | 1 | 1 |
 
 ### 🆕 Latest Changes Details
 
@@ -66,20 +66,19 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Ommegang Dream Patch (16oz) | Sour Ale | 6.50% | Bottle/Can | Cooperstown, NY |
-| Mahou Cinco Estrellas (16.9oz0 | Lager | 5.50% | Bottle/Can | Spain |
+| Mahou Cinco Estrellas (16.9oz) | Lager | 5.50% | Bottle/Can | Spain |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Great Lakes Rally Drum | Shandy | 4.00% | Bottle/Can | Cleveland, OH |
-| Freedom Brew Lemon Shandy | Shandy | 4.70% | Bottle/Can | Westminister, MD |
+| Mahou Cinco Estrellas (16.9oz0 | Lager | 5.50% | Bottle/Can | Spain |
+| Southern Tier Cheat Day | Imperial Ale | 8.60% | Bottle/Can | Lakewood, NY |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 313
-- **Current Beer Count**: 47
-- **Total Change Records**: 312
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-07-18 17:45:31.363283
+- **Total Snapshots**: 314
+- **Current Beer Count**: 46
+- **Total Change Records**: 313
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-07-19 17:46:18.175491
