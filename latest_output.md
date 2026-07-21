@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-07-20 18:47:05*
+*Generated on 2026-07-21 18:07:02*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-07-21 18:07:02.311651 | 46 |
 | 2026-07-20 18:47:04.942950 | 46 |
 | 2026-07-19 17:46:18.175491 | 46 |
 | 2026-07-18 17:45:31.363283 | 47 |
@@ -14,7 +15,6 @@
 | 2026-07-14 17:55:17.281747 | 42 |
 | 2026-07-13 18:25:04.136538 | 42 |
 | 2026-07-12 17:48:33.786146 | 42 |
-| 2026-07-11 17:44:09.840450 | 44 |
 
 ### 🍺 Current Beer List
 
@@ -49,6 +49,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-07-21 18:07:02.311651 | 1 | 1 | 2 |
 | 2026-07-20 18:47:04.942950 | 2 | 2 | 4 |
 | 2026-07-19 17:46:18.175491 | 1 | 2 | 3 |
 | 2026-07-18 17:45:31.363283 | 2 | 2 | 4 |
@@ -58,7 +59,6 @@
 | 2026-07-14 17:55:17.281747 | 0 | 0 | 0 |
 | 2026-07-13 18:25:04.136538 | 0 | 0 | 0 |
 | 2026-07-12 17:48:33.786146 | 2 | 4 | 6 |
-| 2026-07-11 17:44:09.840450 | 2 | 0 | 2 |
 
 ### 🆕 Latest Changes Details
 
@@ -66,20 +66,18 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Coors Banquet | Lager | 5.00% | Bottle/Can | Golden, CO |
-| Allagash Hazy IPA | IPA | 6.70% | Bottle/Can | Portland, ME |
+| Big Oyster Bitches Love Brunch (16oz,$10) | Gose | 4.50% | Bottle/Can | Lewes, DE |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Victory Prima Light | Pilsner | 4.20% | Bottle/Can | Downingtown, PA |
-| Avery Yuzilla | Fruited Ale | 4.90% | Bottle/Can | Bolder, CO |
+| Great Lakes Dortmunder Gold | Lager | 5.80% | Bottle/Can | Cleveland, OH |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 315
+- **Total Snapshots**: 316
 - **Current Beer Count**: 46
-- **Total Change Records**: 314
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-07-20 18:47:04.942950
+- **Total Change Records**: 315
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-07-21 18:07:02.311651
