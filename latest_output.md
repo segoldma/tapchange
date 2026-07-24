@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-07-23 18:05:32*
+*Generated on 2026-07-24 18:09:12*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-07-24 18:09:12.529272 | 48 |
 | 2026-07-23 18:05:32.385948 | 46 |
 | 2026-07-22 18:00:07.964435 | 46 |
 | 2026-07-21 18:07:02.311651 | 46 |
@@ -14,11 +15,10 @@
 | 2026-07-17 17:56:15.900523 | 47 |
 | 2026-07-16 17:58:02.380075 | 43 |
 | 2026-07-15 17:59:49.511757 | 43 |
-| 2026-07-14 17:55:17.281747 | 42 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (46)
+#### 🥫 Bottles & Cans (48)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -34,7 +34,6 @@
 | Austin Eastsiders Brazilian Limeade | Hard Limeade | 6.50% | Armada, MI |
 | Allagash White | Wheat Beer | 5.20% | Portland, ME |
 | Jack's Abby Framinghammer Tiramisu | Baltic Porter | 9.00% | Framingham, MA |
-| New Trail 8th Orbit (16oz, $10) | Triple IPA | 10.80% | Williamsport, PA |
 | Trappistes Rochefort Tripel Extra ($15) | Belgian Tripel | 8.10% | Belgium |
 | Ayinger Altbairisch Dunkel (16.9oz, $10) | Dunkel | 5.00% | Germany |
 | Traquair Jacobite Ale ($13.50) | Scotch Ale | 8.00% | Scotland |
@@ -42,13 +41,15 @@
 | Abita 40th Anniversary | Blonde Ale | 8.00% | Covington, LA |
 | Oskar Blues Dale's American IPA | IPA | 6.90% | Longmont, CO |
 | Firestone Walker Diesel Thunder | Double IPA | 8.00% | Paso Robles, CA |
-| *... and 26 more* | | | |
+| Jack's Abby Framinghammer Salted Caramel | Baltic Porter | 9.00% | Framingham, MA |
+| *... and 28 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-07-24 18:09:12.529272 | 4 | 2 | 6 |
 | 2026-07-23 18:05:32.385948 | 0 | 0 | 0 |
 | 2026-07-22 18:00:07.964435 | 0 | 0 | 0 |
 | 2026-07-21 18:07:02.311651 | 1 | 1 | 2 |
@@ -58,16 +59,29 @@
 | 2026-07-17 17:56:15.900523 | 4 | 0 | 4 |
 | 2026-07-16 17:58:02.380075 | 0 | 0 | 0 |
 | 2026-07-15 17:59:49.511757 | 2 | 1 | 3 |
-| 2026-07-14 17:55:17.281747 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Fiddlehead IPA | IPA | 6.20% | Bottle/Can | Shelburne, VT |
+| Cape May Coastal Evacuation | DIPA | 8.00% | Bottle/Can | Cape May, NJ |
+| Brewers' Haven Dundalk Joe | Kolsch | 4.80% | Bottle/Can | Baltimore, MD |
+| Dogfish Head Greatful Dead Citrus Daydream | Lager | 5.30% | Bottle/Can | Milton, DE |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Ellicottville Summer Dreams | Sour Ale | 6.10% | Bottle/Can | Ellicottville, NY |
+| New Trail 8th Orbit (16oz, $10) | Triple IPA | 10.80% | Bottle/Can | Williamsport, PA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 318
-- **Current Beer Count**: 46
-- **Total Change Records**: 317
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-07-23 18:05:32.385948
+- **Total Snapshots**: 319
+- **Current Beer Count**: 48
+- **Total Change Records**: 318
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-07-24 18:09:12.529272
