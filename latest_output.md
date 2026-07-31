@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-07-30 18:07:59*
+*Generated on 2026-07-31 18:13:56*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-07-31 18:13:56.345016 | 45 |
 | 2026-07-30 18:07:59.836406 | 46 |
 | 2026-07-29 18:00:20.705138 | 47 |
 | 2026-07-28 18:05:56.284337 | 47 |
@@ -14,11 +15,10 @@
 | 2026-07-24 18:09:12.529272 | 48 |
 | 2026-07-23 18:05:32.385948 | 46 |
 | 2026-07-22 18:00:07.964435 | 46 |
-| 2026-07-21 18:07:02.311651 | 46 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (46)
+#### 🥫 Bottles & Cans (45)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -34,7 +34,6 @@
 | Austin Eastsiders Brazilian Limeade | Hard Limeade | 6.50% | Armada, MI |
 | Allagash White | Wheat Beer | 5.20% | Portland, ME |
 | Jack's Abby Framinghammer Tiramisu | Baltic Porter | 9.00% | Framingham, MA |
-| Ayinger Altbairisch Dunkel (16.9oz, $10) | Dunkel | 5.00% | Germany |
 | Traquair Jacobite Ale ($13.50) | Scotch Ale | 8.00% | Scotland |
 | Firestone Walker IPA | IPA | 6.50% | Paso Robles, CA |
 | Abita 40th Anniversary | Blonde Ale | 8.00% | Covington, LA |
@@ -42,13 +41,15 @@
 | Firestone Walker Diesel Thunder | Double IPA | 8.00% | Paso Robles, CA |
 | Jack's Abby Framinghammer Salted Caramel | Baltic Porter | 9.00% | Framingham, MA |
 | Piraat 7 (16.9oz, $10) | Belgian Ale | 7.00% | Belgium |
-| *... and 26 more* | | | |
+| Soul Tone IPA | IPA | 2.50% | Pottstown, PA |
+| *... and 25 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-07-31 18:13:56.345016 | 3 | 4 | 7 |
 | 2026-07-30 18:07:59.836406 | 2 | 3 | 5 |
 | 2026-07-29 18:00:20.705138 | 0 | 0 | 0 |
 | 2026-07-28 18:05:56.284337 | 0 | 0 | 0 |
@@ -58,7 +59,6 @@
 | 2026-07-24 18:09:12.529272 | 4 | 2 | 6 |
 | 2026-07-23 18:05:32.385948 | 0 | 0 | 0 |
 | 2026-07-22 18:00:07.964435 | 0 | 0 | 0 |
-| 2026-07-21 18:07:02.311651 | 1 | 1 | 2 |
 
 ### 🆕 Latest Changes Details
 
@@ -66,21 +66,23 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Ommegang Neon Rainbows (16oz) | IPA | 6.70% | Bottle/Can | Cooperstown, NY |
+| Founders Hoppy Mood | NA | 0.00% | Bottle/Can | Grand Rapids, MI |
+| Allagash Lager | Lager | 5.00% | Bottle/Can | Portland, ME |
 | Einbecker Brauherren (16oz) | Pilsner | 4.90% | Bottle/Can | Germany |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Ellicottville Blueberry Wheat | Wheat Ale | 4.80% | Bottle/Can | Ellicottville, NY |
-| Trappistes Rochefort Tripel Extra ($15) | Belgian Tripel | 8.10% | Bottle/Can | Belgium |
-| Ellicottville Raspberry Blonde | Blonde Ale | 6.00% | Bottle/Can | Ellicottville, NY |
+| Einbecker Brauherren (16oz) | Pilsner | 4.90% | Bottle/Can | Germany |
+| Coors Banquet | Lager | 5.00% | Bottle/Can | Golden, CO |
+| Ayinger Altbairisch Dunkel (16.9oz, $10) | Dunkel | 5.00% | Bottle/Can | Germany |
+| Firestone Easy Jack | IPA | 4.20% | Bottle/Can | Paso Robles, CA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 325
-- **Current Beer Count**: 46
-- **Total Change Records**: 324
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-07-30 18:07:59.836406
+- **Total Snapshots**: 326
+- **Current Beer Count**: 45
+- **Total Change Records**: 325
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-07-31 18:13:56.345016
