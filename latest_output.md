@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-08-03 18:30:16*
+*Generated on 2026-08-04 18:20:56*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-08-04 18:20:56.610035 | 44 |
 | 2026-08-03 18:30:16.778287 | 45 |
 | 2026-08-02 17:51:08.170345 | 45 |
 | 2026-08-01 17:49:57.765844 | 45 |
@@ -14,11 +15,10 @@
 | 2026-07-28 18:05:56.284337 | 47 |
 | 2026-07-27 18:17:08.912733 | 47 |
 | 2026-07-26 17:52:14.230021 | 47 |
-| 2026-07-25 17:47:45.366045 | 48 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (45)
+#### 🥫 Bottles & Cans (44)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -30,7 +30,6 @@
 | Dad Water  | Tequila Cocktail | 5.25% | Indianapolis, IN |
 | MY5 The Original or Tangerine  | Not Beer | 4.50% | Landsdale, PA |
 | Dunkin' Spiked Coffee | Not Beer | 6.00% | Boston, MA |
-| Hop WTR Blood Orange | Sparkling NA | 0.00% | Venice, CA |
 | Austin Eastsiders Brazilian Limeade | Hard Limeade | 6.50% | Armada, MI |
 | Allagash White | Wheat Beer | 5.20% | Portland, ME |
 | Jack's Abby Framinghammer Tiramisu | Baltic Porter | 9.00% | Framingham, MA |
@@ -42,13 +41,15 @@
 | Piraat 7 (16.9oz, $10) | Belgian Ale | 7.00% | Belgium |
 | Soul Tone IPA | IPA | 2.50% | Pottstown, PA |
 | Soul Tone Pils | Pilsner | 2.50% | Pottstown, PA |
-| *... and 25 more* | | | |
+| La Chouffe (16.9oz, $10) | Belgian Blonde | 8.00% | Belgium |
+| *... and 24 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-08-04 18:20:56.610035 | 2 | 3 | 5 |
 | 2026-08-03 18:30:16.778287 | 0 | 0 | 0 |
 | 2026-08-02 17:51:08.170345 | 2 | 2 | 4 |
 | 2026-08-01 17:49:57.765844 | 0 | 0 | 0 |
@@ -58,16 +59,28 @@
 | 2026-07-28 18:05:56.284337 | 0 | 0 | 0 |
 | 2026-07-27 18:17:08.912733 | 0 | 0 | 0 |
 | 2026-07-26 17:52:14.230021 | 2 | 3 | 5 |
-| 2026-07-25 17:47:45.366045 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Ommegang Cooper's Hop (16oz) | Triple IPA | 10.50% | Bottle/Can | Cooperstown, NY |
+| Allagash Tripel | Belgian Tripel | 9.00% | Bottle/Can | Portland, ME |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Ommegang Dream Patch (16oz) | Sour Ale | 6.50% | Bottle/Can | Cooperstown, NY |
+| Hop WTR Blood Orange | Sparkling NA | 0.00% | Bottle/Can | Venice, CA |
+| Lucky Buddha | Euro Lager | 4.80% | Bottle/Can | China |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 329
-- **Current Beer Count**: 45
-- **Total Change Records**: 328
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-08-03 18:30:16.778287
+- **Total Snapshots**: 330
+- **Current Beer Count**: 44
+- **Total Change Records**: 329
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-08-04 18:20:56.610035
