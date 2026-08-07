@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-08-05 18:14:09*
+*Generated on 2026-08-07 17:38:33*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-08-07 17:38:33.303015 | 46 |
 | 2026-08-05 18:14:09.770095 | 44 |
 | 2026-08-04 18:20:56.610035 | 44 |
 | 2026-08-03 18:30:16.778287 | 45 |
@@ -14,11 +15,10 @@
 | 2026-07-30 18:07:59.836406 | 46 |
 | 2026-07-29 18:00:20.705138 | 47 |
 | 2026-07-28 18:05:56.284337 | 47 |
-| 2026-07-27 18:17:08.912733 | 47 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (44)
+#### 🥫 Bottles & Cans (46)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -42,13 +42,14 @@
 | Soul Tone IPA | IPA | 2.50% | Pottstown, PA |
 | Soul Tone Pils | Pilsner | 2.50% | Pottstown, PA |
 | La Chouffe (16.9oz, $10) | Belgian Blonde | 8.00% | Belgium |
-| *... and 24 more* | | | |
+| *... and 26 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-08-07 17:38:33.303015 | 2 | 0 | 2 |
 | 2026-08-05 18:14:09.770095 | 0 | 0 | 0 |
 | 2026-08-04 18:20:56.610035 | 2 | 3 | 5 |
 | 2026-08-03 18:30:16.778287 | 0 | 0 | 0 |
@@ -58,16 +59,20 @@
 | 2026-07-30 18:07:59.836406 | 2 | 3 | 5 |
 | 2026-07-29 18:00:20.705138 | 0 | 0 | 0 |
 | 2026-07-28 18:05:56.284337 | 0 | 0 | 0 |
-| 2026-07-27 18:17:08.912733 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Key Summer Wobbles | Session IPA | 4.60% | Bottle/Can | Baltimore, MD |
+| Tona | Lager | 4.60% | Bottle/Can | Nicaruaga |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 331
-- **Current Beer Count**: 44
-- **Total Change Records**: 330
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-08-05 18:14:09.770095
+- **Total Snapshots**: 332
+- **Current Beer Count**: 46
+- **Total Change Records**: 331
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-08-07 17:38:33.303015
