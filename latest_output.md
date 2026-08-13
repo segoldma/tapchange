@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-08-12 17:48:17*
+*Generated on 2026-08-13 17:47:25*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-08-13 17:47:25.694788 | 42 |
 | 2026-08-12 17:48:17.721877 | 48 |
 | 2026-08-11 17:46:41.516230 | 48 |
 | 2026-08-10 17:41:53.787995 | 46 |
@@ -14,11 +15,10 @@
 | 2026-08-05 18:14:09.770095 | 44 |
 | 2026-08-04 18:20:56.610035 | 44 |
 | 2026-08-03 18:30:16.778287 | 45 |
-| 2026-08-02 17:51:08.170345 | 45 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (48)
+#### 🥫 Bottles & Cans (42)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -32,23 +32,24 @@
 | Dunkin' Spiked Coffee | Not Beer | 6.00% | Boston, MA |
 | Austin Eastsiders Brazilian Limeade | Hard Limeade | 6.50% | Armada, MI |
 | Allagash White | Wheat Beer | 5.20% | Portland, ME |
-| Traquair Jacobite Ale ($13.50) | Scotch Ale | 8.00% | Scotland |
-| Firestone Walker IPA | IPA | 6.50% | Paso Robles, CA |
 | Oskar Blues Dale's American IPA | IPA | 6.90% | Longmont, CO |
 | Firestone Walker Diesel Thunder | Double IPA | 8.00% | Paso Robles, CA |
 | Jack's Abby Framinghammer Salted Caramel | Baltic Porter | 9.00% | Framingham, MA |
 | Piraat 7 (16.9oz, $10) | Belgian Ale | 7.00% | Belgium |
-| Soul Tone IPA | IPA | 2.50% | Pottstown, PA |
 | Soul Tone Pils | Pilsner | 2.50% | Pottstown, PA |
-| La Chouffe (16.9oz, $10) | Belgian Blonde | 8.00% | Belgium |
 | Hoplark Zombie Plane | Not Beer | Citrusy Blood Orange, Dry Hopped Non-alcoholic Beverage | *** |
-| *... and 28 more* | | | |
+| Right Proper Big Tomorrow | IPA | 7.20% | Washington, DC |
+| Abomination Juice Monster (16oz) | IPA | 6.80% | North Haven, CT |
+| The Veil Pretty | Saison | 6.00% | Richmond, VA |
+| Allagash Hazy IPA | IPA | 6.70% | Portland, ME |
+| *... and 22 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-08-13 17:47:25.694788 | 1 | 7 | 8 |
 | 2026-08-12 17:48:17.721877 | 0 | 0 | 0 |
 | 2026-08-11 17:46:41.516230 | 3 | 1 | 4 |
 | 2026-08-10 17:41:53.787995 | 0 | 0 | 0 |
@@ -58,16 +59,31 @@
 | 2026-08-05 18:14:09.770095 | 0 | 0 | 0 |
 | 2026-08-04 18:20:56.610035 | 2 | 3 | 5 |
 | 2026-08-03 18:30:16.778287 | 0 | 0 | 0 |
-| 2026-08-02 17:51:08.170345 | 2 | 2 | 4 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Ommegang Gnommegang (16oz) | Belgian Blonde | 9.50% | Bottle/Can | Cooperstown, NY |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Firestone Walker IPA | IPA | 6.50% | Bottle/Can | Paso Robles, CA |
+| Ellicottville Pineapple Upside Down Shake | IPA | 6.70% | Bottle/Can | Ellicottville, NY |
+| Soul Tone IPA | IPA | 2.50% | Bottle/Can | Pottstown, PA |
+| La Chouffe (16.9oz, $10) | Belgian Blonde | 8.00% | Bottle/Can | Belgium |
+| Traquair Jacobite Ale ($13.50) | Scotch Ale | 8.00% | Bottle/Can | Scotland |
+| Lagunitas/Iron Maiden Trooper | IPA | 6.60% | Bottle/Can | Escondido, CA |
+| Firestone Union Jack | West Coast IPA | 7.00% | Bottle/Can | Paso Robles, CA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 337
-- **Current Beer Count**: 48
-- **Total Change Records**: 336
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-08-12 17:48:17.721877
+- **Total Snapshots**: 338
+- **Current Beer Count**: 42
+- **Total Change Records**: 337
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-08-13 17:47:25.694788
