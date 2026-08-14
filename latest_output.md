@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-08-13 17:47:25*
+*Generated on 2026-08-14 17:42:46*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-08-14 17:42:46.523894 | 46 |
 | 2026-08-13 17:47:25.694788 | 42 |
 | 2026-08-12 17:48:17.721877 | 48 |
 | 2026-08-11 17:46:41.516230 | 48 |
@@ -14,11 +15,10 @@
 | 2026-08-07 17:38:33.303015 | 46 |
 | 2026-08-05 18:14:09.770095 | 44 |
 | 2026-08-04 18:20:56.610035 | 44 |
-| 2026-08-03 18:30:16.778287 | 45 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (42)
+#### 🥫 Bottles & Cans (46)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -36,19 +36,20 @@
 | Firestone Walker Diesel Thunder | Double IPA | 8.00% | Paso Robles, CA |
 | Jack's Abby Framinghammer Salted Caramel | Baltic Porter | 9.00% | Framingham, MA |
 | Piraat 7 (16.9oz, $10) | Belgian Ale | 7.00% | Belgium |
-| Soul Tone Pils | Pilsner | 2.50% | Pottstown, PA |
 | Hoplark Zombie Plane | Not Beer | Citrusy Blood Orange, Dry Hopped Non-alcoholic Beverage | *** |
 | Right Proper Big Tomorrow | IPA | 7.20% | Washington, DC |
 | Abomination Juice Monster (16oz) | IPA | 6.80% | North Haven, CT |
 | The Veil Pretty | Saison | 6.00% | Richmond, VA |
 | Allagash Hazy IPA | IPA | 6.70% | Portland, ME |
-| *... and 22 more* | | | |
+| Big Oyster Bitches Love Brunch (16oz,$10) | Gose | 4.50% | Lewes, DE |
+| *... and 26 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-08-14 17:42:46.523894 | 6 | 2 | 8 |
 | 2026-08-13 17:47:25.694788 | 1 | 7 | 8 |
 | 2026-08-12 17:48:17.721877 | 0 | 0 | 0 |
 | 2026-08-11 17:46:41.516230 | 3 | 1 | 4 |
@@ -58,7 +59,6 @@
 | 2026-08-07 17:38:33.303015 | 2 | 0 | 2 |
 | 2026-08-05 18:14:09.770095 | 0 | 0 | 0 |
 | 2026-08-04 18:20:56.610035 | 2 | 3 | 5 |
-| 2026-08-03 18:30:16.778287 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -66,24 +66,24 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Ommegang Gnommegang (16oz) | Belgian Blonde | 9.50% | Bottle/Can | Cooperstown, NY |
+| Hamm's | Lager | 4.70% | Bottle/Can | Golden, CO |
+| Black Beauty Exotic Grail | IPA | 7.10% | Bottle/Can | Baltimore, MD |
+| Hard Mountain Dew (4 Varieties) | RTD | 5.00% | Bottle/Can | USA |
+| Copper Bonnet Cran-Fizz | RTD | 5.50% | Bottle/Can | Lansdale, PA |
+| Flying Dog Double Dog Juicy DIPA | DIPA | 12.00% | Bottle/Can | Utica, NY |
+| Bash Bros Neon Flamingo | IPA | 6.50% | Bottle/Can | Baltimore, MD |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Firestone Walker IPA | IPA | 6.50% | Bottle/Can | Paso Robles, CA |
-| Ellicottville Pineapple Upside Down Shake | IPA | 6.70% | Bottle/Can | Ellicottville, NY |
-| Soul Tone IPA | IPA | 2.50% | Bottle/Can | Pottstown, PA |
-| La Chouffe (16.9oz, $10) | Belgian Blonde | 8.00% | Bottle/Can | Belgium |
-| Traquair Jacobite Ale ($13.50) | Scotch Ale | 8.00% | Bottle/Can | Scotland |
-| Lagunitas/Iron Maiden Trooper | IPA | 6.60% | Bottle/Can | Escondido, CA |
-| Firestone Union Jack | West Coast IPA | 7.00% | Bottle/Can | Paso Robles, CA |
+| Soul Tone Pils | Pilsner | 2.50% | Bottle/Can | Pottstown, PA |
+| Brewers' Haven Dundalk Joe | Kolsch | 4.80% | Bottle/Can | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 338
-- **Current Beer Count**: 42
-- **Total Change Records**: 337
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-08-13 17:47:25.694788
+- **Total Snapshots**: 339
+- **Current Beer Count**: 46
+- **Total Change Records**: 338
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-08-14 17:42:46.523894
