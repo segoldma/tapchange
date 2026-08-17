@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-08-16 17:09:59*
+*Generated on 2026-08-17 17:15:37*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-08-17 17:15:37.274214 | 50 |
 | 2026-08-16 17:09:59.482816 | 50 |
 | 2026-08-15 17:11:04.007631 | 46 |
 | 2026-08-14 17:42:46.523894 | 46 |
@@ -14,7 +15,6 @@
 | 2026-08-10 17:41:53.787995 | 46 |
 | 2026-08-09 17:20:12.246353 | 46 |
 | 2026-08-08 17:19:14.654242 | 46 |
-| 2026-08-07 17:38:33.303015 | 46 |
 
 ### 🍺 Current Beer List
 
@@ -38,10 +38,10 @@
 | Piraat 7 (16.9oz, $10) | Belgian Ale | 7.00% | Belgium |
 | Hoplark Zombie Plane | Not Beer | Citrusy Blood Orange, Dry Hopped Non-alcoholic Beverage | *** |
 | Right Proper Big Tomorrow | IPA | 7.20% | Washington, DC |
-| Abomination Juice Monster (16oz) | IPA | 6.80% | North Haven, CT |
-| The Veil Pretty | Saison | 6.00% | Richmond, VA |
 | Allagash Hazy IPA | IPA | 6.70% | Portland, ME |
 | Big Oyster Bitches Love Brunch (16oz,$10) | Gose | 4.50% | Lewes, DE |
+| Cape May Coastal Evacuation | DIPA | 8.00% | Cape May, NJ |
+| Fiddlehead IPA | IPA | 6.20% | Shelburne, VT |
 | *... and 30 more* | | | |
 
 
@@ -49,6 +49,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-08-17 17:15:37.274214 | 2 | 2 | 4 |
 | 2026-08-16 17:09:59.482816 | 4 | 0 | 4 |
 | 2026-08-15 17:11:04.007631 | 0 | 0 | 0 |
 | 2026-08-14 17:42:46.523894 | 6 | 2 | 8 |
@@ -58,7 +59,6 @@
 | 2026-08-10 17:41:53.787995 | 0 | 0 | 0 |
 | 2026-08-09 17:20:12.246353 | 0 | 0 | 0 |
 | 2026-08-08 17:19:14.654242 | 2 | 2 | 4 |
-| 2026-08-07 17:38:33.303015 | 2 | 0 | 2 |
 
 ### 🆕 Latest Changes Details
 
@@ -66,15 +66,20 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| The Veil Bend (16oz) | Pale Ale | 5.00% | Bottle/Can | Richmond, VA |
-| New Trail 24/7 | Session IPA | 4.70% | Bottle/Can | Williamsport, PA |
-| Great Lakes Apple Pie Eliot ness | Lager | 6.10% | Bottle/Can | Cleveland, OH |
-| Bell's Change of Heart | IPA | 6.60% | Bottle/Can | Comstock, MI |
+| Owl's Brew Spiked Pop | Hard Soda | 4.80% | Bottle/Can | New York, NY |
+| Owl's Brew Chelsea Handler's Mint Vodka Lemonade | RTD | 5.00% | Bottle/Can | New York, NY |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| The Veil Pretty | Saison | 6.00% | Bottle/Can | Richmond, VA |
+| Abomination Juice Monster (16oz) | IPA | 6.80% | Bottle/Can | North Haven, CT |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 341
+- **Total Snapshots**: 342
 - **Current Beer Count**: 50
-- **Total Change Records**: 340
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-08-16 17:09:59.482816
+- **Total Change Records**: 341
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-08-17 17:15:37.274214
