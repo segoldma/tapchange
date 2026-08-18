@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-08-17 17:15:37*
+*Generated on 2026-08-18 17:16:27*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-08-18 17:16:27.054368 | 51 |
 | 2026-08-17 17:15:37.274214 | 50 |
 | 2026-08-16 17:09:59.482816 | 50 |
 | 2026-08-15 17:11:04.007631 | 46 |
@@ -14,11 +15,10 @@
 | 2026-08-11 17:46:41.516230 | 48 |
 | 2026-08-10 17:41:53.787995 | 46 |
 | 2026-08-09 17:20:12.246353 | 46 |
-| 2026-08-08 17:19:14.654242 | 46 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (50)
+#### 🥫 Bottles & Cans (51)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -42,13 +42,14 @@
 | Big Oyster Bitches Love Brunch (16oz,$10) | Gose | 4.50% | Lewes, DE |
 | Cape May Coastal Evacuation | DIPA | 8.00% | Cape May, NJ |
 | Fiddlehead IPA | IPA | 6.20% | Shelburne, VT |
-| *... and 30 more* | | | |
+| *... and 31 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-08-18 17:16:27.054368 | 2 | 1 | 3 |
 | 2026-08-17 17:15:37.274214 | 2 | 2 | 4 |
 | 2026-08-16 17:09:59.482816 | 4 | 0 | 4 |
 | 2026-08-15 17:11:04.007631 | 0 | 0 | 0 |
@@ -58,7 +59,6 @@
 | 2026-08-11 17:46:41.516230 | 3 | 1 | 4 |
 | 2026-08-10 17:41:53.787995 | 0 | 0 | 0 |
 | 2026-08-09 17:20:12.246353 | 0 | 0 | 0 |
-| 2026-08-08 17:19:14.654242 | 2 | 2 | 4 |
 
 ### 🆕 Latest Changes Details
 
@@ -66,20 +66,19 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Owl's Brew Spiked Pop | Hard Soda | 4.80% | Bottle/Can | New York, NY |
-| Owl's Brew Chelsea Handler's Mint Vodka Lemonade | RTD | 5.00% | Bottle/Can | New York, NY |
+| Owl's Brew Spiked Pop (4 Varieties) | Hard Soda | 4.80% | Bottle/Can | New York, NY |
+| Owl's Brew Sun Tea & Vodka (3 Varieties) | RTD | 5.00% | Bottle/Can | New York, NY |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| The Veil Pretty | Saison | 6.00% | Bottle/Can | Richmond, VA |
-| Abomination Juice Monster (16oz) | IPA | 6.80% | Bottle/Can | North Haven, CT |
+| Owl's Brew Spiked Pop | Hard Soda | 4.80% | Bottle/Can | New York, NY |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 342
-- **Current Beer Count**: 50
-- **Total Change Records**: 341
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-08-17 17:15:37.274214
+- **Total Snapshots**: 343
+- **Current Beer Count**: 51
+- **Total Change Records**: 342
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-08-18 17:16:27.054368
