@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-08-20 17:18:11*
+*Generated on 2026-08-21 17:17:58*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-08-21 17:17:58.300600 | 49 |
 | 2026-08-20 17:18:11.580093 | 51 |
 | 2026-08-19 17:15:56.721754 | 51 |
 | 2026-08-18 17:16:27.054368 | 51 |
@@ -14,11 +15,10 @@
 | 2026-08-14 17:42:46.523894 | 46 |
 | 2026-08-13 17:47:25.694788 | 42 |
 | 2026-08-12 17:48:17.721877 | 48 |
-| 2026-08-11 17:46:41.516230 | 48 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (51)
+#### 🥫 Bottles & Cans (49)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -42,13 +42,14 @@
 | Big Oyster Bitches Love Brunch (16oz,$10) | Gose | 4.50% | Lewes, DE |
 | Cape May Coastal Evacuation | DIPA | 8.00% | Cape May, NJ |
 | Fiddlehead IPA | IPA | 6.20% | Shelburne, VT |
-| *... and 31 more* | | | |
+| *... and 29 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-08-21 17:17:58.300600 | 0 | 2 | 2 |
 | 2026-08-20 17:18:11.580093 | 0 | 0 | 0 |
 | 2026-08-19 17:15:56.721754 | 0 | 0 | 0 |
 | 2026-08-18 17:16:27.054368 | 2 | 1 | 3 |
@@ -58,16 +59,20 @@
 | 2026-08-14 17:42:46.523894 | 6 | 2 | 8 |
 | 2026-08-13 17:47:25.694788 | 1 | 7 | 8 |
 | 2026-08-12 17:48:17.721877 | 0 | 0 | 0 |
-| 2026-08-11 17:46:41.516230 | 3 | 1 | 4 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Sierra Nevada West Ghost (16oz, $10) | IPA | 7.20% | Bottle/Can | Chico, CA |
+| Hamm's | Lager | 4.70% | Bottle/Can | Golden, CO |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 345
-- **Current Beer Count**: 51
-- **Total Change Records**: 344
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-08-20 17:18:11.580093
+- **Total Snapshots**: 346
+- **Current Beer Count**: 49
+- **Total Change Records**: 345
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-08-21 17:17:58.300600
