@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-08-23 17:10:42*
+*Generated on 2026-08-24 17:20:34*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-08-24 17:20:33.934897 | 45 |
 | 2026-08-23 17:10:42.704765 | 46 |
 | 2026-08-22 17:10:25.375990 | 46 |
 | 2026-08-21 17:17:58.300600 | 49 |
@@ -14,11 +15,10 @@
 | 2026-08-17 17:15:37.274214 | 50 |
 | 2026-08-16 17:09:59.482816 | 50 |
 | 2026-08-15 17:11:04.007631 | 46 |
-| 2026-08-14 17:42:46.523894 | 46 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (46)
+#### 🥫 Bottles & Cans (45)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -42,13 +42,14 @@
 | Fiddlehead IPA | IPA | 6.20% | Shelburne, VT |
 | Dogfish Head Greatful Dead Citrus Daydream | Lager | 5.30% | Milton, DE |
 | Peabody Heights High 'n' Dry Hopped | Hefeweizen | 5.00% | Baltimore, MD |
-| *... and 26 more* | | | |
+| *... and 25 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-08-24 17:20:33.934897 | 0 | 1 | 1 |
 | 2026-08-23 17:10:42.704765 | 0 | 0 | 0 |
 | 2026-08-22 17:10:25.375990 | 3 | 6 | 9 |
 | 2026-08-21 17:17:58.300600 | 0 | 2 | 2 |
@@ -58,16 +59,19 @@
 | 2026-08-17 17:15:37.274214 | 2 | 2 | 4 |
 | 2026-08-16 17:09:59.482816 | 4 | 0 | 4 |
 | 2026-08-15 17:11:04.007631 | 0 | 0 | 0 |
-| 2026-08-14 17:42:46.523894 | 6 | 2 | 8 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Einbecker Brauherren (16oz) | Pilsner | 4.90% | Bottle/Can | Germany |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 348
-- **Current Beer Count**: 46
-- **Total Change Records**: 347
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-08-23 17:10:42.704765
+- **Total Snapshots**: 349
+- **Current Beer Count**: 45
+- **Total Change Records**: 348
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-08-24 17:20:33.934897
