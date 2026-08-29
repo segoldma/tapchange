@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-08-28 01:12:13*
+*Generated on 2026-08-29 00:46:49*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-08-29 00:46:49.732027 | 45 |
 | 2026-08-28 01:12:13.069718 | 45 |
 | 2026-08-26 18:45:22.529955 | 45 |
 | 2026-08-25 17:21:21.600509 | 45 |
@@ -14,7 +15,6 @@
 | 2026-08-21 17:17:58.300600 | 49 |
 | 2026-08-20 17:18:11.580093 | 51 |
 | 2026-08-19 17:15:56.721754 | 51 |
-| 2026-08-18 17:16:27.054368 | 51 |
 
 ### 🍺 Current Beer List
 
@@ -49,6 +49,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-08-29 00:46:49.732027 | 3 | 3 | 6 |
 | 2026-08-28 01:12:13.069718 | 0 | 0 | 0 |
 | 2026-08-26 18:45:22.529955 | 0 | 0 | 0 |
 | 2026-08-25 17:21:21.600509 | 0 | 0 | 0 |
@@ -58,16 +59,29 @@
 | 2026-08-21 17:17:58.300600 | 0 | 2 | 2 |
 | 2026-08-20 17:18:11.580093 | 0 | 0 | 0 |
 | 2026-08-19 17:15:56.721754 | 0 | 0 | 0 |
-| 2026-08-18 17:16:27.054368 | 2 | 1 | 3 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Eastern Shore Situation Critical | IPA | 7.00% | Bottle/Can | St. Michaels, MD |
+| Dewey Braggin Rights | IPA | 4.80% | Bottle/Can | Milton, DE |
+| Foster's (25.4oz) | Lager | 5.00% | Bottle/Can | Fort Worth, TX |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Great Lakes German Pils | Pilsner | 4.90% | Bottle/Can | Cleveland, OH |
+| Ommegang Neon Rainbows (16oz) | IPA | 6.70% | Bottle/Can | Cooperstown, NY |
+| Founders Shandy | Shandy | 3.50% | Bottle/Can | Grand Rapids, MI |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 352
+- **Total Snapshots**: 353
 - **Current Beer Count**: 45
-- **Total Change Records**: 351
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-08-28 01:12:13.069718
+- **Total Change Records**: 352
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-08-29 00:46:49.732027
