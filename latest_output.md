@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-08-31 21:41:20*
+*Generated on 2026-09-01 19:40:18*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-09-01 19:40:17.704007 | 45 |
 | 2026-08-31 21:41:19.883821 | 47 |
 | 2026-08-30 19:32:53.234539 | 47 |
 | 2026-08-29 19:33:06.680717 | 45 |
@@ -14,11 +15,10 @@
 | 2026-08-25 17:21:21.600509 | 45 |
 | 2026-08-24 17:20:33.934897 | 45 |
 | 2026-08-23 17:10:42.704765 | 46 |
-| 2026-08-22 17:10:25.375990 | 46 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (47)
+#### 🥫 Bottles & Cans (45)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -40,15 +40,16 @@
 | Big Oyster Bitches Love Brunch (16oz,$10) | Gose | 4.50% | Lewes, DE |
 | Cape May Coastal Evacuation | DIPA | 8.00% | Cape May, NJ |
 | Fiddlehead IPA | IPA | 6.20% | Shelburne, VT |
-| Dogfish Head Greatful Dead Citrus Daydream | Lager | 5.30% | Milton, DE |
 | Peabody Heights High 'n' Dry Hopped | Hefeweizen | 5.00% | Baltimore, MD |
-| *... and 27 more* | | | |
+| Founders Hoppy Mood | NA | 0.00% | Grand Rapids, MI |
+| *... and 25 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-09-01 19:40:17.704007 | 0 | 2 | 2 |
 | 2026-08-31 21:41:19.883821 | 0 | 0 | 0 |
 | 2026-08-30 19:32:53.234539 | 3 | 1 | 4 |
 | 2026-08-29 19:33:06.680717 | 0 | 0 | 0 |
@@ -58,16 +59,20 @@
 | 2026-08-25 17:21:21.600509 | 0 | 0 | 0 |
 | 2026-08-24 17:20:33.934897 | 0 | 1 | 1 |
 | 2026-08-23 17:10:42.704765 | 0 | 0 | 0 |
-| 2026-08-22 17:10:25.375990 | 3 | 6 | 9 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Dogfish Head Greatful Dead Citrus Daydream | Lager | 5.30% | Bottle/Can | Milton, DE |
+| Bottle Logic Light | Lager | 4.20% | Bottle/Can | San Diego, CA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 356
-- **Current Beer Count**: 47
-- **Total Change Records**: 355
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-08-31 21:41:19.883821
+- **Total Snapshots**: 357
+- **Current Beer Count**: 45
+- **Total Change Records**: 356
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-09-01 19:40:17.704007
