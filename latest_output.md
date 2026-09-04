@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-09-03 19:29:21*
+*Generated on 2026-09-04 19:11:45*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-09-04 19:11:45.542775 | 48 |
 | 2026-09-03 19:29:21.708804 | 48 |
 | 2026-09-02 19:32:28.525117 | 48 |
 | 2026-09-01 19:40:17.704007 | 45 |
@@ -14,7 +15,6 @@
 | 2026-08-29 00:46:49.732027 | 45 |
 | 2026-08-28 01:12:13.069718 | 45 |
 | 2026-08-26 18:45:22.529955 | 45 |
-| 2026-08-25 17:21:21.600509 | 45 |
 
 ### 🍺 Current Beer List
 
@@ -34,14 +34,14 @@
 | Allagash White | Wheat Beer | 5.20% | Portland, ME |
 | Oskar Blues Dale's American IPA | IPA | 6.90% | Longmont, CO |
 | Firestone Walker Diesel Thunder | Double IPA | 8.00% | Paso Robles, CA |
-| Jack's Abby Framinghammer Salted Caramel | Baltic Porter | 9.00% | Framingham, MA |
 | Hoplark Zombie Plane | Not Beer | Citrusy Blood Orange, Dry Hopped Non-alcoholic Beverage | *** |
 | Right Proper Big Tomorrow | IPA | 7.20% | Washington, DC |
 | Allagash Hazy IPA | IPA | 6.70% | Portland, ME |
-| Big Oyster Bitches Love Brunch (16oz,$10) | Gose | 4.50% | Lewes, DE |
 | Cape May Coastal Evacuation | DIPA | 8.00% | Cape May, NJ |
 | Fiddlehead IPA | IPA | 6.20% | Shelburne, VT |
 | Peabody Heights High 'n' Dry Hopped | Hefeweizen | 5.00% | Baltimore, MD |
+| Founders Hoppy Mood | NA | 0.00% | Grand Rapids, MI |
+| Victory Kirsch Gose (16oz, $10) | Sour Ale | 4.70% | Downingtown, PA |
 | *... and 28 more* | | | |
 
 
@@ -49,6 +49,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-09-04 19:11:45.542775 | 2 | 2 | 4 |
 | 2026-09-03 19:29:21.708804 | 0 | 0 | 0 |
 | 2026-09-02 19:32:28.525117 | 3 | 0 | 3 |
 | 2026-09-01 19:40:17.704007 | 0 | 2 | 2 |
@@ -58,16 +59,27 @@
 | 2026-08-29 00:46:49.732027 | 3 | 3 | 6 |
 | 2026-08-28 01:12:13.069718 | 0 | 0 | 0 |
 | 2026-08-26 18:45:22.529955 | 0 | 0 | 0 |
-| 2026-08-25 17:21:21.600509 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Yuengling Lord Chesterfield Ale | Pale Ale | 5.40% | Bottle/Can | Pottsville, PA |
+| Great Lakes Oktoberfest | Marzen | 6.50% | Bottle/Can | Cleveland, OH |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Jack's Abby Framinghammer Salted Caramel | Baltic Porter | 9.00% | Bottle/Can | Framingham, MA |
+| Big Oyster Bitches Love Brunch (16oz,$10) | Gose | 4.50% | Bottle/Can | Lewes, DE |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 359
+- **Total Snapshots**: 360
 - **Current Beer Count**: 48
-- **Total Change Records**: 358
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-09-03 19:29:21.708804
+- **Total Change Records**: 359
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-09-04 19:11:45.542775
