@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-09-06 18:42:49*
+*Generated on 2026-09-07 20:14:31*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-09-07 20:14:31.132179 | 46 |
 | 2026-09-06 18:42:49.842538 | 48 |
 | 2026-09-05 18:39:09.680804 | 48 |
 | 2026-09-04 19:11:45.542775 | 48 |
@@ -14,11 +15,10 @@
 | 2026-08-31 21:41:19.883821 | 47 |
 | 2026-08-30 19:32:53.234539 | 47 |
 | 2026-08-29 19:33:06.680717 | 45 |
-| 2026-08-29 00:46:49.732027 | 45 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (48)
+#### 🥫 Bottles & Cans (46)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -39,16 +39,17 @@
 | Allagash Hazy IPA | IPA | 6.70% | Portland, ME |
 | Cape May Coastal Evacuation | DIPA | 8.00% | Cape May, NJ |
 | Fiddlehead IPA | IPA | 6.20% | Shelburne, VT |
-| Peabody Heights High 'n' Dry Hopped | Hefeweizen | 5.00% | Baltimore, MD |
 | Founders Hoppy Mood | NA | 0.00% | Grand Rapids, MI |
 | Victory Kirsch Gose (16oz, $10) | Sour Ale | 4.70% | Downingtown, PA |
-| *... and 28 more* | | | |
+| Ommegang Cooper's Hop (16oz) | Triple IPA | 10.50% | Cooperstown, NY |
+| *... and 26 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-09-07 20:14:31.132179 | 3 | 5 | 8 |
 | 2026-09-06 18:42:49.842538 | 0 | 0 | 0 |
 | 2026-09-05 18:39:09.680804 | 0 | 0 | 0 |
 | 2026-09-04 19:11:45.542775 | 2 | 2 | 4 |
@@ -58,16 +59,31 @@
 | 2026-08-31 21:41:19.883821 | 0 | 0 | 0 |
 | 2026-08-30 19:32:53.234539 | 3 | 1 | 4 |
 | 2026-08-29 19:33:06.680717 | 0 | 0 | 0 |
-| 2026-08-29 00:46:49.732027 | 3 | 3 | 6 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Tona | Lager | 4.60% | Bottle/Can | Nicaruga |
+| Mobtown Disco Nap | DIPA | 8.00% | Bottle/Can | Baltimore, MD |
+| Peabody Heights Night Market | Wheat Beer | 5% | Bottle/Can | Baltimore, MD |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Peabody Heights High 'n' Dry Hopped | Hefeweizen | 5.00% | Bottle/Can | Baltimore, MD |
+| Ommegang Gnommegang (16oz) | Belgian Blonde | 9.50% | Bottle/Can | Cooperstown, NY |
+| Hard Mountain Dew | RTD | 5.00% | Bottle/Can | USA |
+| Mobtown Fever Dream | IPA | 7.40% | Bottle/Can | Baltimore, MD |
+| Mobtown Breaking Bradish (16oz) | IPA | 6.80% | Bottle/Can | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 362
-- **Current Beer Count**: 48
-- **Total Change Records**: 361
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-09-06 18:42:49.842538
+- **Total Snapshots**: 363
+- **Current Beer Count**: 46
+- **Total Change Records**: 362
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-09-07 20:14:31.132179
