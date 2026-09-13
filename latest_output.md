@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-09-12 18:50:36*
+*Generated on 2026-09-13 19:03:07*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-09-13 19:03:07.116737 | 46 |
 | 2026-09-12 18:50:36.430523 | 46 |
 | 2026-09-11 19:21:01.868096 | 46 |
 | 2026-09-10 19:19:36.249822 | 46 |
@@ -14,7 +15,6 @@
 | 2026-09-06 18:42:49.842538 | 48 |
 | 2026-09-05 18:39:09.680804 | 48 |
 | 2026-09-04 19:11:45.542775 | 48 |
-| 2026-09-03 19:29:21.708804 | 48 |
 
 ### 🍺 Current Beer List
 
@@ -49,6 +49,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-09-13 19:03:07.116737 | 2 | 2 | 4 |
 | 2026-09-12 18:50:36.430523 | 5 | 5 | 10 |
 | 2026-09-11 19:21:01.868096 | 3 | 3 | 6 |
 | 2026-09-10 19:19:36.249822 | 0 | 0 | 0 |
@@ -58,7 +59,6 @@
 | 2026-09-06 18:42:49.842538 | 0 | 0 | 0 |
 | 2026-09-05 18:39:09.680804 | 0 | 0 | 0 |
 | 2026-09-04 19:11:45.542775 | 2 | 2 | 4 |
-| 2026-09-03 19:29:21.708804 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -66,26 +66,20 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Burley Oak 100 Riwaka (16oz) | DIPA | 8.5 % | Bottle/Can | Berlin, MD |
-| Dewey Bay Keeper IPA | IPA | 6% | Bottle/Can | Milton, DE |
-| New Trail Trail Marker | IPA | 7% | Bottle/Can | Williamsport, PA |
-| Allagash Lager | Lager | 5% | Bottle/Can | Portland, ME |
-| Founders KBS Iced Latte ($10) | Imperial Golden Ale | 11% | Bottle/Can | Grand Rapids, MI |
+| Mobtown The Doogie | Pale Ale | 5% | Bottle/Can | Baltimore, MD |
+| Hacker Pschorr Oktoberfest Marzen | Marzen | 6% | Bottle/Can | Germany |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Bash Bros Neon Flamingo | IPA | 6.50% | Bottle/Can | Baltimore, MD |
-| Oskar Blues Dale's American IPA | IPA | 6.90% | Bottle/Can | Longmont, CO |
-| Dewey Bay Keeper IPA | IPA | 6% | Bottle/Can | Deleware |
-| Fiddlehead IPA | IPA | 6.20% | Bottle/Can | Shelburne, VT |
-| Allagash Hazy IPA | IPA | 6.70% | Bottle/Can | Portland, ME |
+| The Veil Bend (16oz) | Pale Ale | 5.00% | Bottle/Can | Richmond, VA |
+| Mobtown Pasta Water | Pilsner | 5.50 % | Bottle/Can | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 368
+- **Total Snapshots**: 369
 - **Current Beer Count**: 46
-- **Total Change Records**: 367
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-09-12 18:50:36.430523
+- **Total Change Records**: 368
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-09-13 19:03:07.116737
