@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-09-26 19:29:28*
+*Generated on 2026-09-27 19:55:12*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-09-27 19:55:12.363861 | 48 |
 | 2026-09-26 19:29:28.104114 | 50 |
 | 2026-09-25 20:10:30.491319 | 50 |
 | 2026-09-24 20:12:13.149156 | 49 |
@@ -14,11 +15,10 @@
 | 2026-09-20 19:09:27.492928 | 46 |
 | 2026-09-19 19:01:52.959900 | 46 |
 | 2026-09-18 19:16:07.866596 | 45 |
-| 2026-09-17 20:00:43.916224 | 45 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (50)
+#### 🥫 Bottles & Cans (48)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -40,15 +40,16 @@
 | Founders Breakfast Stout | Stout | 8.30% | Grand Rapids, MI |
 | Copper Bonnet Cran-Fizz | RTD | 5.50% | Lansdale, PA |
 | Flying Dog Double Dog Juicy DIPA | DIPA | 12.00% | Utica, NY |
-| New Trail 24/7 | Session IPA | 4.70% | Williamsport, PA |
 | Owl's Brew Spiked Pop (4 Varieties) | Hard Soda | 4.80% | New York, NY |
-| *... and 30 more* | | | |
+| Owl's Brew Chelsea Handler's Mint Vodka Lemonade | RTD | 5.00% | New York, NY |
+| *... and 28 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-09-27 19:55:12.363861 | 0 | 2 | 2 |
 | 2026-09-26 19:29:28.104114 | 4 | 4 | 8 |
 | 2026-09-25 20:10:30.491319 | 3 | 2 | 5 |
 | 2026-09-24 20:12:13.149156 | 0 | 0 | 0 |
@@ -58,32 +59,20 @@
 | 2026-09-20 19:09:27.492928 | 0 | 0 | 0 |
 | 2026-09-19 19:01:52.959900 | 3 | 2 | 5 |
 | 2026-09-18 19:16:07.866596 | 0 | 0 | 0 |
-| 2026-09-17 20:00:43.916224 | 1 | 0 | 1 |
 
 ### 🆕 Latest Changes Details
-
-#### ➕ Added Beers
-
-| Name | Style | ABV | Vessel | Location |
-|------|-------|-----|--------|----------|
-| Carlsberg | Lager | 5.00% | Bottle/Can | France |
-| Cushwa/Bluejacket Idea Chasing (16oz) | IPA | 7.00% | Bottle/Can | Williamsport, MD |
-| Victory Harvest Moon Glow (16oz) | Weizenbock | 8.70% | Bottle/Can | Downingtown, PA |
-| Cigar City Nightmare Confetti | DIPA | 8.00% | Bottle/Can | Tampa, FL |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Chouffe Framboise ($11) | Fruited Belgian | 7.00% | Bottle/Can | Belgium |
-| Great Lakes Apple Pie Eliot ness | Lager | 6.10% | Bottle/Can | Cleveland, OH |
-| Black Beauty Exotic Grail | IPA | 7.10% | Bottle/Can | Baltimore, MD |
-| Right Proper Big Tomorrow | IPA | 7.20% | Bottle/Can | Washington, DC |
+| New Trail 24/7 | Session IPA | 4.70% | Bottle/Can | Williamsport, PA |
+| Dewey Braggin Rights | IPA | 4.80% | Bottle/Can | Milton, DE |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 382
-- **Current Beer Count**: 50
-- **Total Change Records**: 381
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-09-26 19:29:28.104114
+- **Total Snapshots**: 383
+- **Current Beer Count**: 48
+- **Total Change Records**: 382
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-09-27 19:55:12.363861
