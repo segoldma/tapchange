@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-10-03 19:34:15*
+*Generated on 2026-10-04 19:50:27*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-10-04 19:50:27.100544 | 45 |
 | 2026-10-03 19:34:15.017647 | 44 |
 | 2026-10-02 21:04:47.494123 | 43 |
 | 2026-10-01 21:29:09.956667 | 43 |
@@ -14,11 +15,10 @@
 | 2026-09-27 19:55:12.363861 | 48 |
 | 2026-09-26 19:29:28.104114 | 50 |
 | 2026-09-25 20:10:30.491319 | 50 |
-| 2026-09-24 20:12:13.149156 | 49 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (44)
+#### 🥫 Bottles & Cans (45)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -40,15 +40,16 @@
 | Owl's Brew Spiked Pop (4 Varieties) | Hard Soda | 4.80% | New York, NY |
 | Owl's Brew Chelsea Handler's Mint Vodka Lemonade | RTD | 5.00% | New York, NY |
 | Owl's Brew Sun Tea & Vodka (3 Varieties) | RTD | 5.00% | New York, NY |
-| Bell's SMaSH Hearted IPA | IPA | 7.00% | Comstock, MI |
 | Great Lakes Oktoberfest | Marzen | 6.50% | Cleveland, OH |
-| *... and 24 more* | | | |
+| Yuengling Lord Chesterfield | Pale Ale | 5.40% | Pottsville, PA |
+| *... and 25 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-10-04 19:50:27.100544 | 2 | 1 | 3 |
 | 2026-10-03 19:34:15.017647 | 1 | 0 | 1 |
 | 2026-10-02 21:04:47.494123 | 7 | 7 | 14 |
 | 2026-10-01 21:29:09.956667 | 0 | 0 | 0 |
@@ -58,7 +59,6 @@
 | 2026-09-27 19:55:12.363861 | 0 | 2 | 2 |
 | 2026-09-26 19:29:28.104114 | 4 | 4 | 8 |
 | 2026-09-25 20:10:30.491319 | 3 | 2 | 5 |
-| 2026-09-24 20:12:13.149156 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -66,12 +66,19 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Topo Chico Hard Seltzers (Variety) | Hard Seltzer | Strawberry Guava. Tropical Mango. Exotic Pineapple. Oaisis Cherry. | Bottle/Can | 4.70% |
+| Monument City Pumpkin Pie | Pumpkin Ale | 5.60% | Bottle/Can | Baltimore, MD |
+| Victory Prima Light | Pilsner | 4.20% | Bottle/Can | Downingtown, PA |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Bell's SMaSH Hearted IPA | IPA | 7.00% | Bottle/Can | Comstock, MI |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 389
-- **Current Beer Count**: 44
-- **Total Change Records**: 388
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-10-03 19:34:15.017647
+- **Total Snapshots**: 390
+- **Current Beer Count**: 45
+- **Total Change Records**: 389
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-10-04 19:50:27.100544
