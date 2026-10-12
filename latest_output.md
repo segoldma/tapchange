@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-10-11 20:39:45*
+*Generated on 2026-10-12 23:18:59*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-10-12 23:18:58.851096 | 46 |
 | 2026-10-11 20:39:45.482100 | 45 |
 | 2026-10-10 20:21:30.827862 | 45 |
 | 2026-10-09 21:23:01.123605 | 45 |
@@ -14,11 +15,10 @@
 | 2026-10-05 22:58:06.168963 | 47 |
 | 2026-10-04 19:50:27.100544 | 45 |
 | 2026-10-03 19:34:15.017647 | 44 |
-| 2026-10-02 21:04:47.494123 | 43 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (45)
+#### 🥫 Bottles & Cans (46)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -30,7 +30,6 @@
 | Dad Water  | Tequila Cocktail | 5.25% | Indianapolis, IN |
 | Allagash White | Wheat Beer | 5.20% | Portland, ME |
 | Cape May Coastal Evacuation | DIPA | 8.00% | Cape May, NJ |
-| Founders Hoppy Mood | NA | 0.00% | Grand Rapids, MI |
 | Ommegang Cooper's Hop (16oz) | Triple IPA | 10.50% | Cooperstown, NY |
 | Allagash Tripel | Belgian Tripel | 9.00% | Portland, ME |
 | Founders Breakfast Stout | Stout | 8.30% | Grand Rapids, MI |
@@ -42,13 +41,15 @@
 | Great Lakes Oktoberfest | Marzen | 6.50% | Cleveland, OH |
 | Dewey Bay Keeper IPA | IPA | 6% | Milton, DE |
 | New Trail Trail Marker | IPA | 7% | Williamsport, PA |
-| *... and 25 more* | | | |
+| Burley Oak 100 Riwaka (16oz) | DIPA | 8.5 % | Berlin, MD |
+| *... and 26 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-10-12 23:18:58.851096 | 3 | 2 | 5 |
 | 2026-10-11 20:39:45.482100 | 0 | 0 | 0 |
 | 2026-10-10 20:21:30.827862 | 0 | 0 | 0 |
 | 2026-10-09 21:23:01.123605 | 1 | 4 | 5 |
@@ -58,16 +59,28 @@
 | 2026-10-05 22:58:06.168963 | 2 | 0 | 2 |
 | 2026-10-04 19:50:27.100544 | 2 | 1 | 3 |
 | 2026-10-03 19:34:15.017647 | 1 | 0 | 1 |
-| 2026-10-02 21:04:47.494123 | 7 | 7 | 14 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Cigar City Jai Alai White Oak | IPA | 7.50% | Bottle/Can | Tampa, FL |
+| Paulaner Oktoberfest Bier | Marzen | 6.00% | Bottle/Can | Germany |
+| 450 North Dragon Draught (16oz) | Smoothie Sour | 5.30% | Bottle/Can | Columbus, IN |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Oberdorfer Festbier (16.9oz) | Marzen | 5.40% | Bottle/Can | Germany |
+| Founders Hoppy Mood | NA | 0.00% | Bottle/Can | Grand Rapids, MI |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 397
-- **Current Beer Count**: 45
-- **Total Change Records**: 396
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-10-11 20:39:45.482100
+- **Total Snapshots**: 398
+- **Current Beer Count**: 46
+- **Total Change Records**: 397
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-10-12 23:18:58.851096
