@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-10-14 20:21:52*
+*Generated on 2026-10-15 20:06:33*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-10-15 20:06:32.891949 | 45 |
 | 2026-10-14 20:21:52.203988 | 46 |
 | 2026-10-13 21:37:30.967771 | 46 |
 | 2026-10-12 23:18:58.851096 | 46 |
@@ -14,11 +15,10 @@
 | 2026-10-08 21:36:41.430243 | 48 |
 | 2026-10-07 21:40:45.795519 | 48 |
 | 2026-10-06 21:20:22.509001 | 48 |
-| 2026-10-05 22:58:06.168963 | 47 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (46)
+#### 🥫 Bottles & Cans (45)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -42,13 +42,14 @@
 | Dewey Bay Keeper IPA | IPA | 6% | Milton, DE |
 | New Trail Trail Marker | IPA | 7% | Williamsport, PA |
 | Burley Oak 100 Riwaka (16oz) | DIPA | 8.5 % | Berlin, MD |
-| *... and 26 more* | | | |
+| *... and 25 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-10-15 20:06:32.891949 | 0 | 1 | 1 |
 | 2026-10-14 20:21:52.203988 | 0 | 0 | 0 |
 | 2026-10-13 21:37:30.967771 | 0 | 0 | 0 |
 | 2026-10-12 23:18:58.851096 | 3 | 2 | 5 |
@@ -58,16 +59,19 @@
 | 2026-10-08 21:36:41.430243 | 0 | 0 | 0 |
 | 2026-10-07 21:40:45.795519 | 0 | 0 | 0 |
 | 2026-10-06 21:20:22.509001 | 1 | 0 | 1 |
-| 2026-10-05 22:58:06.168963 | 2 | 0 | 2 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Carlsberg | Lager | 5.00% | Bottle/Can | France |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 400
-- **Current Beer Count**: 46
-- **Total Change Records**: 399
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-10-14 20:21:52.203988
+- **Total Snapshots**: 401
+- **Current Beer Count**: 45
+- **Total Change Records**: 400
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-10-15 20:06:32.891949
