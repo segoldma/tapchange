@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-10-17 18:56:07*
+*Generated on 2026-10-18 19:03:02*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-10-18 19:03:02.824009 | 46 |
 | 2026-10-17 18:56:07.672584 | 47 |
 | 2026-10-16 19:44:49.672657 | 45 |
 | 2026-10-15 20:06:32.891949 | 45 |
@@ -14,11 +15,10 @@
 | 2026-10-11 20:39:45.482100 | 45 |
 | 2026-10-10 20:21:30.827862 | 45 |
 | 2026-10-09 21:23:01.123605 | 45 |
-| 2026-10-08 21:36:41.430243 | 48 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (47)
+#### 🥫 Bottles & Cans (46)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -42,13 +42,14 @@
 | Dewey Bay Keeper IPA | IPA | 6% | Milton, DE |
 | New Trail Trail Marker | IPA | 7% | Williamsport, PA |
 | Burley Oak 100 Riwaka (16oz) | DIPA | 8.5 % | Berlin, MD |
-| *... and 27 more* | | | |
+| *... and 26 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-10-18 19:03:02.824009 | 2 | 3 | 5 |
 | 2026-10-17 18:56:07.672584 | 2 | 0 | 2 |
 | 2026-10-16 19:44:49.672657 | 0 | 0 | 0 |
 | 2026-10-15 20:06:32.891949 | 0 | 1 | 1 |
@@ -58,7 +59,6 @@
 | 2026-10-11 20:39:45.482100 | 0 | 0 | 0 |
 | 2026-10-10 20:21:30.827862 | 0 | 0 | 0 |
 | 2026-10-09 21:23:01.123605 | 1 | 4 | 5 |
-| 2026-10-08 21:36:41.430243 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
@@ -66,13 +66,21 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Lancaster Baked Pumpkin Ale | Pumpkin Ale | 7.50% | Bottle/Can | Lansdale, PA |
-| BlueJaket Light Years (16oz) | Pilsner | 4.50% | Bottle/Can | Washington, DC |
+| Peroni | Lager | 5.00% | Bottle/Can | Italy |
+| Allagash Haunted House | Black Ale | 6.66% | Bottle/Can | Portland, ME |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Oberdorfer Helles (16.9oz) | Helles Lager | 5.00% | Bottle/Can | Germany |
+| Monument City Pumpkin Pie | Pumpkin Ale | 5.60% | Bottle/Can | Baltimore, MD |
+| Sixpoint Oktoberfest | Marzen | 6.00% | Bottle/Can | Brooklyn, NY |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 403
-- **Current Beer Count**: 47
-- **Total Change Records**: 402
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-10-17 18:56:07.672584
+- **Total Snapshots**: 404
+- **Current Beer Count**: 46
+- **Total Change Records**: 403
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-10-18 19:03:02.824009
