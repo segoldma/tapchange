@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-10-22 20:20:17*
+*Generated on 2026-10-23 20:08:18*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-10-23 20:08:18.757548 | 51 |
 | 2026-10-22 20:20:17.315261 | 48 |
 | 2026-10-21 20:23:53.545334 | 48 |
 | 2026-10-20 20:11:19.312150 | 48 |
@@ -14,11 +15,10 @@
 | 2026-10-16 19:44:49.672657 | 45 |
 | 2026-10-15 20:06:32.891949 | 45 |
 | 2026-10-14 20:21:52.203988 | 46 |
-| 2026-10-13 21:37:30.967771 | 46 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (48)
+#### 🥫 Bottles & Cans (51)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -38,17 +38,18 @@
 | Owl's Brew Spiked Pop (4 Varieties) | Hard Soda | 4.80% | New York, NY |
 | Owl's Brew Chelsea Handler's Mint Vodka Lemonade | RTD | 5.00% | New York, NY |
 | Owl's Brew Sun Tea & Vodka (3 Varieties) | RTD | 5.00% | New York, NY |
-| Great Lakes Oktoberfest | Marzen | 6.50% | Cleveland, OH |
 | Dewey Bay Keeper IPA | IPA | 6% | Milton, DE |
 | New Trail Trail Marker | IPA | 7% | Williamsport, PA |
 | Burley Oak 100 Riwaka (16oz) | DIPA | 8.5 % | Berlin, MD |
-| *... and 28 more* | | | |
+| Founders KBS Iced Latte ($10) | Imperial Golden Ale | 11% | Grand Rapids, MI |
+| *... and 31 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-10-23 20:08:18.757548 | 4 | 1 | 5 |
 | 2026-10-22 20:20:17.315261 | 0 | 0 | 0 |
 | 2026-10-21 20:23:53.545334 | 0 | 0 | 0 |
 | 2026-10-20 20:11:19.312150 | 2 | 0 | 2 |
@@ -58,16 +59,28 @@
 | 2026-10-16 19:44:49.672657 | 0 | 0 | 0 |
 | 2026-10-15 20:06:32.891949 | 0 | 1 | 1 |
 | 2026-10-14 20:21:52.203988 | 0 | 0 | 0 |
-| 2026-10-13 21:37:30.967771 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Schlafly Kolsch | Kolsch | 4.80% | Bottle/Can | St. Louis, MO |
+| Monument City The Road Less Traveled | English Mild | 3.20% | Bottle/Can | Baltimore, MD |
+| Ommegang Abbey Ale | Belgian Dubbel | 8.20% | Bottle/Can | Cooperstown, NY |
+| Allagash North Sky (16oz) | Stout | 7.50% | Bottle/Can | Portland, ME |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Great Lakes Oktoberfest | Marzen | 6.50% | Bottle/Can | Cleveland, OH |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 408
-- **Current Beer Count**: 48
-- **Total Change Records**: 407
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-10-22 20:20:17.315261
+- **Total Snapshots**: 409
+- **Current Beer Count**: 51
+- **Total Change Records**: 408
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-10-23 20:08:18.757548
