@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-10-24 19:07:30*
+*Generated on 2026-10-25 19:22:11*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-10-25 19:22:11.642306 | 49 |
 | 2026-10-24 19:07:29.944021 | 51 |
 | 2026-10-23 20:08:18.757548 | 51 |
 | 2026-10-22 20:20:17.315261 | 48 |
@@ -14,11 +15,10 @@
 | 2026-10-18 19:03:02.824009 | 46 |
 | 2026-10-17 18:56:07.672584 | 47 |
 | 2026-10-16 19:44:49.672657 | 45 |
-| 2026-10-15 20:06:32.891949 | 45 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (51)
+#### 🥫 Bottles & Cans (49)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -42,13 +42,14 @@
 | New Trail Trail Marker | IPA | 7% | Williamsport, PA |
 | Burley Oak 100 Riwaka (16oz) | DIPA | 8.5 % | Berlin, MD |
 | Founders KBS Iced Latte ($10) | Imperial Golden Ale | 11% | Grand Rapids, MI |
-| *... and 31 more* | | | |
+| *... and 29 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-10-25 19:22:11.642306 | 1 | 3 | 4 |
 | 2026-10-24 19:07:29.944021 | 0 | 0 | 0 |
 | 2026-10-23 20:08:18.757548 | 4 | 1 | 5 |
 | 2026-10-22 20:20:17.315261 | 0 | 0 | 0 |
@@ -58,16 +59,27 @@
 | 2026-10-18 19:03:02.824009 | 2 | 3 | 5 |
 | 2026-10-17 18:56:07.672584 | 2 | 0 | 2 |
 | 2026-10-16 19:44:49.672657 | 0 | 0 | 0 |
-| 2026-10-15 20:06:32.891949 | 0 | 1 | 1 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Union Steady Eddie | IPA | 7.00% | Bottle/Can | Baltimore, MD |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Southern Tier Maple Warlock | Pumpkin Stout | 8.6 % | Bottle/Can | Lakewood, NY |
+| Paulaner Oktoberfest Bier | Marzen | 6.00% | Bottle/Can | Germany |
+| Crooked Crab Haze for Days | IPA | 6% | Bottle/Can | Odenton, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 410
-- **Current Beer Count**: 51
-- **Total Change Records**: 409
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-10-24 19:07:29.944021
+- **Total Snapshots**: 411
+- **Current Beer Count**: 49
+- **Total Change Records**: 410
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-10-25 19:22:11.642306
