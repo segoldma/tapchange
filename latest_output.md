@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-10-27 21:01:57*
+*Generated on 2026-10-28 21:24:04*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-10-28 21:24:04.553494 | 50 |
 | 2026-10-27 21:01:57.100249 | 47 |
 | 2026-10-26 21:14:58.932183 | 47 |
 | 2026-10-25 19:22:11.642306 | 49 |
@@ -14,11 +15,10 @@
 | 2026-10-21 20:23:53.545334 | 48 |
 | 2026-10-20 20:11:19.312150 | 48 |
 | 2026-10-19 21:17:07.705862 | 46 |
-| 2026-10-18 19:03:02.824009 | 46 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (47)
+#### 🥫 Bottles & Cans (50)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -42,13 +42,14 @@
 | Founders KBS Iced Latte ($10) | Imperial Golden Ale | 11% | Grand Rapids, MI |
 | Bells Two Hearted | IPA | 7% | Comstock, MI |
 | Lost Rhino Two-a-Daze | IPA | 6% | Ashburn, VA |
-| *... and 27 more* | | | |
+| *... and 30 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-10-28 21:24:04.553494 | 3 | 0 | 3 |
 | 2026-10-27 21:01:57.100249 | 0 | 0 | 0 |
 | 2026-10-26 21:14:58.932183 | 2 | 4 | 6 |
 | 2026-10-25 19:22:11.642306 | 1 | 3 | 4 |
@@ -58,16 +59,21 @@
 | 2026-10-21 20:23:53.545334 | 0 | 0 | 0 |
 | 2026-10-20 20:11:19.312150 | 2 | 0 | 2 |
 | 2026-10-19 21:17:07.705862 | 0 | 0 | 0 |
-| 2026-10-18 19:03:02.824009 | 2 | 3 | 5 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Sloop Yes Pumpkin (16oz) | Pumpkin Ale | 4.50% | Bottle/Can | Hopewell Junction, NY |
+| Sloop Juice Bomb | IPA | 6.50% | Bottle/Can | Hopewell Junction, NY |
+| Sloop No Pumpkin (16oz) | IPA | 6.00% | Bottle/Can | Hopewell Junction, NY |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 413
-- **Current Beer Count**: 47
-- **Total Change Records**: 412
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-10-27 21:01:57.100249
+- **Total Snapshots**: 414
+- **Current Beer Count**: 50
+- **Total Change Records**: 413
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-10-28 21:24:04.553494
