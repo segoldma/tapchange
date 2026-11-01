@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-10-31 20:20:28*
+*Generated on 2026-11-01 20:53:19*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-11-01 20:53:19.707098 | 48 |
 | 2026-10-31 20:20:27.990430 | 56 |
 | 2026-10-30 21:11:40.536144 | 50 |
 | 2026-10-29 21:28:37.661561 | 50 |
@@ -14,11 +15,10 @@
 | 2026-10-25 19:22:11.642306 | 49 |
 | 2026-10-24 19:07:29.944021 | 51 |
 | 2026-10-23 20:08:18.757548 | 51 |
-| 2026-10-22 20:20:17.315261 | 48 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (56)
+#### 🥫 Bottles & Cans (48)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -40,15 +40,16 @@
 | New Trail Trail Marker | IPA | 7% | Williamsport, PA |
 | Burley Oak 100 Riwaka (16oz) | DIPA | 8.5 % | Berlin, MD |
 | Founders KBS Iced Latte ($10) | Imperial Golden Ale | 11% | Grand Rapids, MI |
-| Bells Two Hearted | IPA | 7% | Comstock, MI |
-| Lost Rhino Two-a-Daze | IPA | 6% | Ashburn, VA |
-| *... and 36 more* | | | |
+| Cigar City Nightmare Confetti | DIPA | 8.00% | Tampa, FL |
+| Victory Harvest Moon Glow (16oz) | Weizenbock | 8.70% | Downingtown, PA |
+| *... and 28 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-11-01 20:53:19.707098 | 0 | 8 | 8 |
 | 2026-10-31 20:20:27.990430 | 6 | 0 | 6 |
 | 2026-10-30 21:11:40.536144 | 0 | 0 | 0 |
 | 2026-10-29 21:28:37.661561 | 0 | 0 | 0 |
@@ -58,25 +59,26 @@
 | 2026-10-25 19:22:11.642306 | 1 | 3 | 4 |
 | 2026-10-24 19:07:29.944021 | 0 | 0 | 0 |
 | 2026-10-23 20:08:18.757548 | 4 | 1 | 5 |
-| 2026-10-22 20:20:17.315261 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
-#### ➕ Added Beers
+#### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Dogfish Head Tropical Squall | Imperial Golden Ale | 9.00% | Bottle/Can | Milton, DE |
-| Oliver/Troegs Before Dawn | Lager | 5.00% | Bottle/Can | Baltimore, MD |
-| Great Lakes Cran Orange Wheat | Wheat Ale | 5.50% | Bottle/Can | Cleveland, OH |
-| Founders Red Sweater IPA | IPA | 6.50% | Bottle/Can | Grand Rapids, MI |
-| Flying Dog The Truth Citrus Crush | Imperial IPA | 8.70% | Bottle/Can | Utica, NY |
-| Brooklyn Winter IPA | IPA | 7.00% | Bottle/Can | Brooklyn, NY |
+| Bells Two Hearted | IPA | 7% | Bottle/Can | Comstock, MI |
+| Schlafly Pumpkin Ale | Pumpkin Ale | 8.00% | Bottle/Can | St. Louis, MO |
+| Southern Tier Imperial Pumqeen (16oz) | Cider | 8.60% | Bottle/Can | Lakewood, NY |
+| Schlafly Vanilla Pumpkin Ale | Pumpkin Beer | 8% | Bottle/Can | St. Louis, MO |
+| Lost Rhino Two-a-Daze | IPA | 6% | Bottle/Can | Ashburn, VA |
+| DuClaw Sweet Baby Pumpkin | Pumpkin Ale | 6.20% | Bottle/Can | Baltimore, MD |
+| Allagash Haunted House | Black Ale | 6.66% | Bottle/Can | Portland, ME |
+| Deschutes/Patagonia Provisions | IPA | 7% | Bottle/Can | Bend, OR |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 417
-- **Current Beer Count**: 56
-- **Total Change Records**: 416
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-10-31 20:20:27.990430
+- **Total Snapshots**: 418
+- **Current Beer Count**: 48
+- **Total Change Records**: 417
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-11-01 20:53:19.707098
