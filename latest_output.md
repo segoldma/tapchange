@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-11-05 22:25:58*
+*Generated on 2026-11-06 21:50:34*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-11-06 21:50:34.130195 | 48 |
 | 2026-11-05 22:25:58.294264 | 48 |
 | 2026-11-04 22:16:21.791679 | 48 |
 | 2026-11-03 22:07:57.948737 | 48 |
@@ -14,7 +15,6 @@
 | 2026-10-30 21:11:40.536144 | 50 |
 | 2026-10-29 21:28:37.661561 | 50 |
 | 2026-10-28 21:24:04.553494 | 50 |
-| 2026-10-27 21:01:57.100249 | 47 |
 
 ### 🍺 Current Beer List
 
@@ -30,7 +30,6 @@
 | Dad Water  | Tequila Cocktail | 5.25% | Indianapolis, IN |
 | Allagash White | Wheat Beer | 5.20% | Portland, ME |
 | Cape May Coastal Evacuation | DIPA | 8.00% | Cape May, NJ |
-| Ommegang Cooper's Hop (16oz) | Triple IPA | 10.50% | Cooperstown, NY |
 | Allagash Tripel | Belgian Tripel | 9.00% | Portland, ME |
 | Copper Bonnet Cran-Fizz | RTD | 5.50% | Lansdale, PA |
 | Flying Dog Double Dog Juicy DIPA | DIPA | 12.00% | Utica, NY |
@@ -42,6 +41,7 @@
 | Founders KBS Iced Latte ($10) | Imperial Golden Ale | 11% | Grand Rapids, MI |
 | Cigar City Nightmare Confetti | DIPA | 8.00% | Tampa, FL |
 | Victory Harvest Moon Glow (16oz) | Weizenbock | 8.70% | Downingtown, PA |
+| Cushwa/Bluejacket Idea Chasing (16oz) | IPA | 7.00% | Williamsport, MD |
 | *... and 28 more* | | | |
 
 
@@ -49,6 +49,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-11-06 21:50:34.130195 | 4 | 4 | 8 |
 | 2026-11-05 22:25:58.294264 | 0 | 0 | 0 |
 | 2026-11-04 22:16:21.791679 | 0 | 0 | 0 |
 | 2026-11-03 22:07:57.948737 | 0 | 0 | 0 |
@@ -58,16 +59,31 @@
 | 2026-10-30 21:11:40.536144 | 0 | 0 | 0 |
 | 2026-10-29 21:28:37.661561 | 0 | 0 | 0 |
 | 2026-10-28 21:24:04.553494 | 3 | 0 | 3 |
-| 2026-10-27 21:01:57.100249 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Flying Fish Caramel Espresso Porter | Porter | 7.50% | Bottle/Can | Baltimore, MD |
+| Key Old Guard | Dunkel | 4.00% | Bottle/Can | Baltimore, MD |
+| Radeberger Zwickel Bier (16.9oz) | Pilsner | 4.80% | Bottle/Can | Germany |
+| Other Half Automated Terp Machine (16oz) | Imperial IPA | 8.20% | Bottle/Can | Brooklyn, NY |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Sloop No Pumpkin (16oz) | IPA | 6.00% | Bottle/Can | Hopewell Junction, NY |
+| Ommegang Cooper's Hop (16oz) | Triple IPA | 10.50% | Bottle/Can | Cooperstown, NY |
+| Victory Prima Light | Pilsner | 4.20% | Bottle/Can | Downingtown, PA |
+| Union Cup of Ambition (16oz) | IPA | 7.00% | Bottle/Can | Baltimore, MD |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 422
+- **Total Snapshots**: 423
 - **Current Beer Count**: 48
-- **Total Change Records**: 421
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-11-05 22:25:58.294264
+- **Total Change Records**: 422
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-11-06 21:50:34.130195
