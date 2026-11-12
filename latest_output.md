@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-11-11 23:11:17*
+*Generated on 2026-11-12 22:28:57*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-11-12 22:28:57.734154 | 41 |
 | 2026-11-11 23:11:17.486624 | 42 |
 | 2026-11-10 22:00:13.410013 | 42 |
 | 2026-11-10 00:28:30.444621 | 46 |
@@ -14,11 +15,10 @@
 | 2026-11-05 22:25:58.294264 | 48 |
 | 2026-11-04 22:16:21.791679 | 48 |
 | 2026-11-03 22:07:57.948737 | 48 |
-| 2026-11-02 23:43:42.179807 | 48 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (42)
+#### 🥫 Bottles & Cans (41)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -29,7 +29,6 @@
 | Topo Chico Hard Seltzers (Variety) | Hard Seltzer | Strawberry Guava. Tropical Mango. Exotic Pineapple. Oaisis Cherry. | 4.70% |
 | Allagash White | Wheat Beer | 5.20% | Portland, ME |
 | Cape May Coastal Evacuation | DIPA | 8.00% | Cape May, NJ |
-| Allagash Tripel | Belgian Tripel | 9.00% | Portland, ME |
 | Copper Bonnet Cran-Fizz | RTD | 5.50% | Lansdale, PA |
 | Owl's Brew Spiked Pop (4 Varieties) | Hard Soda | 4.80% | New York, NY |
 | Owl's Brew Sun Tea & Vodka (3 Varieties) | RTD | 5.00% | New York, NY |
@@ -37,18 +36,20 @@
 | Founders KBS Iced Latte ($10) | Imperial Golden Ale | 11% | Grand Rapids, MI |
 | Cigar City Nightmare Confetti | DIPA | 8.00% | Tampa, FL |
 | Cushwa/Bluejacket Idea Chasing (16oz) | IPA | 7.00% | Williamsport, MD |
-| Victory Witty Monkey (19.2oz, $8) | Wheat Ale | 9.50% | Downingtown, PA |
 | RAR Out of Order Heads will Roll (16oz) | Sour Ale | 6.20% | Cambridge, MD |
-| Firestone Walker pFreal | IPA | 7.00% | Paso Robles, CA |
 | Plank's O'Zapft (16oz, $11) | Weizenbock | 7.80% | Germany |
 | 450 North Dragon Draught (16oz) | Smoothie Sour | 5.30% | Columbus, IN |
-| *... and 22 more* | | | |
+| Peroni | Lager | 5.00% | Italy |
+| Founders Imperial Centennial IPA | Imperial IPA | 9.20% | Grand Rapids, MI |
+| 1623 Hazy | IPA | 6.00% | Eldersburg, MD |
+| *... and 21 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-11-12 22:28:57.734154 | 2 | 3 | 5 |
 | 2026-11-11 23:11:17.486624 | 0 | 0 | 0 |
 | 2026-11-10 22:00:13.410013 | 2 | 6 | 8 |
 | 2026-11-10 00:28:30.444621 | 0 | 0 | 0 |
@@ -58,16 +59,28 @@
 | 2026-11-05 22:25:58.294264 | 0 | 0 | 0 |
 | 2026-11-04 22:16:21.791679 | 0 | 0 | 0 |
 | 2026-11-03 22:07:57.948737 | 0 | 0 | 0 |
-| 2026-11-02 23:43:42.179807 | 0 | 0 | 0 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Peabody Heights Crazy Town | Fruited Ale | 4.50% | Bottle/Can | Baltimore, MD |
+| Southern Tier Black Forest Cake | Imperial Stout | 8.60% | Bottle/Can | Lakewood, NY |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Allagash Tripel | Belgian Tripel | 9.00% | Bottle/Can | Portland, ME |
+| Victory Witty Monkey (19.2oz, $8) | Wheat Ale | 9.50% | Bottle/Can | Downingtown, PA |
+| Firestone Walker pFreal | IPA | 7.00% | Bottle/Can | Paso Robles, CA |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 428
-- **Current Beer Count**: 42
-- **Total Change Records**: 427
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-11-11 23:11:17.486624
+- **Total Snapshots**: 429
+- **Current Beer Count**: 41
+- **Total Change Records**: 428
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-11-12 22:28:57.734154
