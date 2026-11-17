@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-11-15 21:23:42*
+*Generated on 2026-11-17 00:32:30*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-11-17 00:32:30.029156 | 45 |
 | 2026-11-15 21:23:42.461022 | 44 |
 | 2026-11-14 21:00:01.134212 | 44 |
 | 2026-11-13 22:16:24.608987 | 42 |
@@ -14,11 +15,10 @@
 | 2026-11-10 00:28:30.444621 | 46 |
 | 2026-11-08 20:50:50.801369 | 46 |
 | 2026-11-07 20:35:14.345186 | 48 |
-| 2026-11-06 21:50:34.130195 | 48 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (44)
+#### 🥫 Bottles & Cans (45)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -42,13 +42,14 @@
 | 1623 Hazy | IPA | 6.00% | Eldersburg, MD |
 | Ommegang Abbey Ale | Belgian Dubbel | 8.20% | Cooperstown, NY |
 | Allagash North Sky (16oz) | Stout | 7.50% | Portland, ME |
-| *... and 24 more* | | | |
+| *... and 25 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-11-17 00:32:30.029156 | 2 | 1 | 3 |
 | 2026-11-15 21:23:42.461022 | 0 | 0 | 0 |
 | 2026-11-14 21:00:01.134212 | 4 | 2 | 6 |
 | 2026-11-13 22:16:24.608987 | 2 | 1 | 3 |
@@ -58,16 +59,26 @@
 | 2026-11-10 00:28:30.444621 | 0 | 0 | 0 |
 | 2026-11-08 20:50:50.801369 | 0 | 2 | 2 |
 | 2026-11-07 20:35:14.345186 | 0 | 0 | 0 |
-| 2026-11-06 21:50:34.130195 | 4 | 4 | 8 |
 
 ### 🆕 Latest Changes Details
 
-*No changes in the latest update.*
+#### ➕ Added Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Flying Dog The Truth Juiced Up | IPA | 8.70% | Bottle/Can | Pottstown, PA |
+| Sly Fox Coastal Odyssey | IPA | 8.70% | Bottle/Can | Utica, NY |
+
+#### ➖ Removed Beers
+
+| Name | Style | ABV | Vessel | Location |
+|------|-------|-----|--------|----------|
+| Sloop Yes Pumpkin (16oz) | Pumpkin Ale | 4.50% | Bottle/Can | Hopewell Junction, NY |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 432
-- **Current Beer Count**: 44
-- **Total Change Records**: 431
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-11-15 21:23:42.461022
+- **Total Snapshots**: 433
+- **Current Beer Count**: 45
+- **Total Change Records**: 432
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-11-17 00:32:30.029156
