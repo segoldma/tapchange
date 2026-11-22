@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-11-21 21:57:07*
+*Generated on 2026-11-22 22:12:21*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-11-22 22:12:21.507855 | 45 |
 | 2026-11-21 21:57:07.795117 | 44 |
 | 2026-11-20 22:51:23.290995 | 44 |
 | 2026-11-19 23:18:56.945855 | 44 |
@@ -14,11 +15,10 @@
 | 2026-11-15 21:23:42.461022 | 44 |
 | 2026-11-14 21:00:01.134212 | 44 |
 | 2026-11-13 22:16:24.608987 | 42 |
-| 2026-11-12 22:28:57.734154 | 41 |
 
 ### 🍺 Current Beer List
 
-#### 🥫 Bottles & Cans (44)
+#### 🥫 Bottles & Cans (45)
 
 | Name | Style | ABV | Location |
 |------|-------|-----|----------|
@@ -33,22 +33,23 @@
 | Owl's Brew Sun Tea & Vodka (3 Varieties) | RTD | 5.00% | New York, NY |
 | Founders KBS Iced Latte ($10) | Imperial Golden Ale | 11% | Grand Rapids, MI |
 | Cigar City Nightmare Confetti | DIPA | 8.00% | Tampa, FL |
-| RAR Out of Order Heads will Roll (16oz) | Sour Ale | 6.20% | Cambridge, MD |
 | Plank's O'Zapft (16oz, $11) | Weizenbock | 7.80% | Germany |
 | 450 North Dragon Draught (16oz) | Smoothie Sour | 5.30% | Columbus, IN |
 | Founders Imperial Centennial IPA | Imperial IPA | 9.20% | Grand Rapids, MI |
 | Ommegang Abbey Ale | Belgian Dubbel | 8.20% | Cooperstown, NY |
 | Allagash North Sky (16oz) | Stout | 7.50% | Portland, ME |
 | Union Steady Eddie | IPA | 7.00% | Baltimore, MD |
-| Sloop Happier Hour (16oz) | Tart Ale | 4.00% | Hopewell Junction, NY |
 | Sloop Juice Bomb | IPA | 6.50% | Hopewell Junction, NY |
-| *... and 24 more* | | | |
+| Brooklyn Winter IPA | IPA | 7.00% | Brooklyn, NY |
+| Great Lakes Cran Orange Wheat | Wheat Ale | 5.50% | Cleveland, OH |
+| *... and 25 more* | | | |
 
 
 ## 🔄 Recent Changes
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-11-22 22:12:21.507855 | 4 | 3 | 7 |
 | 2026-11-21 21:57:07.795117 | 3 | 3 | 6 |
 | 2026-11-20 22:51:23.290995 | 0 | 0 | 0 |
 | 2026-11-19 23:18:56.945855 | 3 | 4 | 7 |
@@ -58,7 +59,6 @@
 | 2026-11-15 21:23:42.461022 | 0 | 0 | 0 |
 | 2026-11-14 21:00:01.134212 | 4 | 2 | 6 |
 | 2026-11-13 22:16:24.608987 | 2 | 1 | 3 |
-| 2026-11-12 22:28:57.734154 | 2 | 3 | 5 |
 
 ### 🆕 Latest Changes Details
 
@@ -66,22 +66,23 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Master Gao Baby Jasmine Tea Lager (11.2oz, $12.50) | Lager | 5.40% | Bottle/Can | China |
-| Bitburger Premium Pilsner | Pilsner | 4.80% | Bottle/Can | Germany |
-| Aldus Haze Field IPA | IPA | 7.00% | Bottle/Can | Hanover, PA |
+| Weyerbacher Sexy Motherpucker | Sour Ale | 4.80% | Bottle/Can | Easton, PA |
+| Guilford Conspiracy | Lager | 4.90% | Bottle/Can | Baltimore, MD |
+| Fiddlehead Imperial IPA | Imperial IPA | 9.00% | Bottle/Can | Shelburne, VT |
+| Cape May Always Ready | Pale Ale | 4.80% | Bottle/Can | Cape May, NJ |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Guilford Conspiracy | Dark Lager | 4.90% | Bottle/Can | Baltimore, MD |
-| Oliver/Troegs Before Dawn | Lager | 5.00% | Bottle/Can | Baltimore, MD |
-| Evolution The Hive | Golden Ale | 4.90% | Bottle/Can | Salisbury, MD |
+| Heineken | Lager | 5.00% | Bottle/Can | Amsterdam |
+| RAR Out of Order Heads will Roll (16oz) | Sour Ale | 6.20% | Bottle/Can | Cambridge, MD |
+| Sloop Happier Hour (16oz) | Tart Ale | 4.00% | Bottle/Can | Hopewell Junction, NY |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 438
-- **Current Beer Count**: 44
-- **Total Change Records**: 437
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-11-21 21:57:07.795117
+- **Total Snapshots**: 439
+- **Current Beer Count**: 45
+- **Total Change Records**: 438
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-11-22 22:12:21.507855
