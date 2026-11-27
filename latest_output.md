@@ -1,10 +1,11 @@
 # Beer Tracking Report
-*Generated on 2026-11-26 00:45:09*
+*Generated on 2026-11-27 00:51:36*
 
 ## 📸 Beer Snapshots
 
 | Timestamp | Beer Count |
 |-----------|------------|
+| 2026-11-27 00:51:36.666731 | 45 |
 | 2026-11-26 00:45:09.290999 | 45 |
 | 2026-11-25 01:11:00.821387 | 45 |
 | 2026-11-24 03:05:06.217490 | 45 |
@@ -14,7 +15,6 @@
 | 2026-11-19 23:18:56.945855 | 44 |
 | 2026-11-18 23:11:35.470071 | 45 |
 | 2026-11-17 23:41:15.872190 | 45 |
-| 2026-11-17 00:32:30.029156 | 45 |
 
 ### 🍺 Current Beer List
 
@@ -35,13 +35,13 @@
 | Plank's O'Zapft (16oz, $11) | Weizenbock | 7.80% | Germany |
 | 450 North Dragon Draught (16oz) | Smoothie Sour | 5.30% | Columbus, IN |
 | Founders Imperial Centennial IPA | Imperial IPA | 9.20% | Grand Rapids, MI |
-| Ommegang Abbey Ale | Belgian Dubbel | 8.20% | Cooperstown, NY |
 | Allagash North Sky (16oz) | Stout | 7.50% | Portland, ME |
 | Union Steady Eddie | IPA | 7.00% | Baltimore, MD |
-| Sloop Juice Bomb | IPA | 6.50% | Hopewell Junction, NY |
 | Brooklyn Winter IPA | IPA | 7.00% | Brooklyn, NY |
 | Great Lakes Cran Orange Wheat | Wheat Ale | 5.50% | Cleveland, OH |
 | Flying Dog The Truth Citrus Crush | Imperial IPA | 8.70% | Utica, NY |
+| Dogfish Head Tropical Squall | Imperial Golden Ale | 9.00% | Milton, DE |
+| Radeberger Zwickel Bier (16.9oz) | Pilsner | 4.80% | Germany |
 | *... and 25 more* | | | |
 
 
@@ -49,6 +49,7 @@
 
 | Timestamp | Added | Removed | Total Changes |
 |-----------|-------|---------|---------------|
+| 2026-11-27 00:51:36.666731 | 2 | 2 | 4 |
 | 2026-11-26 00:45:09.290999 | 1 | 1 | 2 |
 | 2026-11-25 01:11:00.821387 | 0 | 0 | 0 |
 | 2026-11-24 03:05:06.217490 | 0 | 0 | 0 |
@@ -58,7 +59,6 @@
 | 2026-11-19 23:18:56.945855 | 3 | 4 | 7 |
 | 2026-11-18 23:11:35.470071 | 0 | 0 | 0 |
 | 2026-11-17 23:41:15.872190 | 0 | 0 | 0 |
-| 2026-11-17 00:32:30.029156 | 2 | 1 | 3 |
 
 ### 🆕 Latest Changes Details
 
@@ -66,18 +66,20 @@
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Hoof Hearted $60 Nachos (16oz, $12) | Double India Pale Ale | 8.00% | Bottle/Can | North Haven, CT |
+| Allagash Cabin Weekend ($13) | Imperial Brown Ale | 8.90% | Bottle/Can | Portland, ME |
+| Victory Merry Monkey | Belgian Spiced Ale | 9.50% | Bottle/Can | Downingtown, PA |
 
 #### ➖ Removed Beers
 
 | Name | Style | ABV | Vessel | Location |
 |------|-------|-----|--------|----------|
-| Copper Bonnet Cran-Fizz | RTD | 5.50% | Bottle/Can | Lansdale, PA |
+| Ommegang Abbey Ale | Belgian Dubbel | 8.20% | Bottle/Can | Cooperstown, NY |
+| Sloop Juice Bomb | IPA | 6.50% | Bottle/Can | Hopewell Junction, NY |
 
 
 ## 📊 Summary
 
-- **Total Snapshots**: 442
+- **Total Snapshots**: 443
 - **Current Beer Count**: 45
-- **Total Change Records**: 441
-- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-11-26 00:45:09.290999
+- **Total Change Records**: 442
+- **Data Range**: 2025-09-13 18:31:38.120770 to 2026-11-27 00:51:36.666731
